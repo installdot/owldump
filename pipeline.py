@@ -212,7 +212,7 @@ def extract_item_info(category, code_name, item_id):
 
 def dump_gamelogic_data(dll_path, out_dir):
     import dnfile
-    print(f"[*] Dumping game data from {dll_path.name}...")
+    print(f"[*] Dumping raw game data from {dll_path.name}...")
     pe = dnfile.dnPE(str(dll_path))
 
     constant_map = {}
@@ -253,7 +253,6 @@ def dump_gamelogic_data(dll_path, out_dir):
                     val = constant_map.get((tname, f_idx.row_index))
                     members.append({
                         "id": val,
-                        "name": dynamic_english_name(fname),
                         "code_name": fname
                     })
                 if members:
@@ -261,58 +260,16 @@ def dump_gamelogic_data(dll_path, out_dir):
 
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    tape_items = [extract_item_info("Tape", i["code_name"], i["id"]) for i in all_enums.get("AlbumName", [])]
-    room_items = [extract_item_info("Roomskin", i["code_name"], i["id"]) for i in all_enums.get("MenuSkinType", [])]
-    hero_skins = [extract_item_info("Heroskin", i["code_name"], i["id"]) for i in all_enums.get("HeroSkinName", [])]
-    npc_skins = [extract_item_info("NPCSkin", i["code_name"], i["id"]) for i in all_enums.get("NPCSkinName", [])]
-    powers = [extract_item_info("Power", i["code_name"], i["id"]) for i in all_enums.get("HeroSkinPowerID", [])]
-    orb_types = [extract_item_info("Orb", i["code_name"], i["id"]) for i in all_enums.get("SixCycleOrbType", [])]
-    orb_affixes = [extract_item_info("Orb", i["code_name"], i["id"]) for i in all_enums.get("SixCycleOrbAffixID", [])]
-    characters = [extract_item_info("Characters", i["code_name"], i["id"]) for i in all_enums.get("CharacterName", [])]
-
-    categories = {
-        "Tape": {"count": len(tape_items), "description": "Magnetic Cassette Tapes / Music Albums", "data": tape_items},
-        "Roomskin": {"count": len(room_items), "description": "Living Room / Lobby Menu Skins", "data": room_items},
-        "Heroskin": {
-            "hero_skin_count": len(hero_skins),
-            "npc_skin_count": len(npc_skins),
-            "power_count": len(powers),
-            "description": "Hero & NPC Skins and Powers",
-            "hero_skins": hero_skins,
-            "npc_skins": npc_skins,
-            "powers": powers
-        },
-        "Orb": {
-            "types_count": len(orb_types),
-            "affixes_count": len(orb_affixes),
-            "description": "Six Cycles / Six Realms Orbs and Affixes",
-            "types": orb_types,
-            "affixes": orb_affixes
-        },
-        "Characters": {"count": len(characters), "description": "Characters, Heroes, Bosses, and Monsters", "data": characters},
-        "Items": {"count": len(all_enums.get("ItemID", [])), "description": "Items and Relics", "data": all_enums.get("ItemID", [])},
-        "Skills": {
-            "skills_count": len(all_enums.get("SkillName", [])),
-            "styles_count": len(all_enums.get("HeroSkillStyleName", [])),
-            "description": "Skills and Skill Styles",
-            "skills": all_enums.get("SkillName", []),
-            "styles": all_enums.get("HeroSkillStyleName", [])
-        },
-        "Weapons": {"count": len(all_enums.get("WeaponPowerID", [])), "description": "Weapon Powers", "data": all_enums.get("WeaponPowerID", [])},
-        "Buffs": {"count": len(all_enums.get("BuffID", [])), "description": "Buffs and Status Effects", "data": all_enums.get("BuffID", [])},
-        "Pets": {"count": len(all_enums.get("PetName", [])), "description": "Pets and Companions", "data": all_enums.get("PetName", [])},
-        "Achievements": {"count": len(all_enums.get("AchievementID", [])), "description": "Achievements", "data": all_enums.get("AchievementID", [])}
-    }
-
-    for cat_name, cat_obj in categories.items():
-        with open(out_dir / f"{cat_name.lower()}_data.json", "w", encoding="utf-8") as f:
-            json.dump(cat_obj, f, indent=2, ensure_ascii=False)
-        print(f"[+] Saved {cat_name.lower()}_data.json")
+    # One raw JSON file per enum, straight id + code_name, no derived names
+    for ename, members in all_enums.items():
+        safe_name = re.sub(r'[^A-Za-z0-9_]+', '_', ename)
+        with open(out_dir / f"{safe_name}.json", "w", encoding="utf-8") as f:
+            json.dump(members, f, indent=2, ensure_ascii=False)
+        print(f"[+] Saved {safe_name}.json ({len(members)} entries)")
 
     with open(out_dir / "all_game_data.json", "w", encoding="utf-8") as f:
-        json.dump({"categories": categories, "all_enums": all_enums}, f, indent=2, ensure_ascii=False)
-    print(f"[+] Dumped all {len(all_enums)} enums to all_game_data.json")
-
+        json.dump(all_enums, f, indent=2, ensure_ascii=False)
+    print(f"[+] Dumped all {len(all_enums)} enums ({sum(len(v) for v in all_enums.values())} total entries) to all_game_data.json")
 def main():
     TEMP_DIR.mkdir(parents=True, exist_ok=True)
     DATA_DIR.mkdir(parents=True, exist_ok=True)

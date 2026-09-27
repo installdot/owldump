@@ -1,0 +1,1884 @@
+{
+  "count": 313,
+  "description": "Characters, Heroes, Bosses, and Monsters",
+  "data": [
+    {
+      "id": 0,
+      "name": "Other Pile",
+      "code_name": "other_pile",
+      "category": "NPC / Object"
+    },
+    {
+      "id": 1,
+      "name": "Quanhuying",
+      "code_name": "hero_quanhuying",
+      "category": "Hero"
+    },
+    {
+      "id": 2,
+      "name": "Seebee",
+      "code_name": "hero_seebee",
+      "category": "Hero"
+    },
+    {
+      "id": 3,
+      "name": "Sakari",
+      "code_name": "hero_sakari",
+      "category": "Hero"
+    },
+    {
+      "id": 4,
+      "name": "Akaisha",
+      "code_name": "hero_akaisha",
+      "category": "Hero"
+    },
+    {
+      "id": 5,
+      "name": "Olivia",
+      "code_name": "hero_olivia",
+      "category": "Hero"
+    },
+    {
+      "id": 6,
+      "name": "Machine Bunker",
+      "code_name": "machine_bunker",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 7,
+      "name": "Machine Aerobat",
+      "code_name": "machine_aerobat",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Transformed",
+      "code_name": "hero_oliviaTransformed",
+      "category": "Hero"
+    },
+    {
+      "id": 9,
+      "name": "Gangdan",
+      "code_name": "hero_gangdan",
+      "category": "Hero"
+    },
+    {
+      "id": 10,
+      "name": "Katherine",
+      "code_name": "hero_katherine",
+      "category": "Hero"
+    },
+    {
+      "id": 92,
+      "name": "Hannah",
+      "code_name": "hero_hannah",
+      "category": "Hero"
+    },
+    {
+      "id": 93,
+      "name": "Hannah Shotgun",
+      "code_name": "hero_hannahShotgun",
+      "category": "Hero"
+    },
+    {
+      "id": 94,
+      "name": "Hannah Sniper",
+      "code_name": "hero_hannahSniper",
+      "category": "Hero"
+    },
+    {
+      "id": 95,
+      "name": "Hannah Revolver",
+      "code_name": "hero_hannahRevolver",
+      "category": "Hero"
+    },
+    {
+      "id": 149,
+      "name": "Hillding",
+      "code_name": "hero_hillding",
+      "category": "Hero"
+    },
+    {
+      "id": 172,
+      "name": "Penhaligon",
+      "code_name": "hero_penhaligon",
+      "category": "Hero"
+    },
+    {
+      "id": 187,
+      "name": "Hayfa",
+      "code_name": "hero_hayfa",
+      "category": "Hero"
+    },
+    {
+      "id": 208,
+      "name": "Xuanshe",
+      "code_name": "hero_xuanshe",
+      "category": "Hero"
+    },
+    {
+      "id": 210,
+      "name": "Heyao",
+      "code_name": "hero_heyao",
+      "category": "Hero"
+    },
+    {
+      "id": 214,
+      "name": "Aimi",
+      "code_name": "hero_aimi",
+      "category": "Hero"
+    },
+    {
+      "id": 217,
+      "name": "Uliana",
+      "code_name": "hero_uliana",
+      "category": "Hero"
+    },
+    {
+      "id": 223,
+      "name": "Annice",
+      "code_name": "hero_annice",
+      "category": "Hero"
+    },
+    {
+      "id": 225,
+      "name": "Ruthven",
+      "code_name": "hero_ruthven",
+      "category": "Hero"
+    },
+    {
+      "id": 230,
+      "name": "Anibella",
+      "code_name": "hero_anibella",
+      "category": "Hero"
+    },
+    {
+      "id": 233,
+      "name": "Adira",
+      "code_name": "hero_adira",
+      "category": "Hero"
+    },
+    {
+      "id": 267,
+      "name": "Yangkyi",
+      "code_name": "hero_yangkyi",
+      "category": "Hero"
+    },
+    {
+      "id": 268,
+      "name": "Youzi",
+      "code_name": "hero_youzi",
+      "category": "Hero"
+    },
+    {
+      "id": 271,
+      "name": "Yufeng",
+      "code_name": "hero_yufeng",
+      "category": "Hero"
+    },
+    {
+      "id": 272,
+      "name": "Wufei",
+      "code_name": "hero_wufei",
+      "category": "Hero"
+    },
+    {
+      "id": 278,
+      "name": "Bunny",
+      "code_name": "hero_bunny",
+      "category": "Hero"
+    },
+    {
+      "id": 279,
+      "name": "Qifeng",
+      "code_name": "hero_qifeng",
+      "category": "Hero"
+    },
+    {
+      "id": 287,
+      "name": "Linxiao",
+      "code_name": "hero_linxiao",
+      "category": "Hero"
+    },
+    {
+      "id": 290,
+      "name": "Feiyu",
+      "code_name": "hero_feiyu",
+      "category": "Hero"
+    },
+    {
+      "id": 294,
+      "name": "Hualing",
+      "code_name": "hero_hualing",
+      "category": "Hero"
+    },
+    {
+      "id": 301,
+      "name": "Rana",
+      "code_name": "hero_rana",
+      "category": "Hero"
+    },
+    {
+      "id": 304,
+      "name": "Erdene",
+      "code_name": "hero_erdene",
+      "category": "Hero"
+    },
+    {
+      "id": 310,
+      "name": "Dragon",
+      "code_name": "hero_dragon",
+      "category": "Hero"
+    },
+    {
+      "id": 11,
+      "name": "Zombie Adam",
+      "code_name": "zombie_adam",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 12,
+      "name": "Bat Bite",
+      "code_name": "bat_bite",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 13,
+      "name": "Bat Poison",
+      "code_name": "bat_poison",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 14,
+      "name": "Skeleton Arku",
+      "code_name": "skeleton_arku",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 15,
+      "name": "Skeleton Kluku",
+      "code_name": "skeleton_kluku",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 16,
+      "name": "Knight Libeluece",
+      "code_name": "knight_libeluece",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 17,
+      "name": "Grandknight Axasheir",
+      "code_name": "grandknight_axasheir",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 18,
+      "name": "Grandknight Axasheir Melee",
+      "code_name": "grandknight_axasheirMelee",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 19,
+      "name": "Ghost Adobe",
+      "code_name": "ghost_adobe",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 20,
+      "name": "Doge Tyke",
+      "code_name": "doge_tyke",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 21,
+      "name": "Twins Abubu",
+      "code_name": "twins_abubu",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 22,
+      "name": "Witch Cheap",
+      "code_name": "witch_cheap",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 23,
+      "name": "Slime Jelly",
+      "code_name": "slime_jelly",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 24,
+      "name": "Vampire Dracula",
+      "code_name": "vampire_dracula",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 25,
+      "name": "Jpn Ashigaru",
+      "code_name": "jpn_ashigaru",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 26,
+      "name": "Jpn Umbrella",
+      "code_name": "jpn_umbrella",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 27,
+      "name": "Jpn Gokou",
+      "code_name": "jpn_gokou",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 28,
+      "name": "Jpn Kappa",
+      "code_name": "jpn_kappa",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 29,
+      "name": "Jpn Toud Ninja",
+      "code_name": "jpn_toudNinja",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 30,
+      "name": "Jpn Toud",
+      "code_name": "jpn_toud",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 31,
+      "name": "Jpn Shinobi",
+      "code_name": "jpn_shinobi",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 32,
+      "name": "Jpn Tanagashima",
+      "code_name": "jpn_tanagashima",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 33,
+      "name": "Jpn Behemothred",
+      "code_name": "jpn_behemothred",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 34,
+      "name": "Jpn Behemothblue",
+      "code_name": "jpn_behemothblue",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 35,
+      "name": "Jpn Samurai",
+      "code_name": "jpn_samurai",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 36,
+      "name": "Jpn Oni",
+      "code_name": "jpn_oni",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 37,
+      "name": "Jpn Monk",
+      "code_name": "jpn_monk",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 38,
+      "name": "Jpn Tengo 0",
+      "code_name": "jpn_tengo0",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 39,
+      "name": "Jpn Tengo 1",
+      "code_name": "jpn_tengo1",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 40,
+      "name": "Jpn Tengo 1 Heavy Combo Stone",
+      "code_name": "jpn_tengo1HeavyComboStone",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 41,
+      "name": "Jpn Yamato",
+      "code_name": "jpn_yamato",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 42,
+      "name": "Totem",
+      "code_name": "totem",
+      "category": "NPC / Object"
+    },
+    {
+      "id": 43,
+      "name": "Cn Zhao",
+      "code_name": "cn_zhao",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 44,
+      "name": "Cn Qian",
+      "code_name": "cn_qian",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 45,
+      "name": "Cn Sun",
+      "code_name": "cn_sun",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 46,
+      "name": "Cn Li",
+      "code_name": "cn_li",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 47,
+      "name": "Cn Zhou",
+      "code_name": "cn_zhou",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 48,
+      "name": "Cn Wu",
+      "code_name": "cn_wu",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 49,
+      "name": "Cn Zheng",
+      "code_name": "cn_zheng",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 50,
+      "name": "Cn Feng",
+      "code_name": "cn_feng",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 51,
+      "name": "Cn Wang",
+      "code_name": "cn_wang",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 52,
+      "name": "Cn Chen",
+      "code_name": "cn_chen",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 53,
+      "name": "Cn Chen Fenshen",
+      "code_name": "cn_chen_fenshen",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 54,
+      "name": "Arab Wizard",
+      "code_name": "arab_wizard",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 55,
+      "name": "Arab Rogue",
+      "code_name": "arab_rogue",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 56,
+      "name": "Arab Purple Robe",
+      "code_name": "arab_purpleRobe",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 57,
+      "name": "Arab Shadiao",
+      "code_name": "arab_shadiao",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 58,
+      "name": "Arab Shield Man",
+      "code_name": "arab_shieldMan",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 59,
+      "name": "Arab Snake Purple",
+      "code_name": "arab_snakePurple",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 60,
+      "name": "Arab Snake Red",
+      "code_name": "arab_snakeRed",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 61,
+      "name": "Arab Stone Man",
+      "code_name": "arab_stoneMan",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 62,
+      "name": "Arab Thife Gold",
+      "code_name": "arab_thifeGold",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 63,
+      "name": "Arab Thife Item",
+      "code_name": "arab_thifeItem",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 64,
+      "name": "Arab White Robe",
+      "code_name": "arab_whiteRobe",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 65,
+      "name": "Arab Fat",
+      "code_name": "arab_fat",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 66,
+      "name": "Arab Lamp",
+      "code_name": "arab_lamp",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 67,
+      "name": "Arab Fat Attendant Witch",
+      "code_name": "arab_fatAttendantWitch",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 68,
+      "name": "Arab Fat Attendant Warrior",
+      "code_name": "arab_fatAttendantWarrior",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 69,
+      "name": "Arab Stone Boss",
+      "code_name": "arab_stoneBoss",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 70,
+      "name": "Arab Fat Statue",
+      "code_name": "arab_fatStatue",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 71,
+      "name": "Forest Dark Elves Battlemage",
+      "code_name": "forest_darkElvesBattlemage",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 72,
+      "name": "West Sheriff",
+      "code_name": "west_sheriff",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 73,
+      "name": "West Shotgun Man",
+      "code_name": "west_shotgunMan",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 74,
+      "name": "West Strong Man",
+      "code_name": "west_strongMan",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 75,
+      "name": "West Swords Man",
+      "code_name": "west_swordsMan",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 76,
+      "name": "West Fire Woman",
+      "code_name": "west_fireWoman",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 77,
+      "name": "West Boom Fat",
+      "code_name": "west_boomFat",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 78,
+      "name": "West Cow",
+      "code_name": "west_cow",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 79,
+      "name": "West Eagle",
+      "code_name": "west_eagle",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 80,
+      "name": "West Rope Man",
+      "code_name": "west_ropeMan",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 81,
+      "name": "West Morgan",
+      "code_name": "west_morgan",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 82,
+      "name": "West Centaur",
+      "code_name": "west_centaur",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 83,
+      "name": "Final Asura 1",
+      "code_name": "final_asura1",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 84,
+      "name": "Final Asura 2",
+      "code_name": "final_asura2",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 85,
+      "name": "Final Asura 3",
+      "code_name": "final_asura3",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 86,
+      "name": "Final Asura 3 Shield",
+      "code_name": "final_asura3_shield",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 87,
+      "name": "Flash Bat",
+      "code_name": "flash_bat",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 88,
+      "name": "Saint Libeluece",
+      "code_name": "saint_libeluece",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 89,
+      "name": "Husky",
+      "code_name": "pet_husky",
+      "category": "Pet"
+    },
+    {
+      "id": 90,
+      "name": "Katherine Comet",
+      "code_name": "katherine_comet",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 96,
+      "name": "Forest Dark Elves Archer",
+      "code_name": "forest_darkElvesArcher",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 97,
+      "name": "Forest Rabbit Boxer",
+      "code_name": "forest_rabbitBoxer",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 98,
+      "name": "Forest Wolf Man",
+      "code_name": "forest_wolfMan",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 99,
+      "name": "Forest Wolf Leader",
+      "code_name": "forest_wolfLeader",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 100,
+      "name": "Forest Unicorn",
+      "code_name": "forest_unicorn",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 101,
+      "name": "Forest Rabbit Pikeman",
+      "code_name": "forest_rabbitPikeman",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 102,
+      "name": "Forest Rabbit Rush",
+      "code_name": "forest_rabbitRush",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 103,
+      "name": "Forest Rabbit Father",
+      "code_name": "forest_rabbitFather",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 104,
+      "name": "Forest White Centaur",
+      "code_name": "forest_whiteCentaur",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 105,
+      "name": "Forest Dark Elves Sacrifice",
+      "code_name": "forest_darkElvesSacrifice",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 106,
+      "name": "Forest White Elves Archer",
+      "code_name": "forest_whiteElvesArcher",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 107,
+      "name": "Forest White Elves Battlemage",
+      "code_name": "forest_whiteElvesBattlemage",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 108,
+      "name": "Forest Dark Centaur",
+      "code_name": "forest_darkCentaur",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 109,
+      "name": "Forest Dark Unicorn",
+      "code_name": "forest_darkUnicorn",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 110,
+      "name": "Shadow Life",
+      "code_name": "pet_shadowLife",
+      "category": "Pet"
+    },
+    {
+      "id": 111,
+      "name": "Shadow Life Olivia",
+      "code_name": "pet_shadowLife_olivia",
+      "category": "Pet"
+    },
+    {
+      "id": 112,
+      "name": "Shadow Life Sakari",
+      "code_name": "pet_shadowLife_sakari",
+      "category": "Pet"
+    },
+    {
+      "id": 113,
+      "name": "Shadow Life Akaisha",
+      "code_name": "pet_shadowLife_akaisha",
+      "category": "Pet"
+    },
+    {
+      "id": 114,
+      "name": "Shadow Life Seebee",
+      "code_name": "pet_shadowLife_seebee",
+      "category": "Pet"
+    },
+    {
+      "id": 115,
+      "name": "Shadow Life Quanhuying",
+      "code_name": "pet_shadowLife_quanhuying",
+      "category": "Pet"
+    },
+    {
+      "id": 116,
+      "name": "Shadow Life Gangdan",
+      "code_name": "pet_shadowLife_gangdan",
+      "category": "Pet"
+    },
+    {
+      "id": 117,
+      "name": "Shadow Life Hannah",
+      "code_name": "pet_shadowLife_hannah",
+      "category": "Pet"
+    },
+    {
+      "id": 118,
+      "name": "Shadow Life Katherine",
+      "code_name": "pet_shadowLife_katherine",
+      "category": "Pet"
+    },
+    {
+      "id": 119,
+      "name": "Forest White Elves Sacrifice",
+      "code_name": "forest_whiteElvesSacrifice",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 120,
+      "name": "Forest Flower Man",
+      "code_name": "forest_flowerMan",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 121,
+      "name": "Forest Blue Wolf",
+      "code_name": "forest_blueWolf",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 122,
+      "name": "Forest Gray Wolf",
+      "code_name": "forest_grayWolf",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 123,
+      "name": "Forest White Wolf",
+      "code_name": "forest_whiteWolf",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 124,
+      "name": "Forest Swords Bear",
+      "code_name": "forest_swordsBear",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 125,
+      "name": "Black Grandknight Axasheir",
+      "code_name": "blackGrandknight_axasheir",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 126,
+      "name": "Forest Mandolin",
+      "code_name": "forest_mandolin",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 127,
+      "name": "Gold Man",
+      "code_name": "pet_goldMan",
+      "category": "Pet"
+    },
+    {
+      "id": 128,
+      "name": "Forest Mandolin Drop",
+      "code_name": "forest_mandolinDrop",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 129,
+      "name": "Vehicle Ger Transformed",
+      "code_name": "vehicle_gerTransformed",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 130,
+      "name": "Ger Armor Human",
+      "code_name": "ger_armorHuman",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 131,
+      "name": "Ger Blade Girl",
+      "code_name": "ger_bladeGirl",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 132,
+      "name": "Ger Green Human",
+      "code_name": "ger_greenHuman",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 133,
+      "name": "Ger Gun Guy",
+      "code_name": "ger_gunGuy",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 134,
+      "name": "Ger Hunk",
+      "code_name": "ger_hunk",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 135,
+      "name": "Ger Red Human",
+      "code_name": "ger_redHuman",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 136,
+      "name": "Ger Alart Robot 1",
+      "code_name": "ger_alartRobot1",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 137,
+      "name": "Ger Alart Robot 2",
+      "code_name": "ger_alartRobot2",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 138,
+      "name": "Ger Green Robot",
+      "code_name": "ger_greenRobot",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 139,
+      "name": "Ger Thunder Woman",
+      "code_name": "ger_thunderWoman",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 140,
+      "name": "Ger Silver Robot",
+      "code_name": "ger_silverRobot",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 141,
+      "name": "Ger Doctor",
+      "code_name": "ger_doctor",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 142,
+      "name": "Ger Doctor Gun Barrel",
+      "code_name": "ger_doctorGunBarrel",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 143,
+      "name": "Ger Doctor Machine Minigun",
+      "code_name": "ger_doctorMachineMinigun",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 144,
+      "name": "Ger Lay Egg Robot",
+      "code_name": "ger_layEggRobot",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 145,
+      "name": "Ger Doctor Machine Laser",
+      "code_name": "ger_doctorMachineLaser",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 146,
+      "name": "Ger Doctor Machine Mortar",
+      "code_name": "ger_doctorMachineMortar",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 147,
+      "name": "Ger Doctor Machine Missiles",
+      "code_name": "ger_doctorMachineMissiles",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 148,
+      "name": "Ger Laser UFO",
+      "code_name": "ger_laserUFO",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 150,
+      "name": "Gasoline Liquid",
+      "code_name": "gasolineLiquid",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 151,
+      "name": "Assistant Katherine Comet",
+      "code_name": "assistantKatherine_comet",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 152,
+      "name": "Urien",
+      "code_name": "pet_urien",
+      "category": "Pet"
+    },
+    {
+      "id": 153,
+      "name": "Shadow Life Hillding",
+      "code_name": "pet_shadowLife_hillding",
+      "category": "Pet"
+    },
+    {
+      "id": 154,
+      "name": "Nordic Dwarf Guard",
+      "code_name": "nordic_dwarfGuard",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 155,
+      "name": "Nordic Dwarf Axe",
+      "code_name": "nordic_dwarfAxe",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 156,
+      "name": "Nordic Dwarf Lancer",
+      "code_name": "nordic_dwarfLancer",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 157,
+      "name": "Nordic Dwarf Sword Shield",
+      "code_name": "nordic_dwarfSwordShield",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 158,
+      "name": "Nordic Werwolf",
+      "code_name": "nordic_werwolf",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 159,
+      "name": "Nordic Dwarf Fighter",
+      "code_name": "nordic_dwarfFighter",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 160,
+      "name": "Nordic Bear",
+      "code_name": "nordic_bear",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 161,
+      "name": "Nordic Ferret",
+      "code_name": "nordic_ferret",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 162,
+      "name": "Afr",
+      "code_name": "pet_Afr",
+      "category": "Pet"
+    },
+    {
+      "id": 163,
+      "name": "Nordic Fox",
+      "code_name": "nordic_fox",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 164,
+      "name": "Nordic Lynx",
+      "code_name": "nordic_lynx",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 165,
+      "name": "Nordic Pig",
+      "code_name": "nordic_pig",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 166,
+      "name": "Nordic Walrus",
+      "code_name": "nordic_walrus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 167,
+      "name": "Nordic Octopus",
+      "code_name": "nordic_octopus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 168,
+      "name": "Nordic Loki Mirror",
+      "code_name": "nordic_lokiMirror",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 169,
+      "name": "Nordic Tentacles",
+      "code_name": "nordic_tentacles",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 170,
+      "name": "Katherine Comet Marry",
+      "code_name": "katherine_comet_marry",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 171,
+      "name": "Nw Infantry",
+      "code_name": "nw_infantry",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 173,
+      "name": "Nw Norwegian Louis",
+      "code_name": "nw_norwegianLouis",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 174,
+      "name": "Nw Heavy Grenadier",
+      "code_name": "nw_heavyGrenadier",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 175,
+      "name": "Nw Light Grenadier",
+      "code_name": "nw_lightGrenadier",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 176,
+      "name": "Nw Mortar",
+      "code_name": "nw_mortar",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 177,
+      "name": "Nw Sapper",
+      "code_name": "nw_sapper",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 178,
+      "name": "Nw Norwegian Louis Manager",
+      "code_name": "nw_norwegianLouisManager",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 179,
+      "name": "Nw Shooter",
+      "code_name": "nw_shooter",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 180,
+      "name": "Nw Commando",
+      "code_name": "nw_commando",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 181,
+      "name": "Nw Sword Cavalry",
+      "code_name": "nw_swordCavalry",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 182,
+      "name": "Nw Gun Cavalry",
+      "code_name": "nw_gunCavalry",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 183,
+      "name": "Nw Major",
+      "code_name": "nw_major",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 184,
+      "name": "Nw Adrien",
+      "code_name": "nw_adrien",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 185,
+      "name": "Katherine Comet Magician",
+      "code_name": "katherine_comet_magician",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 186,
+      "name": "Shadow Life Penhaligon",
+      "code_name": "pet_shadowLife_penhaligon",
+      "category": "Pet"
+    },
+    {
+      "id": 188,
+      "name": "Hayfa Shadow Servant Body",
+      "code_name": "hayfaShadowServantBody",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 189,
+      "name": "Shadow Life Hayfa",
+      "code_name": "pet_shadowLife_hayfa",
+      "category": "Pet"
+    },
+    {
+      "id": 190,
+      "name": "Jpn Umbrella Plus",
+      "code_name": "jpn_umbrella_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 191,
+      "name": "Jpn Monk Plus",
+      "code_name": "jpn_monk_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 192,
+      "name": "Nordic Werwolf Plus",
+      "code_name": "nordic_werwolf_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 193,
+      "name": "Nordic Dwarf Fighter Plus",
+      "code_name": "nordic_dwarfFighter_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 194,
+      "name": "Nw Commando Plus",
+      "code_name": "nw_commando_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 195,
+      "name": "Nw Infantry Plus",
+      "code_name": "nw_infantry_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 196,
+      "name": "West Swords Man Plus",
+      "code_name": "west_swordsMan_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 197,
+      "name": "Twins Abubu Plus",
+      "code_name": "twins_abubu_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 198,
+      "name": "Slime Jelly Plus",
+      "code_name": "slime_jelly_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 199,
+      "name": "Arab Purple Robe Plus",
+      "code_name": "arab_purpleRobe_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 200,
+      "name": "Arab Stone Man Plus",
+      "code_name": "arab_stoneMan_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 201,
+      "name": "West Sheriff Plus",
+      "code_name": "west_sheriff_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 202,
+      "name": "West Cow Plus",
+      "code_name": "west_cow_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 203,
+      "name": "Forest Fire Elves Archer Plus",
+      "code_name": "forest_fireElvesArcher_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 204,
+      "name": "Forest Poison Elves Archer Plus",
+      "code_name": "forest_poisonElvesArcher_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 205,
+      "name": "Forest Fire Elves Battlemage Plus",
+      "code_name": "forest_fireElvesBattlemage_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 206,
+      "name": "Ger Thunder Woman Plus",
+      "code_name": "ger_thunderWoman_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 207,
+      "name": "Ger Laser UFO Plus",
+      "code_name": "ger_laserUFO_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 91,
+      "name": "Empty",
+      "code_name": "Empty",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 209,
+      "name": "Katherine Comet Pusa",
+      "code_name": "katherine_comet_pusa",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 211,
+      "name": "Shadow Life Xuanshe",
+      "code_name": "pet_shadowLife_xuanshe",
+      "category": "Pet"
+    },
+    {
+      "id": 212,
+      "name": "Shadow Life Heyao",
+      "code_name": "pet_shadowLife_heyao",
+      "category": "Pet"
+    },
+    {
+      "id": 213,
+      "name": "Totem Split",
+      "code_name": "totem_split",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 215,
+      "name": "Nordic Dwarf Sword Shield Plus",
+      "code_name": "nordic_dwarfSwordShieldPlus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 216,
+      "name": "Eu Saint Libeluece Plus",
+      "code_name": "eu_saintLibeluecePlus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 218,
+      "name": "Jpn Behemoth Plus",
+      "code_name": "jpn_behemothPlus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 219,
+      "name": "Nw Light Grenadier Plus",
+      "code_name": "nw_lightGrenadierPlus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 220,
+      "name": "Arab Rogue Plus",
+      "code_name": "arab_roguePlus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 221,
+      "name": "Shadow Life Aimi",
+      "code_name": "pet_shadowLife_aimi",
+      "category": "Pet"
+    },
+    {
+      "id": 222,
+      "name": "Shadow Life Uliana",
+      "code_name": "pet_shadowLife_uliana",
+      "category": "Pet"
+    },
+    {
+      "id": 224,
+      "name": "Shadow Life Annice",
+      "code_name": "pet_shadowLife_annice",
+      "category": "Pet"
+    },
+    {
+      "id": 226,
+      "name": "Ufo",
+      "code_name": "pet_ufo",
+      "category": "Pet"
+    },
+    {
+      "id": 227,
+      "name": "Shadow Life Ruthven",
+      "code_name": "pet_shadowLife_ruthven",
+      "category": "Pet"
+    },
+    {
+      "id": 228,
+      "name": "Lava Frog",
+      "code_name": "pet_lavaFrog",
+      "category": "Pet"
+    },
+    {
+      "id": 229,
+      "name": "Magic Boss Demon Form",
+      "code_name": "magic_bossDemonForm",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 231,
+      "name": "Fat Cat",
+      "code_name": "pet_fatCat",
+      "category": "Pet"
+    },
+    {
+      "id": 232,
+      "name": "Fire God",
+      "code_name": "pet_fireGod",
+      "category": "Pet"
+    },
+    {
+      "id": 234,
+      "name": "Shadow Life Anibella",
+      "code_name": "pet_shadowLife_anibella",
+      "category": "Pet"
+    },
+    {
+      "id": 235,
+      "name": "Magic Witch Killer",
+      "code_name": "magic_witchKiller",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 236,
+      "name": "Magic Boss Witch Form",
+      "code_name": "magic_bossWitchForm",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 237,
+      "name": "Magic Armor Statue",
+      "code_name": "magic_armorStatue",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 238,
+      "name": "Magic White Witch",
+      "code_name": "magic_whiteWitch",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 239,
+      "name": "Magic Boss Eyeball",
+      "code_name": "magic_bossEyeball",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 240,
+      "name": "Magic Little Demon",
+      "code_name": "magic_littleDemon",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 241,
+      "name": "Magic Big Demon",
+      "code_name": "magic_bigDemon",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 242,
+      "name": "Magic Black Witch",
+      "code_name": "magic_blackWitch",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 243,
+      "name": "Magic Broom Witch",
+      "code_name": "magic_broomWitch",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 244,
+      "name": "Magic Ancient Witch",
+      "code_name": "magic_ancientWitch",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 245,
+      "name": "Magic Paint Monster Plus",
+      "code_name": "magic_paintMonster_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 246,
+      "name": "Magic Brown Witch",
+      "code_name": "magic_brownWitch",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 247,
+      "name": "Magic Devil Plus",
+      "code_name": "magic_devil_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 248,
+      "name": "Magic Jack Aid",
+      "code_name": "magic_jack_aid",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 249,
+      "name": "Magic Jack Call",
+      "code_name": "magic_jack_call",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 250,
+      "name": "Magic Jack Attack",
+      "code_name": "magic_jack_attack",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 251,
+      "name": "Magic Sacrifice Plus",
+      "code_name": "magic_sacrifice_plus",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 252,
+      "name": "Katherine Comet Professor",
+      "code_name": "katherine_comet_professor",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 253,
+      "name": "Special Survival Manager",
+      "code_name": "special_survivalManager",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 254,
+      "name": "Special Fantasy Mirror",
+      "code_name": "special_fantasyMirror",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 255,
+      "name": "Fire Dance Remote",
+      "code_name": "fireDance_remote",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 256,
+      "name": "Fire Dance Melee Long",
+      "code_name": "fireDance_meleeLong",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 257,
+      "name": "Fire Dance Melee",
+      "code_name": "fireDance_melee",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 258,
+      "name": "Fire Dance Stone Eye",
+      "code_name": "fireDance_stoneEye",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 259,
+      "name": "Fire Dance Glitter Ball",
+      "code_name": "fireDance_glitterBall",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 260,
+      "name": "Fire Dance Fire Soldier",
+      "code_name": "fireDance_fireSoldier",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 261,
+      "name": "Fire Dance Butterfly Boss Water Ball",
+      "code_name": "fireDance_ButterflyBossWaterBall",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 262,
+      "name": "Fire Dance Butterfly Boss",
+      "code_name": "fireDance_ButterflyBoss",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 263,
+      "name": "Fire Dance Garo",
+      "code_name": "fireDance_garo",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 264,
+      "name": "Fire Dance Butterfly Boss Flower",
+      "code_name": "fireDance_ButterflyBossFlower",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 265,
+      "name": "Shadow Life Adira",
+      "code_name": "pet_shadowLife_adira",
+      "category": "Pet"
+    },
+    {
+      "id": 266,
+      "name": "Magic Boss Medea",
+      "code_name": "magic_bossMedea",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 269,
+      "name": "Shadow Life Yangkyi",
+      "code_name": "pet_shadowLife_yangkyi",
+      "category": "Pet"
+    },
+    {
+      "id": 270,
+      "name": "Shadow Life Youzi",
+      "code_name": "pet_shadowLife_youzi",
+      "category": "Pet"
+    },
+    {
+      "id": 273,
+      "name": "Evil Princess",
+      "code_name": "evil_princess",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 274,
+      "name": "Evil Princess Dragon",
+      "code_name": "evil_princessDragon",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 275,
+      "name": "Shadow Life Yufeng",
+      "code_name": "pet_shadowLife_yufeng",
+      "category": "Pet"
+    },
+    {
+      "id": 276,
+      "name": "Shadow Life Wufei",
+      "code_name": "pet_shadowLife_wufei",
+      "category": "Pet"
+    },
+    {
+      "id": 277,
+      "name": "Jpn Phantom Yamato",
+      "code_name": "jpn_phantomYamato",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 280,
+      "name": "Jpn Geisha Main",
+      "code_name": "jpn_geisha_main",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 281,
+      "name": "Jpn Geisha Summon Fan",
+      "code_name": "jpn_geishaSummonFan",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 282,
+      "name": "Jpn Geisha Green",
+      "code_name": "jpn_geisha_green",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 283,
+      "name": "Jpn Geisha Yellow",
+      "code_name": "jpn_geisha_yellow",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 284,
+      "name": "Jpn Geisha Purple",
+      "code_name": "jpn_geisha_purple",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 285,
+      "name": "Shadow Life Qifeng",
+      "code_name": "pet_shadowLife_qifeng",
+      "category": "Pet"
+    },
+    {
+      "id": 286,
+      "name": "Shadow Life Bunny",
+      "code_name": "pet_shadowLife_bunny",
+      "category": "Pet"
+    },
+    {
+      "id": 288,
+      "name": "Asura Rendao",
+      "code_name": "asura_rendao",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 289,
+      "name": "Asura Shoudao",
+      "code_name": "asura_shoudao",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 291,
+      "name": "Asura Guidao",
+      "code_name": "asura_guidao",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 292,
+      "name": "Shadow Life Linxiao",
+      "code_name": "pet_shadowLife_linxiao",
+      "category": "Pet"
+    },
+    {
+      "id": 293,
+      "name": "Shadow Life Feiyu",
+      "code_name": "pet_shadowLife_feiyu",
+      "category": "Pet"
+    },
+    {
+      "id": 295,
+      "name": "Katherine Comet Purple",
+      "code_name": "katherine_comet_purple",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 296,
+      "name": "Asura Yudao",
+      "code_name": "asura_yudao",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 297,
+      "name": "Yudao Zombie",
+      "code_name": "yudao_zombie",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 298,
+      "name": "Grey Wolf Man",
+      "code_name": "pet_greyWolfMan",
+      "category": "Pet"
+    },
+    {
+      "id": 299,
+      "name": "Asura Xiuluodao",
+      "code_name": "asura_xiuluodao",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 300,
+      "name": "Asura Xiuluodao Max",
+      "code_name": "asura_xiuluodao_max",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 302,
+      "name": "Shadow Life Rana",
+      "code_name": "pet_shadowLife_rana",
+      "category": "Pet"
+    },
+    {
+      "id": 303,
+      "name": "Shadow Life Hualing",
+      "code_name": "pet_shadowLife_hualing",
+      "category": "Pet"
+    },
+    {
+      "id": 305,
+      "name": "Erdene Eagle",
+      "code_name": "pet_erdeneEagle",
+      "category": "Pet"
+    },
+    {
+      "id": 306,
+      "name": "West Manic Miner",
+      "code_name": "west_manicMiner",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 307,
+      "name": "West Bull Rider",
+      "code_name": "west_bullRider",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 308,
+      "name": "Shadow Life Erdene",
+      "code_name": "pet_shadowLife_erdene",
+      "category": "Pet"
+    },
+    {
+      "id": 310,
+      "name": "Shadow Life Dragon",
+      "code_name": "pet_shadowLife_dragon",
+      "category": "Pet"
+    },
+    {
+      "id": 311,
+      "name": "Asura Tianrendao",
+      "code_name": "asura_tianrendao",
+      "category": "Boss / Enemy"
+    },
+    {
+      "id": 312,
+      "name": "Asura Tianrendao Max",
+      "code_name": "asura_tianrendao_max",
+      "category": "Boss / Enemy"
+    }
+  ]
+}

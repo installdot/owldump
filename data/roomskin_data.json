@@ -1,0 +1,86 @@
+{
+  "count": 16,
+  "description": "Living Room / Lobby Menu Skins",
+  "data": [
+    {
+      "id": 0,
+      "name": "Default",
+      "code_name": "Default"
+    },
+    {
+      "id": 1,
+      "name": "Tap Tap",
+      "code_name": "TapTap"
+    },
+    {
+      "id": 2,
+      "name": "Bili Bili",
+      "code_name": "BiliBili"
+    },
+    {
+      "id": 3,
+      "name": "Appstore",
+      "code_name": "Appstore"
+    },
+    {
+      "id": 4,
+      "name": "VIVO",
+      "code_name": "VIVO"
+    },
+    {
+      "id": 5,
+      "name": "Hua Wei",
+      "code_name": "HuaWei"
+    },
+    {
+      "id": 6,
+      "name": "OPPO",
+      "code_name": "OPPO"
+    },
+    {
+      "id": 7,
+      "name": "T 4399 Hezi",
+      "code_name": "t4399hezi"
+    },
+    {
+      "id": 8,
+      "name": "Game Pop",
+      "code_name": "GamePop"
+    },
+    {
+      "id": 9,
+      "name": "Christmas 2020",
+      "code_name": "Christmas2020"
+    },
+    {
+      "id": 10,
+      "name": "Spring Festival",
+      "code_name": "SpringFestival"
+    },
+    {
+      "id": 11,
+      "name": "First Year",
+      "code_name": "FirstYear"
+    },
+    {
+      "id": 12,
+      "name": "Google Play",
+      "code_name": "GooglePlay"
+    },
+    {
+      "id": 13,
+      "name": "Second Year",
+      "code_name": "SecondYear"
+    },
+    {
+      "id": 14,
+      "name": "Third Year",
+      "code_name": "ThirdYear"
+    },
+    {
+      "id": 15,
+      "name": "Fourth Year",
+      "code_name": "FourthYear"
+    }
+  ]
+}

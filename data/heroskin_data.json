@@ -1,0 +1,959 @@
+{
+  "hero_skin_count": 107,
+  "npc_skin_count": 28,
+  "power_count": 12,
+  "description": "Hero & NPC Skins and Powers",
+  "hero_skins": [
+    {
+      "id": 0,
+      "name": "Quanhuying - Default",
+      "code_name": "hero_quanhuying",
+      "hero": "Quanhuying",
+      "skin": "Default"
+    },
+    {
+      "id": 1,
+      "name": "Quanhuying - Bartender",
+      "code_name": "hero_quanhuying_bartender",
+      "hero": "Quanhuying",
+      "skin": "Bartender"
+    },
+    {
+      "id": 2,
+      "name": "Quanhuying - Baseball",
+      "code_name": "hero_quanhuying_baseball",
+      "hero": "Quanhuying",
+      "skin": "Baseball"
+    },
+    {
+      "id": 3,
+      "name": "Quanhuying - Chinadoll",
+      "code_name": "hero_quanhuying_chinadoll",
+      "hero": "Quanhuying",
+      "skin": "Chinadoll"
+    },
+    {
+      "id": 4,
+      "name": "Quanhuying - Kongfumaster",
+      "code_name": "hero_quanhuying_kongfumaster",
+      "hero": "Quanhuying",
+      "skin": "Kongfumaster"
+    },
+    {
+      "id": 5,
+      "name": "Quanhuying - Asura",
+      "code_name": "hero_quanhuying_asura",
+      "hero": "Quanhuying",
+      "skin": "Asura"
+    },
+    {
+      "id": 6,
+      "name": "Akaisha - Default",
+      "code_name": "hero_akaisha",
+      "hero": "Akaisha",
+      "skin": "Default"
+    },
+    {
+      "id": 7,
+      "name": "Akaisha - Hunter",
+      "code_name": "hero_akaisha_hunter",
+      "hero": "Akaisha",
+      "skin": "Hunter"
+    },
+    {
+      "id": 8,
+      "name": "Akaisha - Robin",
+      "code_name": "hero_akaisha_robin",
+      "hero": "Akaisha",
+      "skin": "Robin"
+    },
+    {
+      "id": 9,
+      "name": "Akaisha - Christmas",
+      "code_name": "hero_akaisha_christmas",
+      "hero": "Akaisha",
+      "skin": "Christmas"
+    },
+    {
+      "id": 10,
+      "name": "Akaisha - Red",
+      "code_name": "hero_akaisha_red",
+      "hero": "Akaisha",
+      "skin": "Red"
+    },
+    {
+      "id": 11,
+      "name": "Akaisha - Princess",
+      "code_name": "hero_akaisha_princess",
+      "hero": "Akaisha",
+      "skin": "Princess"
+    },
+    {
+      "id": 12,
+      "name": "Olivia - Default",
+      "code_name": "hero_olivia",
+      "hero": "Olivia",
+      "skin": "Default"
+    },
+    {
+      "id": 13,
+      "name": "Olivia - Sailor",
+      "code_name": "hero_olivia_sailor",
+      "hero": "Olivia",
+      "skin": "Sailor"
+    },
+    {
+      "id": 14,
+      "name": "Olivia - Officer",
+      "code_name": "hero_olivia_officer",
+      "hero": "Olivia",
+      "skin": "Officer"
+    },
+    {
+      "id": 15,
+      "name": "Olivia - Timewalker",
+      "code_name": "hero_olivia_timewalker",
+      "hero": "Olivia",
+      "skin": "Timewalker"
+    },
+    {
+      "id": 16,
+      "name": "Olivia - Groot",
+      "code_name": "hero_olivia_groot",
+      "hero": "Olivia",
+      "skin": "Groot"
+    },
+    {
+      "id": 17,
+      "name": "Olivia - Christmas",
+      "code_name": "hero_olivia_christmas",
+      "hero": "Olivia",
+      "skin": "Christmas"
+    },
+    {
+      "id": 18,
+      "name": "Seebee - Default",
+      "code_name": "hero_seebee",
+      "hero": "Seebee",
+      "skin": "Default"
+    },
+    {
+      "id": 19,
+      "name": "Seebee - Evilslash",
+      "code_name": "hero_seebee_evilslash",
+      "hero": "Seebee",
+      "skin": "Evilslash"
+    },
+    {
+      "id": 20,
+      "name": "Seebee - Warrior",
+      "code_name": "hero_seebee_warrior",
+      "hero": "Seebee",
+      "skin": "Warrior"
+    },
+    {
+      "id": 21,
+      "name": "Seebee - Ghostface",
+      "code_name": "hero_seebee_ghostface",
+      "hero": "Seebee",
+      "skin": "Ghostface"
+    },
+    {
+      "id": 22,
+      "name": "Seebee - Ashloo",
+      "code_name": "hero_seebee_ashloo",
+      "hero": "Seebee",
+      "skin": "Ashloo"
+    },
+    {
+      "id": 23,
+      "name": "Seebee - Asura",
+      "code_name": "hero_seebee_asura",
+      "hero": "Seebee",
+      "skin": "Asura"
+    },
+    {
+      "id": 24,
+      "name": "Seebee - Omega",
+      "code_name": "hero_seebee_omega",
+      "hero": "Seebee",
+      "skin": "Omega"
+    },
+    {
+      "id": 25,
+      "name": "Sakari - Default",
+      "code_name": "hero_sakari",
+      "hero": "Sakari",
+      "skin": "Default"
+    },
+    {
+      "id": 26,
+      "name": "Sakari - Waiter",
+      "code_name": "hero_sakari_waiter",
+      "hero": "Sakari",
+      "skin": "Waiter"
+    },
+    {
+      "id": 27,
+      "name": "Sakari - Blackhat",
+      "code_name": "hero_sakari_blackhat",
+      "hero": "Sakari",
+      "skin": "Blackhat"
+    },
+    {
+      "id": 28,
+      "name": "Sakari - Taisyou",
+      "code_name": "hero_sakari_taisyou",
+      "hero": "Sakari",
+      "skin": "Taisyou"
+    },
+    {
+      "id": 29,
+      "name": "Sakari - Wolfman",
+      "code_name": "hero_sakari_wolfman",
+      "hero": "Sakari",
+      "skin": "Wolfman"
+    },
+    {
+      "id": 30,
+      "name": "Sakari - Christmas",
+      "code_name": "hero_sakari_christmas",
+      "hero": "Sakari",
+      "skin": "Christmas"
+    },
+    {
+      "id": 31,
+      "name": "Sakari - Boss",
+      "code_name": "hero_sakari_boss",
+      "hero": "Sakari",
+      "skin": "Boss"
+    },
+    {
+      "id": 32,
+      "name": "Gangdan - Default",
+      "code_name": "hero_gangdan",
+      "hero": "Gangdan",
+      "skin": "Default"
+    },
+    {
+      "id": 33,
+      "name": "Gangdan - Gladiatus",
+      "code_name": "hero_gangdan_gladiatus",
+      "hero": "Gangdan",
+      "skin": "Gladiatus"
+    },
+    {
+      "id": 34,
+      "name": "Gangdan - Skeleton",
+      "code_name": "hero_gangdan_skeleton",
+      "hero": "Gangdan",
+      "skin": "Skeleton"
+    },
+    {
+      "id": 35,
+      "name": "Gangdan - Soldier",
+      "code_name": "hero_gangdan_soldier",
+      "hero": "Gangdan",
+      "skin": "Soldier"
+    },
+    {
+      "id": 36,
+      "name": "Gangdan - Christmas",
+      "code_name": "hero_gangdan_christmas",
+      "hero": "Gangdan",
+      "skin": "Christmas"
+    },
+    {
+      "id": 37,
+      "name": "Gangdan - Dragonarmor",
+      "code_name": "hero_gangdan_dragonarmor",
+      "hero": "Gangdan",
+      "skin": "Dragonarmor"
+    },
+    {
+      "id": 38,
+      "name": "Katherine - Default",
+      "code_name": "hero_katherine",
+      "hero": "Katherine",
+      "skin": "Default"
+    },
+    {
+      "id": 39,
+      "name": "Katherine - Purple",
+      "code_name": "hero_katherine_purple",
+      "hero": "Katherine",
+      "skin": "Purple"
+    },
+    {
+      "id": 40,
+      "name": "Katherine - Assistant",
+      "code_name": "hero_katherine_assistant",
+      "hero": "Katherine",
+      "skin": "Assistant"
+    },
+    {
+      "id": 41,
+      "name": "Katherine - Bloodymary",
+      "code_name": "hero_katherine_bloodymary",
+      "hero": "Katherine",
+      "skin": "Bloodymary"
+    },
+    {
+      "id": 42,
+      "name": "Katherine - Magician",
+      "code_name": "hero_katherine_magician",
+      "hero": "Katherine",
+      "skin": "Magician"
+    },
+    {
+      "id": 43,
+      "name": "Katherine - Pusa",
+      "code_name": "hero_katherine_pusa",
+      "hero": "Katherine",
+      "skin": "Pusa"
+    },
+    {
+      "id": 44,
+      "name": "Katherine - Professor",
+      "code_name": "hero_katherine_professor",
+      "hero": "Katherine",
+      "skin": "Professor"
+    },
+    {
+      "id": 45,
+      "name": "Hannah - Default",
+      "code_name": "hero_hannah",
+      "hero": "Hannah",
+      "skin": "Default"
+    },
+    {
+      "id": 46,
+      "name": "Hannah - Blackhat",
+      "code_name": "hero_hannah_blackhat",
+      "hero": "Hannah",
+      "skin": "Blackhat"
+    },
+    {
+      "id": 47,
+      "name": "Hannah - Police",
+      "code_name": "hero_hannah_police",
+      "hero": "Hannah",
+      "skin": "Police"
+    },
+    {
+      "id": 48,
+      "name": "Hannah - Detective",
+      "code_name": "hero_hannah_detective",
+      "hero": "Hannah",
+      "skin": "Detective"
+    },
+    {
+      "id": 49,
+      "name": "Hannah - Exorcist",
+      "code_name": "hero_hannah_exorcist",
+      "hero": "Hannah",
+      "skin": "Exorcist"
+    },
+    {
+      "id": 50,
+      "name": "Hillding - Default",
+      "code_name": "hero_hillding",
+      "hero": "Hillding",
+      "skin": "Default"
+    },
+    {
+      "id": 51,
+      "name": "Hillding - Flowerman",
+      "code_name": "hero_hillding_flowerman",
+      "hero": "Hillding",
+      "skin": "Flowerman"
+    },
+    {
+      "id": 52,
+      "name": "Hillding - Warrior",
+      "code_name": "hero_hillding_warrior",
+      "hero": "Hillding",
+      "skin": "Warrior"
+    },
+    {
+      "id": 53,
+      "name": "Penhaligon - Default",
+      "code_name": "hero_penhaligon",
+      "hero": "Penhaligon",
+      "skin": "Default"
+    },
+    {
+      "id": 54,
+      "name": "Penhaligon - Separation",
+      "code_name": "hero_penhaligon_separation",
+      "hero": "Penhaligon",
+      "skin": "Separation"
+    },
+    {
+      "id": 55,
+      "name": "Penhaligon - Infantry",
+      "code_name": "hero_penhaligon_infantry",
+      "hero": "Penhaligon",
+      "skin": "Infantry"
+    },
+    {
+      "id": 56,
+      "name": "Penhaligon - Infantry Separation",
+      "code_name": "hero_penhaligon_infantry_separation",
+      "hero": "Penhaligon",
+      "skin": "Infantry Separation"
+    },
+    {
+      "id": 57,
+      "name": "Penhaligon - Starwar",
+      "code_name": "hero_penhaligon_starwar",
+      "hero": "Penhaligon",
+      "skin": "Starwar"
+    },
+    {
+      "id": 58,
+      "name": "Penhaligon - Starwar Separation",
+      "code_name": "hero_penhaligon_starwar_separation",
+      "hero": "Penhaligon",
+      "skin": "Starwar Separation"
+    },
+    {
+      "id": 59,
+      "name": "Penhaligon - Wonderbrush",
+      "code_name": "hero_penhaligon_wonderbrush",
+      "hero": "Penhaligon",
+      "skin": "Wonderbrush"
+    },
+    {
+      "id": 60,
+      "name": "Penhaligon - Wonderbrush Separation",
+      "code_name": "hero_penhaligon_wonderbrush_separation",
+      "hero": "Penhaligon",
+      "skin": "Wonderbrush Separation"
+    },
+    {
+      "id": 61,
+      "name": "Hayfa - Default",
+      "code_name": "hero_hayfa",
+      "hero": "Hayfa",
+      "skin": "Default"
+    },
+    {
+      "id": 62,
+      "name": "Hayfa - Protector",
+      "code_name": "hero_hayfa_protector",
+      "hero": "Hayfa",
+      "skin": "Protector"
+    },
+    {
+      "id": 63,
+      "name": "Hayfa - Magician",
+      "code_name": "hero_hayfa_magician",
+      "hero": "Hayfa",
+      "skin": "Magician"
+    },
+    {
+      "id": 64,
+      "name": "Default Skin",
+      "code_name": "default_skin"
+    },
+    {
+      "id": 65,
+      "name": "Xuanshe - Default",
+      "code_name": "hero_xuanshe",
+      "hero": "Xuanshe",
+      "skin": "Default"
+    },
+    {
+      "id": 66,
+      "name": "Xuanshe - Technology",
+      "code_name": "hero_xuanshe_technology",
+      "hero": "Xuanshe",
+      "skin": "Technology"
+    },
+    {
+      "id": 67,
+      "name": "Xuanshe - Christmas",
+      "code_name": "hero_xuanshe_christmas",
+      "hero": "Xuanshe",
+      "skin": "Christmas"
+    },
+    {
+      "id": 68,
+      "name": "Xuanshe - Snake",
+      "code_name": "hero_xuanshe_snake",
+      "hero": "Xuanshe",
+      "skin": "Snake"
+    },
+    {
+      "id": 69,
+      "name": "Heyao - Default",
+      "code_name": "hero_heyao",
+      "hero": "Heyao",
+      "skin": "Default"
+    },
+    {
+      "id": 70,
+      "name": "Heyao - Technology",
+      "code_name": "hero_heyao_technology",
+      "hero": "Heyao",
+      "skin": "Technology"
+    },
+    {
+      "id": 71,
+      "name": "Heyao - Christmas",
+      "code_name": "hero_heyao_christmas",
+      "hero": "Heyao",
+      "skin": "Christmas"
+    },
+    {
+      "id": 72,
+      "name": "Aimi - Default",
+      "code_name": "hero_aimi",
+      "hero": "Aimi",
+      "skin": "Default"
+    },
+    {
+      "id": 73,
+      "name": "Aimi - Queen",
+      "code_name": "hero_aimi_queen",
+      "hero": "Aimi",
+      "skin": "Queen"
+    },
+    {
+      "id": 74,
+      "name": "Uliana - Default",
+      "code_name": "hero_uliana",
+      "hero": "Uliana",
+      "skin": "Default"
+    },
+    {
+      "id": 75,
+      "name": "Uliana - Springfes",
+      "code_name": "hero_uliana_springfes",
+      "hero": "Uliana",
+      "skin": "Springfes"
+    },
+    {
+      "id": 76,
+      "name": "Uliana - Captain",
+      "code_name": "hero_uliana_captain",
+      "hero": "Uliana",
+      "skin": "Captain"
+    },
+    {
+      "id": 77,
+      "name": "Uliana - Rock",
+      "code_name": "hero_uliana_rock",
+      "hero": "Uliana",
+      "skin": "Rock"
+    },
+    {
+      "id": 78,
+      "name": "Annice - Default",
+      "code_name": "hero_annice",
+      "hero": "Annice",
+      "skin": "Default"
+    },
+    {
+      "id": 79,
+      "name": "Annice - Springfestival",
+      "code_name": "hero_annice_springfestival",
+      "hero": "Annice",
+      "skin": "Springfestival"
+    },
+    {
+      "id": 80,
+      "name": "Ruthven - Default",
+      "code_name": "hero_ruthven",
+      "hero": "Ruthven",
+      "skin": "Default"
+    },
+    {
+      "id": 81,
+      "name": "Ruthven - God",
+      "code_name": "hero_ruthven_god",
+      "hero": "Ruthven",
+      "skin": "God"
+    },
+    {
+      "id": 82,
+      "name": "Anibella - Default",
+      "code_name": "hero_anibella",
+      "hero": "Anibella",
+      "skin": "Default"
+    },
+    {
+      "id": 83,
+      "name": "Anibella - Astronaut",
+      "code_name": "hero_anibella_astronaut",
+      "hero": "Anibella",
+      "skin": "Astronaut"
+    },
+    {
+      "id": 84,
+      "name": "Adira - Default",
+      "code_name": "hero_adira",
+      "hero": "Adira",
+      "skin": "Default"
+    },
+    {
+      "id": 85,
+      "name": "Adira - Fireknight",
+      "code_name": "hero_adira_fireknight",
+      "hero": "Adira",
+      "skin": "Fireknight"
+    },
+    {
+      "id": 86,
+      "name": "Yangkyi - Default",
+      "code_name": "hero_yangkyi",
+      "hero": "Yangkyi",
+      "skin": "Default"
+    },
+    {
+      "id": 87,
+      "name": "Yangkyi - Queen",
+      "code_name": "hero_yangkyi_queen",
+      "hero": "Yangkyi",
+      "skin": "Queen"
+    },
+    {
+      "id": 88,
+      "name": "Youzi - Default",
+      "code_name": "hero_youzi",
+      "hero": "Youzi",
+      "skin": "Default"
+    },
+    {
+      "id": 89,
+      "name": "Youzi - Swimsuits",
+      "code_name": "hero_youzi_swimsuits",
+      "hero": "Youzi",
+      "skin": "Swimsuits"
+    },
+    {
+      "id": 90,
+      "name": "Yufeng - Default",
+      "code_name": "hero_yufeng",
+      "hero": "Yufeng",
+      "skin": "Default"
+    },
+    {
+      "id": 91,
+      "name": "Yufeng - Yinyang",
+      "code_name": "hero_yufeng_yinyang",
+      "hero": "Yufeng",
+      "skin": "Yinyang"
+    },
+    {
+      "id": 92,
+      "name": "Wufei - Default",
+      "code_name": "hero_wufei",
+      "hero": "Wufei",
+      "skin": "Default"
+    },
+    {
+      "id": 93,
+      "name": "Wufei - Mili",
+      "code_name": "hero_wufei_mili",
+      "hero": "Wufei",
+      "skin": "Mili"
+    },
+    {
+      "id": 94,
+      "name": "Bunny - Default",
+      "code_name": "hero_bunny",
+      "hero": "Bunny",
+      "skin": "Default"
+    },
+    {
+      "id": 95,
+      "name": "Bunny - Nun",
+      "code_name": "hero_bunny_nun",
+      "hero": "Bunny",
+      "skin": "Nun"
+    },
+    {
+      "id": 96,
+      "name": "Qifeng - Default",
+      "code_name": "hero_qifeng",
+      "hero": "Qifeng",
+      "skin": "Default"
+    },
+    {
+      "id": 97,
+      "name": "Qifeng - Cowboy",
+      "code_name": "hero_qifeng_cowboy",
+      "hero": "Qifeng",
+      "skin": "Cowboy"
+    },
+    {
+      "id": 98,
+      "name": "Linxiao - Default",
+      "code_name": "hero_linxiao",
+      "hero": "Linxiao",
+      "skin": "Default"
+    },
+    {
+      "id": 99,
+      "name": "Linxiao - Springfestival",
+      "code_name": "hero_linxiao_springfestival",
+      "hero": "Linxiao",
+      "skin": "Springfestival"
+    },
+    {
+      "id": 100,
+      "name": "Feiyu - Default",
+      "code_name": "hero_feiyu",
+      "hero": "Feiyu",
+      "skin": "Default"
+    },
+    {
+      "id": 101,
+      "name": "Feiyu - Zombie",
+      "code_name": "hero_feiyu_zombie",
+      "hero": "Feiyu",
+      "skin": "Zombie"
+    },
+    {
+      "id": 102,
+      "name": "Hualing - Default",
+      "code_name": "hero_hualing",
+      "hero": "Hualing",
+      "skin": "Default"
+    },
+    {
+      "id": 103,
+      "name": "Rana - Default",
+      "code_name": "hero_rana",
+      "hero": "Rana",
+      "skin": "Default"
+    },
+    {
+      "id": 104,
+      "name": "Erdene - Default",
+      "code_name": "hero_erdene",
+      "hero": "Erdene",
+      "skin": "Default"
+    },
+    {
+      "id": 105,
+      "name": "Erdene - Wild",
+      "code_name": "hero_erdene_wild",
+      "hero": "Erdene",
+      "skin": "Wild"
+    },
+    {
+      "id": 106,
+      "name": "Dragon - Default",
+      "code_name": "hero_dragon",
+      "hero": "Dragon",
+      "skin": "Default"
+    }
+  ],
+  "npc_skins": [
+    {
+      "id": 0,
+      "name": "Npc Zhao",
+      "code_name": "npc_zhao"
+    },
+    {
+      "id": 1,
+      "name": "Npc Zhao Christmas",
+      "code_name": "npc_zhao_christmas"
+    },
+    {
+      "id": 2,
+      "name": "Npc Zhao Spring",
+      "code_name": "npc_zhao_spring"
+    },
+    {
+      "id": 3,
+      "name": "Npc Zhao Spring 2023",
+      "code_name": "npc_zhao_spring2023"
+    },
+    {
+      "id": 4,
+      "name": "Npc Zhao Zombie",
+      "code_name": "npc_zhao_zombie"
+    },
+    {
+      "id": 5,
+      "name": "Npc Ken",
+      "code_name": "npc_ken"
+    },
+    {
+      "id": 6,
+      "name": "Npc Ken Meizu",
+      "code_name": "npc_ken_meizu"
+    },
+    {
+      "id": 7,
+      "name": "Npc Ken 4399",
+      "code_name": "npc_ken_4399"
+    },
+    {
+      "id": 8,
+      "name": "Npc Ken Hykb",
+      "code_name": "npc_ken_hykb"
+    },
+    {
+      "id": 9,
+      "name": "Npc Ken Christmas",
+      "code_name": "npc_ken_christmas"
+    },
+    {
+      "id": 10,
+      "name": "Npc Ken Spring",
+      "code_name": "npc_ken_spring"
+    },
+    {
+      "id": 11,
+      "name": "Npc Ken Spring 2023",
+      "code_name": "npc_ken_spring2023"
+    },
+    {
+      "id": 12,
+      "name": "Npc Ken Asura",
+      "code_name": "npc_ken_asura"
+    },
+    {
+      "id": 13,
+      "name": "Npc Mari",
+      "code_name": "npc_mari"
+    },
+    {
+      "id": 14,
+      "name": "Npc Mari Christmas",
+      "code_name": "npc_mari_christmas"
+    },
+    {
+      "id": 15,
+      "name": "Npc Mari Spring",
+      "code_name": "npc_mari_spring"
+    },
+    {
+      "id": 16,
+      "name": "Npc Mari Spring 2023",
+      "code_name": "npc_mari_spring2023"
+    },
+    {
+      "id": 17,
+      "name": "Npc Mari Angel",
+      "code_name": "npc_mari_angel"
+    },
+    {
+      "id": 18,
+      "name": "Npc Mari Spring 2024",
+      "code_name": "npc_mari_spring2024"
+    },
+    {
+      "id": 19,
+      "name": "Npc Zhimei",
+      "code_name": "npc_zhimei"
+    },
+    {
+      "id": 20,
+      "name": "Npc Zhimei Christmas",
+      "code_name": "npc_zhimei_christmas"
+    },
+    {
+      "id": 21,
+      "name": "Npc Zhimei Spring 2023",
+      "code_name": "npc_zhimei_spring2023"
+    },
+    {
+      "id": 22,
+      "name": "Npc Zhimei Bare",
+      "code_name": "npc_zhimei_bare"
+    },
+    {
+      "id": 23,
+      "name": "Npc Asura",
+      "code_name": "npc_asura"
+    },
+    {
+      "id": 24,
+      "name": "Npc Asura Christmas",
+      "code_name": "npc_asura_christmas"
+    },
+    {
+      "id": 25,
+      "name": "Npc Asura Spring",
+      "code_name": "npc_asura_spring"
+    },
+    {
+      "id": 26,
+      "name": "Npc Asura Spring 2023",
+      "code_name": "npc_asura_spring2023"
+    },
+    {
+      "id": 27,
+      "name": "Npc Asura Master",
+      "code_name": "npc_asura_master"
+    }
+  ],
+  "powers": [
+    {
+      "id": 0,
+      "name": "Super Lightning",
+      "code_name": "SuperLightning"
+    },
+    {
+      "id": 1,
+      "name": "Poison Card",
+      "code_name": "PoisonCard"
+    },
+    {
+      "id": 2,
+      "name": "Hero Skin Power Name",
+      "code_name": "HeroSkinPowerName"
+    },
+    {
+      "id": 3,
+      "name": "Ruthven God Skin Power",
+      "code_name": "Ruthven_GodSkinPower"
+    },
+    {
+      "id": 4,
+      "name": "Anibella Astronaut Power Skin",
+      "code_name": "Anibella_AstronautPowerSkin"
+    },
+    {
+      "id": 5,
+      "name": "Adira Fire Knight Skin Power",
+      "code_name": "Adira_FireKnightSkinPower"
+    },
+    {
+      "id": 6,
+      "name": "Gangdan Dragon Armor Skin Power",
+      "code_name": "Gangdan_DragonArmorSkinPower"
+    },
+    {
+      "id": 7,
+      "name": "Wufei Mili Skin Power",
+      "code_name": "Wufei_MiliSkinPower"
+    },
+    {
+      "id": 8,
+      "name": "Yufeng Yinyang Skin Power",
+      "code_name": "Yufeng_YinyangSkinPower"
+    },
+    {
+      "id": 9,
+      "name": "Uliana Rock Skin Power",
+      "code_name": "Uliana_RockSkinPower"
+    },
+    {
+      "id": 10,
+      "name": "Feiyu Zombie Skin Power",
+      "code_name": "Feiyu_ZombieSkinPower"
+    },
+    {
+      "id": 11,
+      "name": "Xuanshe Snake Skin Power",
+      "code_name": "Xuanshe_SnakeSkinPower"
+    }
+  ]
+}

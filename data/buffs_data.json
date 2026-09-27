@@ -1,0 +1,551 @@
+{
+  "count": 109,
+  "description": "Buffs and Status Effects",
+  "data": [
+    {
+      "id": 41,
+      "name": "Empty",
+      "code_name": "Empty"
+    },
+    {
+      "id": 0,
+      "name": "Half Health Rage Buff",
+      "code_name": "halfHealthRageBuff"
+    },
+    {
+      "id": 1,
+      "name": "Half Health Rage Buff With Tyrant",
+      "code_name": "halfHealthRageBuffWithTyrant"
+    },
+    {
+      "id": 2,
+      "name": "Quanhuying Huanyingzhen Buff",
+      "code_name": "quanhuyingHuanyingzhenBuff"
+    },
+    {
+      "id": 3,
+      "name": "Totem Buff",
+      "code_name": "totemBuff"
+    },
+    {
+      "id": 4,
+      "name": "Default Poison Debuff",
+      "code_name": "DefaultPoisonDebuff"
+    },
+    {
+      "id": 5,
+      "name": "Default Burn Debuff",
+      "code_name": "DefaultBurnDebuff"
+    },
+    {
+      "id": 6,
+      "name": "Default Frozen Debuff",
+      "code_name": "DefaultFrozenDebuff"
+    },
+    {
+      "id": 7,
+      "name": "Default Hero Blinding Debuff",
+      "code_name": "defaultHeroBlindingDebuff"
+    },
+    {
+      "id": 8,
+      "name": "Speed Down 05 Debuff",
+      "code_name": "SpeedDown05Debuff"
+    },
+    {
+      "id": 9,
+      "name": "Damage Up 05 Buff",
+      "code_name": "DamageUp05Buff"
+    },
+    {
+      "id": 10,
+      "name": "Default Brittle Debuff",
+      "code_name": "DefaultBrittleDebuff"
+    },
+    {
+      "id": 11,
+      "name": "Stone Eye Debuff",
+      "code_name": "StoneEyeDebuff"
+    },
+    {
+      "id": 12,
+      "name": "Air Kiss Debuff",
+      "code_name": "AirKissDebuff"
+    },
+    {
+      "id": 13,
+      "name": "Broken Bone Debuff",
+      "code_name": "BrokenBoneDebuff"
+    },
+    {
+      "id": 14,
+      "name": "Default Bleed Debuff",
+      "code_name": "defaultBleedDebuff"
+    },
+    {
+      "id": 15,
+      "name": "Base Damage Up Debuff",
+      "code_name": "baseDamageUpDebuff"
+    },
+    {
+      "id": 16,
+      "name": "Venom Debuff",
+      "code_name": "venomDebuff"
+    },
+    {
+      "id": 17,
+      "name": "German Buff",
+      "code_name": "germanBuff"
+    },
+    {
+      "id": 18,
+      "name": "Hillding Food Heal Buff",
+      "code_name": "hilldingFoodHealBuff"
+    },
+    {
+      "id": 19,
+      "name": "Hillding Food Power Buff",
+      "code_name": "hilldingFoodPowerBuff"
+    },
+    {
+      "id": 20,
+      "name": "Hillding Food Shadow Buff",
+      "code_name": "hilldingFoodShadowBuff"
+    },
+    {
+      "id": 21,
+      "name": "Lion Debuff",
+      "code_name": "lionDebuff"
+    },
+    {
+      "id": 22,
+      "name": "Fishing Net Debuff",
+      "code_name": "fishingNetDebuff"
+    },
+    {
+      "id": 23,
+      "name": "Flower Sword Debuff",
+      "code_name": "flowerSwordDebuff"
+    },
+    {
+      "id": 24,
+      "name": "Severe Wound Debuff",
+      "code_name": "severeWoundDebuff"
+    },
+    {
+      "id": 25,
+      "name": "Whip Buff",
+      "code_name": "whipBuff"
+    },
+    {
+      "id": 26,
+      "name": "Nordic Ferret Buff",
+      "code_name": "nordicFerretBuff"
+    },
+    {
+      "id": 27,
+      "name": "Damage Down 05 Debuff",
+      "code_name": "DamageDown05Debuff"
+    },
+    {
+      "id": 28,
+      "name": "Dryad Buff",
+      "code_name": "dryadBuff"
+    },
+    {
+      "id": 29,
+      "name": "Penhaligon De Buff Melee",
+      "code_name": "penhaligonDeBuffMelee"
+    },
+    {
+      "id": 30,
+      "name": "Penhaligon De Buff Remotely",
+      "code_name": "penhaligonDeBuffRemotely"
+    },
+    {
+      "id": 31,
+      "name": "Rooted Debuff",
+      "code_name": "rootedDebuff"
+    },
+    {
+      "id": 32,
+      "name": "Vulnerable Debuff",
+      "code_name": "vulnerableDebuff"
+    },
+    {
+      "id": 33,
+      "name": "Hp Bottle Regenerate Buff",
+      "code_name": "hpBottleRegenerateBuff"
+    },
+    {
+      "id": 34,
+      "name": "Hayfa Marked Debuff",
+      "code_name": "hayfaMarkedDebuff"
+    },
+    {
+      "id": 35,
+      "name": "Akaisha Trap Enhanced Debuff",
+      "code_name": "AkaishaTrapEnhancedDebuff"
+    },
+    {
+      "id": 36,
+      "name": "Akaisha Trap Enhanced Buff",
+      "code_name": "AkaishaTrapEnhancedBuff"
+    },
+    {
+      "id": 37,
+      "name": "Akaisha Trap Elemental Debuff",
+      "code_name": "AkaishaTrapElementalDebuff"
+    },
+    {
+      "id": 38,
+      "name": "Plum Blossom De Buff",
+      "code_name": "plumBlossomDeBuff"
+    },
+    {
+      "id": 39,
+      "name": "Armor Penetration De Buff",
+      "code_name": "armorPenetrationDeBuff"
+    },
+    {
+      "id": 40,
+      "name": "Needle Debuff",
+      "code_name": "needleDebuff"
+    },
+    {
+      "id": 42,
+      "name": "Uliana Chill Debuff",
+      "code_name": "ulianaChillDebuff"
+    },
+    {
+      "id": 43,
+      "name": "Uliana Very Chill Debuff",
+      "code_name": "ulianaVeryChillDebuff"
+    },
+    {
+      "id": 44,
+      "name": "Uliana Chill Slash Debuff",
+      "code_name": "ulianaChillSlashDebuff"
+    },
+    {
+      "id": 45,
+      "name": "Quanhuying Po Mo Quan Buff",
+      "code_name": "quanhuyingPoMoQuanBuff"
+    },
+    {
+      "id": 46,
+      "name": "Uliana Chill Easy Damage Debuff",
+      "code_name": "ulianaChillEasyDamageDebuff"
+    },
+    {
+      "id": 47,
+      "name": "Uliana Saw Buff",
+      "code_name": "ulianaSawBuff"
+    },
+    {
+      "id": 48,
+      "name": "Jack Buff",
+      "code_name": "jackBuff"
+    },
+    {
+      "id": 49,
+      "name": "Halloween Skeleton Buff",
+      "code_name": "halloweenSkeletonBuff"
+    },
+    {
+      "id": 50,
+      "name": "Gangdan Blessing Buff",
+      "code_name": "GangdanBlessingBuff"
+    },
+    {
+      "id": 51,
+      "name": "Default Shadow Buff",
+      "code_name": "defaultShadowBuff"
+    },
+    {
+      "id": 52,
+      "name": "Gunmen Debuff",
+      "code_name": "gunmenDebuff"
+    },
+    {
+      "id": 53,
+      "name": "Magic Boss Demon Chained Debuff Green",
+      "code_name": "magicBossDemonChainedDebuffGreen"
+    },
+    {
+      "id": 54,
+      "name": "Magic Boss Demon Chained Debuff Red",
+      "code_name": "magicBossDemonChainedDebuffRed"
+    },
+    {
+      "id": 55,
+      "name": "Magic Boss Demon Chained Debuff Blue",
+      "code_name": "magicBossDemonChainedDebuffBlue"
+    },
+    {
+      "id": 56,
+      "name": "Magic Boss Demon Flame Armor Buff",
+      "code_name": "magicBossDemonFlameArmorBuff"
+    },
+    {
+      "id": 57,
+      "name": "Magic Boss Witch Form Hyper Freeze Debuff",
+      "code_name": "MagicBossWitchFormHyperFreezeDebuff"
+    },
+    {
+      "id": 58,
+      "name": "Adira Sun Mark Debuff",
+      "code_name": "AdiraSunMarkDebuff"
+    },
+    {
+      "id": 59,
+      "name": "Adira Always Power Attack Buff",
+      "code_name": "AdiraAlwaysPowerAttackBuff"
+    },
+    {
+      "id": 60,
+      "name": "Stone Eye Moon Array Buff",
+      "code_name": "StoneEyeMoonArrayBuff"
+    },
+    {
+      "id": 61,
+      "name": "Default Stop Debuff",
+      "code_name": "defaultStopDebuff"
+    },
+    {
+      "id": 62,
+      "name": "Strong Wind Buff",
+      "code_name": "StrongWindBuff"
+    },
+    {
+      "id": 63,
+      "name": "Butterfly Boss Flower Lava Buff",
+      "code_name": "ButterflyBossFlowerLavaBuff"
+    },
+    {
+      "id": 64,
+      "name": "Break Garo Ice Buff",
+      "code_name": "breakGaroIceBuff"
+    },
+    {
+      "id": 65,
+      "name": "Yangkyi Damage Mark",
+      "code_name": "yangkyiDamageMark"
+    },
+    {
+      "id": 66,
+      "name": "Hurt Together Debuff",
+      "code_name": "hurtTogetherDebuff"
+    },
+    {
+      "id": 67,
+      "name": "Attack Speed Down 05 Debuff",
+      "code_name": "AttackSpeedDown05Debuff"
+    },
+    {
+      "id": 68,
+      "name": "Damage Reduce Buff",
+      "code_name": "DamageReduceBuff"
+    },
+    {
+      "id": 69,
+      "name": "Wufei Arrow Debuff",
+      "code_name": "wufeiArrowDebuff"
+    },
+    {
+      "id": 70,
+      "name": "Wufei Mark",
+      "code_name": "wufeiMark"
+    },
+    {
+      "id": 71,
+      "name": "Chess Elf Buff",
+      "code_name": "chessElfBuff"
+    },
+    {
+      "id": 72,
+      "name": "Anncie Scythe Mode Mark",
+      "code_name": "anncieScytheModeMark"
+    },
+    {
+      "id": 73,
+      "name": "Bufficon",
+      "code_name": "bufficon"
+    },
+    {
+      "id": 74,
+      "name": "Hide From Auto Lock",
+      "code_name": "hideFromAutoLock"
+    },
+    {
+      "id": 75,
+      "name": "Sakura Speed Down",
+      "code_name": "sakuraSpeedDown"
+    },
+    {
+      "id": 76,
+      "name": "Accumulate Confused",
+      "code_name": "accumulateConfused"
+    },
+    {
+      "id": 77,
+      "name": "Confused Debuff",
+      "code_name": "confusedDebuff"
+    },
+    {
+      "id": 78,
+      "name": "Sakura Damage Amplify Debuff",
+      "code_name": "SakuraDamageAmplifyDebuff"
+    },
+    {
+      "id": 79,
+      "name": "Default Chill Debuff",
+      "code_name": "DefaultChillDebuff"
+    },
+    {
+      "id": 80,
+      "name": "Default Lightning Debuff",
+      "code_name": "DefaultLightningDebuff"
+    },
+    {
+      "id": 81,
+      "name": "Linxiao Combo Ground Spear Buff",
+      "code_name": "linxiaoComboGroundSpearBuff"
+    },
+    {
+      "id": 82,
+      "name": "Feiyu Stone Block Buff",
+      "code_name": "feiyuStoneBlockBuff"
+    },
+    {
+      "id": 83,
+      "name": "Feiyu Water Regen Shield Buff",
+      "code_name": "feiyuWaterRegenShieldBuff"
+    },
+    {
+      "id": 84,
+      "name": "Feiyu Wood Thorn Armor Buff",
+      "code_name": "feiyuWoodThornArmorBuff"
+    },
+    {
+      "id": 85,
+      "name": "Move Speed Up Buff",
+      "code_name": "moveSpeedUpBuff"
+    },
+    {
+      "id": 86,
+      "name": "Attack Speed Up Buff",
+      "code_name": "attackSpeedUpBuff"
+    },
+    {
+      "id": 87,
+      "name": "Feiyu Water Combo Attack Buff",
+      "code_name": "feiyuWaterComboAttackBuff"
+    },
+    {
+      "id": 88,
+      "name": "Feiyu Ground Combo Attack Buff",
+      "code_name": "feiyuGroundComboAttackBuff"
+    },
+    {
+      "id": 89,
+      "name": "Feiyu Wood Combo Attack Buff",
+      "code_name": "feiyuWoodComboAttackBuff"
+    },
+    {
+      "id": 90,
+      "name": "Feiyu Fire Combo Attack Buff",
+      "code_name": "feiyuFireComboAttackBuff"
+    },
+    {
+      "id": 91,
+      "name": "Feiyu Ice Combo Attack Buff",
+      "code_name": "feiyuIceComboAttackBuff"
+    },
+    {
+      "id": 92,
+      "name": "Feiyu Thunder Combo Attack Buff",
+      "code_name": "feiyuThunderComboAttackBuff"
+    },
+    {
+      "id": 93,
+      "name": "Feiyu Ice Ground Drift Buff",
+      "code_name": "feiyuIceGroundDriftBuff"
+    },
+    {
+      "id": 94,
+      "name": "Feiyu Fire Explode On Death Buff",
+      "code_name": "feiyuFireExplodeOnDeathBuff"
+    },
+    {
+      "id": 95,
+      "name": "Feiyu Tian Jie Thunder Buff",
+      "code_name": "feiyuTianJieThunderBuff"
+    },
+    {
+      "id": 96,
+      "name": "Tyrant Buff",
+      "code_name": "tyrantBuff"
+    },
+    {
+      "id": 97,
+      "name": "Feiyu Tian Jie Enhance Buff",
+      "code_name": "feiyuTianJieEnhanceBuff"
+    },
+    {
+      "id": 98,
+      "name": "Holy Shield Buff",
+      "code_name": "holyShieldBuff"
+    },
+    {
+      "id": 99,
+      "name": "Breakable Root De Buff",
+      "code_name": "breakableRootDeBuff"
+    },
+    {
+      "id": 100,
+      "name": "Default Enrage Buff",
+      "code_name": "DefaultEnrageBuff"
+    },
+    {
+      "id": 101,
+      "name": "Default Blessing Buff",
+      "code_name": "DefaultBlessingBuff"
+    },
+    {
+      "id": 102,
+      "name": "Asura Yudao Double Slow",
+      "code_name": "AsuraYudaoDoubleSlow"
+    },
+    {
+      "id": 103,
+      "name": "Rupture Buff",
+      "code_name": "RuptureBuff"
+    },
+    {
+      "id": 104,
+      "name": "Asura Yudao Lava Floor Dot Damage Debuff",
+      "code_name": "AsuraYudaoLavaFloorDotDamageDebuff"
+    },
+    {
+      "id": 105,
+      "name": "Asura Xiuluodao Battle Ghost Buff",
+      "code_name": "AsuraXiuluodaoBattleGhostBuff"
+    },
+    {
+      "id": 106,
+      "name": "Erdene Eagle Lock On Debuff",
+      "code_name": "ErdeneEagleLockOnDebuff"
+    },
+    {
+      "id": 107,
+      "name": "Erdene Wind Slash Debuff",
+      "code_name": "ErdeneWindSlashDebuff"
+    },
+    {
+      "id": 108,
+      "name": "Cool Down Reduce Buff",
+      "code_name": "CoolDownReduceBuff"
+    }
+  ]
+}

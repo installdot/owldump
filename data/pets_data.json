@@ -1,0 +1,131 @@
+{
+  "count": 25,
+  "description": "Pets and Companions",
+  "data": [
+    {
+      "id": 0,
+      "name": "Empty",
+      "code_name": "Empty"
+    },
+    {
+      "id": 1,
+      "name": "Mopsy",
+      "code_name": "Mopsy"
+    },
+    {
+      "id": 2,
+      "name": "Einstein",
+      "code_name": "Einstein"
+    },
+    {
+      "id": 3,
+      "name": "Loki",
+      "code_name": "Loki"
+    },
+    {
+      "id": 4,
+      "name": "Blani",
+      "code_name": "Blani"
+    },
+    {
+      "id": 5,
+      "name": "Newt",
+      "code_name": "Newt"
+    },
+    {
+      "id": 6,
+      "name": "Elk",
+      "code_name": "Elk"
+    },
+    {
+      "id": 7,
+      "name": "Gold Elk",
+      "code_name": "GoldElk"
+    },
+    {
+      "id": 8,
+      "name": "Tiger",
+      "code_name": "Tiger"
+    },
+    {
+      "id": 9,
+      "name": "Lucky",
+      "code_name": "Lucky"
+    },
+    {
+      "id": 10,
+      "name": "Rich",
+      "code_name": "Rich"
+    },
+    {
+      "id": 11,
+      "name": "Snow Ball",
+      "code_name": "SnowBall"
+    },
+    {
+      "id": 12,
+      "name": "Clows",
+      "code_name": "Clows"
+    },
+    {
+      "id": 13,
+      "name": "Green Turtle",
+      "code_name": "GreenTurtle"
+    },
+    {
+      "id": 14,
+      "name": "Gold Turtle",
+      "code_name": "GoldTurtle"
+    },
+    {
+      "id": 15,
+      "name": "Beatrice",
+      "code_name": "Beatrice"
+    },
+    {
+      "id": 16,
+      "name": "Piney",
+      "code_name": "Piney"
+    },
+    {
+      "id": 17,
+      "name": "Chesty",
+      "code_name": "Chesty"
+    },
+    {
+      "id": 18,
+      "name": "Spider",
+      "code_name": "Spider"
+    },
+    {
+      "id": 19,
+      "name": "Silkcharm",
+      "code_name": "Silkcharm"
+    },
+    {
+      "id": 20,
+      "name": "Bread",
+      "code_name": "Bread"
+    },
+    {
+      "id": 21,
+      "name": "Gold Bread",
+      "code_name": "GoldBread"
+    },
+    {
+      "id": 22,
+      "name": "Snake",
+      "code_name": "Snake"
+    },
+    {
+      "id": 23,
+      "name": "Gold Snake",
+      "code_name": "GoldSnake"
+    },
+    {
+      "id": 24,
+      "name": "Muka",
+      "code_name": "Muka"
+    }
+  ]
+}

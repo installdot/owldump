@@ -1,0 +1,531 @@
+{
+  "count": 105,
+  "description": "Weapon Powers",
+  "data": [
+    {
+      "id": 0,
+      "name": "Normal Attack Damage Up",
+      "code_name": "NormalAttackDamageUp"
+    },
+    {
+      "id": 1,
+      "name": "Dot Enemy Damage Up",
+      "code_name": "DotEnemyDamageUp"
+    },
+    {
+      "id": 2,
+      "name": "Main Skill Damage Up",
+      "code_name": "MainSkillDamageUp"
+    },
+    {
+      "id": 3,
+      "name": "EX Skill Damage Up",
+      "code_name": "EXSkillDamageUp"
+    },
+    {
+      "id": 4,
+      "name": "Shadow Skill Damage Up",
+      "code_name": "ShadowSkillDamageUp"
+    },
+    {
+      "id": 5,
+      "name": "Move Speed Up",
+      "code_name": "MoveSpeedUp"
+    },
+    {
+      "id": 6,
+      "name": "Pet Damage Up",
+      "code_name": "PetDamageUp"
+    },
+    {
+      "id": 7,
+      "name": "Adsorb",
+      "code_name": "Adsorb"
+    },
+    {
+      "id": 8,
+      "name": "Quanhuying Boxing Style",
+      "code_name": "QuanhuyingBoxingStyle"
+    },
+    {
+      "id": 9,
+      "name": "Quanhuying Air Billow",
+      "code_name": "QuanhuyingAirBillow"
+    },
+    {
+      "id": 10,
+      "name": "Quanhuying Scowl",
+      "code_name": "QuanhuyingScowl"
+    },
+    {
+      "id": 11,
+      "name": "Akaisha Easy Storage",
+      "code_name": "AkaishaEasyStorage"
+    },
+    {
+      "id": 12,
+      "name": "Akaisha More Arrow",
+      "code_name": "AkaishaMoreArrow"
+    },
+    {
+      "id": 13,
+      "name": "Akaisha Split",
+      "code_name": "AkaishaSplit"
+    },
+    {
+      "id": 14,
+      "name": "Akaisha Catapult",
+      "code_name": "AkaishaCatapult"
+    },
+    {
+      "id": 15,
+      "name": "Akaisha More Combo",
+      "code_name": "AkaishaMoreCombo"
+    },
+    {
+      "id": 16,
+      "name": "Hillding More Combo",
+      "code_name": "HilldingMoreCombo"
+    },
+    {
+      "id": 17,
+      "name": "Hillding Kill Angry",
+      "code_name": "HilldingKillAngry"
+    },
+    {
+      "id": 18,
+      "name": "Hillding Angry Shadow",
+      "code_name": "HilldingAngryShadow"
+    },
+    {
+      "id": 19,
+      "name": "Hillding Kill Get Anger",
+      "code_name": "HilldingKillGetAnger"
+    },
+    {
+      "id": 20,
+      "name": "Katherine Ex Ice Combo",
+      "code_name": "KatherineExIceCombo"
+    },
+    {
+      "id": 21,
+      "name": "Katherine Merge Combo",
+      "code_name": "KatherineMergeCombo"
+    },
+    {
+      "id": 22,
+      "name": "Katherine Ex Fire Combo",
+      "code_name": "KatherineExFireCombo"
+    },
+    {
+      "id": 23,
+      "name": "Katherine Ex Thunder Combo",
+      "code_name": "KatherineExThunderCombo"
+    },
+    {
+      "id": 24,
+      "name": "Seebee Super Combo",
+      "code_name": "SeebeeSuperCombo"
+    },
+    {
+      "id": 25,
+      "name": "Seebee Katana Light",
+      "code_name": "SeebeeKatanaLight"
+    },
+    {
+      "id": 26,
+      "name": "Seebee Slash Might",
+      "code_name": "SeebeeSlashMight"
+    },
+    {
+      "id": 27,
+      "name": "Olivia Only Drill",
+      "code_name": "OliviaOnlyDrill"
+    },
+    {
+      "id": 28,
+      "name": "Olivia Drill Durable",
+      "code_name": "OliviaDrillDurable"
+    },
+    {
+      "id": 29,
+      "name": "Olivia Drill Tyrants",
+      "code_name": "OliviaDrillTyrants"
+    },
+    {
+      "id": 30,
+      "name": "Anibella Big Bullet",
+      "code_name": "AnibellaBigBullet"
+    },
+    {
+      "id": 31,
+      "name": "Anibella Penetrate",
+      "code_name": "AnibellaPenetrate"
+    },
+    {
+      "id": 32,
+      "name": "Anibella Combo Move Speed UP",
+      "code_name": "AnibellaComboMoveSpeedUP"
+    },
+    {
+      "id": 33,
+      "name": "Penhaligon Combo More Shoot",
+      "code_name": "PenhaligonComboMoreShoot"
+    },
+    {
+      "id": 34,
+      "name": "Penhaligon Adhesive Bomb",
+      "code_name": "PenhaligonAdhesiveBomb"
+    },
+    {
+      "id": 35,
+      "name": "Penhaligon Combo Debuff Sure",
+      "code_name": "PenhaligonComboDebuffSure"
+    },
+    {
+      "id": 36,
+      "name": "Hayfa Recovery Dagger",
+      "code_name": "HayfaRecoveryDagger"
+    },
+    {
+      "id": 37,
+      "name": "Hayfa Combo Poison Bomb",
+      "code_name": "HayfaComboPoisonBomb"
+    },
+    {
+      "id": 38,
+      "name": "Hayfa Combo Poison Bullet",
+      "code_name": "HayfaComboPoisonBullet"
+    },
+    {
+      "id": 39,
+      "name": "Hannah Combo Penetrate",
+      "code_name": "HannahComboPenetrate"
+    },
+    {
+      "id": 40,
+      "name": "Hannah Combo Double Shoot",
+      "code_name": "HannahComboDoubleShoot"
+    },
+    {
+      "id": 41,
+      "name": "Hannah Kill Bullet Back",
+      "code_name": "HannahKillBulletBack"
+    },
+    {
+      "id": 42,
+      "name": "Xuanshe Split",
+      "code_name": "XuansheSplit"
+    },
+    {
+      "id": 43,
+      "name": "Xuanshe More Needle",
+      "code_name": "XuansheMoreNeedle"
+    },
+    {
+      "id": 44,
+      "name": "Xuanshe Lock Needle",
+      "code_name": "XuansheLockNeedle"
+    },
+    {
+      "id": 45,
+      "name": "Heyao Super Hilt",
+      "code_name": "HeyaoSuperHilt"
+    },
+    {
+      "id": 46,
+      "name": "Heyao Super Blade",
+      "code_name": "HeyaoSuperBlade"
+    },
+    {
+      "id": 47,
+      "name": "Heyao Pursue",
+      "code_name": "HeyaoPursue"
+    },
+    {
+      "id": 48,
+      "name": "Aimi Combo Holy",
+      "code_name": "AimiComboHoly"
+    },
+    {
+      "id": 49,
+      "name": "Aimi Combo Penetrate Once",
+      "code_name": "AimiComboPenetrateOnce"
+    },
+    {
+      "id": 50,
+      "name": "Aimi Combo Kill Get Faith",
+      "code_name": "AimiComboKillGetFaith"
+    },
+    {
+      "id": 51,
+      "name": "Uliana Combo Cold",
+      "code_name": "UlianaComboCold"
+    },
+    {
+      "id": 52,
+      "name": "Uliana Combo Slash More Damage",
+      "code_name": "UlianaComboSlashMoreDamage"
+    },
+    {
+      "id": 53,
+      "name": "Uliana Combo Slash",
+      "code_name": "UlianaComboSlash"
+    },
+    {
+      "id": 54,
+      "name": "Ruthven Devil Value Back",
+      "code_name": "RuthvenDevilValueBack"
+    },
+    {
+      "id": 55,
+      "name": "Ruthven Combo Bleed",
+      "code_name": "RuthvenComboBleed"
+    },
+    {
+      "id": 56,
+      "name": "Ruthven Combo Keep Bleed",
+      "code_name": "RuthvenComboKeepBleed"
+    },
+    {
+      "id": 57,
+      "name": "Gangdan Super Combo",
+      "code_name": "GangdanSuperCombo"
+    },
+    {
+      "id": 58,
+      "name": "Gangdan Combo Holy",
+      "code_name": "GangdanComboHoly"
+    },
+    {
+      "id": 59,
+      "name": "Gangdan Block Damage",
+      "code_name": "GangdanBlockDamage"
+    },
+    {
+      "id": 60,
+      "name": "Sakari Bullet Fist",
+      "code_name": "SakariBulletFist"
+    },
+    {
+      "id": 61,
+      "name": "Sakari Bullet Fist Durable",
+      "code_name": "SakariBulletFistDurable"
+    },
+    {
+      "id": 62,
+      "name": "Annice Superspin",
+      "code_name": "AnniceSuperspin"
+    },
+    {
+      "id": 63,
+      "name": "Annice Get Shield",
+      "code_name": "AnniceGetShield"
+    },
+    {
+      "id": 64,
+      "name": "Adira Super Combo",
+      "code_name": "AdiraSuperCombo"
+    },
+    {
+      "id": 65,
+      "name": "Adira Slash Might",
+      "code_name": "AdiraSlashMight"
+    },
+    {
+      "id": 66,
+      "name": "Yangkyi Enhance Attack",
+      "code_name": "YangkyiEnhanceAttack"
+    },
+    {
+      "id": 67,
+      "name": "Yangkyi Enhance Explode Area",
+      "code_name": "YangkyiEnhanceExplodeArea"
+    },
+    {
+      "id": 68,
+      "name": "Yangkyi Through Wall",
+      "code_name": "YangkyiThroughWall"
+    },
+    {
+      "id": 69,
+      "name": "Yangkyi Chase Enemy",
+      "code_name": "YangkyiChaseEnemy"
+    },
+    {
+      "id": 70,
+      "name": "Yangkyi Double Orb",
+      "code_name": "YangkyiDoubleOrb"
+    },
+    {
+      "id": 71,
+      "name": "Youzi Combo Reduce Heat",
+      "code_name": "YouziComboReduceHeat"
+    },
+    {
+      "id": 72,
+      "name": "Youzi Combo Over Heat Penetrate",
+      "code_name": "YouziComboOverHeatPenetrate"
+    },
+    {
+      "id": 73,
+      "name": "Youzi Combo Penetrate Stuff",
+      "code_name": "YouziComboPenetrateStuff"
+    },
+    {
+      "id": 74,
+      "name": "Youzi Combo Over Heat Crit",
+      "code_name": "YouziComboOverHeatCrit"
+    },
+    {
+      "id": 75,
+      "name": "Yufeng Reduce CD On Kill",
+      "code_name": "YufengReduceCDOnKill"
+    },
+    {
+      "id": 76,
+      "name": "Yufeng Combo No Stiff",
+      "code_name": "YufengComboNoStiff"
+    },
+    {
+      "id": 77,
+      "name": "Yufeng Last Attack Crit",
+      "code_name": "YufengLastAttackCrit"
+    },
+    {
+      "id": 78,
+      "name": "Wufei Extra Dodge Arrow",
+      "code_name": "WufeiExtraDodgeArrow"
+    },
+    {
+      "id": 79,
+      "name": "Wufei Dodge Arrow Penetrate",
+      "code_name": "WufeiDodgeArrowPenetrate"
+    },
+    {
+      "id": 80,
+      "name": "Wufei Combo On Marked",
+      "code_name": "WufeiComboOnMarked"
+    },
+    {
+      "id": 81,
+      "name": "Set Dot",
+      "code_name": "SetDot"
+    },
+    {
+      "id": 82,
+      "name": "Bunny Last Hit Blast",
+      "code_name": "BunnyLastHitBlast"
+    },
+    {
+      "id": 83,
+      "name": "Bunny Double Shot",
+      "code_name": "BunnyDoubleShot"
+    },
+    {
+      "id": 84,
+      "name": "Bunny More Energy",
+      "code_name": "BunnyMoreEnergy"
+    },
+    {
+      "id": 85,
+      "name": "Qifeng Weapon Power 1",
+      "code_name": "QifengWeaponPower1"
+    },
+    {
+      "id": 86,
+      "name": "Qifeng Weapon Power 2",
+      "code_name": "QifengWeaponPower2"
+    },
+    {
+      "id": 87,
+      "name": "Qifeng Weapon Power 3",
+      "code_name": "QifengWeaponPower3"
+    },
+    {
+      "id": 88,
+      "name": "Linxiao Combo Add Lightning Attack",
+      "code_name": "LinxiaoComboAddLightningAttack"
+    },
+    {
+      "id": 89,
+      "name": "Linxiao Combo Spawn Fantom Spear",
+      "code_name": "LinxiaoComboSpawnFantomSpear"
+    },
+    {
+      "id": 90,
+      "name": "Linxiao Combo Add Lightning Debuff",
+      "code_name": "LinxiaoComboAddLightningDebuff"
+    },
+    {
+      "id": 91,
+      "name": "Feiyu In Area Combo Dmg Up",
+      "code_name": "FeiyuInAreaComboDmgUp"
+    },
+    {
+      "id": 92,
+      "name": "Feiyu Longer Combo Effect",
+      "code_name": "FeiyuLongerComboEffect"
+    },
+    {
+      "id": 93,
+      "name": "Feiyu Ally Get Combo Effect",
+      "code_name": "FeiyuAllyGetComboEffect"
+    },
+    {
+      "id": 94,
+      "name": "Hualing Combo Apply Brittle",
+      "code_name": "HualingComboApplyBrittle"
+    },
+    {
+      "id": 95,
+      "name": "Hualing Combo Gain Momentum",
+      "code_name": "HualingComboGainMomentum"
+    },
+    {
+      "id": 96,
+      "name": "Rana Advance Attack Speed On Consecutive Hit",
+      "code_name": "RanaAdvanceAttackSpeedOnConsecutiveHit"
+    },
+    {
+      "id": 97,
+      "name": "Rana Interval Refresh Advanced Attack",
+      "code_name": "RanaIntervalRefreshAdvancedAttack"
+    },
+    {
+      "id": 98,
+      "name": "Rana Last Combo Phase Call Phantom",
+      "code_name": "RanaLastComboPhaseCallPhantom"
+    },
+    {
+      "id": 99,
+      "name": "Erdene Reduce Shot Gun Count",
+      "code_name": "ErdeneReduceShotGunCount"
+    },
+    {
+      "id": 100,
+      "name": "Erdene Chance Add Mark",
+      "code_name": "ErdeneChanceAddMark"
+    },
+    {
+      "id": 101,
+      "name": "Erdene Combo Add Crit Chance",
+      "code_name": "ErdeneComboAddCritChance"
+    },
+    {
+      "id": 102,
+      "name": "Dragon Extra Special Combo",
+      "code_name": "DragonExtraSpecialCombo"
+    },
+    {
+      "id": 103,
+      "name": "Dragon Shoot Wave",
+      "code_name": "DragonShootWave"
+    },
+    {
+      "id": 104,
+      "name": "Dragon Special Combo Mult Hit",
+      "code_name": "DragonSpecialComboMultHit"
+    }
+  ]
+}

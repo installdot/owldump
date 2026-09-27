@@ -1,0 +1,240 @@
+{
+  "count": 39,
+  "description": "Magnetic Cassette Tapes / Music Albums",
+  "data": [
+    {
+      "id": 0,
+      "name": "Arab",
+      "code_name": "album_arab",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 1,
+      "name": "Cn",
+      "code_name": "album_cn",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 2,
+      "name": "Eu",
+      "code_name": "album_eu",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 3,
+      "name": "Jpn",
+      "code_name": "album_jpn",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 4,
+      "name": "Us",
+      "code_name": "album_us",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 5,
+      "name": "Forest",
+      "code_name": "album_forest",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 6,
+      "name": "Ger",
+      "code_name": "album_ger",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 7,
+      "name": "Nordic",
+      "code_name": "album_nordic",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 8,
+      "name": "Nw",
+      "code_name": "album_nw",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 9,
+      "name": "Magic",
+      "code_name": "album_magic",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 10,
+      "name": "Magic 2",
+      "code_name": "album_magic2",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 11,
+      "name": "Fire Dance",
+      "code_name": "album_fireDance",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 12,
+      "name": "Arab Boss",
+      "code_name": "album_arab_boss",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 13,
+      "name": "Cn Boss",
+      "code_name": "album_cn_boss",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 14,
+      "name": "Eu Boss",
+      "code_name": "album_eu_boss",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 15,
+      "name": "Eu Boss 2 1",
+      "code_name": "album_eu_boss2_1",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 16,
+      "name": "Eu Boss 2 2",
+      "code_name": "album_eu_boss2_2",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 17,
+      "name": "Jpn Boss",
+      "code_name": "album_jpn_boss",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 18,
+      "name": "Us Boss",
+      "code_name": "album_us_boss",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 19,
+      "name": "Forest Boss",
+      "code_name": "album_forest_boss",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 20,
+      "name": "Ger Boss",
+      "code_name": "album_ger_boss",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 21,
+      "name": "Nordic Boss",
+      "code_name": "album_nordic_boss",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 22,
+      "name": "Nw Boss",
+      "code_name": "album_nw_boss",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 23,
+      "name": "Magic Boss",
+      "code_name": "album_magic_boss",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 24,
+      "name": "Final Boss 1",
+      "code_name": "album_final_boss_1",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 25,
+      "name": "Final Boss 2",
+      "code_name": "album_final_boss_2",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 26,
+      "name": "Fire Dance Boss 1",
+      "code_name": "album_fireDance_boss_1",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 27,
+      "name": "Fire Dance Boss 2",
+      "code_name": "album_fireDance_boss_2",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 28,
+      "name": "Ending",
+      "code_name": "album_ending",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 29,
+      "name": "Vaporwave",
+      "code_name": "album_vaporwave",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 30,
+      "name": "Jpn Boss 2",
+      "code_name": "album_jpn_boss2",
+      "track_type": "Boss Track"
+    },
+    {
+      "id": 31,
+      "name": "Asura Rendao",
+      "code_name": "album_asura_rendao",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 32,
+      "name": "Asura Shoudao",
+      "code_name": "album_asura_shoudao",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 33,
+      "name": "Asura Guidao",
+      "code_name": "album_asura_guidao",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 34,
+      "name": "Asura Yudao",
+      "code_name": "album_asura_yudao",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 35,
+      "name": "Asura Xiuluodao 1",
+      "code_name": "album_asura_xiuluodao_1",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 36,
+      "name": "Asura Xiuluodao 2",
+      "code_name": "album_asura_xiuluodao_2",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 37,
+      "name": "Asura Tianrendao 1",
+      "code_name": "album_asura_tianrendao_1",
+      "track_type": "Stage Track"
+    },
+    {
+      "id": 38,
+      "name": "Asura Tianrendao 2",
+      "code_name": "album_asura_tianrendao_2",
+      "track_type": "Stage Track"
+    }
+  ]
+}

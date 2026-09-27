@@ -1,0 +1,299 @@
+{
+  "types_count": 7,
+  "affixes_count": 51,
+  "description": "Six Cycles / Six Realms Orbs and Affixes",
+  "types": [
+    {
+      "id": 0,
+      "name": "Ren Dao",
+      "code_name": "RenDao"
+    },
+    {
+      "id": 1,
+      "name": "Shou Dao",
+      "code_name": "ShouDao"
+    },
+    {
+      "id": 2,
+      "name": "Gui Dao",
+      "code_name": "GuiDao"
+    },
+    {
+      "id": 3,
+      "name": "Yu Dao",
+      "code_name": "YuDao"
+    },
+    {
+      "id": 4,
+      "name": "Xiu Luo Dao",
+      "code_name": "XiuLuoDao"
+    },
+    {
+      "id": 5,
+      "name": "Tian Ren Dao",
+      "code_name": "TianRenDao"
+    },
+    {
+      "id": 6,
+      "name": "Ye",
+      "code_name": "Ye"
+    }
+  ],
+  "affixes": [
+    {
+      "id": 0,
+      "name": "None",
+      "code_name": "None"
+    },
+    {
+      "id": 1,
+      "name": "Ren Dao Start With More Gold",
+      "code_name": "RenDaoStartWithMoreGold"
+    },
+    {
+      "id": 2,
+      "name": "Ren Dao Cheap First Item And Weapon",
+      "code_name": "RenDaoCheapFirstItemAndWeapon"
+    },
+    {
+      "id": 3,
+      "name": "Ren Dao Extra Gold On Kill Boss",
+      "code_name": "RenDaoExtraGoldOnKillBoss"
+    },
+    {
+      "id": 4,
+      "name": "Ren Dao Gold Spent Dmg Up",
+      "code_name": "RenDaoGoldSpentDmgUp"
+    },
+    {
+      "id": 5,
+      "name": "Ren Dao Use Gold To Respawn",
+      "code_name": "RenDaoUseGoldToRespawn"
+    },
+    {
+      "id": 6,
+      "name": "Ren Dao Drop Gold On Kill Status Effect",
+      "code_name": "RenDaoDropGoldOnKillStatusEffect"
+    },
+    {
+      "id": 7,
+      "name": "Ren Dao Gain Gold Max Health Inc",
+      "code_name": "RenDaoGainGoldMaxHealthInc"
+    },
+    {
+      "id": 8,
+      "name": "Shou Dao Grey Wolf Companion",
+      "code_name": "ShouDaoGreyWolfCompanion"
+    },
+    {
+      "id": 9,
+      "name": "Shou Dao Pet Taunt",
+      "code_name": "ShouDaoPetTaunt"
+    },
+    {
+      "id": 10,
+      "name": "Shou Dao Hero Health To Pet Dmg",
+      "code_name": "ShouDaoHeroHealthToPetDmg"
+    },
+    {
+      "id": 11,
+      "name": "Shou Dao Prevent Death With Buff",
+      "code_name": "ShouDaoPreventDeathWithBuff"
+    },
+    {
+      "id": 12,
+      "name": "Shou Dao Pet Apply Debuff",
+      "code_name": "ShouDaoPetApplyDebuff"
+    },
+    {
+      "id": 13,
+      "name": "Shou Dao Pet Stiff Res",
+      "code_name": "ShouDaoPetStiffRes"
+    },
+    {
+      "id": 14,
+      "name": "Shou Dao Pet Heal Master On Kill",
+      "code_name": "ShouDaoPetHealMasterOnKill"
+    },
+    {
+      "id": 15,
+      "name": "Gui Dao Perfect Dodge Invisible",
+      "code_name": "GuiDaoPerfectDodgeInvisible"
+    },
+    {
+      "id": 16,
+      "name": "Gui Dao Break Stealth Dmg Up",
+      "code_name": "GuiDaoBreakStealthDmgUp"
+    },
+    {
+      "id": 17,
+      "name": "Gui Dao Break Stealth Crit",
+      "code_name": "GuiDaoBreakStealthCrit"
+    },
+    {
+      "id": 18,
+      "name": "Gui Dao Perfect Dodge End Cooldown",
+      "code_name": "GuiDaoPerfectDodgeEndCooldown"
+    },
+    {
+      "id": 19,
+      "name": "Gui Dao Easier Perfect Dodge",
+      "code_name": "GuiDaoEasierPerfectDodge"
+    },
+    {
+      "id": 20,
+      "name": "Gui Dao Perfect Dodge Explode",
+      "code_name": "GuiDaoPerfectDodgeExplode"
+    },
+    {
+      "id": 21,
+      "name": "Gui Dao Perfect Dodge After Kill",
+      "code_name": "GuiDaoPerfectDodgeAfterKill"
+    },
+    {
+      "id": 22,
+      "name": "Yu Dao Apply Effect On Attack",
+      "code_name": "YuDaoApplyEffectOnAttack"
+    },
+    {
+      "id": 23,
+      "name": "Yu Dao Apply Effect On Touching Others",
+      "code_name": "YuDaoApplyEffectOnTouchingOthers"
+    },
+    {
+      "id": 24,
+      "name": "Yu Dao Apply To Others On Attack",
+      "code_name": "YuDaoApplyToOthersOnAttack"
+    },
+    {
+      "id": 25,
+      "name": "Yu Dao Extra Effect Stack",
+      "code_name": "YuDaoExtraEffectStack"
+    },
+    {
+      "id": 26,
+      "name": "Yu Dao Extra Crit Apply Effect",
+      "code_name": "YuDaoExtraCritApplyEffect"
+    },
+    {
+      "id": 27,
+      "name": "Yu Dao Apply Effect On Enter Room",
+      "code_name": "YuDaoApplyEffectOnEnterRoom"
+    },
+    {
+      "id": 28,
+      "name": "Yu Dao Attack On Effected Extra Dmg",
+      "code_name": "YuDaoAttackOnEffectedExtraDmg"
+    },
+    {
+      "id": 29,
+      "name": "Xiu Luo Dao Lower Health Dmg Up",
+      "code_name": "XiuLuoDaoLowerHealthDmgUp"
+    },
+    {
+      "id": 30,
+      "name": "Xiu Luo Dao Battle Ghost",
+      "code_name": "XiuLuoDaoBattleGhost"
+    },
+    {
+      "id": 31,
+      "name": "Xiu Luo Dao Half Health Tyrant",
+      "code_name": "XiuLuoDaoHalfHealthTyrant"
+    },
+    {
+      "id": 32,
+      "name": "Xiu Luo Dao Lower Health Attack Speed Up",
+      "code_name": "XiuLuoDaoLowerHealthAttackSpeedUp"
+    },
+    {
+      "id": 33,
+      "name": "Xiu Luo Dao Lower Health Crit Chance Up",
+      "code_name": "XiuLuoDaoLowerHealthCritChanceUp"
+    },
+    {
+      "id": 34,
+      "name": "Xiu Luo Dao Respawn Get Enrage",
+      "code_name": "XiuLuoDaoRespawnGetEnrage"
+    },
+    {
+      "id": 35,
+      "name": "Xiu Luo Dao Lost Health Extra Dmg",
+      "code_name": "XiuLuoDaoLostHealthExtraDmg"
+    },
+    {
+      "id": 36,
+      "name": "Tian Ren Dao Extra Life",
+      "code_name": "TianRenDaoExtraLife"
+    },
+    {
+      "id": 37,
+      "name": "Tian Ren Dao Deduct Health First",
+      "code_name": "TianRenDaoDeductHealthFirst"
+    },
+    {
+      "id": 38,
+      "name": "Tian Ren Dao Respawn Get Stronger",
+      "code_name": "TianRenDaoRespawnGetStronger"
+    },
+    {
+      "id": 39,
+      "name": "Tian Ren Dao Pull Enemy After Hit",
+      "code_name": "TianRenDaoPullEnemyAfterHit"
+    },
+    {
+      "id": 40,
+      "name": "Tian Ren Dao Player Taunt On Skill Hit",
+      "code_name": "TianRenDaoPlayerTauntOnSkillHit"
+    },
+    {
+      "id": 41,
+      "name": "Tian Ren Dao More Dmg Reduce More Dmg",
+      "code_name": "TianRenDaoMoreDmgReduceMoreDmg"
+    },
+    {
+      "id": 42,
+      "name": "Tian Ren Dao On Kill Regen Health Shield",
+      "code_name": "TianRenDaoOnKillRegenHealthShield"
+    },
+    {
+      "id": 43,
+      "name": "Ye Filler Main Affix",
+      "code_name": "YeFillerMainAffix"
+    },
+    {
+      "id": 44,
+      "name": "Generic Dmg Up",
+      "code_name": "GenericDmgUp"
+    },
+    {
+      "id": 45,
+      "name": "Generic Health Up",
+      "code_name": "GenericHealthUp"
+    },
+    {
+      "id": 46,
+      "name": "Generic Shield Up",
+      "code_name": "GenericShieldUp"
+    },
+    {
+      "id": 47,
+      "name": "Generic Move Speed Up",
+      "code_name": "GenericMoveSpeedUp"
+    },
+    {
+      "id": 48,
+      "name": "Generic Crit Dmg Up",
+      "code_name": "GenericCritDmgUp"
+    },
+    {
+      "id": 49,
+      "name": "Generic More Soul Gem",
+      "code_name": "GenericMoreSoulGem"
+    },
+    {
+      "id": 50,
+      "name": "Generic Dmg Up To Elite And Boss",
+      "code_name": "GenericDmgUpToEliteAndBoss"
+    }
+  ]
+}

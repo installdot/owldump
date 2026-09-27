@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "Ren"
+  },
+  {
+    "id": 2,
+    "code_name": "Shou"
+  },
+  {
+    "id": 3,
+    "code_name": "Gui"
+  },
+  {
+    "id": 4,
+    "code_name": "Yu"
+  },
+  {
+    "id": 5,
+    "code_name": "XiuLuo"
+  },
+  {
+    "id": 6,
+    "code_name": "TianRen"
+  }
+]

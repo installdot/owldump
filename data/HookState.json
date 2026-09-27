@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "Idle"
+  },
+  {
+    "id": 1,
+    "code_name": "Outstretch"
+  },
+  {
+    "id": 2,
+    "code_name": "Stop"
+  },
+  {
+    "id": 3,
+    "code_name": "Retract"
+  },
+  {
+    "id": 4,
+    "code_name": "Over"
+  }
+]

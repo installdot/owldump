@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "Classic"
+  },
+  {
+    "id": 2,
+    "code_name": "Imbalanced"
+  },
+  {
+    "id": 3,
+    "code_name": "Survival"
+  },
+  {
+    "id": 4,
+    "code_name": "SpringTimeLimit"
+  },
+  {
+    "id": 5,
+    "code_name": "CrackFireDance"
+  },
+  {
+    "id": 6,
+    "code_name": "SimpleAutoChess"
+  },
+  {
+    "id": 7,
+    "code_name": "SixCycle"
+  },
+  {
+    "id": 8,
+    "code_name": "RandomBattleBuff"
+  }
+]

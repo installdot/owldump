@@ -1,0 +1,242 @@
+[
+  {
+    "id": 0,
+    "code_name": "ce_angryPufferFish_Growing"
+  },
+  {
+    "id": 1,
+    "code_name": "ce_sacrificeKnife_Growing"
+  },
+  {
+    "id": 2,
+    "code_name": "ce_halfHealthRage_Growing"
+  },
+  {
+    "id": 3,
+    "code_name": "ce_sunWine_Growing"
+  },
+  {
+    "id": 4,
+    "code_name": "ce_sunWine_Effect"
+  },
+  {
+    "id": 5,
+    "code_name": "ce_crowbar_Growing"
+  },
+  {
+    "id": 6,
+    "code_name": "ce_poisonTouch_Growing"
+  },
+  {
+    "id": 7,
+    "code_name": "ce_burnTouch_Growing"
+  },
+  {
+    "id": 8,
+    "code_name": "ce_frozenTouch_Growing"
+  },
+  {
+    "id": 9,
+    "code_name": "ce_thunderBall_Growing"
+  },
+  {
+    "id": 10,
+    "code_name": "ce_sickMan_Growing"
+  },
+  {
+    "id": 11,
+    "code_name": "ce_tykeSoul_Growing"
+  },
+  {
+    "id": 12,
+    "code_name": "ce_drillingMonkey_Effect"
+  },
+  {
+    "id": 13,
+    "code_name": "ce_drillingMonkey_Growing"
+  },
+  {
+    "id": 14,
+    "code_name": "ce_petLibeluece_Growing"
+  },
+  {
+    "id": 15,
+    "code_name": "ce_holyFestival_Effect"
+  },
+  {
+    "id": 16,
+    "code_name": "ce_holyFestival_Growing"
+  },
+  {
+    "id": 17,
+    "code_name": "ce_marathon_Growing"
+  },
+  {
+    "id": 18,
+    "code_name": "ce_flameFlower_Growing"
+  },
+  {
+    "id": 19,
+    "code_name": "ce_redMushroom_Growing"
+  },
+  {
+    "id": 20,
+    "code_name": "ce_shamanTotem_Growing"
+  },
+  {
+    "id": 21,
+    "code_name": "ce_critRing_Growing"
+  },
+  {
+    "id": 22,
+    "code_name": "ce_basicHealth_Growing"
+  },
+  {
+    "id": 23,
+    "code_name": "ce_basicAttackSpeed_Growing"
+  },
+  {
+    "id": 24,
+    "code_name": "ce_basicShield_Growing"
+  },
+  {
+    "id": 25,
+    "code_name": "ce_attributePrism_Growing"
+  },
+  {
+    "id": 26,
+    "code_name": "ce_weakPointLens_Growing"
+  },
+  {
+    "id": 27,
+    "code_name": "ce_braveShield_Growing"
+  },
+  {
+    "id": 28,
+    "code_name": "ce_jujijing_Growing"
+  },
+  {
+    "id": 29,
+    "code_name": "ce_muscleFeedback_Growing"
+  },
+  {
+    "id": 30,
+    "code_name": "ce_shouhuan_Growing"
+  },
+  {
+    "id": 31,
+    "code_name": "ce_hotWheel_Growing"
+  },
+  {
+    "id": 32,
+    "code_name": "ce_yuchang_Effect"
+  },
+  {
+    "id": 33,
+    "code_name": "ce_yuchang_Growing"
+  },
+  {
+    "id": 34,
+    "code_name": "ce_sea25_Effect"
+  },
+  {
+    "id": 35,
+    "code_name": "ce_sea25_Growing"
+  },
+  {
+    "id": 36,
+    "code_name": "ce_buttonBoom_Growing"
+  },
+  {
+    "id": 37,
+    "code_name": "ce_cat_Growing"
+  },
+  {
+    "id": 38,
+    "code_name": "ce_trailce_fireIce_Effect"
+  },
+  {
+    "id": 39,
+    "code_name": "ce_trailce_fireIce_Growing"
+  },
+  {
+    "id": 40,
+    "code_name": "ce_leicha_Effect"
+  },
+  {
+    "id": 41,
+    "code_name": "ce_pursuit_Effect"
+  },
+  {
+    "id": 42,
+    "code_name": "ce_drumbling_Effect"
+  },
+  {
+    "id": 43,
+    "code_name": "ce_blastingFuse_Effect"
+  },
+  {
+    "id": 44,
+    "code_name": "ce_iceBag_Effect"
+  },
+  {
+    "id": 45,
+    "code_name": "ce_blackElf_Effect"
+  },
+  {
+    "id": 46,
+    "code_name": "ce_FishTank_Effect"
+  },
+  {
+    "id": 47,
+    "code_name": "ce_damokelisi_Effect"
+  },
+  {
+    "id": 48,
+    "code_name": "ce_fireSupport_Effect"
+  },
+  {
+    "id": 49,
+    "code_name": "ce_flameFlower_Effect"
+  },
+  {
+    "id": 50,
+    "code_name": "ce_shuriken_Effect"
+  },
+  {
+    "id": 51,
+    "code_name": "ce_hedgehog_Effect"
+  },
+  {
+    "id": 52,
+    "code_name": "ce_holyGrail_Effect"
+  },
+  {
+    "id": 53,
+    "code_name": "ce_wuhun_Effect"
+  },
+  {
+    "id": 54,
+    "code_name": "ce_arsonistMask_Effect"
+  },
+  {
+    "id": 55,
+    "code_name": "ce_gloves_Effect"
+  },
+  {
+    "id": 56,
+    "code_name": "ce_rotateFireBumper_Effect"
+  },
+  {
+    "id": 57,
+    "code_name": "ce_rotateFireBumper_Growing"
+  },
+  {
+    "id": 58,
+    "code_name": "ce_fireworksce_Effect"
+  },
+  {
+    "id": 59,
+    "code_name": "ce_fireworks_Growing"
+  }
+]

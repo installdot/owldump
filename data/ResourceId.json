@@ -1,0 +1,78 @@
+[
+  {
+    "id": 0,
+    "code_name": "BlueStone"
+  },
+  {
+    "id": 1,
+    "code_name": "RedStone"
+  },
+  {
+    "id": 2,
+    "code_name": "SoulStone"
+  },
+  {
+    "id": 3,
+    "code_name": "HeroCommonPiece"
+  },
+  {
+    "id": 4,
+    "code_name": "SkinCommonPiece"
+  },
+  {
+    "id": 5,
+    "code_name": "WeaponTicket"
+  },
+  {
+    "id": 6,
+    "code_name": "RebornCard"
+  },
+  {
+    "id": 7,
+    "code_name": "PetFood"
+  },
+  {
+    "id": 8,
+    "code_name": "PetToy"
+  },
+  {
+    "id": 9,
+    "code_name": "BattlePassLevel"
+  },
+  {
+    "id": 10,
+    "code_name": "ESRIdentifyTicket"
+  },
+  {
+    "id": 11,
+    "code_name": "OrbRefineTicket"
+  },
+  {
+    "id": 12,
+    "code_name": "BarVIPCard"
+  },
+  {
+    "id": 13,
+    "code_name": "GoldBar"
+  },
+  {
+    "id": 14,
+    "code_name": "GoldBars"
+  },
+  {
+    "id": 15,
+    "code_name": "ChristmasGift"
+  },
+  {
+    "id": 16,
+    "code_name": "SpringRedPacket"
+  },
+  {
+    "id": 17,
+    "code_name": "SignGiftBox"
+  },
+  {
+    "id": 18,
+    "code_name": "DailyBoxExchangeablePiece"
+  }
+]

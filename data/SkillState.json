@@ -1,0 +1,14 @@
+[
+  {
+    "id": -1,
+    "code_name": "Inactive"
+  },
+  {
+    "id": 0,
+    "code_name": "BackJump"
+  },
+  {
+    "id": 1,
+    "code_name": "ForwardJump"
+  }
+]

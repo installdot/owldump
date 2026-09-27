@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "ChessLevelUp"
+  },
+  {
+    "id": 1,
+    "code_name": "LineupExpansion"
+  },
+  {
+    "id": 2,
+    "code_name": "RefreshStore"
+  },
+  {
+    "id": 3,
+    "code_name": "BuyChess"
+  },
+  {
+    "id": 4,
+    "code_name": "BuyItem"
+  }
+]

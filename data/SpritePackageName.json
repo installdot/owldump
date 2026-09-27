@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "CommonPetIcons"
+  },
+  {
+    "id": 1,
+    "code_name": "CommonSmallHeroIcons"
+  },
+  {
+    "id": 2,
+    "code_name": "CommonSixCycleIcons"
+  },
+  {
+    "id": 3,
+    "code_name": "CommonSixCycleWordIcons"
+  }
+]

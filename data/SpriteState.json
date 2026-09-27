@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "Idle0"
+  },
+  {
+    "id": 1,
+    "code_name": "Idle1"
+  },
+  {
+    "id": 2,
+    "code_name": "Idle2"
+  },
+  {
+    "id": 3,
+    "code_name": "Idle3"
+  },
+  {
+    "id": 4,
+    "code_name": "Attack"
+  }
+]

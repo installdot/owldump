@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "code_name": "Normal"
+  },
+  {
+    "id": 1,
+    "code_name": "ShadowAttack"
+  },
+  {
+    "id": 2,
+    "code_name": "BackAttack"
+  },
+  {
+    "id": 3,
+    "code_name": "BurningTick"
+  },
+  {
+    "id": 4,
+    "code_name": "TrapAttack"
+  },
+  {
+    "id": 5,
+    "code_name": "BounceAttack"
+  },
+  {
+    "id": 6,
+    "code_name": "PenhaligonDebuffAttack"
+  },
+  {
+    "id": 7,
+    "code_name": "AdiraPowerAttack"
+  },
+  {
+    "id": 8,
+    "code_name": "AdiraWhirlWindStyle3"
+  },
+  {
+    "id": 9,
+    "code_name": "Physical"
+  },
+  {
+    "id": 10,
+    "code_name": "Magic"
+  },
+  {
+    "id": 11,
+    "code_name": "Burning"
+  },
+  {
+    "id": 12,
+    "code_name": "Poisoning"
+  },
+  {
+    "id": 13,
+    "code_name": "Bleeding"
+  },
+  {
+    "id": 14,
+    "code_name": "Frostbite"
+  },
+  {
+    "id": 15,
+    "code_name": "Lightning"
+  },
+  {
+    "id": 16,
+    "code_name": "ErdeneEagleAttack"
+  },
+  {
+    "id": 17,
+    "code_name": "ErdeneEagleAttackNormalAndFeather"
+  }
+]

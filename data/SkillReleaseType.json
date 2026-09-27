@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "code_name": "Melee"
+  },
+  {
+    "id": 1,
+    "code_name": "Remotely"
+  },
+  {
+    "id": 2,
+    "code_name": "Magic"
+  },
+  {
+    "id": 3,
+    "code_name": "Hit"
+  },
+  {
+    "id": 4,
+    "code_name": "Cut"
+  },
+  {
+    "id": 5,
+    "code_name": "Buff"
+  },
+  {
+    "id": 6,
+    "code_name": "OnlyForce"
+  },
+  {
+    "id": 7,
+    "code_name": "OnlyExtendStiff"
+  },
+  {
+    "id": 8,
+    "code_name": "OnlyTrigger"
+  },
+  {
+    "id": 9,
+    "code_name": "NoEnemyEvent"
+  },
+  {
+    "id": 10,
+    "code_name": "Dot"
+  },
+  {
+    "id": 11,
+    "code_name": "Projectile"
+  },
+  {
+    "id": 12,
+    "code_name": "DontHitStuff"
+  },
+  {
+    "id": 13,
+    "code_name": "WithTrigger"
+  },
+  {
+    "id": 14,
+    "code_name": "CreatArtilleryPit"
+  },
+  {
+    "id": 15,
+    "code_name": "StopAnimPause"
+  },
+  {
+    "id": 16,
+    "code_name": "MoreDevil"
+  },
+  {
+    "id": 17,
+    "code_name": "IgnoreBLock"
+  }
+]

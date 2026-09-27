@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Close"
+  },
+  {
+    "id": 1,
+    "code_name": "SelectPanel"
+  },
+  {
+    "id": 2,
+    "code_name": "SkillPanel"
+  },
+  {
+    "id": 3,
+    "code_name": "CocktailPanel"
+  }
+]

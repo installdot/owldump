@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "code_name": "soap"
+  },
+  {
+    "id": 1,
+    "code_name": "brokenBackpack"
+  },
+  {
+    "id": 2,
+    "code_name": "volcano"
+  },
+  {
+    "id": 3,
+    "code_name": "antibiotic"
+  },
+  {
+    "id": 4,
+    "code_name": "splitTotem"
+  },
+  {
+    "id": 5,
+    "code_name": "lowerBigger"
+  },
+  {
+    "id": 6,
+    "code_name": "moreTiny"
+  },
+  {
+    "id": 7,
+    "code_name": "battery"
+  },
+  {
+    "id": 8,
+    "code_name": "tyrant"
+  },
+  {
+    "id": 9,
+    "code_name": "handCannon"
+  },
+  {
+    "id": 10,
+    "code_name": "bossHelper"
+  },
+  {
+    "id": 11,
+    "code_name": "uibug"
+  },
+  {
+    "id": 12,
+    "code_name": "randomDebuff"
+  },
+  {
+    "id": 13,
+    "code_name": "allElite"
+  },
+  {
+    "id": 14,
+    "code_name": "deathPoison"
+  },
+  {
+    "id": 16,
+    "code_name": "boxCreater"
+  },
+  {
+    "id": 17,
+    "code_name": "badassTrap"
+  },
+  {
+    "id": 18,
+    "code_name": "sakariHoliday"
+  },
+  {
+    "id": 19,
+    "code_name": "doubleHealth"
+  },
+  {
+    "id": 20,
+    "code_name": "extraRevive"
+  },
+  {
+    "id": 21,
+    "code_name": "mainSkillLowCD"
+  },
+  {
+    "id": 22,
+    "code_name": "damageAccCd"
+  },
+  {
+    "id": 23,
+    "code_name": "goOverLevel2"
+  },
+  {
+    "id": 24,
+    "code_name": "moreSkillDamage"
+  },
+  {
+    "id": 25,
+    "code_name": "moreNormalAttackDamage"
+  },
+  {
+    "id": 26,
+    "code_name": "goodWeapon"
+  },
+  {
+    "id": 27,
+    "code_name": "extraWeapon"
+  },
+  {
+    "id": 28,
+    "code_name": "extraPet"
+  },
+  {
+    "id": 29,
+    "code_name": "powerfulPet"
+  },
+  {
+    "id": 30,
+    "code_name": "extraCritDamage"
+  },
+  {
+    "id": 31,
+    "code_name": "extraChallengeReward"
+  },
+  {
+    "id": 32,
+    "code_name": "extraCEEquip"
+  }
+]

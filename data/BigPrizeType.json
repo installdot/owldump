@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "Coin"
+  },
+  {
+    "id": 1,
+    "code_name": "Item"
+  },
+  {
+    "id": 2,
+    "code_name": "Weapon"
+  }
+]

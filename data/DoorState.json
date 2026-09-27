@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "none"
+  },
+  {
+    "id": 1,
+    "code_name": "close_locked"
+  },
+  {
+    "id": 2,
+    "code_name": "open"
+  }
+]

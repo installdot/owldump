@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "Up"
+  },
+  {
+    "id": 2,
+    "code_name": "Left"
+  },
+  {
+    "id": 3,
+    "code_name": "Down"
+  },
+  {
+    "id": 4,
+    "code_name": "Right"
+  }
+]

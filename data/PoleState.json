@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "Disabled"
+  },
+  {
+    "id": 1,
+    "code_name": "Ready"
+  },
+  {
+    "id": 2,
+    "code_name": "ShootTriggered"
+  },
+  {
+    "id": 3,
+    "code_name": "Shooting"
+  },
+  {
+    "id": 4,
+    "code_name": "Chained"
+  },
+  {
+    "id": 5,
+    "code_name": "Broken"
+  },
+  {
+    "id": 6,
+    "code_name": "Recharging"
+  }
+]

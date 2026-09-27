@@ -1,0 +1,474 @@
+[
+  {
+    "id": 1,
+    "code_name": "Rpc_regist"
+  },
+  {
+    "id": 2,
+    "code_name": "Rpc_unregist"
+  },
+  {
+    "id": 3,
+    "code_name": "Rpc_svr_accept"
+  },
+  {
+    "id": 4,
+    "code_name": "Rpc_net_error"
+  },
+  {
+    "id": 5,
+    "code_name": "Rpc_node_join"
+  },
+  {
+    "id": 6,
+    "code_name": "Rpc_node_quit"
+  },
+  {
+    "id": 7,
+    "code_name": "Rpc_recv_player_msg"
+  },
+  {
+    "id": 8,
+    "code_name": "Rpc_gm_cmd"
+  },
+  {
+    "id": 9,
+    "code_name": "Rpc_log"
+  },
+  {
+    "id": 10,
+    "code_name": "Rpc_meta_list"
+  },
+  {
+    "id": 11,
+    "code_name": "Rpc_update_file"
+  },
+  {
+    "id": 12,
+    "code_name": "Rpc_reload_csv"
+  },
+  {
+    "id": 13,
+    "code_name": "Rpc_get_meta"
+  },
+  {
+    "id": 14,
+    "code_name": "Rpc_timestamp"
+  },
+  {
+    "id": 15,
+    "code_name": "Rpc_center_account_login2"
+  },
+  {
+    "id": 16,
+    "code_name": "Rpc_center_account_reg2"
+  },
+  {
+    "id": 17,
+    "code_name": "Rpc_center_platform_reg"
+  },
+  {
+    "id": 18,
+    "code_name": "Rpc_center_reg_if2"
+  },
+  {
+    "id": 19,
+    "code_name": "Rpc_center_change_password2"
+  },
+  {
+    "id": 20,
+    "code_name": "Rpc_center_set_game_route2"
+  },
+  {
+    "id": 21,
+    "code_name": "Rpc_center_set_game_json2"
+  },
+  {
+    "id": 22,
+    "code_name": "Rpc_center_game_info2"
+  },
+  {
+    "id": 23,
+    "code_name": "Rpc_center_player_addr2"
+  },
+  {
+    "id": 24,
+    "code_name": "Rpc_center_bind_info2"
+  },
+  {
+    "id": 25,
+    "code_name": "Rpc_center_isvalid_bind_info2"
+  },
+  {
+    "id": 26,
+    "code_name": "Rpc_nric_set2"
+  },
+  {
+    "id": 27,
+    "code_name": "Rpc_nric_birthday2"
+  },
+  {
+    "id": 28,
+    "code_name": "Rpc_nric_copy_to2"
+  },
+  {
+    "id": 29,
+    "code_name": "Rpc_nric_online_time_get2"
+  },
+  {
+    "id": 30,
+    "code_name": "Rpc_nric_online_time_set2"
+  },
+  {
+    "id": 31,
+    "code_name": "Rpc_set_identity"
+  },
+  {
+    "id": 32,
+    "code_name": "Rpc_check_identity"
+  },
+  {
+    "id": 100,
+    "code_name": "Rpc_zoo_register"
+  },
+  {
+    "id": 101,
+    "code_name": "Rpc_center_account_login"
+  },
+  {
+    "id": 102,
+    "code_name": "Rpc_center_account_reg"
+  },
+  {
+    "id": 103,
+    "code_name": "Rpc_center_account_222"
+  },
+  {
+    "id": 104,
+    "code_name": "Rpc_center_change_password"
+  },
+  {
+    "id": 105,
+    "code_name": "Rpc_center_bind_info"
+  },
+  {
+    "id": 106,
+    "code_name": "Rpc_login_del_account_cache"
+  },
+  {
+    "id": 107,
+    "code_name": "Rpc_center_set_game_route"
+  },
+  {
+    "id": 108,
+    "code_name": "Rpc_login_account_login"
+  },
+  {
+    "id": 109,
+    "code_name": "Rpc_login_to_center_by_str"
+  },
+  {
+    "id": 110,
+    "code_name": "Rpc_login_get_game_list"
+  },
+  {
+    "id": 112,
+    "code_name": "Rpc_gateway_login"
+  },
+  {
+    "id": 113,
+    "code_name": "Rpc_login_to_center_by_id"
+  },
+  {
+    "id": 114,
+    "code_name": "Rpc_gateway_relay_game_create_player"
+  },
+  {
+    "id": 115,
+    "code_name": "Rpc_gateway_login_token"
+  },
+  {
+    "id": 116,
+    "code_name": "Rpc_gateway_relay"
+  },
+  {
+    "id": 117,
+    "code_name": "Rpc_center_create_visitor"
+  },
+  {
+    "id": 118,
+    "code_name": "Rpc_file_delete"
+  },
+  {
+    "id": 119,
+    "code_name": "Rpc_file_update_list"
+  },
+  {
+    "id": 120,
+    "code_name": "Rpc_friend_list"
+  },
+  {
+    "id": 121,
+    "code_name": "Rpc_friend_add"
+  },
+  {
+    "id": 122,
+    "code_name": "Rpc_friend_del"
+  },
+  {
+    "id": 123,
+    "code_name": "Rpc_gateway_to_svr"
+  },
+  {
+    "id": 124,
+    "code_name": "Rpc_gateway_relay_modules"
+  },
+  {
+    "id": 125,
+    "code_name": "Rpc_save_get_meta_info"
+  },
+  {
+    "id": 126,
+    "code_name": "Rpc_save_upload_binary2"
+  },
+  {
+    "id": 127,
+    "code_name": "Rpc_save_backup_file"
+  },
+  {
+    "id": 128,
+    "code_name": "Rpc_save_upload_binary"
+  },
+  {
+    "id": 129,
+    "code_name": "Rpc_save_download_binary"
+  },
+  {
+    "id": 130,
+    "code_name": "Rpc_game_login"
+  },
+  {
+    "id": 131,
+    "code_name": "Rpc_game_create_player"
+  },
+  {
+    "id": 132,
+    "code_name": "Rpc_game_login_token"
+  },
+  {
+    "id": 133,
+    "code_name": "Rpc_game_daily_sign_in"
+  },
+  {
+    "id": 134,
+    "code_name": "Rpc_game_look_over_daily_sign_in"
+  },
+  {
+    "id": 135,
+    "code_name": "Rpc_game_heart_beat"
+  },
+  {
+    "id": 136,
+    "code_name": "Rpc_game_logout"
+  },
+  {
+    "id": 137,
+    "code_name": "Rpc_order_success"
+  },
+  {
+    "id": 138,
+    "code_name": "Rpc_order_info"
+  },
+  {
+    "id": 139,
+    "code_name": "Rpc_login_get_gift"
+  },
+  {
+    "id": 140,
+    "code_name": "Rpc_center_player_login_addr_2"
+  },
+  {
+    "id": 141,
+    "code_name": "Rpc_game_get_svr_save"
+  },
+  {
+    "id": 142,
+    "code_name": "Rpc_game_show_player_award"
+  },
+  {
+    "id": 143,
+    "code_name": "Rpc_game_get_player_award_ok"
+  },
+  {
+    "id": 144,
+    "code_name": "Rpc_login_bulletin"
+  },
+  {
+    "id": 145,
+    "code_name": "Rpc_login_move_player_db"
+  },
+  {
+    "id": 146,
+    "code_name": "Rpc_game_move_player_db"
+  },
+  {
+    "id": 147,
+    "code_name": "Rpc_game_move_player_db2"
+  },
+  {
+    "id": 148,
+    "code_name": "Rpc_save_check_mac"
+  },
+  {
+    "id": 149,
+    "code_name": "Rpc_save_unbind_mac_by_email"
+  },
+  {
+    "id": 150,
+    "code_name": "Rpc_center_set_game_json"
+  },
+  {
+    "id": 151,
+    "code_name": "Rpc_game_check_forbid"
+  },
+  {
+    "id": 152,
+    "code_name": "Rpc_center_get_game_json"
+  },
+  {
+    "id": 153,
+    "code_name": "Rpc_save_unbind_mac"
+  },
+  {
+    "id": 154,
+    "code_name": "Rpc_login_send_email"
+  },
+  {
+    "id": 155,
+    "code_name": "Rpc_center_account_reg_force"
+  },
+  {
+    "id": 156,
+    "code_name": "Rpc_center_get_account_by_aid"
+  },
+  {
+    "id": 157,
+    "code_name": "Rpc_center_isvalid_bind_info"
+  },
+  {
+    "id": 158,
+    "code_name": "Rpc_center_game_info"
+  },
+  {
+    "id": 159,
+    "code_name": "Rpc_login_gift_get"
+  },
+  {
+    "id": 160,
+    "code_name": "Rpc_center_player_login_addr"
+  },
+  {
+    "id": 161,
+    "code_name": "Rpc_center_reg_if"
+  },
+  {
+    "id": 162,
+    "code_name": "Rpc_nric_set"
+  },
+  {
+    "id": 163,
+    "code_name": "Rpc_nric_birthday"
+  },
+  {
+    "id": 164,
+    "code_name": "Rpc_nric_online_time_get"
+  },
+  {
+    "id": 165,
+    "code_name": "Rpc_nric_online_time_set"
+  },
+  {
+    "id": 166,
+    "code_name": "Rpc_nric_copy_to"
+  },
+  {
+    "id": 167,
+    "code_name": "Rpc_center_Begin"
+  },
+  {
+    "id": 200,
+    "code_name": "Rpc_center_End"
+  },
+  {
+    "id": 201,
+    "code_name": "Rpc_stats_insert"
+  },
+  {
+    "id": 202,
+    "code_name": "Rpc_stats_query"
+  },
+  {
+    "id": 203,
+    "code_name": "Rpc_gm_forbid_add"
+  },
+  {
+    "id": 204,
+    "code_name": "Rpc_gm_forbid_check"
+  },
+  {
+    "id": 205,
+    "code_name": "Rpc_gm_forbid_del"
+  },
+  {
+    "id": 206,
+    "code_name": "Rpc_gm_white_black"
+  },
+  {
+    "id": 207,
+    "code_name": "Rpc_save_get_time_info"
+  },
+  {
+    "id": 208,
+    "code_name": "Rpc_save_unbind_mac2"
+  },
+  {
+    "id": 209,
+    "code_name": "Rpc_save_move"
+  },
+  {
+    "id": 210,
+    "code_name": "Rpc_save_gm_dn"
+  },
+  {
+    "id": 211,
+    "code_name": "Rpc_save_gm_up"
+  },
+  {
+    "id": 212,
+    "code_name": "Rpc_game_nat_get_ips"
+  },
+  {
+    "id": 213,
+    "code_name": "Rpc_game_nat_report_ip"
+  },
+  {
+    "id": 214,
+    "code_name": "Rpc_gm_gift_get"
+  },
+  {
+    "id": 215,
+    "code_name": "Rpc_login_sms_code"
+  },
+  {
+    "id": 216,
+    "code_name": "Rpc_login_sms_check"
+  },
+  {
+    "id": 217,
+    "code_name": "Rpc_gm_client_hash"
+  },
+  {
+    "id": 218,
+    "code_name": "RpcEnumCnt"
+  }
+]

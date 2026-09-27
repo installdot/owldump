@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "npc"
+  },
+  {
+    "id": 1,
+    "code_name": "hiddenBoss"
+  },
+  {
+    "id": 2,
+    "code_name": "mercenary"
+  },
+  {
+    "id": 3,
+    "code_name": "empty"
+  }
+]

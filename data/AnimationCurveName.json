@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "Linear"
+  },
+  {
+    "id": 1,
+    "code_name": "Decelerate"
+  },
+  {
+    "id": 2,
+    "code_name": "Ease"
+  },
+  {
+    "id": 3,
+    "code_name": "EaseIn"
+  },
+  {
+    "id": 4,
+    "code_name": "EaseInCubic"
+  },
+  {
+    "id": 5,
+    "code_name": "EaseInQuart"
+  },
+  {
+    "id": 6,
+    "code_name": "EaseInOut"
+  },
+  {
+    "id": 7,
+    "code_name": "EaseInOutCubic"
+  },
+  {
+    "id": 8,
+    "code_name": "EaseInOutQuart"
+  },
+  {
+    "id": 9,
+    "code_name": "EaseOut"
+  },
+  {
+    "id": 10,
+    "code_name": "EaseOutCubic"
+  },
+  {
+    "id": 11,
+    "code_name": "EaseOutQuart"
+  }
+]

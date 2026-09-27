@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "Ready"
+  },
+  {
+    "id": 2,
+    "code_name": "Rushing"
+  }
+]

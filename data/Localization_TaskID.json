@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "code_name": "open_item_formula_name"
+  },
+  {
+    "id": 1,
+    "code_name": "open_item_formula_description"
+  },
+  {
+    "id": 2,
+    "code_name": "pass_normal_name"
+  },
+  {
+    "id": 3,
+    "code_name": "pass_normal_description"
+  },
+  {
+    "id": 4,
+    "code_name": "pass_chaos_name"
+  },
+  {
+    "id": 5,
+    "code_name": "pass_chaos_description"
+  },
+  {
+    "id": 6,
+    "code_name": "use_heroskin_name"
+  },
+  {
+    "id": 7,
+    "code_name": "use_heroskin_description"
+  },
+  {
+    "id": 8,
+    "code_name": "use_hero_name"
+  },
+  {
+    "id": 9,
+    "code_name": "use_hero_description"
+  },
+  {
+    "id": 10,
+    "code_name": "invest_soulstone_name"
+  },
+  {
+    "id": 11,
+    "code_name": "invest_soulstone_description"
+  },
+  {
+    "id": 12,
+    "code_name": "collect_all_formula_name"
+  },
+  {
+    "id": 13,
+    "code_name": "collect_all_formula_description"
+  },
+  {
+    "id": 14,
+    "code_name": "click_battlepass_level_name"
+  },
+  {
+    "id": 15,
+    "code_name": "click_battlepass_level_description"
+  },
+  {
+    "id": 16,
+    "code_name": "use_hero_exchange_name"
+  },
+  {
+    "id": 17,
+    "code_name": "use_hero_exchange_description"
+  },
+  {
+    "id": 18,
+    "code_name": "cost_coin_name"
+  },
+  {
+    "id": 19,
+    "code_name": "cost_coin_description"
+  },
+  {
+    "id": 20,
+    "code_name": "drink_wine_name"
+  },
+  {
+    "id": 21,
+    "code_name": "drink_wine_description"
+  }
+]

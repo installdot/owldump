@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Volcano"
+  },
+  {
+    "id": 1,
+    "code_name": "Antibiotic"
+  },
+  {
+    "id": 2,
+    "code_name": "RandomDebuff"
+  },
+  {
+    "id": 3,
+    "code_name": "BoxCreater"
+  }
+]

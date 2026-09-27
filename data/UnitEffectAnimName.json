@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "code_name": "hero_quanhuying_huanyingzhen"
+  },
+  {
+    "id": 1,
+    "code_name": "hero_quanhuying_hupuzi"
+  },
+  {
+    "id": 2,
+    "code_name": "hero_seebee_combo"
+  },
+  {
+    "id": 3,
+    "code_name": "hero_seebee_backJump"
+  },
+  {
+    "id": 4,
+    "code_name": "hero_seebee_ghostface_combo"
+  },
+  {
+    "id": 5,
+    "code_name": "hero_seebee_ghostface_backJump"
+  },
+  {
+    "id": 6,
+    "code_name": "hero_seebee_qiefanSlash"
+  },
+  {
+    "id": 7,
+    "code_name": "final_asura1_shieldBoom"
+  },
+  {
+    "id": 8,
+    "code_name": "final_asura1_earthRock"
+  },
+  {
+    "id": 9,
+    "code_name": "oliviaTransformedGunFlashEffect_timewalker"
+  },
+  {
+    "id": 10,
+    "code_name": "hero_ruthven_attack"
+  },
+  {
+    "id": 11,
+    "code_name": "hero_ruthven_Skill0"
+  },
+  {
+    "id": 12,
+    "code_name": "hero_ruthven_Skill1"
+  },
+  {
+    "id": 13,
+    "code_name": "hero_ruthven_Skill2"
+  },
+  {
+    "id": 14,
+    "code_name": "hero_seebee_asura_combo"
+  },
+  {
+    "id": 15,
+    "code_name": "hero_seebee_asura_backJump"
+  },
+  {
+    "id": 16,
+    "code_name": "hero_seebee_omega_combo"
+  },
+  {
+    "id": 17,
+    "code_name": "hero_seebee_evilslash_combo"
+  },
+  {
+    "id": 18,
+    "code_name": "hero_seebee_evilslash_backJump"
+  },
+  {
+    "id": 19,
+    "code_name": "count"
+  }
+]

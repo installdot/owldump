@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "special"
+  },
+  {
+    "id": 1,
+    "code_name": "summon"
+  },
+  {
+    "id": 2,
+    "code_name": "recover"
+  },
+  {
+    "id": 3,
+    "code_name": "wealth"
+  },
+  {
+    "id": 4,
+    "code_name": "specialAtk"
+  },
+  {
+    "id": 5,
+    "code_name": "tactics"
+  },
+  {
+    "id": 6,
+    "code_name": "atkTrigger"
+  },
+  {
+    "id": 7,
+    "code_name": "buff"
+  },
+  {
+    "id": 8,
+    "code_name": "defense"
+  },
+  {
+    "id": 9,
+    "code_name": "property"
+  },
+  {
+    "id": 10,
+    "code_name": "damage"
+  },
+  {
+    "id": 11,
+    "code_name": "selfDebuff"
+  }
+]

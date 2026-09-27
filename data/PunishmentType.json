@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "code_name": "FireBoom"
+  },
+  {
+    "id": 1,
+    "code_name": "PoisonBoom"
+  },
+  {
+    "id": 2,
+    "code_name": "BoxGone"
+  },
+  {
+    "id": 3,
+    "code_name": "Curse_Scourge"
+  },
+  {
+    "id": 4,
+    "code_name": "Curse_Heartthrob"
+  },
+  {
+    "id": 5,
+    "code_name": "Curse_Vulnerability"
+  },
+  {
+    "id": 6,
+    "code_name": "Curse_Transform"
+  },
+  {
+    "id": 7,
+    "code_name": "Curse_Blind"
+  },
+  {
+    "id": 8,
+    "code_name": "Curse_TimeAcceleration"
+  }
+]

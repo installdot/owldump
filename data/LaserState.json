@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "Active"
+  },
+  {
+    "id": 1,
+    "code_name": "Sleep"
+  },
+  {
+    "id": 2,
+    "code_name": "Inactive"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "Melee"
+  },
+  {
+    "id": 1,
+    "code_name": "Ranged"
+  },
+  {
+    "id": 2,
+    "code_name": "All"
+  }
+]

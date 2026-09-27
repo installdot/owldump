@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "code_name": "normalMonster"
+  },
+  {
+    "id": 1,
+    "code_name": "neutral"
+  },
+  {
+    "id": 2,
+    "code_name": "hiddenBoss"
+  },
+  {
+    "id": 3,
+    "code_name": "boss"
+  },
+  {
+    "id": 4,
+    "code_name": "hero"
+  },
+  {
+    "id": 5,
+    "code_name": "special"
+  },
+  {
+    "id": 6,
+    "code_name": "pet"
+  },
+  {
+    "id": 7,
+    "code_name": "vehicle"
+  },
+  {
+    "id": 8,
+    "code_name": "plus"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "final"
+  },
+  {
+    "id": 2,
+    "code_name": "eu"
+  },
+  {
+    "id": 3,
+    "code_name": "jpn"
+  },
+  {
+    "id": 4,
+    "code_name": "cn"
+  },
+  {
+    "id": 5,
+    "code_name": "arab"
+  },
+  {
+    "id": 6,
+    "code_name": "west"
+  },
+  {
+    "id": 7,
+    "code_name": "forest"
+  },
+  {
+    "id": 8,
+    "code_name": "ger"
+  },
+  {
+    "id": 9,
+    "code_name": "nordic"
+  },
+  {
+    "id": 10,
+    "code_name": "nw"
+  },
+  {
+    "id": 11,
+    "code_name": "magic"
+  },
+  {
+    "id": 12,
+    "code_name": "fireDance"
+  }
+]

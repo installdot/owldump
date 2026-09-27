@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "code_name": "VelocitySetup"
+  },
+  {
+    "id": 1,
+    "code_name": "TileMax1"
+  },
+  {
+    "id": 2,
+    "code_name": "TileMax2"
+  },
+  {
+    "id": 3,
+    "code_name": "TileMaxV"
+  },
+  {
+    "id": 4,
+    "code_name": "NeighborMax"
+  },
+  {
+    "id": 5,
+    "code_name": "Reconstruction"
+  },
+  {
+    "id": 6,
+    "code_name": "FrameCompression"
+  },
+  {
+    "id": 7,
+    "code_name": "FrameBlendingChroma"
+  },
+  {
+    "id": 8,
+    "code_name": "FrameBlendingRaw"
+  }
+]

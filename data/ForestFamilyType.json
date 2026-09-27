@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "rabbit"
+  },
+  {
+    "id": 1,
+    "code_name": "wolf"
+  },
+  {
+    "id": 2,
+    "code_name": "elves"
+  },
+  {
+    "id": 3,
+    "code_name": "other"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "code_name": "none"
+  },
+  {
+    "id": 1,
+    "code_name": "dizzness"
+  },
+  {
+    "id": 2,
+    "code_name": "fear"
+  },
+  {
+    "id": 3,
+    "code_name": "succubus"
+  },
+  {
+    "id": 4,
+    "code_name": "chaos"
+  },
+  {
+    "id": 5,
+    "code_name": "frozen"
+  },
+  {
+    "id": 6,
+    "code_name": "sacrifice"
+  },
+  {
+    "id": 7,
+    "code_name": "rooted"
+  },
+  {
+    "id": 8,
+    "code_name": "stop"
+  },
+  {
+    "id": 9,
+    "code_name": "lingerStiff"
+  }
+]

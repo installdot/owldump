@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "FirstMainSkill"
+  },
+  {
+    "id": 1,
+    "code_name": "FirstUnlockDecompose"
+  },
+  {
+    "id": 2,
+    "code_name": "FirstUnlockWalkMan"
+  },
+  {
+    "id": 3,
+    "code_name": "FirstUnlockCrystallBall"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": 0,
+    "code_name": "ByRow"
+  },
+  {
+    "id": 1,
+    "code_name": "ByColumn"
+  }
+]

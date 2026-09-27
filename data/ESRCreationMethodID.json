@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "code_name": "DropWeight0"
+  },
+  {
+    "id": 1,
+    "code_name": "DropWeight1"
+  },
+  {
+    "id": 2,
+    "code_name": "DropWeight2"
+  },
+  {
+    "id": 3,
+    "code_name": "DropWeight3"
+  },
+  {
+    "id": 4,
+    "code_name": "DropWeight4"
+  },
+  {
+    "id": 5,
+    "code_name": "DropWeight5"
+  },
+  {
+    "id": 6,
+    "code_name": "MergeWeight0"
+  },
+  {
+    "id": 7,
+    "code_name": "MergeWeight1"
+  },
+  {
+    "id": 8,
+    "code_name": "MergeWeight2"
+  },
+  {
+    "id": 9,
+    "code_name": "MergeWeight3"
+  }
+]

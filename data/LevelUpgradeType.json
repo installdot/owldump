@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "Damage"
+  },
+  {
+    "id": 2,
+    "code_name": "Countdown"
+  },
+  {
+    "id": 3,
+    "code_name": "Anger"
+  }
+]

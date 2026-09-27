@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "code_name": "eu"
+  },
+  {
+    "id": 1,
+    "code_name": "jpn"
+  },
+  {
+    "id": 2,
+    "code_name": "cn"
+  },
+  {
+    "id": 3,
+    "code_name": "arab"
+  },
+  {
+    "id": 4,
+    "code_name": "west"
+  },
+  {
+    "id": 5,
+    "code_name": "forest"
+  },
+  {
+    "id": 6,
+    "code_name": "ger"
+  },
+  {
+    "id": 7,
+    "code_name": "nordic"
+  },
+  {
+    "id": 8,
+    "code_name": "nw"
+  },
+  {
+    "id": 9,
+    "code_name": "magic"
+  }
+]

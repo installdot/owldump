@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "code_name": "Align"
+  },
+  {
+    "id": 2,
+    "code_name": "Avoid"
+  },
+  {
+    "id": 3,
+    "code_name": "Center"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "BombNeedle"
+  },
+  {
+    "id": 1,
+    "code_name": "PoisonFogNeedle"
+  },
+  {
+    "id": 2,
+    "code_name": "ScatterNeedle"
+  },
+  {
+    "id": 3,
+    "code_name": "ThunderNeedle"
+  }
+]

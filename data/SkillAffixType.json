@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "code_name": "Damage"
+  },
+  {
+    "id": 1,
+    "code_name": "AoE"
+  },
+  {
+    "id": 2,
+    "code_name": "Dash"
+  },
+  {
+    "id": 3,
+    "code_name": "Duration"
+  },
+  {
+    "id": 4,
+    "code_name": "Buff"
+  },
+  {
+    "id": 5,
+    "code_name": "Debuff"
+  },
+  {
+    "id": 6,
+    "code_name": "Chance"
+  },
+  {
+    "id": 7,
+    "code_name": "Cost"
+  },
+  {
+    "id": 8,
+    "code_name": "Projectile"
+  },
+  {
+    "id": 9,
+    "code_name": "Summon"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 16,
+    "code_name": "DownScale16x"
+  },
+  {
+    "id": 8,
+    "code_name": "DownScale8x"
+  },
+  {
+    "id": 4,
+    "code_name": "DownScale4x"
+  },
+  {
+    "id": 2,
+    "code_name": "DownScale2x"
+  }
+]

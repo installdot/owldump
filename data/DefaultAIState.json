@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "Patrol"
+  },
+  {
+    "id": 1,
+    "code_name": "Rest"
+  },
+  {
+    "id": 2,
+    "code_name": "Formation"
+  },
+  {
+    "id": 3,
+    "code_name": "Attack"
+  },
+  {
+    "id": 4,
+    "code_name": "Defend"
+  },
+  {
+    "id": 5,
+    "code_name": "Runaway"
+  }
+]

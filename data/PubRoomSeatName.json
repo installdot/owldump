@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "BarChair"
+  },
+  {
+    "id": 2,
+    "code_name": "LongChairLeft"
+  },
+  {
+    "id": 3,
+    "code_name": "LongChairRight"
+  },
+  {
+    "id": 4,
+    "code_name": "FirePlace"
+  },
+  {
+    "id": 5,
+    "code_name": "LongTableLeft"
+  },
+  {
+    "id": 6,
+    "code_name": "LongTableTop1"
+  },
+  {
+    "id": 7,
+    "code_name": "LongTableTop2"
+  },
+  {
+    "id": 8,
+    "code_name": "LongTableRight"
+  },
+  {
+    "id": 9,
+    "code_name": "StairLeft"
+  },
+  {
+    "id": 10,
+    "code_name": "StairRight"
+  },
+  {
+    "id": 11,
+    "code_name": "SakariStool"
+  },
+  {
+    "id": 12,
+    "code_name": "Ground"
+  },
+  {
+    "id": 13,
+    "code_name": "UpperBarChair"
+  }
+]

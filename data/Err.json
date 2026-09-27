@@ -1,0 +1,214 @@
+[
+  {
+    "id": 1,
+    "code_name": "Success"
+  },
+  {
+    "id": 2,
+    "code_name": "Unknow_error"
+  },
+  {
+    "id": 3,
+    "code_name": "Not_in_the_time_zone"
+  },
+  {
+    "id": 4,
+    "code_name": "Not_found"
+  },
+  {
+    "id": 5,
+    "code_name": "Svr_not_working"
+  },
+  {
+    "id": 6,
+    "code_name": "Operate_too_often"
+  },
+  {
+    "id": 7,
+    "code_name": "Data_repeat"
+  },
+  {
+    "id": 8,
+    "code_name": "Version_not_match"
+  },
+  {
+    "id": 9,
+    "code_name": "Convert_err"
+  },
+  {
+    "id": 10,
+    "code_name": "Invalid"
+  },
+  {
+    "id": 11,
+    "code_name": "Is_forbidden"
+  },
+  {
+    "id": 100,
+    "code_name": "Passwd_err"
+  },
+  {
+    "id": 101,
+    "code_name": "Account_mismatch_passwd"
+  },
+  {
+    "id": 102,
+    "code_name": "Account_forbidden"
+  },
+  {
+    "id": 103,
+    "code_name": "Account_repeat"
+  },
+  {
+    "id": 104,
+    "code_name": "Account_format_err"
+  },
+  {
+    "id": 105,
+    "code_name": "Passwd_format_err"
+  },
+  {
+    "id": 106,
+    "code_name": "BindInfo_format_err"
+  },
+  {
+    "id": 107,
+    "code_name": "BindInfo_already_in_use"
+  },
+  {
+    "id": 108,
+    "code_name": "Account_had_been_bound"
+  },
+  {
+    "id": 109,
+    "code_name": "None_free_game_server"
+  },
+  {
+    "id": 110,
+    "code_name": "None_center_server"
+  },
+  {
+    "id": 111,
+    "code_name": "None_login_server"
+  },
+  {
+    "id": 112,
+    "code_name": "None_gateway"
+  },
+  {
+    "id": 113,
+    "code_name": "None_game_server"
+  },
+  {
+    "id": 114,
+    "code_name": "None_battle_server"
+  },
+  {
+    "id": 115,
+    "code_name": "None_chat_server"
+  },
+  {
+    "id": 116,
+    "code_name": "None_file_server"
+  },
+  {
+    "id": 117,
+    "code_name": "None_friend_server"
+  },
+  {
+    "id": 118,
+    "code_name": "None_save_server"
+  },
+  {
+    "id": 119,
+    "code_name": "None_cross_server"
+  },
+  {
+    "id": 120,
+    "code_name": "None_sdk_server"
+  },
+  {
+    "id": 121,
+    "code_name": "Token_verify_err"
+  },
+  {
+    "id": 122,
+    "code_name": "Account_have_none_player"
+  },
+  {
+    "id": 123,
+    "code_name": "Sign_failed"
+  },
+  {
+    "id": 124,
+    "code_name": "Record_upload_failed"
+  },
+  {
+    "id": 125,
+    "code_name": "Record_cannot_find"
+  },
+  {
+    "id": 126,
+    "code_name": "Record_mac_already_bind"
+  },
+  {
+    "id": 127,
+    "code_name": "Record_bind_limit"
+  },
+  {
+    "id": 128,
+    "code_name": "Account_without_bind_info"
+  },
+  {
+    "id": 129,
+    "code_name": "Already_get_it"
+  },
+  {
+    "id": 130,
+    "code_name": "Pf_id_not_match"
+  },
+  {
+    "id": 131,
+    "code_name": "LoginSvr_not_match"
+  },
+  {
+    "id": 132,
+    "code_name": "GameInfo_set_fail"
+  },
+  {
+    "id": 133,
+    "code_name": "Name_format_err"
+  },
+  {
+    "id": 134,
+    "code_name": "Create_Player_failed"
+  },
+  {
+    "id": 135,
+    "code_name": "Email_try_send_please_check"
+  },
+  {
+    "id": 136,
+    "code_name": "Login_queue_full"
+  },
+  {
+    "id": 137,
+    "code_name": "Phone_not_verify"
+  },
+  {
+    "id": 138,
+    "code_name": "Email_not_verify"
+  },
+  {
+    "id": 139,
+    "code_name": "Email_unreachable"
+  },
+  {
+    "id": 140,
+    "code_name": "Email_format_err"
+  },
+  {
+    "id": 141,
+    "code_name": "Account_not_found"
+  }
+]

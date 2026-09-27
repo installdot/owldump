@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "code_name": "NoTiledWallMesh"
+  },
+  {
+    "id": 1,
+    "code_name": "NoTiledFloorMesh"
+  },
+  {
+    "id": 2,
+    "code_name": "NoUpPathMesh"
+  },
+  {
+    "id": 3,
+    "code_name": "NoLeftPathMesh"
+  },
+  {
+    "id": 4,
+    "code_name": "NoRightPathMesh"
+  },
+  {
+    "id": 5,
+    "code_name": "NoDownPathMesh"
+  },
+  {
+    "id": 6,
+    "code_name": "NoPathAO"
+  },
+  {
+    "id": 7,
+    "code_name": "NoFloorAO"
+  },
+  {
+    "id": 8,
+    "code_name": "NoFloorSkirt"
+  },
+  {
+    "id": 9,
+    "code_name": "NoHiddenPathHint"
+  },
+  {
+    "id": 10,
+    "code_name": "Arab2ShinyWall"
+  },
+  {
+    "id": 11,
+    "code_name": "NoWallStuff"
+  },
+  {
+    "id": 12,
+    "code_name": "NoAutoPathCreation"
+  }
+]

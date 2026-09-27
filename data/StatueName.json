@@ -1,0 +1,430 @@
+[
+  {
+    "id": 0,
+    "code_name": "arab_boss0"
+  },
+  {
+    "id": 1,
+    "code_name": "arab_boss1"
+  },
+  {
+    "id": 2,
+    "code_name": "arab_boss2"
+  },
+  {
+    "id": 3,
+    "code_name": "arab_boss3"
+  },
+  {
+    "id": 4,
+    "code_name": "cn_boss0"
+  },
+  {
+    "id": 5,
+    "code_name": "cn_boss1"
+  },
+  {
+    "id": 6,
+    "code_name": "cn_boss2"
+  },
+  {
+    "id": 7,
+    "code_name": "cn_boss3"
+  },
+  {
+    "id": 8,
+    "code_name": "eu_boss0"
+  },
+  {
+    "id": 9,
+    "code_name": "eu_boss1"
+  },
+  {
+    "id": 10,
+    "code_name": "eu_boss2"
+  },
+  {
+    "id": 11,
+    "code_name": "eu_boss3"
+  },
+  {
+    "id": 12,
+    "code_name": "eu_bossE0"
+  },
+  {
+    "id": 13,
+    "code_name": "eu_bossE1"
+  },
+  {
+    "id": 14,
+    "code_name": "eu_bossE2"
+  },
+  {
+    "id": 15,
+    "code_name": "eu_bossE3"
+  },
+  {
+    "id": 16,
+    "code_name": "jpn_boss0"
+  },
+  {
+    "id": 17,
+    "code_name": "jpn_boss1"
+  },
+  {
+    "id": 18,
+    "code_name": "jpn_boss2"
+  },
+  {
+    "id": 19,
+    "code_name": "jpn_boss3"
+  },
+  {
+    "id": 20,
+    "code_name": "jpn_bossE0"
+  },
+  {
+    "id": 21,
+    "code_name": "jpn_bossE1"
+  },
+  {
+    "id": 22,
+    "code_name": "jpn_bossE2"
+  },
+  {
+    "id": 23,
+    "code_name": "jpn_bossE3"
+  },
+  {
+    "id": 24,
+    "code_name": "us_boss0"
+  },
+  {
+    "id": 25,
+    "code_name": "us_boss1"
+  },
+  {
+    "id": 26,
+    "code_name": "us_boss2"
+  },
+  {
+    "id": 27,
+    "code_name": "us_boss3"
+  },
+  {
+    "id": 28,
+    "code_name": "forest_boss0"
+  },
+  {
+    "id": 29,
+    "code_name": "forest_boss1"
+  },
+  {
+    "id": 30,
+    "code_name": "forest_boss2"
+  },
+  {
+    "id": 31,
+    "code_name": "forest_boss3"
+  },
+  {
+    "id": 32,
+    "code_name": "ger_boss0"
+  },
+  {
+    "id": 33,
+    "code_name": "ger_boss1"
+  },
+  {
+    "id": 34,
+    "code_name": "ger_boss2"
+  },
+  {
+    "id": 35,
+    "code_name": "ger_boss3"
+  },
+  {
+    "id": 36,
+    "code_name": "nordic_boss0"
+  },
+  {
+    "id": 37,
+    "code_name": "nordic_boss1"
+  },
+  {
+    "id": 38,
+    "code_name": "nordic_boss2"
+  },
+  {
+    "id": 39,
+    "code_name": "nordic_boss3"
+  },
+  {
+    "id": 40,
+    "code_name": "cn_zhao"
+  },
+  {
+    "id": 41,
+    "code_name": "cn_qian"
+  },
+  {
+    "id": 42,
+    "code_name": "cn_sun"
+  },
+  {
+    "id": 43,
+    "code_name": "cn_li"
+  },
+  {
+    "id": 44,
+    "code_name": "cn_zhou"
+  },
+  {
+    "id": 45,
+    "code_name": "cn_wu"
+  },
+  {
+    "id": 46,
+    "code_name": "cn_zheng"
+  },
+  {
+    "id": 47,
+    "code_name": "cn_feng"
+  },
+  {
+    "id": 48,
+    "code_name": "cn_wang"
+  },
+  {
+    "id": 49,
+    "code_name": "slime_jelly"
+  },
+  {
+    "id": 50,
+    "code_name": "bat_bite"
+  },
+  {
+    "id": 51,
+    "code_name": "bat_poison"
+  },
+  {
+    "id": 52,
+    "code_name": "zombie_adam"
+  },
+  {
+    "id": 53,
+    "code_name": "skeleton_arku"
+  },
+  {
+    "id": 54,
+    "code_name": "skeleton_kluku"
+  },
+  {
+    "id": 55,
+    "code_name": "jpn_oni"
+  },
+  {
+    "id": 56,
+    "code_name": "jpn_monk"
+  },
+  {
+    "id": 57,
+    "code_name": "jpn_ashigaru"
+  },
+  {
+    "id": 58,
+    "code_name": "jpn_umbrella"
+  },
+  {
+    "id": 59,
+    "code_name": "jpn_gokou"
+  },
+  {
+    "id": 60,
+    "code_name": "arab_fatAttendantWitch"
+  },
+  {
+    "id": 61,
+    "code_name": "arab_fatAttendantWarrior"
+  },
+  {
+    "id": 62,
+    "code_name": "arab_purpleRobe"
+  },
+  {
+    "id": 63,
+    "code_name": "arab_wizard"
+  },
+  {
+    "id": 64,
+    "code_name": "arab_rogue"
+  },
+  {
+    "id": 65,
+    "code_name": "arab_snakePurple"
+  },
+  {
+    "id": 66,
+    "code_name": "west_eagle"
+  },
+  {
+    "id": 67,
+    "code_name": "west_strongMan"
+  },
+  {
+    "id": 68,
+    "code_name": "west_sheriff"
+  },
+  {
+    "id": 69,
+    "code_name": "west_shotgunMan"
+  },
+  {
+    "id": 70,
+    "code_name": "west_swordsMan"
+  },
+  {
+    "id": 71,
+    "code_name": "forest_flowerMan"
+  },
+  {
+    "id": 72,
+    "code_name": "forest_rabbitBoxer"
+  },
+  {
+    "id": 73,
+    "code_name": "forest_rabbitPikeman"
+  },
+  {
+    "id": 74,
+    "code_name": "forest_rabbitRush"
+  },
+  {
+    "id": 75,
+    "code_name": "forest_darkElvesBattlemage"
+  },
+  {
+    "id": 76,
+    "code_name": "forest_darkElvesArcher"
+  },
+  {
+    "id": 77,
+    "code_name": "forest_wolfMan"
+  },
+  {
+    "id": 78,
+    "code_name": "ger_bladeGirl"
+  },
+  {
+    "id": 79,
+    "code_name": "ger_redHuman"
+  },
+  {
+    "id": 80,
+    "code_name": "ger_armorHuman"
+  },
+  {
+    "id": 81,
+    "code_name": "ger_greenRobot"
+  },
+  {
+    "id": 82,
+    "code_name": "ger_thunderWoman"
+  },
+  {
+    "id": 83,
+    "code_name": "nordic_dwarfGuard"
+  },
+  {
+    "id": 84,
+    "code_name": "nordic_dwarfAxe"
+  },
+  {
+    "id": 85,
+    "code_name": "nordic_dwarfLancer"
+  },
+  {
+    "id": 86,
+    "code_name": "nordic_dwarfSwordShield"
+  },
+  {
+    "id": 87,
+    "code_name": "first_year"
+  },
+  {
+    "id": 88,
+    "code_name": "nw_boss0"
+  },
+  {
+    "id": 89,
+    "code_name": "nw_boss1"
+  },
+  {
+    "id": 90,
+    "code_name": "nw_boss2"
+  },
+  {
+    "id": 91,
+    "code_name": "nw_boss3"
+  },
+  {
+    "id": 92,
+    "code_name": "nw_infantry"
+  },
+  {
+    "id": 93,
+    "code_name": "nw_heavyGrenadier"
+  },
+  {
+    "id": 94,
+    "code_name": "nw_swordCavalry"
+  },
+  {
+    "id": 95,
+    "code_name": "second_year"
+  },
+  {
+    "id": 96,
+    "code_name": "magic_boss0"
+  },
+  {
+    "id": 97,
+    "code_name": "magic_boss1"
+  },
+  {
+    "id": 98,
+    "code_name": "magic_boss2"
+  },
+  {
+    "id": 99,
+    "code_name": "magic_boss3"
+  },
+  {
+    "id": 100,
+    "code_name": "magic_blackWitch"
+  },
+  {
+    "id": 101,
+    "code_name": "magic_ancientWitch"
+  },
+  {
+    "id": 102,
+    "code_name": "magic_broomWitch"
+  },
+  {
+    "id": 103,
+    "code_name": "magic_witchKiller"
+  },
+  {
+    "id": 104,
+    "code_name": "third_year"
+  },
+  {
+    "id": 105,
+    "code_name": "fourth_year_katherine"
+  },
+  {
+    "id": 106,
+    "code_name": "fourth_year_gangdan"
+  }
+]

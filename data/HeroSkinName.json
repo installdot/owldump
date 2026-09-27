@@ -1,0 +1,430 @@
+[
+  {
+    "id": 0,
+    "code_name": "hero_quanhuying"
+  },
+  {
+    "id": 1,
+    "code_name": "hero_quanhuying_bartender"
+  },
+  {
+    "id": 2,
+    "code_name": "hero_quanhuying_baseball"
+  },
+  {
+    "id": 3,
+    "code_name": "hero_quanhuying_chinadoll"
+  },
+  {
+    "id": 4,
+    "code_name": "hero_quanhuying_kongfumaster"
+  },
+  {
+    "id": 5,
+    "code_name": "hero_quanhuying_asura"
+  },
+  {
+    "id": 6,
+    "code_name": "hero_akaisha"
+  },
+  {
+    "id": 7,
+    "code_name": "hero_akaisha_hunter"
+  },
+  {
+    "id": 8,
+    "code_name": "hero_akaisha_robin"
+  },
+  {
+    "id": 9,
+    "code_name": "hero_akaisha_christmas"
+  },
+  {
+    "id": 10,
+    "code_name": "hero_akaisha_red"
+  },
+  {
+    "id": 11,
+    "code_name": "hero_akaisha_princess"
+  },
+  {
+    "id": 12,
+    "code_name": "hero_olivia"
+  },
+  {
+    "id": 13,
+    "code_name": "hero_olivia_sailor"
+  },
+  {
+    "id": 14,
+    "code_name": "hero_olivia_officer"
+  },
+  {
+    "id": 15,
+    "code_name": "hero_olivia_timewalker"
+  },
+  {
+    "id": 16,
+    "code_name": "hero_olivia_groot"
+  },
+  {
+    "id": 17,
+    "code_name": "hero_olivia_christmas"
+  },
+  {
+    "id": 18,
+    "code_name": "hero_seebee"
+  },
+  {
+    "id": 19,
+    "code_name": "hero_seebee_evilslash"
+  },
+  {
+    "id": 20,
+    "code_name": "hero_seebee_warrior"
+  },
+  {
+    "id": 21,
+    "code_name": "hero_seebee_ghostface"
+  },
+  {
+    "id": 22,
+    "code_name": "hero_seebee_ashloo"
+  },
+  {
+    "id": 23,
+    "code_name": "hero_seebee_asura"
+  },
+  {
+    "id": 24,
+    "code_name": "hero_seebee_omega"
+  },
+  {
+    "id": 25,
+    "code_name": "hero_sakari"
+  },
+  {
+    "id": 26,
+    "code_name": "hero_sakari_waiter"
+  },
+  {
+    "id": 27,
+    "code_name": "hero_sakari_blackhat"
+  },
+  {
+    "id": 28,
+    "code_name": "hero_sakari_taisyou"
+  },
+  {
+    "id": 29,
+    "code_name": "hero_sakari_wolfman"
+  },
+  {
+    "id": 30,
+    "code_name": "hero_sakari_christmas"
+  },
+  {
+    "id": 31,
+    "code_name": "hero_sakari_boss"
+  },
+  {
+    "id": 32,
+    "code_name": "hero_gangdan"
+  },
+  {
+    "id": 33,
+    "code_name": "hero_gangdan_gladiatus"
+  },
+  {
+    "id": 34,
+    "code_name": "hero_gangdan_skeleton"
+  },
+  {
+    "id": 35,
+    "code_name": "hero_gangdan_soldier"
+  },
+  {
+    "id": 36,
+    "code_name": "hero_gangdan_christmas"
+  },
+  {
+    "id": 37,
+    "code_name": "hero_gangdan_dragonarmor"
+  },
+  {
+    "id": 38,
+    "code_name": "hero_katherine"
+  },
+  {
+    "id": 39,
+    "code_name": "hero_katherine_purple"
+  },
+  {
+    "id": 40,
+    "code_name": "hero_katherine_assistant"
+  },
+  {
+    "id": 41,
+    "code_name": "hero_katherine_bloodymary"
+  },
+  {
+    "id": 42,
+    "code_name": "hero_katherine_magician"
+  },
+  {
+    "id": 43,
+    "code_name": "hero_katherine_pusa"
+  },
+  {
+    "id": 44,
+    "code_name": "hero_katherine_professor"
+  },
+  {
+    "id": 45,
+    "code_name": "hero_hannah"
+  },
+  {
+    "id": 46,
+    "code_name": "hero_hannah_blackhat"
+  },
+  {
+    "id": 47,
+    "code_name": "hero_hannah_police"
+  },
+  {
+    "id": 48,
+    "code_name": "hero_hannah_detective"
+  },
+  {
+    "id": 49,
+    "code_name": "hero_hannah_exorcist"
+  },
+  {
+    "id": 50,
+    "code_name": "hero_hillding"
+  },
+  {
+    "id": 51,
+    "code_name": "hero_hillding_flowerman"
+  },
+  {
+    "id": 52,
+    "code_name": "hero_hillding_warrior"
+  },
+  {
+    "id": 53,
+    "code_name": "hero_penhaligon"
+  },
+  {
+    "id": 54,
+    "code_name": "hero_penhaligon_separation"
+  },
+  {
+    "id": 55,
+    "code_name": "hero_penhaligon_infantry"
+  },
+  {
+    "id": 56,
+    "code_name": "hero_penhaligon_infantry_separation"
+  },
+  {
+    "id": 57,
+    "code_name": "hero_penhaligon_starwar"
+  },
+  {
+    "id": 58,
+    "code_name": "hero_penhaligon_starwar_separation"
+  },
+  {
+    "id": 59,
+    "code_name": "hero_penhaligon_wonderbrush"
+  },
+  {
+    "id": 60,
+    "code_name": "hero_penhaligon_wonderbrush_separation"
+  },
+  {
+    "id": 61,
+    "code_name": "hero_hayfa"
+  },
+  {
+    "id": 62,
+    "code_name": "hero_hayfa_protector"
+  },
+  {
+    "id": 63,
+    "code_name": "hero_hayfa_magician"
+  },
+  {
+    "id": 64,
+    "code_name": "default_skin"
+  },
+  {
+    "id": 65,
+    "code_name": "hero_xuanshe"
+  },
+  {
+    "id": 66,
+    "code_name": "hero_xuanshe_technology"
+  },
+  {
+    "id": 67,
+    "code_name": "hero_xuanshe_christmas"
+  },
+  {
+    "id": 68,
+    "code_name": "hero_xuanshe_snake"
+  },
+  {
+    "id": 69,
+    "code_name": "hero_heyao"
+  },
+  {
+    "id": 70,
+    "code_name": "hero_heyao_technology"
+  },
+  {
+    "id": 71,
+    "code_name": "hero_heyao_christmas"
+  },
+  {
+    "id": 72,
+    "code_name": "hero_aimi"
+  },
+  {
+    "id": 73,
+    "code_name": "hero_aimi_queen"
+  },
+  {
+    "id": 74,
+    "code_name": "hero_uliana"
+  },
+  {
+    "id": 75,
+    "code_name": "hero_uliana_springfes"
+  },
+  {
+    "id": 76,
+    "code_name": "hero_uliana_captain"
+  },
+  {
+    "id": 77,
+    "code_name": "hero_uliana_rock"
+  },
+  {
+    "id": 78,
+    "code_name": "hero_annice"
+  },
+  {
+    "id": 79,
+    "code_name": "hero_annice_springfestival"
+  },
+  {
+    "id": 80,
+    "code_name": "hero_ruthven"
+  },
+  {
+    "id": 81,
+    "code_name": "hero_ruthven_god"
+  },
+  {
+    "id": 82,
+    "code_name": "hero_anibella"
+  },
+  {
+    "id": 83,
+    "code_name": "hero_anibella_astronaut"
+  },
+  {
+    "id": 84,
+    "code_name": "hero_adira"
+  },
+  {
+    "id": 85,
+    "code_name": "hero_adira_fireknight"
+  },
+  {
+    "id": 86,
+    "code_name": "hero_yangkyi"
+  },
+  {
+    "id": 87,
+    "code_name": "hero_yangkyi_queen"
+  },
+  {
+    "id": 88,
+    "code_name": "hero_youzi"
+  },
+  {
+    "id": 89,
+    "code_name": "hero_youzi_swimsuits"
+  },
+  {
+    "id": 90,
+    "code_name": "hero_yufeng"
+  },
+  {
+    "id": 91,
+    "code_name": "hero_yufeng_yinyang"
+  },
+  {
+    "id": 92,
+    "code_name": "hero_wufei"
+  },
+  {
+    "id": 93,
+    "code_name": "hero_wufei_mili"
+  },
+  {
+    "id": 94,
+    "code_name": "hero_bunny"
+  },
+  {
+    "id": 95,
+    "code_name": "hero_bunny_nun"
+  },
+  {
+    "id": 96,
+    "code_name": "hero_qifeng"
+  },
+  {
+    "id": 97,
+    "code_name": "hero_qifeng_cowboy"
+  },
+  {
+    "id": 98,
+    "code_name": "hero_linxiao"
+  },
+  {
+    "id": 99,
+    "code_name": "hero_linxiao_springfestival"
+  },
+  {
+    "id": 100,
+    "code_name": "hero_feiyu"
+  },
+  {
+    "id": 101,
+    "code_name": "hero_feiyu_zombie"
+  },
+  {
+    "id": 102,
+    "code_name": "hero_hualing"
+  },
+  {
+    "id": 103,
+    "code_name": "hero_rana"
+  },
+  {
+    "id": 104,
+    "code_name": "hero_erdene"
+  },
+  {
+    "id": 105,
+    "code_name": "hero_erdene_wild"
+  },
+  {
+    "id": 106,
+    "code_name": "hero_dragon"
+  }
+]

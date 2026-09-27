@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "code_name": "spriteParticle_dogeTyke"
+  },
+  {
+    "id": 1,
+    "code_name": "spriteParticle_heroSakari"
+  },
+  {
+    "id": 2,
+    "code_name": "spriteParticle_heroSakari_oneone"
+  },
+  {
+    "id": 3,
+    "code_name": "spriteParticle_hayfa"
+  },
+  {
+    "id": 4,
+    "code_name": "spriteParticle_heroHillding_warrior"
+  },
+  {
+    "id": 5,
+    "code_name": "spriteParticle_heroSakari_christmas"
+  },
+  {
+    "id": 6,
+    "code_name": "spriteParticle_aimiQueen"
+  },
+  {
+    "id": 7,
+    "code_name": "hero_penhaligon_wonderbrush_soldier_shadow_replaceColor"
+  },
+  {
+    "id": 8,
+    "code_name": "hero_penhaligon_wonderbrush_buffed_soldier_shadow_replaceColor"
+  },
+  {
+    "id": 9,
+    "code_name": "hero_yufeng_yinyang_shadow"
+  },
+  {
+    "id": 10,
+    "code_name": "hero_yufeng_yinyang_shadow_invincible"
+  }
+]

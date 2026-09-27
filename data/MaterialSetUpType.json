@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "SpriteCutoutWithAmbientColor"
+  },
+  {
+    "id": 2,
+    "code_name": "SpriteDefaultWithAmbientColor"
+  },
+  {
+    "id": 3,
+    "code_name": "SpriteGhostHalf"
+  },
+  {
+    "id": 4,
+    "code_name": "SpriteCutout"
+  }
+]

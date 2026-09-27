@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "Combo"
+  },
+  {
+    "id": 2,
+    "code_name": "Jump"
+  },
+  {
+    "id": 4,
+    "code_name": "Skill1"
+  },
+  {
+    "id": 8,
+    "code_name": "Skill2"
+  },
+  {
+    "id": 16,
+    "code_name": "Skill3"
+  },
+  {
+    "id": 32,
+    "code_name": "Skill4"
+  }
+]

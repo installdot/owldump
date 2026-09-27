@@ -1,0 +1,1758 @@
+[
+  {
+    "id": 0,
+    "code_name": "SkillAffixOthers_EnhanceSoulName"
+  },
+  {
+    "id": 1,
+    "code_name": "SkillAffixOthers_EnhanceSoulDescription"
+  },
+  {
+    "id": 2,
+    "code_name": "SkillAffixOthers_RerollSoulName"
+  },
+  {
+    "id": 3,
+    "code_name": "SkillAffixOthers_RerollSoulDescription"
+  },
+  {
+    "id": 4,
+    "code_name": "SkillAffixOthers_perkStackable"
+  },
+  {
+    "id": 5,
+    "code_name": "SkillAffixOthers_perkNotStackable"
+  },
+  {
+    "id": 6,
+    "code_name": "SkillAffixOthers_pickPerksDes"
+  },
+  {
+    "id": 7,
+    "code_name": "SkillAffixOthers_rerollText"
+  },
+  {
+    "id": 8,
+    "code_name": "SkillAffixOthers_enhanceText"
+  },
+  {
+    "id": 9,
+    "code_name": "SkillAffixOthers_pickPerkFirstHint"
+  },
+  {
+    "id": 10,
+    "code_name": "SkillAffixOthers_ChaoExplain_0"
+  },
+  {
+    "id": 11,
+    "code_name": "SkillAffixOthers_ChaoExplain_1"
+  },
+  {
+    "id": 12,
+    "code_name": "SkillAffixOthers_ChaoExplain_2"
+  },
+  {
+    "id": 13,
+    "code_name": "SkillAffixOthers_pickPerksTip"
+  },
+  {
+    "id": 14,
+    "code_name": "SkillAffixPerk_name_SimpleStatChange"
+  },
+  {
+    "id": 15,
+    "code_name": "SkillAffixPerk_description_SimpleStatChange"
+  },
+  {
+    "id": 16,
+    "code_name": "SkillAffixPerk_name_QuanHupuziCombo"
+  },
+  {
+    "id": 17,
+    "code_name": "SkillAffixPerk_description_QuanHupuziCombo"
+  },
+  {
+    "id": 18,
+    "code_name": "SkillAffixPerk_name_QuanHeavyHupuzi"
+  },
+  {
+    "id": 19,
+    "code_name": "SkillAffixPerk_description_QuanHeavyHupuzi"
+  },
+  {
+    "id": 20,
+    "code_name": "SkillAffixPerk_name_QuanShadowDodge"
+  },
+  {
+    "id": 21,
+    "code_name": "SkillAffixPerk_description_QuanShadowDodge"
+  },
+  {
+    "id": 22,
+    "code_name": "SkillAffixPerk_name_QuanExtraShadow"
+  },
+  {
+    "id": 23,
+    "code_name": "SkillAffixPerk_description_QuanExtraShadow"
+  },
+  {
+    "id": 24,
+    "code_name": "SkillAffixPerk_name_QuanSuckLeicha"
+  },
+  {
+    "id": 25,
+    "code_name": "SkillAffixPerk_description_QuanSuckLeicha"
+  },
+  {
+    "id": 26,
+    "code_name": "SkillAffixPerk_name_QuanExtraPoMo"
+  },
+  {
+    "id": 27,
+    "code_name": "SkillAffixPerk_description_QuanExtraPoMo"
+  },
+  {
+    "id": 28,
+    "code_name": "SkillAffixPerk_name_QuanBreakGround"
+  },
+  {
+    "id": 29,
+    "code_name": "SkillAffixPerk_description_QuanBreakGround"
+  },
+  {
+    "id": 30,
+    "code_name": "SkillAffixPerk_name_QuanShadowKao"
+  },
+  {
+    "id": 31,
+    "code_name": "SkillAffixPerk_description_QuanShadowKao"
+  },
+  {
+    "id": 32,
+    "code_name": "SkillAffixPerk_name_SeebeeSakuraSlash"
+  },
+  {
+    "id": 33,
+    "code_name": "SkillAffixPerk_description_SeebeeSakuraSlash"
+  },
+  {
+    "id": 34,
+    "code_name": "SkillAffixPerk_name_SeebeeMoreOneSlash"
+  },
+  {
+    "id": 35,
+    "code_name": "SkillAffixPerk_description_SeebeeMoreOneSlash"
+  },
+  {
+    "id": 36,
+    "code_name": "SkillAffixPerk_name_SeebeeBleedOneSlash"
+  },
+  {
+    "id": 37,
+    "code_name": "SkillAffixPerk_description_SeebeeBleedOneSlash"
+  },
+  {
+    "id": 38,
+    "code_name": "SkillAffixPerk_name_SeebeeCounterAirSlash"
+  },
+  {
+    "id": 39,
+    "code_name": "SkillAffixPerk_description_SeebeeCounterAirSlash"
+  },
+  {
+    "id": 40,
+    "code_name": "SkillAffixPerk_name_SeebeeAutoCounter"
+  },
+  {
+    "id": 41,
+    "code_name": "SkillAffixPerk_description_SeebeeAutoCounter"
+  },
+  {
+    "id": 42,
+    "code_name": "SkillAffixPerk_name_SeebeeStrongerCounter"
+  },
+  {
+    "id": 43,
+    "code_name": "SkillAffixPerk_description_SeebeeStrongerCounter"
+  },
+  {
+    "id": 44,
+    "code_name": "SkillAffixPerk_name_SeebeeBigAirSlash"
+  },
+  {
+    "id": 45,
+    "code_name": "SkillAffixPerk_description_SeebeeBigAirSlash"
+  },
+  {
+    "id": 46,
+    "code_name": "SkillAffixPerk_name_AkaishaMoveRain"
+  },
+  {
+    "id": 47,
+    "code_name": "SkillAffixPerk_description_AkaishaMoveRain"
+  },
+  {
+    "id": 48,
+    "code_name": "SkillAffixPerk_name_AkaishaSpeedy"
+  },
+  {
+    "id": 49,
+    "code_name": "SkillAffixPerk_description_AkaishaSpeedy"
+  },
+  {
+    "id": 50,
+    "code_name": "SkillAffixPerk_name_AkaishaHeavyRain"
+  },
+  {
+    "id": 51,
+    "code_name": "SkillAffixPerk_description_AkaishaHeavyRain"
+  },
+  {
+    "id": 52,
+    "code_name": "SkillAffixPerk_name_AkaishaWindArrow"
+  },
+  {
+    "id": 53,
+    "code_name": "SkillAffixPerk_description_AkaishaWindArrow"
+  },
+  {
+    "id": 54,
+    "code_name": "SkillAffixPerk_name_AkaishaStrongerExplode"
+  },
+  {
+    "id": 55,
+    "code_name": "SkillAffixPerk_description_AkaishaStrongerExplode"
+  },
+  {
+    "id": 56,
+    "code_name": "SkillAffixPerk_name_AkaishaJumpingElf"
+  },
+  {
+    "id": 57,
+    "code_name": "SkillAffixPerk_description_AkaishaJumpingElf"
+  },
+  {
+    "id": 58,
+    "code_name": "SkillAffixPerk_name_AkaishaElfMark"
+  },
+  {
+    "id": 59,
+    "code_name": "SkillAffixPerk_description_AkaishaElfMark"
+  },
+  {
+    "id": 60,
+    "code_name": "SkillAffixPerk_name_AkaishaBuffingElf"
+  },
+  {
+    "id": 61,
+    "code_name": "SkillAffixPerk_description_AkaishaBuffingElf"
+  },
+  {
+    "id": 62,
+    "code_name": "SkillAffixPerk_name_AkaishaBarrage"
+  },
+  {
+    "id": 63,
+    "code_name": "SkillAffixPerk_description_AkaishaBarrage"
+  },
+  {
+    "id": 64,
+    "code_name": "SkillAffixPerk_name_SakariWind"
+  },
+  {
+    "id": 65,
+    "code_name": "SkillAffixPerk_description_SakariWind"
+  },
+  {
+    "id": 66,
+    "code_name": "SkillAffixPerk_name_SakariBreathe"
+  },
+  {
+    "id": 67,
+    "code_name": "SkillAffixPerk_description_SakariBreathe"
+  },
+  {
+    "id": 68,
+    "code_name": "SkillAffixPerk_name_SakariSelfHurt"
+  },
+  {
+    "id": 69,
+    "code_name": "SkillAffixPerk_description_SakariSelfHurt"
+  },
+  {
+    "id": 70,
+    "code_name": "SkillAffixPerk_name_OliMoreTurret"
+  },
+  {
+    "id": 71,
+    "code_name": "SkillAffixPerk_description_OliMoreTurret"
+  },
+  {
+    "id": 72,
+    "code_name": "SkillAffixPerk_name_OliMoreAeroBat"
+  },
+  {
+    "id": 73,
+    "code_name": "SkillAffixPerk_description_OliMoreAeroBat"
+  },
+  {
+    "id": 74,
+    "code_name": "SkillAffixPerk_name_OliMechMoreMissle"
+  },
+  {
+    "id": 75,
+    "code_name": "SkillAffixPerk_description_OliMechMoreMissle"
+  },
+  {
+    "id": 76,
+    "code_name": "SkillAffixPerk_name_OliMechPierceBullet"
+  },
+  {
+    "id": 77,
+    "code_name": "SkillAffixPerk_description_OliMechPierceBullet"
+  },
+  {
+    "id": 78,
+    "code_name": "SkillAffixPerk_name_GangdanShieldStun"
+  },
+  {
+    "id": 79,
+    "code_name": "SkillAffixPerk_description_GangdanShieldStun"
+  },
+  {
+    "id": 80,
+    "code_name": "SkillAffixPerk_name_GangdanShieldChargePower"
+  },
+  {
+    "id": 81,
+    "code_name": "SkillAffixPerk_description_GangdanShieldChargePower"
+  },
+  {
+    "id": 82,
+    "code_name": "SkillAffixPerk_name_GangdanCombatShield"
+  },
+  {
+    "id": 83,
+    "code_name": "SkillAffixPerk_description_GangdanCombatShield"
+  },
+  {
+    "id": 84,
+    "code_name": "SkillAffixPerk_name_GangdanStrongerZone"
+  },
+  {
+    "id": 85,
+    "code_name": "SkillAffixPerk_description_GangdanStrongerZone"
+  },
+  {
+    "id": 86,
+    "code_name": "SkillAffixPerk_name_GangdanLightBlessing"
+  },
+  {
+    "id": 87,
+    "code_name": "SkillAffixPerk_description_GangdanLightBlessing"
+  },
+  {
+    "id": 88,
+    "code_name": "SkillAffixPerk_name_GangdanLevelUpHammer"
+  },
+  {
+    "id": 89,
+    "code_name": "SkillAffixPerk_description_GangdanLevelUpHammer"
+  },
+  {
+    "id": 90,
+    "code_name": "SkillAffixPerk_name_GangdanRechargeHammer"
+  },
+  {
+    "id": 91,
+    "code_name": "SkillAffixPerk_description_GangdanRechargeHammer"
+  },
+  {
+    "id": 92,
+    "code_name": "SkillAffixPerk_name_GangdanLightDamageUp"
+  },
+  {
+    "id": 93,
+    "code_name": "SkillAffixPerk_description_GangdanLightDamageUp"
+  },
+  {
+    "id": 94,
+    "code_name": "SkillAffixPerk_name_GangdanDoubleAngel"
+  },
+  {
+    "id": 95,
+    "code_name": "SkillAffixPerk_description_GangdanDoubleAngel"
+  },
+  {
+    "id": 96,
+    "code_name": "SkillAffixPerk_name_GangdanAngelAttackSpeed"
+  },
+  {
+    "id": 97,
+    "code_name": "SkillAffixPerk_description_GangdanAngelAttackSpeed"
+  },
+  {
+    "id": 98,
+    "code_name": "SkillAffixPerk_name_KatherineLastingFireBall"
+  },
+  {
+    "id": 99,
+    "code_name": "SkillAffixPerk_description_KatherineLastingFireBall"
+  },
+  {
+    "id": 100,
+    "code_name": "SkillAffixPerk_name_KatherineCritIce"
+  },
+  {
+    "id": 101,
+    "code_name": "SkillAffixPerk_description_KatherineCritIce"
+  },
+  {
+    "id": 102,
+    "code_name": "SkillAffixPerk_name_KatherineMoreLightning"
+  },
+  {
+    "id": 103,
+    "code_name": "SkillAffixPerk_description_KatherineMoreLightning"
+  },
+  {
+    "id": 104,
+    "code_name": "SkillAffixPerk_name_HannahInstantShot"
+  },
+  {
+    "id": 105,
+    "code_name": "SkillAffixPerk_description_HannahInstantShot"
+  },
+  {
+    "id": 106,
+    "code_name": "SkillAffixPerk_name_HannahMoreAmmo"
+  },
+  {
+    "id": 107,
+    "code_name": "SkillAffixPerk_description_HannahMoreAmmo"
+  },
+  {
+    "id": 108,
+    "code_name": "SkillAffixPerk_name_HannahCalculatedBounce"
+  },
+  {
+    "id": 109,
+    "code_name": "SkillAffixPerk_description_HannahCalculatedBounce"
+  },
+  {
+    "id": 110,
+    "code_name": "SkillAffixPerk_name_HannahSharpenedAmmo"
+  },
+  {
+    "id": 111,
+    "code_name": "SkillAffixPerk_description_HannahSharpenedAmmo"
+  },
+  {
+    "id": 112,
+    "code_name": "SkillAffixPerk_name_HilldingMoreFood"
+  },
+  {
+    "id": 113,
+    "code_name": "SkillAffixPerk_description_HilldingMoreFood"
+  },
+  {
+    "id": 114,
+    "code_name": "SkillAffixPerk_name_HilldingPhantomFood"
+  },
+  {
+    "id": 115,
+    "code_name": "SkillAffixPerk_description_HilldingPhantomFood"
+  },
+  {
+    "id": 116,
+    "code_name": "SkillAffixPerk_name_HilldingEasyAnger"
+  },
+  {
+    "id": 117,
+    "code_name": "SkillAffixPerk_description_HilldingEasyAnger"
+  },
+  {
+    "id": 118,
+    "code_name": "SkillAffixPerk_name_HilldingRecoverRage"
+  },
+  {
+    "id": 119,
+    "code_name": "SkillAffixPerk_description_HilldingRecoverRage"
+  },
+  {
+    "id": 120,
+    "code_name": "SkillAffixPerk_name_PenhaligonMoreSoldier"
+  },
+  {
+    "id": 121,
+    "code_name": "SkillAffixPerk_description_PenhaligonMoreSoldier"
+  },
+  {
+    "id": 122,
+    "code_name": "SkillAffixPerk_name_PenhaligonMoreCannon"
+  },
+  {
+    "id": 123,
+    "code_name": "SkillAffixPerk_description_PenhaligonMoreCannon"
+  },
+  {
+    "id": 124,
+    "code_name": "SkillAffixPerk_name_PenhaligonStrongRush"
+  },
+  {
+    "id": 125,
+    "code_name": "SkillAffixPerk_description_PenhaligonStrongRush"
+  },
+  {
+    "id": 126,
+    "code_name": "SkillAffixPerk_name_HayfaMarkedDagger"
+  },
+  {
+    "id": 127,
+    "code_name": "SkillAffixPerk_description_HayfaMarkedDagger"
+  },
+  {
+    "id": 128,
+    "code_name": "SkillAffixPerk_name_HayfaRefinedPoison"
+  },
+  {
+    "id": 129,
+    "code_name": "SkillAffixPerk_description_HayfaRefinedPoison"
+  },
+  {
+    "id": 130,
+    "code_name": "SkillAffixPerk_name_HayfaRecoverDagger"
+  },
+  {
+    "id": 131,
+    "code_name": "SkillAffixPerk_description_HayfaRecoverDagger"
+  },
+  {
+    "id": 132,
+    "code_name": "SkillAffixPerk_name_HayfaExtraKick"
+  },
+  {
+    "id": 133,
+    "code_name": "SkillAffixPerk_description_HayfaExtraKick"
+  },
+  {
+    "id": 134,
+    "code_name": "SkillAffixPerk_name_OliCrazyAeroBat"
+  },
+  {
+    "id": 135,
+    "code_name": "SkillAffixPerk_description_OliCrazyAeroBat"
+  },
+  {
+    "id": 136,
+    "code_name": "SkillAffixPerk_name_OliRefillTurret"
+  },
+  {
+    "id": 137,
+    "code_name": "SkillAffixPerk_description_OliRefillTurret"
+  },
+  {
+    "id": 138,
+    "code_name": "SkillAffixPerk_name_SakariHurricane"
+  },
+  {
+    "id": 139,
+    "code_name": "SkillAffixPerk_description_SakariHurricane"
+  },
+  {
+    "id": 140,
+    "code_name": "SkillAffixPerk_name_SakariSwing"
+  },
+  {
+    "id": 141,
+    "code_name": "SkillAffixPerk_description_SakariSwing"
+  },
+  {
+    "id": 142,
+    "code_name": "SkillAffixPerk_name_SakariCombination"
+  },
+  {
+    "id": 143,
+    "code_name": "SkillAffixPerk_description_SakariCombination"
+  },
+  {
+    "id": 144,
+    "code_name": "SkillAffixPerk_name_PenhaligonAddShell"
+  },
+  {
+    "id": 145,
+    "code_name": "SkillAffixPerk_description_PenhaligonAddShell"
+  },
+  {
+    "id": 146,
+    "code_name": "SkillAffixPerk_name_PenhaligonFastShell"
+  },
+  {
+    "id": 147,
+    "code_name": "SkillAffixPerk_description_PenhaligonFastShell"
+  },
+  {
+    "id": 148,
+    "code_name": "SkillAffixPerk_name_PenhaligonFlashCD"
+  },
+  {
+    "id": 149,
+    "code_name": "SkillAffixPerk_description_PenhaligonFlashCD"
+  },
+  {
+    "id": 150,
+    "code_name": "SkillAffixPerk_name_PenhaligonPowerRush"
+  },
+  {
+    "id": 151,
+    "code_name": "SkillAffixPerk_description_PenhaligonPowerRush"
+  },
+  {
+    "id": 152,
+    "code_name": "SkillAffixPerk_name_HilldingHeavyComboFree"
+  },
+  {
+    "id": 153,
+    "code_name": "SkillAffixPerk_description_HilldingHeavyComboFree"
+  },
+  {
+    "id": 154,
+    "code_name": "SkillAffixPerk_name_HilldingHurricane"
+  },
+  {
+    "id": 155,
+    "code_name": "SkillAffixPerk_description_HilldingHurricane"
+  },
+  {
+    "id": 156,
+    "code_name": "SkillAffixPerk_name_HilldingHitWall"
+  },
+  {
+    "id": 157,
+    "code_name": "SkillAffixPerk_description_HilldingHitWall"
+  },
+  {
+    "id": 158,
+    "code_name": "SkillAffixPerk_name_HilldingSuperAnger"
+  },
+  {
+    "id": 159,
+    "code_name": "SkillAffixPerk_description_HilldingSuperAnger"
+  },
+  {
+    "id": 160,
+    "code_name": "SkillAffixPerk_name_KatherineSuperFire"
+  },
+  {
+    "id": 161,
+    "code_name": "SkillAffixPerk_description_KatherineSuperFire"
+  },
+  {
+    "id": 162,
+    "code_name": "SkillAffixPerk_name_KatherineMoreIce"
+  },
+  {
+    "id": 163,
+    "code_name": "SkillAffixPerk_description_KatherineMoreIce"
+  },
+  {
+    "id": 164,
+    "code_name": "SkillAffixPerk_name_KatherineFastIce"
+  },
+  {
+    "id": 165,
+    "code_name": "SkillAffixPerk_description_KatherineFastIce"
+  },
+  {
+    "id": 166,
+    "code_name": "SkillAffixPerk_name_KatherineFireLightning"
+  },
+  {
+    "id": 167,
+    "code_name": "SkillAffixPerk_description_KatherineFireLightning"
+  },
+  {
+    "id": 168,
+    "code_name": "SkillAffixPerk_name_KatherineSmallLightning"
+  },
+  {
+    "id": 169,
+    "code_name": "SkillAffixPerk_description_KatherineSmallLightning"
+  },
+  {
+    "id": 170,
+    "code_name": "SkillAffixPerk_name_HannahSuperMarlene"
+  },
+  {
+    "id": 171,
+    "code_name": "SkillAffixPerk_description_HannahSuperMarlene"
+  },
+  {
+    "id": 172,
+    "code_name": "SkillAffixPerk_name_HannahFineBullet"
+  },
+  {
+    "id": 173,
+    "code_name": "SkillAffixPerk_description_HannahFineBullet"
+  },
+  {
+    "id": 174,
+    "code_name": "SkillAffixPerk_name_HannahContinuousFire"
+  },
+  {
+    "id": 175,
+    "code_name": "SkillAffixPerk_description_HannahContinuousFire"
+  },
+  {
+    "id": 176,
+    "code_name": "SkillAffixPerk_name_HayfaFailInShadow"
+  },
+  {
+    "id": 177,
+    "code_name": "SkillAffixPerk_description_HayfaFailInShadow"
+  },
+  {
+    "id": 178,
+    "code_name": "SkillAffixPerk_name_HayfaGunmen"
+  },
+  {
+    "id": 179,
+    "code_name": "SkillAffixPerk_description_HayfaGunmen"
+  },
+  {
+    "id": 180,
+    "code_name": "SkillAffixPerk_name_HayfaShiv"
+  },
+  {
+    "id": 181,
+    "code_name": "SkillAffixPerk_description_HayfaShiv"
+  },
+  {
+    "id": 182,
+    "code_name": "SkillAffixPerk_name_HayfaDeathHarvest"
+  },
+  {
+    "id": 183,
+    "code_name": "SkillAffixPerk_description_HayfaDeathHarvest"
+  },
+  {
+    "id": 184,
+    "code_name": "SkillAffixPerk_name_HayfaWindFollows"
+  },
+  {
+    "id": 185,
+    "code_name": "SkillAffixPerk_description_HayfaWindFollows"
+  },
+  {
+    "id": 186,
+    "code_name": "SkillAffixPerk_name_AnibellaShared"
+  },
+  {
+    "id": 187,
+    "code_name": "SkillAffixPerk_description_AnibellaShared"
+  },
+  {
+    "id": 188,
+    "code_name": "SkillAffixPerk_name_AnibellaPetMoreHp"
+  },
+  {
+    "id": 189,
+    "code_name": "SkillAffixPerk_description_AnibellaPetMoreHp"
+  },
+  {
+    "id": 190,
+    "code_name": "SkillAffixPerk_name_AnibellaCatAttackSpeed"
+  },
+  {
+    "id": 191,
+    "code_name": "SkillAffixPerk_description_AnibellaCatAttackSpeed"
+  },
+  {
+    "id": 192,
+    "code_name": "SkillAffixPerk_name_AnibellaGodAttackSpeed"
+  },
+  {
+    "id": 193,
+    "code_name": "SkillAffixPerk_description_AnibellaGodAttackSpeed"
+  },
+  {
+    "id": 194,
+    "code_name": "SkillAffixPerk_name_AnibellaMarkWind"
+  },
+  {
+    "id": 195,
+    "code_name": "SkillAffixPerk_description_AnibellaMarkWind"
+  },
+  {
+    "id": 196,
+    "code_name": "SkillAffixPerk_name_AnibellaPetGetHp"
+  },
+  {
+    "id": 197,
+    "code_name": "SkillAffixPerk_description_AnibellaPetGetHp"
+  },
+  {
+    "id": 198,
+    "code_name": "SkillAffixPerk_name_AnibellaFrogMoreBall"
+  },
+  {
+    "id": 199,
+    "code_name": "SkillAffixPerk_description_AnibellaFrogMoreBall"
+  },
+  {
+    "id": 200,
+    "code_name": "SkillAffixPerk_name_AnibellaFrogHotLava"
+  },
+  {
+    "id": 201,
+    "code_name": "SkillAffixPerk_description_AnibellaFrogHotLava"
+  },
+  {
+    "id": 202,
+    "code_name": "SkillAffixPerk_name_AnibellaCatLongTime"
+  },
+  {
+    "id": 203,
+    "code_name": "SkillAffixPerk_description_AnibellaCatLongTime"
+  },
+  {
+    "id": 204,
+    "code_name": "SkillAffixPerk_name_AnibellaGodBlink"
+  },
+  {
+    "id": 205,
+    "code_name": "SkillAffixPerk_description_AnibellaGodBlink"
+  },
+  {
+    "id": 206,
+    "code_name": "SkillAffixPerk_name_AnibellaGodAnger"
+  },
+  {
+    "id": 207,
+    "code_name": "SkillAffixPerk_description_AnibellaGodAnger"
+  },
+  {
+    "id": 208,
+    "code_name": "SkillAffixPerk_name_PenhaligonMoreBullet"
+  },
+  {
+    "id": 209,
+    "code_name": "SkillAffixPerk_description_PenhaligonMoreBullet"
+  },
+  {
+    "id": 210,
+    "code_name": "SkillAffixPerk_name_PenhaligonCopy"
+  },
+  {
+    "id": 211,
+    "code_name": "SkillAffixPerk_description_PenhaligonCopy"
+  },
+  {
+    "id": 212,
+    "code_name": "SkillAffixPerk_name_KatherineMoreFire"
+  },
+  {
+    "id": 213,
+    "code_name": "SkillAffixPerk_description_KatherineMoreFire"
+  },
+  {
+    "id": 214,
+    "code_name": "SkillAffixPerk_name_AdiraPowerAttackCrit"
+  },
+  {
+    "id": 215,
+    "code_name": "SkillAffixPerk_description_AdiraPowerAttackCrit"
+  },
+  {
+    "id": 216,
+    "code_name": "SkillAffixPerk_name_AdiraKillHeal"
+  },
+  {
+    "id": 217,
+    "code_name": "SkillAffixPerk_description_AdiraKillHeal"
+  },
+  {
+    "id": 218,
+    "code_name": "SkillAffixPerk_name_AdiraAtkSpdToDmgUp"
+  },
+  {
+    "id": 219,
+    "code_name": "SkillAffixPerk_description_AdiraAtkSpdToDmgUp"
+  },
+  {
+    "id": 220,
+    "code_name": "SkillAffixPerk_name_AdiraPowerAttackDmgUp"
+  },
+  {
+    "id": 221,
+    "code_name": "SkillAffixPerk_description_AdiraPowerAttackDmgUp"
+  },
+  {
+    "id": 222,
+    "code_name": "SkillAffixPerk_name_AdiraDmgReducedSkillCast"
+  },
+  {
+    "id": 223,
+    "code_name": "SkillAffixPerk_description_AdiraDmgReducedSkillCast"
+  },
+  {
+    "id": 224,
+    "code_name": "SkillAffixPerk_name_AdiraSunMark"
+  },
+  {
+    "id": 225,
+    "code_name": "SkillAffixPerk_description_AdiraSunMark"
+  },
+  {
+    "id": 226,
+    "code_name": "SkillAffixPerk_name_AdiraPowerAttackToSkill"
+  },
+  {
+    "id": 227,
+    "code_name": "SkillAffixPerk_description_AdiraPowerAttackToSkill"
+  },
+  {
+    "id": 228,
+    "code_name": "SkillAffixPerk_name_AdiraDownStrikeAddShockWave"
+  },
+  {
+    "id": 229,
+    "code_name": "SkillAffixPerk_description_AdiraDownStrikeAddShockWave"
+  },
+  {
+    "id": 230,
+    "code_name": "SkillAffixPerk_name_AdiraFasterWhirlwind"
+  },
+  {
+    "id": 231,
+    "code_name": "SkillAffixPerk_description_AdiraFasterWhirlwind"
+  },
+  {
+    "id": 232,
+    "code_name": "SkillAffixPerk_name_AdiraUpSlashGivePowerAttack"
+  },
+  {
+    "id": 233,
+    "code_name": "SkillAffixPerk_description_AdiraUpSlashGivePowerAttack"
+  },
+  {
+    "id": 234,
+    "code_name": "SkillAffixPerk_name_AdiraBackStepToOtherSkill"
+  },
+  {
+    "id": 235,
+    "code_name": "SkillAffixPerk_description_AdiraBackStepToOtherSkill"
+  },
+  {
+    "id": 236,
+    "code_name": "SkillAffixType_Damage"
+  },
+  {
+    "id": 237,
+    "code_name": "SkillAffixType_AoE"
+  },
+  {
+    "id": 238,
+    "code_name": "SkillAffixType_Dash"
+  },
+  {
+    "id": 239,
+    "code_name": "SkillAffixType_Duration"
+  },
+  {
+    "id": 240,
+    "code_name": "SkillAffixType_Buff"
+  },
+  {
+    "id": 241,
+    "code_name": "SkillAffixType_Debuff"
+  },
+  {
+    "id": 242,
+    "code_name": "SkillAffixType_Chance"
+  },
+  {
+    "id": 243,
+    "code_name": "SkillAffixType_Cost"
+  },
+  {
+    "id": 244,
+    "code_name": "SkillAffixType_Projectile"
+  },
+  {
+    "id": 245,
+    "code_name": "SkillAffixType_Summon"
+  },
+  {
+    "id": 246,
+    "code_name": "SkillAffixVariable_DamageRate"
+  },
+  {
+    "id": 247,
+    "code_name": "SkillAffixVariable_AreaRate"
+  },
+  {
+    "id": 248,
+    "code_name": "SkillAffixVariable_DistanceRate"
+  },
+  {
+    "id": 249,
+    "code_name": "SkillAffixVariable_DurationRate"
+  },
+  {
+    "id": 250,
+    "code_name": "SkillAffixVariable_BuffRate"
+  },
+  {
+    "id": 251,
+    "code_name": "SkillAffixVariable_DebuffRate"
+  },
+  {
+    "id": 252,
+    "code_name": "SkillAffixVariable_ChanceRate"
+  },
+  {
+    "id": 253,
+    "code_name": "SkillAffixVariable_CostReduceRate"
+  },
+  {
+    "id": 254,
+    "code_name": "SkillAffixVariable_ProjectileSpeedRate"
+  },
+  {
+    "id": 255,
+    "code_name": "SkillAffixVariable_ProjectileSizeRate"
+  },
+  {
+    "id": 256,
+    "code_name": "SkillAffixVariable_SummonSizeRate"
+  },
+  {
+    "id": 257,
+    "code_name": "SkillAffixPerk_name_YangkyiReduceNeedStack"
+  },
+  {
+    "id": 258,
+    "code_name": "SkillAffixPerk_description_YangkyiReduceNeedStack"
+  },
+  {
+    "id": 259,
+    "code_name": "SkillAffixPerk_name_YangkyiExplosiveMark"
+  },
+  {
+    "id": 260,
+    "code_name": "SkillAffixPerk_description_YangkyiExplosiveMark"
+  },
+  {
+    "id": 261,
+    "code_name": "SkillAffixPerk_name_YangkyiBuffSpecialAttack"
+  },
+  {
+    "id": 262,
+    "code_name": "SkillAffixPerk_description_YangkyiBuffSpecialAttack"
+  },
+  {
+    "id": 263,
+    "code_name": "SkillAffixPerk_name_YangkyiMarkAddSkill1Damage"
+  },
+  {
+    "id": 264,
+    "code_name": "SkillAffixPerk_description_YangkyiMarkAddSkill1Damage"
+  },
+  {
+    "id": 265,
+    "code_name": "SkillAffixPerk_name_YangkyiSkill2Refresh"
+  },
+  {
+    "id": 266,
+    "code_name": "SkillAffixPerk_description_YangkyiSkill2Refresh"
+  },
+  {
+    "id": 267,
+    "code_name": "SkillAffixPerk_name_YangkyiSkill3RefreshOnKill"
+  },
+  {
+    "id": 268,
+    "code_name": "SkillAffixPerk_description_YangkyiSkill3RefreshOnKill"
+  },
+  {
+    "id": 269,
+    "code_name": "SkillAffixPerk_name_YangkyiSkill3Enchance"
+  },
+  {
+    "id": 270,
+    "code_name": "SkillAffixPerk_description_YangkyiSkill3Enchance"
+  },
+  {
+    "id": 271,
+    "code_name": "SkillAffixPerk_name_YangkyiSkill1Curse"
+  },
+  {
+    "id": 272,
+    "code_name": "SkillAffixPerk_description_YangkyiSkill1Curse"
+  },
+  {
+    "id": 273,
+    "code_name": "SkillAffixPerk_name_YangkyiSkill2TornadoSuck"
+  },
+  {
+    "id": 274,
+    "code_name": "SkillAffixPerk_description_YangkyiSkill2TornadoSuck"
+  },
+  {
+    "id": 275,
+    "code_name": "SkillAffixPerk_name_YouziQuickerReleaseHeat"
+  },
+  {
+    "id": 276,
+    "code_name": "SkillAffixPerk_description_YouziQuickerReleaseHeat"
+  },
+  {
+    "id": 277,
+    "code_name": "SkillAffixPerk_name_YouziMoreOverHeatBar"
+  },
+  {
+    "id": 278,
+    "code_name": "SkillAffixPerk_description_YouziMoreOverHeatBar"
+  },
+  {
+    "id": 279,
+    "code_name": "SkillAffixPerk_name_YouziExtraWeapon"
+  },
+  {
+    "id": 280,
+    "code_name": "SkillAffixPerk_description_YouziExtraWeapon"
+  },
+  {
+    "id": 281,
+    "code_name": "SkillAffixPerk_name_YouziSetFireOnMachineGunHit"
+  },
+  {
+    "id": 282,
+    "code_name": "SkillAffixPerk_description_YouziSetFireOnMachineGunHit"
+  },
+  {
+    "id": 283,
+    "code_name": "SkillAffixPerk_name_YouziTurboMachineGun"
+  },
+  {
+    "id": 284,
+    "code_name": "SkillAffixPerk_description_YouziTurboMachineGun"
+  },
+  {
+    "id": 285,
+    "code_name": "SkillAffixPerk_name_YouziMissileAddDamageToOnFire"
+  },
+  {
+    "id": 286,
+    "code_name": "SkillAffixPerk_description_YouziMissileAddDamageToOnFire"
+  },
+  {
+    "id": 287,
+    "code_name": "SkillAffixPerk_name_YouziMissileOverHeatSpreadFire"
+  },
+  {
+    "id": 288,
+    "code_name": "SkillAffixPerk_description_YouziMissileOverHeatSpreadFire"
+  },
+  {
+    "id": 289,
+    "code_name": "SkillAffixPerk_name_YouziMissileTriggerPillarEffect"
+  },
+  {
+    "id": 290,
+    "code_name": "SkillAffixPerk_description_YouziMissileTriggerPillarEffect"
+  },
+  {
+    "id": 291,
+    "code_name": "SkillAffixPerk_name_YouziPillarBundleShot"
+  },
+  {
+    "id": 292,
+    "code_name": "SkillAffixPerk_description_YouziPillarBundleShot"
+  },
+  {
+    "id": 293,
+    "code_name": "SkillAffixPerk_name_YufengSkillToNormalAttack"
+  },
+  {
+    "id": 294,
+    "code_name": "SkillAffixPerk_description_YufengSkillToNormalAttack"
+  },
+  {
+    "id": 295,
+    "code_name": "SkillAffixPerk_name_YufengNormalAttackAirWave"
+  },
+  {
+    "id": 296,
+    "code_name": "SkillAffixPerk_description_YufengNormalAttackAirWave"
+  },
+  {
+    "id": 297,
+    "code_name": "SkillAffixPerk_name_YufengSkill1BackSlash"
+  },
+  {
+    "id": 298,
+    "code_name": "SkillAffixPerk_description_YufengSkill1BackSlash"
+  },
+  {
+    "id": 299,
+    "code_name": "SkillAffixPerk_name_YufengNormalAttackAirSlashes"
+  },
+  {
+    "id": 300,
+    "code_name": "SkillAffixPerk_description_YufengNormalAttackAirSlashes"
+  },
+  {
+    "id": 301,
+    "code_name": "SkillAffixPerk_name_YufengSkill2Bleed"
+  },
+  {
+    "id": 302,
+    "code_name": "SkillAffixPerk_description_YufengSkill2Bleed"
+  },
+  {
+    "id": 303,
+    "code_name": "SkillAffixPerk_name_YufengSkill3CutWindUp"
+  },
+  {
+    "id": 304,
+    "code_name": "SkillAffixPerk_description_YufengSkill3CutWindUp"
+  },
+  {
+    "id": 305,
+    "code_name": "SkillAffixPerk_name_YufengSkill3BreakShield"
+  },
+  {
+    "id": 306,
+    "code_name": "SkillAffixPerk_description_YufengSkill3BreakShield"
+  },
+  {
+    "id": 307,
+    "code_name": "SkillAffixPerk_name_WufeiMultiKickBlade"
+  },
+  {
+    "id": 308,
+    "code_name": "SkillAffixPerk_description_WufeiMultiKickBlade"
+  },
+  {
+    "id": 309,
+    "code_name": "SkillAffixPerk_name_WufeiAddCritChanceToDmg"
+  },
+  {
+    "id": 310,
+    "code_name": "SkillAffixPerk_description_WufeiAddCritChanceToDmg"
+  },
+  {
+    "id": 311,
+    "code_name": "SkillAffixPerk_name_WufeiMoreArrowChip"
+  },
+  {
+    "id": 312,
+    "code_name": "SkillAffixPerk_description_WufeiMoreArrowChip"
+  },
+  {
+    "id": 313,
+    "code_name": "SkillAffixPerk_name_WufeiBladeBleedOnMark"
+  },
+  {
+    "id": 314,
+    "code_name": "SkillAffixPerk_description_WufeiBladeBleedOnMark"
+  },
+  {
+    "id": 315,
+    "code_name": "SkillAffixPerk_name_WufeiVulnerableOnMark"
+  },
+  {
+    "id": 316,
+    "code_name": "SkillAffixPerk_description_WufeiVulnerableOnMark"
+  },
+  {
+    "id": 317,
+    "code_name": "SkillAffixPerk_name_WufeiChipDmgUp"
+  },
+  {
+    "id": 318,
+    "code_name": "SkillAffixPerk_description_WufeiChipDmgUp"
+  },
+  {
+    "id": 319,
+    "code_name": "SkillAffixPerk_name_WufeiDodgeArrowSameEffect"
+  },
+  {
+    "id": 320,
+    "code_name": "SkillAffixPerk_description_WufeiDodgeArrowSameEffect"
+  },
+  {
+    "id": 321,
+    "code_name": "SkillAffixPerk_name_WufeiAimmedBoomerang"
+  },
+  {
+    "id": 322,
+    "code_name": "SkillAffixPerk_description_WufeiAimmedBoomerang"
+  },
+  {
+    "id": 323,
+    "code_name": "SkillAffixPerk_name_BunnyAirAtkToBlast"
+  },
+  {
+    "id": 324,
+    "code_name": "SkillAffixPerk_description_BunnyAirAtkToBlast"
+  },
+  {
+    "id": 325,
+    "code_name": "SkillAffixPerk_name_BunnySkillChargeEnergy"
+  },
+  {
+    "id": 326,
+    "code_name": "SkillAffixPerk_description_BunnySkillChargeEnergy"
+  },
+  {
+    "id": 327,
+    "code_name": "SkillAffixPerk_name_BunnyHammerBlast"
+  },
+  {
+    "id": 328,
+    "code_name": "SkillAffixPerk_description_BunnyHammerBlast"
+  },
+  {
+    "id": 329,
+    "code_name": "SkillAffixPerk_name_BunnyHammerEnhance"
+  },
+  {
+    "id": 330,
+    "code_name": "SkillAffixPerk_description_BunnyHammerEnhance"
+  },
+  {
+    "id": 331,
+    "code_name": "SkillAffixPerk_name_BunnyFasterSkill2"
+  },
+  {
+    "id": 332,
+    "code_name": "SkillAffixPerk_description_BunnyFasterSkill2"
+  },
+  {
+    "id": 333,
+    "code_name": "SkillAffixPerk_name_BunnyResetSkill2"
+  },
+  {
+    "id": 334,
+    "code_name": "SkillAffixPerk_description_BunnyResetSkill2"
+  },
+  {
+    "id": 335,
+    "code_name": "SkillAffixPerk_name_BunnyBlastBurn"
+  },
+  {
+    "id": 336,
+    "code_name": "SkillAffixPerk_description_BunnyBlastBurn"
+  },
+  {
+    "id": 337,
+    "code_name": "SkillAffixPerk_name_BunnyBlastTwice"
+  },
+  {
+    "id": 338,
+    "code_name": "SkillAffixPerk_description_BunnyBlastTwice"
+  },
+  {
+    "id": 339,
+    "code_name": "SkillAffixPerk_name_QifengSkillPerkID1"
+  },
+  {
+    "id": 340,
+    "code_name": "SkillAffixPerk_description_QifengSkillPerkID1"
+  },
+  {
+    "id": 341,
+    "code_name": "SkillAffixPerk_name_QifengSkillPerkID2"
+  },
+  {
+    "id": 342,
+    "code_name": "SkillAffixPerk_description_QifengSkillPerkID2"
+  },
+  {
+    "id": 343,
+    "code_name": "SkillAffixPerk_name_QifengSkillPerkID3"
+  },
+  {
+    "id": 344,
+    "code_name": "SkillAffixPerk_description_QifengSkillPerkID3"
+  },
+  {
+    "id": 345,
+    "code_name": "SkillAffixPerk_name_QifengSkillPerkID4"
+  },
+  {
+    "id": 346,
+    "code_name": "SkillAffixPerk_description_QifengSkillPerkID4"
+  },
+  {
+    "id": 347,
+    "code_name": "SkillAffixPerk_name_QifengSkillPerkID5"
+  },
+  {
+    "id": 348,
+    "code_name": "SkillAffixPerk_description_QifengSkillPerkID5"
+  },
+  {
+    "id": 349,
+    "code_name": "SkillAffixPerk_name_QifengSkillPerkID6"
+  },
+  {
+    "id": 350,
+    "code_name": "SkillAffixPerk_description_QifengSkillPerkID6"
+  },
+  {
+    "id": 351,
+    "code_name": "SkillAffixPerk_name_QifengSkillPerkID7"
+  },
+  {
+    "id": 352,
+    "code_name": "SkillAffixPerk_description_QifengSkillPerkID7"
+  },
+  {
+    "id": 353,
+    "code_name": "SkillAffixPerk_name_QifengSkillPerkID8"
+  },
+  {
+    "id": 354,
+    "code_name": "SkillAffixPerk_description_QifengSkillPerkID8"
+  },
+  {
+    "id": 355,
+    "code_name": "SkillAffixPerk_name_LinxiaoSkill1DmgBuff"
+  },
+  {
+    "id": 356,
+    "code_name": "SkillAffixPerk_description_LinxiaoSkill1DmgBuff"
+  },
+  {
+    "id": 357,
+    "code_name": "SkillAffixPerk_name_LinxiaoSkill2DmgBuff"
+  },
+  {
+    "id": 358,
+    "code_name": "SkillAffixPerk_description_LinxiaoSkill2DmgBuff"
+  },
+  {
+    "id": 359,
+    "code_name": "SkillAffixPerk_name_LinxiaoSkill3DmgBuff"
+  },
+  {
+    "id": 360,
+    "code_name": "SkillAffixPerk_description_LinxiaoSkill3DmgBuff"
+  },
+  {
+    "id": 361,
+    "code_name": "SkillAffixPerk_name_LinxiaoSkill1ExtraSpear"
+  },
+  {
+    "id": 362,
+    "code_name": "SkillAffixPerk_description_LinxiaoSkill1ExtraSpear"
+  },
+  {
+    "id": 363,
+    "code_name": "SkillAffixPerk_name_LinxiaoSkill2ExtraCast"
+  },
+  {
+    "id": 364,
+    "code_name": "SkillAffixPerk_description_LinxiaoSkill2ExtraCast"
+  },
+  {
+    "id": 365,
+    "code_name": "SkillAffixPerk_name_LinxiaoSkill3ExtraGroundSpear"
+  },
+  {
+    "id": 366,
+    "code_name": "SkillAffixPerk_description_LinxiaoSkill3ExtraGroundSpear"
+  },
+  {
+    "id": 367,
+    "code_name": "SkillAffixPerk_name_LinxiaoSkill1SpawnGroundSpear"
+  },
+  {
+    "id": 368,
+    "code_name": "SkillAffixPerk_description_LinxiaoSkill1SpawnGroundSpear"
+  },
+  {
+    "id": 369,
+    "code_name": "SkillAffixPerk_name_LinxiaoSkill2HitSpawnLightning"
+  },
+  {
+    "id": 370,
+    "code_name": "SkillAffixPerk_description_LinxiaoSkill2HitSpawnLightning"
+  },
+  {
+    "id": 371,
+    "code_name": "SkillAffixPerk_name_LinxiaoSkill3SpawnOnSkill2"
+  },
+  {
+    "id": 372,
+    "code_name": "SkillAffixPerk_description_LinxiaoSkill3SpawnOnSkill2"
+  },
+  {
+    "id": 373,
+    "code_name": "SkillAffixPerk_name_FeiyuExtraComboEffect"
+  },
+  {
+    "id": 374,
+    "code_name": "SkillAffixPerk_description_FeiyuExtraComboEffect"
+  },
+  {
+    "id": 375,
+    "code_name": "SkillAffixPerk_name_FeiyuWaterIceDmgUp"
+  },
+  {
+    "id": 376,
+    "code_name": "SkillAffixPerk_description_FeiyuWaterIceDmgUp"
+  },
+  {
+    "id": 377,
+    "code_name": "SkillAffixPerk_name_FeiyuGroundThunderDmgUp"
+  },
+  {
+    "id": 378,
+    "code_name": "SkillAffixPerk_description_FeiyuGroundThunderDmgUp"
+  },
+  {
+    "id": 379,
+    "code_name": "SkillAffixPerk_name_FeiyuWoodFireDmgUp"
+  },
+  {
+    "id": 380,
+    "code_name": "SkillAffixPerk_description_FeiyuWoodFireDmgUp"
+  },
+  {
+    "id": 381,
+    "code_name": "SkillAffixPerk_name_FeiyuGroundExtraCharge"
+  },
+  {
+    "id": 382,
+    "code_name": "SkillAffixPerk_description_FeiyuGroundExtraCharge"
+  },
+  {
+    "id": 383,
+    "code_name": "SkillAffixPerk_name_FeiyuWoodExtraRelease"
+  },
+  {
+    "id": 384,
+    "code_name": "SkillAffixPerk_description_FeiyuWoodExtraRelease"
+  },
+  {
+    "id": 385,
+    "code_name": "SkillAffixPerk_name_FeiyuWaterCDReduction"
+  },
+  {
+    "id": 386,
+    "code_name": "SkillAffixPerk_description_FeiyuWaterCDReduction"
+  },
+  {
+    "id": 387,
+    "code_name": "SkillAffixPerk_name_HualingLastComboAfterSkill"
+  },
+  {
+    "id": 388,
+    "code_name": "SkillAffixPerk_description_HualingLastComboAfterSkill"
+  },
+  {
+    "id": 389,
+    "code_name": "SkillAffixPerk_name_HualingSkill1ExtraCharge"
+  },
+  {
+    "id": 390,
+    "code_name": "SkillAffixPerk_description_HualingSkill1ExtraCharge"
+  },
+  {
+    "id": 391,
+    "code_name": "SkillAffixPerk_name_HualingSkill1ExtraRange"
+  },
+  {
+    "id": 392,
+    "code_name": "SkillAffixPerk_description_HualingSkill1ExtraRange"
+  },
+  {
+    "id": 393,
+    "code_name": "SkillAffixPerk_name_HualingSkill2BlockProjectile"
+  },
+  {
+    "id": 394,
+    "code_name": "SkillAffixPerk_description_HualingSkill2BlockProjectile"
+  },
+  {
+    "id": 395,
+    "code_name": "SkillAffixPerk_name_HualingSkill3ExtraHit"
+  },
+  {
+    "id": 396,
+    "code_name": "SkillAffixPerk_description_HualingSkill3ExtraHit"
+  },
+  {
+    "id": 397,
+    "code_name": "SkillAffixPerk_name_HualingSkill3ExtraMomentum"
+  },
+  {
+    "id": 398,
+    "code_name": "SkillAffixPerk_description_HualingSkill3ExtraMomentum"
+  },
+  {
+    "id": 399,
+    "code_name": "SkillAffixPerk_name_HualingChargedSkillGainBuff"
+  },
+  {
+    "id": 400,
+    "code_name": "SkillAffixPerk_description_HualingChargedSkillGainBuff"
+  },
+  {
+    "id": 401,
+    "code_name": "SkillAffixPerk_name_HualingBrittledGetMoreDmg"
+  },
+  {
+    "id": 402,
+    "code_name": "SkillAffixPerk_description_HualingBrittledGetMoreDmg"
+  },
+  {
+    "id": 403,
+    "code_name": "SkillAffixPerk_name_HualingSkill2AddShield"
+  },
+  {
+    "id": 404,
+    "code_name": "SkillAffixPerk_description_HualingSkill2AddShield"
+  },
+  {
+    "id": 405,
+    "code_name": "SkillAffixPerk_name_RanaPhantomAddDamage"
+  },
+  {
+    "id": 406,
+    "code_name": "SkillAffixPerk_description_RanaPhantomAddDamage"
+  },
+  {
+    "id": 407,
+    "code_name": "SkillAffixPerk_name_RanaPhantomAddLifetime"
+  },
+  {
+    "id": 408,
+    "code_name": "SkillAffixPerk_description_RanaPhantomAddLifetime"
+  },
+  {
+    "id": 409,
+    "code_name": "SkillAffixPerk_name_RanaSkillAdvanceNextAttack"
+  },
+  {
+    "id": 410,
+    "code_name": "SkillAffixPerk_description_RanaSkillAdvanceNextAttack"
+  },
+  {
+    "id": 411,
+    "code_name": "SkillAffixPerk_name_RanaAddPhantomReleaseCount"
+  },
+  {
+    "id": 412,
+    "code_name": "SkillAffixPerk_description_RanaAddPhantomReleaseCount"
+  },
+  {
+    "id": 413,
+    "code_name": "SkillAffixPerk_name_RanaHealOnPhantomHitEnemy"
+  },
+  {
+    "id": 414,
+    "code_name": "SkillAffixPerk_description_RanaHealOnPhantomHitEnemy"
+  },
+  {
+    "id": 415,
+    "code_name": "SkillAffixPerk_name_RanaPhantomExtraDashOnVanish"
+  },
+  {
+    "id": 416,
+    "code_name": "SkillAffixPerk_description_RanaPhantomExtraDashOnVanish"
+  },
+  {
+    "id": 417,
+    "code_name": "SkillAffixPerk_name_RanaSpeedUpCountdownOnPhantomHit"
+  },
+  {
+    "id": 418,
+    "code_name": "SkillAffixPerk_description_RanaSpeedUpCountdownOnPhantomHit"
+  },
+  {
+    "id": 419,
+    "code_name": "SkillAffixPerk_name_RanaSkill1DamageModifyByDistance"
+  },
+  {
+    "id": 420,
+    "code_name": "SkillAffixPerk_description_RanaSkill1DamageModifyByDistance"
+  },
+  {
+    "id": 421,
+    "code_name": "SkillAffixPerk_name_DragonSwimmingGainShield"
+  },
+  {
+    "id": 422,
+    "code_name": "SkillAffixPerk_description_DragonSwimmingGainShield"
+  },
+  {
+    "id": 423,
+    "code_name": "SkillAffixPerk_name_DragonSkillShortCDIfNotBuffed"
+  },
+  {
+    "id": 424,
+    "code_name": "SkillAffixPerk_description_DragonSkillShortCDIfNotBuffed"
+  },
+  {
+    "id": 425,
+    "code_name": "SkillAffixPerk_name_DragonExitSwimWaveAttack"
+  },
+  {
+    "id": 426,
+    "code_name": "SkillAffixPerk_description_DragonExitSwimWaveAttack"
+  },
+  {
+    "id": 427,
+    "code_name": "SkillAffixPerk_name_DragonSkill1ExtraCharge"
+  },
+  {
+    "id": 428,
+    "code_name": "SkillAffixPerk_description_DragonSkill1ExtraCharge"
+  },
+  {
+    "id": 429,
+    "code_name": "SkillAffixPerk_name_DragonSkill1ChaseTarget"
+  },
+  {
+    "id": 430,
+    "code_name": "SkillAffixPerk_description_DragonSkill1ChaseTarget"
+  },
+  {
+    "id": 431,
+    "code_name": "SkillAffixPerk_name_DragonSkill2ExtraSpin"
+  },
+  {
+    "id": 432,
+    "code_name": "SkillAffixPerk_description_DragonSkill2ExtraSpin"
+  },
+  {
+    "id": 433,
+    "code_name": "SkillAffixPerk_name_DragonSkill2SpawnBlade"
+  },
+  {
+    "id": 434,
+    "code_name": "SkillAffixPerk_description_DragonSkill2SpawnBlade"
+  },
+  {
+    "id": 435,
+    "code_name": "SkillAffixPerk_name_DragonSkill3ExtraWaveAttack"
+  },
+  {
+    "id": 436,
+    "code_name": "SkillAffixPerk_description_DragonSkill3ExtraWaveAttack"
+  },
+  {
+    "id": 437,
+    "code_name": "SkillAffixPerk_name_DragonSkill3RefreshCDOnKill"
+  },
+  {
+    "id": 438,
+    "code_name": "SkillAffixPerk_description_DragonSkill3RefreshCDOnKill"
+  }
+]

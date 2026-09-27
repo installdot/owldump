@@ -1,0 +1,114 @@
+[
+  {
+    "id": 0,
+    "code_name": "esr_storage_title"
+  },
+  {
+    "id": 1,
+    "code_name": "esr_equip_not_equipped"
+  },
+  {
+    "id": 2,
+    "code_name": "esr_equip_not_equipped_help"
+  },
+  {
+    "id": 3,
+    "code_name": "esr_merge_title"
+  },
+  {
+    "id": 4,
+    "code_name": "esr_identify_identifying"
+  },
+  {
+    "id": 5,
+    "code_name": "esr_identify_identified"
+  },
+  {
+    "id": 6,
+    "code_name": "esr_identify_time_left"
+  },
+  {
+    "id": 7,
+    "code_name": "esr_identify_claim_button"
+  },
+  {
+    "id": 8,
+    "code_name": "esr_identify_use_insta_finish_button"
+  },
+  {
+    "id": 9,
+    "code_name": "esr_identify_use_insta_finish_question"
+  },
+  {
+    "id": 10,
+    "code_name": "esr_identify_claim_ball_des"
+  },
+  {
+    "id": 11,
+    "code_name": "esr_identify_auto_claim_ball_des"
+  },
+  {
+    "id": 12,
+    "code_name": "esr_identify_not_enough_ticket"
+  },
+  {
+    "id": 13,
+    "code_name": "esr_identify_need_network_time"
+  },
+  {
+    "id": 14,
+    "code_name": "esr_ball_name_format"
+  },
+  {
+    "id": 15,
+    "code_name": "esr_ball_forHero_format"
+  },
+  {
+    "id": 16,
+    "code_name": "esr_ball_undefined_name"
+  },
+  {
+    "id": 17,
+    "code_name": "esr_ball_undefined_des"
+  },
+  {
+    "id": 18,
+    "code_name": "esr_ball_undefined_drop_difficulty"
+  },
+  {
+    "id": 19,
+    "code_name": "esr_ball_undefined_drop_chaos_level"
+  },
+  {
+    "id": 20,
+    "code_name": "esr_storage_mark_explain"
+  },
+  {
+    "id": 21,
+    "code_name": "esr_storage_mark_enabled"
+  },
+  {
+    "id": 22,
+    "code_name": "esr_storage_mark_disabled"
+  },
+  {
+    "id": 23,
+    "code_name": "esr_storage_marked"
+  },
+  {
+    "id": 24,
+    "code_name": "esr_storage_not_marked"
+  },
+  {
+    "id": 25,
+    "code_name": "esr_storage_mark"
+  },
+  {
+    "id": 26,
+    "code_name": "esr_storage_unmark"
+  },
+  {
+    "id": 27,
+    "code_name": "esr_name"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "Wait"
+  },
+  {
+    "id": 1,
+    "code_name": "Scrolling"
+  },
+  {
+    "id": 2,
+    "code_name": "Result"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Item"
+  },
+  {
+    "id": 1,
+    "code_name": "BanSlot"
+  },
+  {
+    "id": 2,
+    "code_name": "Travel"
+  },
+  {
+    "id": 3,
+    "code_name": "WineFormulaPack"
+  }
+]

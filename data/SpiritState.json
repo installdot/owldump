@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "code_name": "Show"
+  },
+  {
+    "id": 1,
+    "code_name": "Idle"
+  },
+  {
+    "id": 2,
+    "code_name": "Fade"
+  },
+  {
+    "id": 3,
+    "code_name": "Reappear"
+  },
+  {
+    "id": 4,
+    "code_name": "Charge"
+  },
+  {
+    "id": 5,
+    "code_name": "InitStrike"
+  },
+  {
+    "id": 6,
+    "code_name": "HandUp"
+  },
+  {
+    "id": 7,
+    "code_name": "TwoStrike"
+  },
+  {
+    "id": 8,
+    "code_name": "RepeatFiller"
+  },
+  {
+    "id": 9,
+    "code_name": "HeavyAtk"
+  },
+  {
+    "id": 10,
+    "code_name": "Cast"
+  }
+]

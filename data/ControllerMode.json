@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "LOCK_FREE"
+  },
+  {
+    "id": 1,
+    "code_name": "FREE_FREE"
+  },
+  {
+    "id": 2,
+    "code_name": "LOCK_EIGHT"
+  },
+  {
+    "id": 3,
+    "code_name": "FREE_EIGHT"
+  }
+]

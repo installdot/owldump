@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "code_name": "DailyBoxMission_CompleteFactorChallenge"
+  },
+  {
+    "id": 1,
+    "code_name": "DailyBoxMission_GetWeapon_Level_12"
+  },
+  {
+    "id": 2,
+    "code_name": "DailyBoxMission_ItemLevelUp_3_Times"
+  },
+  {
+    "id": 3,
+    "code_name": "DailyBoxMission_Open_4_RoomTreasures"
+  },
+  {
+    "id": 4,
+    "code_name": "DailyBoxMission_WinGamble"
+  },
+  {
+    "id": 5,
+    "code_name": "DailyBoxMission_SaveFriend"
+  },
+  {
+    "id": 6,
+    "code_name": "DailyBoxMission_CompleteMelChallenge"
+  },
+  {
+    "id": 7,
+    "code_name": "DailyBoxMission_GetCurse"
+  },
+  {
+    "id": 8,
+    "code_name": "DailyBoxMission_EnterHiddenRoom"
+  },
+  {
+    "id": 9,
+    "code_name": "DailyBoxMission_DefeatBoss"
+  },
+  {
+    "id": 10,
+    "code_name": "DailyBoxMission_Buy_3_Items"
+  },
+  {
+    "id": 11,
+    "code_name": "DailyBoxMission_Defeat_30_Enemies"
+  },
+  {
+    "id": 12,
+    "code_name": "DailyBoxMission_TransformRoom_Henshin"
+  },
+  {
+    "id": 13,
+    "code_name": "DailyBoxMission_CompleteFireDanceMode"
+  },
+  {
+    "id": 14,
+    "code_name": "DailyBoxMission_Throw_1_ItemIntoPool"
+  },
+  {
+    "id": 15,
+    "code_name": "DailyBoxMission_DecompositionMachineInvest"
+  },
+  {
+    "id": 16,
+    "code_name": "DailyBoxMission_FeedPet"
+  },
+  {
+    "id": 17,
+    "code_name": "DailyBoxMission_ItemRefreshMachineExplode"
+  },
+  {
+    "id": 18,
+    "code_name": "DailyBoxMission_CompleteThreeBoxMissions"
+  },
+  {
+    "id": 19,
+    "code_name": "DailyBoxMission_CompleteSpecialMode_AutoChess202501"
+  },
+  {
+    "id": 20,
+    "code_name": "DailyBoxMission_CompleteSpecialMode_OMG202501"
+  }
+]

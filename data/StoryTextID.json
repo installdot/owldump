@@ -1,0 +1,186 @@
+[
+  {
+    "id": 0,
+    "code_name": "empty"
+  },
+  {
+    "id": 1,
+    "code_name": "story_eu11_libeluece_idle_talk_0"
+  },
+  {
+    "id": 2,
+    "code_name": "story_eu11_libeluece_idle_talk_1"
+  },
+  {
+    "id": 3,
+    "code_name": "story_eu11_libeluece_idle_talk_2"
+  },
+  {
+    "id": 4,
+    "code_name": "story_eu11_libeluece_idle_talk_3"
+  },
+  {
+    "id": 5,
+    "code_name": "story_eu11_libeluece_idle_talk_4"
+  },
+  {
+    "id": 6,
+    "code_name": "story_eu11_libeluece_victiory_talk_0"
+  },
+  {
+    "id": 7,
+    "code_name": "story_eu11_libeluece_victiory_talk_1"
+  },
+  {
+    "id": 8,
+    "code_name": "story_eu11_libeluece_victiory_talk_2"
+  },
+  {
+    "id": 9,
+    "code_name": "story_eu12_libeluece_idle_talk_0"
+  },
+  {
+    "id": 10,
+    "code_name": "story_eu12_libeluece_idle_talk_1"
+  },
+  {
+    "id": 11,
+    "code_name": "story_eu12_libeluece_idle_talk_2"
+  },
+  {
+    "id": 12,
+    "code_name": "story_eu12_libeluece_idle_talk_3"
+  },
+  {
+    "id": 13,
+    "code_name": "story_eu12_libeluece_victiory_talk_0"
+  },
+  {
+    "id": 14,
+    "code_name": "story_eu12_libeluece_victiory_talk_1"
+  },
+  {
+    "id": 15,
+    "code_name": "story_eu12_libeluece_victiory_talk_2"
+  },
+  {
+    "id": 16,
+    "code_name": "story_eu12_libeluece_victiory_talk_3"
+  },
+  {
+    "id": 17,
+    "code_name": "story_eu13_libeluece_idle_talk_0"
+  },
+  {
+    "id": 18,
+    "code_name": "story_eu13_libeluece_idle_talk_1"
+  },
+  {
+    "id": 19,
+    "code_name": "story_eu13_libeluece_idle_talk_2"
+  },
+  {
+    "id": 20,
+    "code_name": "story_eu13_libeluece_idle_talk_3"
+  },
+  {
+    "id": 21,
+    "code_name": "story_eu13_libeluece_victiory_talk_0"
+  },
+  {
+    "id": 22,
+    "code_name": "story_eu13_libeluece_victiory_talk_1"
+  },
+  {
+    "id": 23,
+    "code_name": "story_eu13_libeluece_victiory_talk_2"
+  },
+  {
+    "id": 24,
+    "code_name": "story_eu13_libeluece_victiory_talk_3"
+  },
+  {
+    "id": 25,
+    "code_name": "story_eu14_libeluece_idle_talk_0"
+  },
+  {
+    "id": 26,
+    "code_name": "story_eu14_libeluece_idle_talk_1"
+  },
+  {
+    "id": 27,
+    "code_name": "story_eu14_libeluece_idle_talk_2"
+  },
+  {
+    "id": 28,
+    "code_name": "story_eu14_libeluece_idle_talk_3"
+  },
+  {
+    "id": 29,
+    "code_name": "story_eu14_libeluece_victiory_talk_0"
+  },
+  {
+    "id": 30,
+    "code_name": "story_eu14_libeluece_victiory_talk_1"
+  },
+  {
+    "id": 31,
+    "code_name": "story_eu14_libeluece_victiory_talk_2"
+  },
+  {
+    "id": 32,
+    "code_name": "story_eu14_libeluece_victiory_talk_3"
+  },
+  {
+    "id": 35,
+    "code_name": "story_eu15_libeluece_inBattle_talk_0"
+  },
+  {
+    "id": 36,
+    "code_name": "story_eu15_libeluece_inBattle_talk_1"
+  },
+  {
+    "id": 37,
+    "code_name": "story_eu15_libeluece_inBattle_talk_2"
+  },
+  {
+    "id": 38,
+    "code_name": "story_eu15_libeluece_victiory_talk_0"
+  },
+  {
+    "id": 39,
+    "code_name": "story_jpn11_duibuqi"
+  },
+  {
+    "id": 40,
+    "code_name": "story_jpn11_xiexieni"
+  },
+  {
+    "id": 41,
+    "code_name": "story_jpn11_bianqiang"
+  },
+  {
+    "id": 42,
+    "code_name": "story_jpn12_ganxie"
+  },
+  {
+    "id": 43,
+    "code_name": "story_jpn13_wuchizhitu"
+  },
+  {
+    "id": 44,
+    "code_name": "story_jpn13_xiexiehuigu"
+  },
+  {
+    "id": 45,
+    "code_name": "story_jpn13_dadehao"
+  },
+  {
+    "id": 46,
+    "code_name": "story_forest12_wolf_dia_1"
+  },
+  {
+    "id": 47,
+    "code_name": "story_forest12_wolf_dia_2"
+  }
+]

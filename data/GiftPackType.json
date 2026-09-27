@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "BarVIPCard"
+  },
+  {
+    "id": 1,
+    "code_name": "NovicePackage"
+  },
+  {
+    "id": 2,
+    "code_name": "WeaponTicket"
+  },
+  {
+    "id": 3,
+    "code_name": "RebornCard"
+  },
+  {
+    "id": 4,
+    "code_name": "ProbationTicket"
+  },
+  {
+    "id": 5,
+    "code_name": "HeroCommonPiece"
+  },
+  {
+    "id": 6,
+    "code_name": "SkinCommonPiece"
+  },
+  {
+    "id": 7,
+    "code_name": "PetFood"
+  },
+  {
+    "id": 8,
+    "code_name": "PetToy"
+  },
+  {
+    "id": 9,
+    "code_name": "NovicePackage_2"
+  },
+  {
+    "id": 10,
+    "code_name": "BattlePassLevel"
+  },
+  {
+    "id": 11,
+    "code_name": "ESRIdentifyTicket"
+  }
+]

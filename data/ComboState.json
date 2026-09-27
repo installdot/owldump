@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "idle"
+  },
+  {
+    "id": 1,
+    "code_name": "block"
+  },
+  {
+    "id": 2,
+    "code_name": "thrust"
+  },
+  {
+    "id": 3,
+    "code_name": "swing"
+  },
+  {
+    "id": 4,
+    "code_name": "slash1"
+  },
+  {
+    "id": 5,
+    "code_name": "slash2"
+  },
+  {
+    "id": 6,
+    "code_name": "sheath"
+  }
+]

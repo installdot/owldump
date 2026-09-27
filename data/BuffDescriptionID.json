@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "code_name": "defaultBurn_name"
+  },
+  {
+    "id": 1,
+    "code_name": "defaultBurn_des"
+  },
+  {
+    "id": 2,
+    "code_name": "defaultPoison_name"
+  },
+  {
+    "id": 3,
+    "code_name": "defaultPoison_des"
+  },
+  {
+    "id": 4,
+    "code_name": "defaultChill_name"
+  },
+  {
+    "id": 5,
+    "code_name": "defaultChill_des"
+  },
+  {
+    "id": 6,
+    "code_name": "defaultLightning_name"
+  },
+  {
+    "id": 7,
+    "code_name": "defaultLightning_des"
+  },
+  {
+    "id": 8,
+    "code_name": "buffPeculiarity_name"
+  },
+  {
+    "id": 9,
+    "code_name": "buffPeculiarity_des"
+  },
+  {
+    "id": 10,
+    "code_name": "defaultBrittle_name"
+  },
+  {
+    "id": 11,
+    "code_name": "defaultBrittle_des"
+  },
+  {
+    "id": 12,
+    "code_name": "defaultEnrage_name"
+  },
+  {
+    "id": 13,
+    "code_name": "defaultEnrage_des"
+  },
+  {
+    "id": 14,
+    "code_name": "defaultBlessing_name"
+  },
+  {
+    "id": 15,
+    "code_name": "defaultBlessing_des"
+  },
+  {
+    "id": 16,
+    "code_name": "defaultFrozen_name"
+  },
+  {
+    "id": 17,
+    "code_name": "defaultFrozen_des"
+  }
+]

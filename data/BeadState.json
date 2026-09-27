@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "Regenerate"
+  },
+  {
+    "id": 1,
+    "code_name": "Hovering"
+  },
+  {
+    "id": 2,
+    "code_name": "FollowDelay"
+  },
+  {
+    "id": 3,
+    "code_name": "Following"
+  },
+  {
+    "id": 4,
+    "code_name": "MoveToShootPosition"
+  },
+  {
+    "id": 5,
+    "code_name": "Shooting"
+  },
+  {
+    "id": 6,
+    "code_name": "Throw"
+  },
+  {
+    "id": 7,
+    "code_name": "MoveToBoomerangPosition"
+  },
+  {
+    "id": 8,
+    "code_name": "BoomerangShoot"
+  },
+  {
+    "id": 9,
+    "code_name": "BoomerangStay"
+  },
+  {
+    "id": 10,
+    "code_name": "BoomerangReturn"
+  },
+  {
+    "id": 11,
+    "code_name": "Broken"
+  }
+]

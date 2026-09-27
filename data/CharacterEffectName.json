@@ -1,0 +1,886 @@
+[
+  {
+    "id": 0,
+    "code_name": "halfHealthRage"
+  },
+  {
+    "id": 1,
+    "code_name": "critHeal"
+  },
+  {
+    "id": 2,
+    "code_name": "shadowMan"
+  },
+  {
+    "id": 3,
+    "code_name": "chargingJar"
+  },
+  {
+    "id": 4,
+    "code_name": "vampire"
+  },
+  {
+    "id": 5,
+    "code_name": "sunWine"
+  },
+  {
+    "id": 6,
+    "code_name": "crowbar"
+  },
+  {
+    "id": 7,
+    "code_name": "sacrificeKnife"
+  },
+  {
+    "id": 8,
+    "code_name": "poisonTouch"
+  },
+  {
+    "id": 9,
+    "code_name": "burnTouch"
+  },
+  {
+    "id": 10,
+    "code_name": "frozenTouch"
+  },
+  {
+    "id": 11,
+    "code_name": "thunderBall"
+  },
+  {
+    "id": 12,
+    "code_name": "sickMan"
+  },
+  {
+    "id": 13,
+    "code_name": "suckerPunch"
+  },
+  {
+    "id": 14,
+    "code_name": "muscleFeedback"
+  },
+  {
+    "id": 15,
+    "code_name": "rolling"
+  },
+  {
+    "id": 16,
+    "code_name": "moneyIsPower"
+  },
+  {
+    "id": 17,
+    "code_name": "critChain"
+  },
+  {
+    "id": 18,
+    "code_name": "fightingFrenzy"
+  },
+  {
+    "id": 19,
+    "code_name": "conduction"
+  },
+  {
+    "id": 20,
+    "code_name": "tykeSoul"
+  },
+  {
+    "id": 21,
+    "code_name": "drillingMonkey"
+  },
+  {
+    "id": 22,
+    "code_name": "vampireSeed"
+  },
+  {
+    "id": 23,
+    "code_name": "petDogeTyke"
+  },
+  {
+    "id": 24,
+    "code_name": "petLibeluece"
+  },
+  {
+    "id": 25,
+    "code_name": "petBatPoison"
+  },
+  {
+    "id": 26,
+    "code_name": "revenge"
+  },
+  {
+    "id": 27,
+    "code_name": "firstAidKit"
+  },
+  {
+    "id": 28,
+    "code_name": "pocketMoney"
+  },
+  {
+    "id": 29,
+    "code_name": "VIPCard"
+  },
+  {
+    "id": 30,
+    "code_name": "holyFestival"
+  },
+  {
+    "id": 31,
+    "code_name": "fear"
+  },
+  {
+    "id": 32,
+    "code_name": "marathon"
+  },
+  {
+    "id": 33,
+    "code_name": "financial"
+  },
+  {
+    "id": 34,
+    "code_name": "boxing"
+  },
+  {
+    "id": 35,
+    "code_name": "tengoStone"
+  },
+  {
+    "id": 36,
+    "code_name": "gene"
+  },
+  {
+    "id": 37,
+    "code_name": "watch"
+  },
+  {
+    "id": 38,
+    "code_name": "redMushroom"
+  },
+  {
+    "id": 39,
+    "code_name": "flameFlower"
+  },
+  {
+    "id": 40,
+    "code_name": "omniscience"
+  },
+  {
+    "id": 41,
+    "code_name": "soulEcho"
+  },
+  {
+    "id": 42,
+    "code_name": "worldReducer"
+  },
+  {
+    "id": 43,
+    "code_name": "drumbling"
+  },
+  {
+    "id": 44,
+    "code_name": "pursuit"
+  },
+  {
+    "id": 45,
+    "code_name": "greenMushroom"
+  },
+  {
+    "id": 46,
+    "code_name": "lifeConversion"
+  },
+  {
+    "id": 47,
+    "code_name": "shieldConversion"
+  },
+  {
+    "id": 48,
+    "code_name": "porkBelly"
+  },
+  {
+    "id": 49,
+    "code_name": "shamanTotem"
+  },
+  {
+    "id": 50,
+    "code_name": "critRing"
+  },
+  {
+    "id": 51,
+    "code_name": "basicHealth"
+  },
+  {
+    "id": 52,
+    "code_name": "basicAttackSpeed"
+  },
+  {
+    "id": 53,
+    "code_name": "basicShield"
+  },
+  {
+    "id": 54,
+    "code_name": "adrenaline"
+  },
+  {
+    "id": 55,
+    "code_name": "critHourglass"
+  },
+  {
+    "id": 56,
+    "code_name": "turban"
+  },
+  {
+    "id": 57,
+    "code_name": "spurRing"
+  },
+  {
+    "id": 58,
+    "code_name": "opticalCamouflage"
+  },
+  {
+    "id": 59,
+    "code_name": "attributePrism"
+  },
+  {
+    "id": 60,
+    "code_name": "sharedMachine"
+  },
+  {
+    "id": 61,
+    "code_name": "weakPointLens"
+  },
+  {
+    "id": 62,
+    "code_name": "jack"
+  },
+  {
+    "id": 63,
+    "code_name": "threeWishes"
+  },
+  {
+    "id": 64,
+    "code_name": "succubusMask"
+  },
+  {
+    "id": 65,
+    "code_name": "angryPufferFish"
+  },
+  {
+    "id": 66,
+    "code_name": "commandoArmband"
+  },
+  {
+    "id": 67,
+    "code_name": "wmr55"
+  },
+  {
+    "id": 68,
+    "code_name": "chewingGum"
+  },
+  {
+    "id": 69,
+    "code_name": "buttonBoom"
+  },
+  {
+    "id": 70,
+    "code_name": "paralysisBoom"
+  },
+  {
+    "id": 71,
+    "code_name": "worldIncrementer"
+  },
+  {
+    "id": 72,
+    "code_name": "goldenFinger"
+  },
+  {
+    "id": 73,
+    "code_name": "robotNurse"
+  },
+  {
+    "id": 74,
+    "code_name": "cat"
+  },
+  {
+    "id": 75,
+    "code_name": "hotWheel"
+  },
+  {
+    "id": 76,
+    "code_name": "soulTyke"
+  },
+  {
+    "id": 77,
+    "code_name": "flashBat"
+  },
+  {
+    "id": 78,
+    "code_name": "saintLibeluece"
+  },
+  {
+    "id": 79,
+    "code_name": "elfKing"
+  },
+  {
+    "id": 80,
+    "code_name": "sourceFortune"
+  },
+  {
+    "id": 81,
+    "code_name": "finalSacrifice"
+  },
+  {
+    "id": 82,
+    "code_name": "holyGrail"
+  },
+  {
+    "id": 83,
+    "code_name": "flameGlove"
+  },
+  {
+    "id": 84,
+    "code_name": "imperialEngine"
+  },
+  {
+    "id": 85,
+    "code_name": "fireSupport"
+  },
+  {
+    "id": 86,
+    "code_name": "shadowDancer"
+  },
+  {
+    "id": 87,
+    "code_name": "bigFlameBall"
+  },
+  {
+    "id": 88,
+    "code_name": "stoicCarapace"
+  },
+  {
+    "id": 89,
+    "code_name": "fightingSoul"
+  },
+  {
+    "id": 90,
+    "code_name": "coldDrink"
+  },
+  {
+    "id": 91,
+    "code_name": "darkHumor"
+  },
+  {
+    "id": 92,
+    "code_name": "microPlanet"
+  },
+  {
+    "id": 93,
+    "code_name": "tacticalArmor"
+  },
+  {
+    "id": 94,
+    "code_name": "coinBoom"
+  },
+  {
+    "id": 95,
+    "code_name": "amber"
+  },
+  {
+    "id": 96,
+    "code_name": "bionicShield"
+  },
+  {
+    "id": 97,
+    "code_name": "brokenBoneKnife"
+  },
+  {
+    "id": 98,
+    "code_name": "Empty"
+  },
+  {
+    "id": 99,
+    "code_name": "ninjaCloak"
+  },
+  {
+    "id": 100,
+    "code_name": "shadowLife"
+  },
+  {
+    "id": 101,
+    "code_name": "braveShield"
+  },
+  {
+    "id": 102,
+    "code_name": "livingCat"
+  },
+  {
+    "id": 103,
+    "code_name": "zeroElement"
+  },
+  {
+    "id": 104,
+    "code_name": "nightmareDoll"
+  },
+  {
+    "id": 105,
+    "code_name": "demonCharm"
+  },
+  {
+    "id": 106,
+    "code_name": "toreDagger"
+  },
+  {
+    "id": 107,
+    "code_name": "yamatoJade"
+  },
+  {
+    "id": 108,
+    "code_name": "rockCore"
+  },
+  {
+    "id": 109,
+    "code_name": "tricksRason"
+  },
+  {
+    "id": 110,
+    "code_name": "judoHelmet"
+  },
+  {
+    "id": 111,
+    "code_name": "fruits"
+  },
+  {
+    "id": 112,
+    "code_name": "trailce_Venom"
+  },
+  {
+    "id": 113,
+    "code_name": "trailce_Offering"
+  },
+  {
+    "id": 114,
+    "code_name": "trailce_Gold"
+  },
+  {
+    "id": 115,
+    "code_name": "trailce_Dwarf"
+  },
+  {
+    "id": 116,
+    "code_name": "trailce_Happiness"
+  },
+  {
+    "id": 117,
+    "code_name": "trailce_Ties"
+  },
+  {
+    "id": 118,
+    "code_name": "medicareCard"
+  },
+  {
+    "id": 119,
+    "code_name": "robotHagaren"
+  },
+  {
+    "id": 120,
+    "code_name": "hedgehog"
+  },
+  {
+    "id": 121,
+    "code_name": "flask"
+  },
+  {
+    "id": 122,
+    "code_name": "chagama"
+  },
+  {
+    "id": 123,
+    "code_name": "radicalHeart"
+  },
+  {
+    "id": 124,
+    "code_name": "crystall"
+  },
+  {
+    "id": 125,
+    "code_name": "paper"
+  },
+  {
+    "id": 126,
+    "code_name": "shouhuan"
+  },
+  {
+    "id": 127,
+    "code_name": "xau"
+  },
+  {
+    "id": 128,
+    "code_name": "noFaceMask"
+  },
+  {
+    "id": 129,
+    "code_name": "belt"
+  },
+  {
+    "id": 130,
+    "code_name": "giveMeFive"
+  },
+  {
+    "id": 131,
+    "code_name": "blackPearl"
+  },
+  {
+    "id": 132,
+    "code_name": "rocker"
+  },
+  {
+    "id": 133,
+    "code_name": "huju"
+  },
+  {
+    "id": 134,
+    "code_name": "huoluoyou"
+  },
+  {
+    "id": 135,
+    "code_name": "powerBank"
+  },
+  {
+    "id": 136,
+    "code_name": "lion"
+  },
+  {
+    "id": 137,
+    "code_name": "sea25"
+  },
+  {
+    "id": 138,
+    "code_name": "urien"
+  },
+  {
+    "id": 139,
+    "code_name": "iceSkates"
+  },
+  {
+    "id": 140,
+    "code_name": "iceBag"
+  },
+  {
+    "id": 141,
+    "code_name": "blackTea"
+  },
+  {
+    "id": 142,
+    "code_name": "blastingFuse"
+  },
+  {
+    "id": 143,
+    "code_name": "gasolineCan"
+  },
+  {
+    "id": 144,
+    "code_name": "wolf"
+  },
+  {
+    "id": 145,
+    "code_name": "shrimp"
+  },
+  {
+    "id": 146,
+    "code_name": "fishingNet"
+  },
+  {
+    "id": 147,
+    "code_name": "fishTank"
+  },
+  {
+    "id": 148,
+    "code_name": "flowerSword"
+  },
+  {
+    "id": 149,
+    "code_name": "brick"
+  },
+  {
+    "id": 150,
+    "code_name": "metalStick"
+  },
+  {
+    "id": 151,
+    "code_name": "glove"
+  },
+  {
+    "id": 152,
+    "code_name": "battleax"
+  },
+  {
+    "id": 153,
+    "code_name": "damagedDirk"
+  },
+  {
+    "id": 154,
+    "code_name": "shuriken"
+  },
+  {
+    "id": 155,
+    "code_name": "grenade"
+  },
+  {
+    "id": 156,
+    "code_name": "shoes"
+  },
+  {
+    "id": 157,
+    "code_name": "leicha"
+  },
+  {
+    "id": 158,
+    "code_name": "gloves"
+  },
+  {
+    "id": 159,
+    "code_name": "trailce_titan"
+  },
+  {
+    "id": 160,
+    "code_name": "trailce_rage"
+  },
+  {
+    "id": 161,
+    "code_name": "trailce_fireIce"
+  },
+  {
+    "id": 162,
+    "code_name": "trailce_disciple"
+  },
+  {
+    "id": 163,
+    "code_name": "yuchang"
+  },
+  {
+    "id": 164,
+    "code_name": "jujijing"
+  },
+  {
+    "id": 165,
+    "code_name": "kongqidun"
+  },
+  {
+    "id": 166,
+    "code_name": "jiudade"
+  },
+  {
+    "id": 167,
+    "code_name": "yaling"
+  },
+  {
+    "id": 168,
+    "code_name": "shirenmaozhua"
+  },
+  {
+    "id": 169,
+    "code_name": "damokelisi"
+  },
+  {
+    "id": 170,
+    "code_name": "jiazigu"
+  },
+  {
+    "id": 171,
+    "code_name": "biandang"
+  },
+  {
+    "id": 172,
+    "code_name": "monocle"
+  },
+  {
+    "id": 173,
+    "code_name": "goldenPinata"
+  },
+  {
+    "id": 174,
+    "code_name": "bankPassbook"
+  },
+  {
+    "id": 175,
+    "code_name": "arcaneSledgeHammer"
+  },
+  {
+    "id": 176,
+    "code_name": "goldenBellBarrier"
+  },
+  {
+    "id": 177,
+    "code_name": "liquidNitrogenTank"
+  },
+  {
+    "id": 178,
+    "code_name": "vampiricBlade"
+  },
+  {
+    "id": 179,
+    "code_name": "arsonistMask"
+  },
+  {
+    "id": 180,
+    "code_name": "plasmaReactor"
+  },
+  {
+    "id": 181,
+    "code_name": "layeredArmor"
+  },
+  {
+    "id": 182,
+    "code_name": "runicRootArmor"
+  },
+  {
+    "id": 183,
+    "code_name": "buyOneGetOneFree"
+  },
+  {
+    "id": 184,
+    "code_name": "sacrificialBackpack"
+  },
+  {
+    "id": 185,
+    "code_name": "ancientNecklace"
+  },
+  {
+    "id": 186,
+    "code_name": "ancientCuisse"
+  },
+  {
+    "id": 187,
+    "code_name": "ancientArmband"
+  },
+  {
+    "id": 188,
+    "code_name": "ancientSpiritStone"
+  },
+  {
+    "id": 189,
+    "code_name": "ancientRelic"
+  },
+  {
+    "id": 190,
+    "code_name": "blackElf"
+  },
+  {
+    "id": 191,
+    "code_name": "zenfuzhuangzhi"
+  },
+  {
+    "id": 192,
+    "code_name": "hufu"
+  },
+  {
+    "id": 193,
+    "code_name": "anquanmao"
+  },
+  {
+    "id": 194,
+    "code_name": "huabanxie"
+  },
+  {
+    "id": 195,
+    "code_name": "duanbingzhanfu"
+  },
+  {
+    "id": 196,
+    "code_name": "wuhun"
+  },
+  {
+    "id": 197,
+    "code_name": "petUFO"
+  },
+  {
+    "id": 198,
+    "code_name": "swordNeedBlood"
+  },
+  {
+    "id": 199,
+    "code_name": "rotateBumper"
+  },
+  {
+    "id": 200,
+    "code_name": "giveMeMoney"
+  },
+  {
+    "id": 201,
+    "code_name": "fireworks"
+  },
+  {
+    "id": 202,
+    "code_name": "molotovCocktail"
+  },
+  {
+    "id": 203,
+    "code_name": "lighter"
+  },
+  {
+    "id": 204,
+    "code_name": "delayPoison"
+  },
+  {
+    "id": 205,
+    "code_name": "fireGun"
+  },
+  {
+    "id": 206,
+    "code_name": "diseaseWand"
+  },
+  {
+    "id": 207,
+    "code_name": "venomMask"
+  },
+  {
+    "id": 208,
+    "code_name": "diluteToxin"
+  },
+  {
+    "id": 209,
+    "code_name": "flammableToxin"
+  },
+  {
+    "id": 210,
+    "code_name": "biogasBottle"
+  },
+  {
+    "id": 211,
+    "code_name": "blazingSoulPill"
+  },
+  {
+    "id": 212,
+    "code_name": "iceSheild"
+  },
+  {
+    "id": 213,
+    "code_name": "iceWand"
+  },
+  {
+    "id": 214,
+    "code_name": "voltageChanger"
+  },
+  {
+    "id": 215,
+    "code_name": "superconductingCoil"
+  },
+  {
+    "id": 216,
+    "code_name": "magneticRod"
+  },
+  {
+    "id": 217,
+    "code_name": "iceFireRing"
+  },
+  {
+    "id": 218,
+    "code_name": "iceFireGrease"
+  },
+  {
+    "id": 219,
+    "code_name": "flammableIce"
+  },
+  {
+    "id": 220,
+    "code_name": "flammableFragments"
+  }
+]

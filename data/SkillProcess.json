@@ -1,0 +1,18 @@
+[
+  {
+    "id": -1,
+    "code_name": "Empty"
+  },
+  {
+    "id": 0,
+    "code_name": "BeforeBlock"
+  },
+  {
+    "id": 1,
+    "code_name": "Block"
+  },
+  {
+    "id": 2,
+    "code_name": "Attack"
+  }
+]

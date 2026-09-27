@@ -1,0 +1,126 @@
+[
+  {
+    "id": 0,
+    "code_name": "Default"
+  },
+  {
+    "id": 1,
+    "code_name": "hupuzi_1_1"
+  },
+  {
+    "id": 2,
+    "code_name": "hupuzi_2_1"
+  },
+  {
+    "id": 3,
+    "code_name": "hupuzi_3_1"
+  },
+  {
+    "id": 4,
+    "code_name": "huanyingzhen_1_1"
+  },
+  {
+    "id": 5,
+    "code_name": "huanyingzhen_2_1"
+  },
+  {
+    "id": 6,
+    "code_name": "huanyingzhen_3_1"
+  },
+  {
+    "id": 7,
+    "code_name": "tieshankao_1_1"
+  },
+  {
+    "id": 8,
+    "code_name": "tieshankao_2_1"
+  },
+  {
+    "id": 9,
+    "code_name": "tieshankao_3_1"
+  },
+  {
+    "id": 10,
+    "code_name": "leicha_1_1"
+  },
+  {
+    "id": 11,
+    "code_name": "leicha_2_1"
+  },
+  {
+    "id": 12,
+    "code_name": "leicha_3_1"
+  },
+  {
+    "id": 13,
+    "code_name": "oneSlash_1_1"
+  },
+  {
+    "id": 14,
+    "code_name": "oneSlash_2_1"
+  },
+  {
+    "id": 15,
+    "code_name": "oneSlash_3_1"
+  },
+  {
+    "id": 16,
+    "code_name": "qieFan_1_1"
+  },
+  {
+    "id": 17,
+    "code_name": "qieFan_2_1"
+  },
+  {
+    "id": 18,
+    "code_name": "qieFan_3_1"
+  },
+  {
+    "id": 19,
+    "code_name": "thunderCombo_1_1"
+  },
+  {
+    "id": 20,
+    "code_name": "thunderCombo_2_1"
+  },
+  {
+    "id": 21,
+    "code_name": "thunderCombo_3_1"
+  },
+  {
+    "id": 22,
+    "code_name": "akaishaArrowRain_1"
+  },
+  {
+    "id": 23,
+    "code_name": "akaishaArrowRain_2"
+  },
+  {
+    "id": 24,
+    "code_name": "akaishaArrowRain_3"
+  },
+  {
+    "id": 25,
+    "code_name": "akaishaTrap_1"
+  },
+  {
+    "id": 26,
+    "code_name": "akaishaTrap_2"
+  },
+  {
+    "id": 27,
+    "code_name": "akaishaTrap_3"
+  },
+  {
+    "id": 28,
+    "code_name": "akaishaThunderCombo_1"
+  },
+  {
+    "id": 29,
+    "code_name": "akaishaThunderCombo_2"
+  },
+  {
+    "id": 30,
+    "code_name": "akaishaThunderCombo_3"
+  }
+]

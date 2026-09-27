@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "code_name": "SUCCESS"
+  },
+  {
+    "id": 1,
+    "code_name": "INVALID_INPUT"
+  },
+  {
+    "id": 4,
+    "code_name": "TEMPORARY_UNAVAILABLE"
+  },
+  {
+    "id": 20000,
+    "code_name": "INTERNAL_ERROR"
+  },
+  {
+    "id": 20001,
+    "code_name": "GAME_VERSION_INVALID"
+  },
+  {
+    "id": 20002,
+    "code_name": "FEATURE_DISABLED"
+  },
+  {
+    "id": 20003,
+    "code_name": "GAME_VERSION_GT_ARENA_OWNER"
+  },
+  {
+    "id": 20004,
+    "code_name": "GAME_VERSION_LT_ARENA_OWNER"
+  },
+  {
+    "id": 20005,
+    "code_name": "ROOM_NOT_FOUND"
+  },
+  {
+    "id": 20006,
+    "code_name": "CREATE_ROOM_FAILED"
+  },
+  {
+    "id": 20007,
+    "code_name": "INVALID_ARENA"
+  },
+  {
+    "id": 20008,
+    "code_name": "DUPLICATED_REPORT"
+  },
+  {
+    "id": 20009,
+    "code_name": "INVALID_ROUND"
+  },
+  {
+    "id": 20010,
+    "code_name": "PLAYER_BANNED"
+  },
+  {
+    "id": 20011,
+    "code_name": "HOST_LEFT"
+  }
+]

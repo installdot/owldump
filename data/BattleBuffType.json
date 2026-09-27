@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "ElementalFrenzyDay"
+  },
+  {
+    "id": 2,
+    "code_name": "ItemShopFirstBuyReward"
+  },
+  {
+    "id": 3,
+    "code_name": "RapidFire"
+  },
+  {
+    "id": 4,
+    "code_name": "NoPainNoGain"
+  },
+  {
+    "id": 5,
+    "code_name": "EverybodyHasCharacterEffect"
+  },
+  {
+    "id": 6,
+    "code_name": "LegendaryCatFeeder"
+  },
+  {
+    "id": 7,
+    "code_name": "TimeToGamble"
+  },
+  {
+    "id": 8,
+    "code_name": "SmallButDeadly"
+  },
+  {
+    "id": 9,
+    "code_name": "SoulBoonFeast"
+  }
+]

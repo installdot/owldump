@@ -1,0 +1,474 @@
+[
+  {
+    "id": 0,
+    "code_name": "GiveDefaultSkillAffix"
+  },
+  {
+    "id": 1,
+    "code_name": "AntiStiffDuringSkill"
+  },
+  {
+    "id": 2,
+    "code_name": "SkillOnKillShockWave"
+  },
+  {
+    "id": 3,
+    "code_name": "DmgUpToFullHealthEnemy"
+  },
+  {
+    "id": 4,
+    "code_name": "OnHitChaosDmgUp"
+  },
+  {
+    "id": 5,
+    "code_name": "TyrantRegenHealth"
+  },
+  {
+    "id": 6,
+    "code_name": "ExtraDmgOnBleedEnemy"
+  },
+  {
+    "id": 7,
+    "code_name": "ComboAttackHugeDmgOnLowHealthEnemy"
+  },
+  {
+    "id": 8,
+    "code_name": "ComboAttackCritAfterDodge"
+  },
+  {
+    "id": 9,
+    "code_name": "OnComboKillRegenShield"
+  },
+  {
+    "id": 10,
+    "code_name": "OnHitLowHealthEnemyDmgUp"
+  },
+  {
+    "id": 11,
+    "code_name": "AntiStiffDuringComboAttack"
+  },
+  {
+    "id": 12,
+    "code_name": "ConsecutiveAttackUp"
+  },
+  {
+    "id": 13,
+    "code_name": "ImmuneBurnFreeze"
+  },
+  {
+    "id": 14,
+    "code_name": "ExtraDmgOnPoisonedToxinedEnemy"
+  },
+  {
+    "id": 15,
+    "code_name": "ImmunePoisonToxin"
+  },
+  {
+    "id": 16,
+    "code_name": "QuanhuyingHupuziDmgUp"
+  },
+  {
+    "id": 17,
+    "code_name": "QuanhuyingHuanyingQuicken"
+  },
+  {
+    "id": 18,
+    "code_name": "QuanhuyingFasterLeiCha"
+  },
+  {
+    "id": 19,
+    "code_name": "SeebeeOneSlashDmgUp"
+  },
+  {
+    "id": 20,
+    "code_name": "SeebeeQiefanBreakArmor"
+  },
+  {
+    "id": 21,
+    "code_name": "SeebeeThunderComboOnKillSplashDmg"
+  },
+  {
+    "id": 22,
+    "code_name": "AkaishaWhiskeyDmgUp"
+  },
+  {
+    "id": 23,
+    "code_name": "AkaishaThunderComboCDDown"
+  },
+  {
+    "id": 24,
+    "code_name": "AkaishaArrowRainCDDown"
+  },
+  {
+    "id": 25,
+    "code_name": "GangdanHolyLightBreakArmor"
+  },
+  {
+    "id": 26,
+    "code_name": "GangdanHeavyStrikeDmgUp"
+  },
+  {
+    "id": 27,
+    "code_name": "GangdanAngelLightMissle"
+  },
+  {
+    "id": 28,
+    "code_name": "OliviaThreeHitMissle"
+  },
+  {
+    "id": 29,
+    "code_name": "OliviaRegenGear"
+  },
+  {
+    "id": 30,
+    "code_name": "OliviaTurretThreeHitMissle"
+  },
+  {
+    "id": 31,
+    "code_name": "OliviaFishOnKillDropGear"
+  },
+  {
+    "id": 32,
+    "code_name": "OliviaOverGearHeal"
+  },
+  {
+    "id": 33,
+    "code_name": "SakariCounterPunchDmgUp"
+  },
+  {
+    "id": 34,
+    "code_name": "SakariHoldBreathOnKillHeal"
+  },
+  {
+    "id": 35,
+    "code_name": "SakariHoldBreathStackDmg"
+  },
+  {
+    "id": 36,
+    "code_name": "HilldingKickDmgUp"
+  },
+  {
+    "id": 37,
+    "code_name": "HilldingHeavyComboOnKillSplashDmg"
+  },
+  {
+    "id": 38,
+    "code_name": "HilldingRageBurntExplodeOnHitEnemy"
+  },
+  {
+    "id": 39,
+    "code_name": "KatherineFireComboAddFireCircle"
+  },
+  {
+    "id": 40,
+    "code_name": "KatherineFireBallDmgUp"
+  },
+  {
+    "id": 41,
+    "code_name": "KatherineIceStormHitLowerOtherCD"
+  },
+  {
+    "id": 42,
+    "code_name": "AnibellaMarkOnKillCDRefresh"
+  },
+  {
+    "id": 43,
+    "code_name": "AnibellaPetExtraDmgOnBurntEnemy"
+  },
+  {
+    "id": 44,
+    "code_name": "AnibellaFireComboAddFireCircle"
+  },
+  {
+    "id": 45,
+    "code_name": "AnibellaCommandDmgUpOnBurntEnemy"
+  },
+  {
+    "id": 46,
+    "code_name": "PenhaligonArtilleryOnKillCDRefresh"
+  },
+  {
+    "id": 47,
+    "code_name": "PenhaligonChargeOnKillSplashDmg"
+  },
+  {
+    "id": 48,
+    "code_name": "PenhaligonVulnerableDebuffDmgUp"
+  },
+  {
+    "id": 49,
+    "code_name": "PenhaligonComboBuffBreakArmor"
+  },
+  {
+    "id": 50,
+    "code_name": "HayfaShadowAttackDmgUp"
+  },
+  {
+    "id": 51,
+    "code_name": "HayfaServentOnKillRechargeDagger"
+  },
+  {
+    "id": 52,
+    "code_name": "RuthvenRengeOnKillSplashDmg"
+  },
+  {
+    "id": 53,
+    "code_name": "RuthvenTortureOnKillBloodSlash"
+  },
+  {
+    "id": 54,
+    "code_name": "RuthvenTortureDmgUp"
+  },
+  {
+    "id": 55,
+    "code_name": "AnniceStarHigherShieldDmgUp"
+  },
+  {
+    "id": 56,
+    "code_name": "AnniceAttackOnKillSplashDmg"
+  },
+  {
+    "id": 57,
+    "code_name": "AnniceMoonDmgUp"
+  },
+  {
+    "id": 58,
+    "code_name": "XuansheWearHeartDmgUp"
+  },
+  {
+    "id": 59,
+    "code_name": "XuansheWearHeartOnKillSplashDmg"
+  },
+  {
+    "id": 60,
+    "code_name": "XuansheWearHeartHitLowerOtherCD"
+  },
+  {
+    "id": 61,
+    "code_name": "HeyaoFireDmgUp"
+  },
+  {
+    "id": 62,
+    "code_name": "HeyaoShoutOnKillCDRefresh"
+  },
+  {
+    "id": 63,
+    "code_name": "AimiHolyDefenceDmgUp"
+  },
+  {
+    "id": 64,
+    "code_name": "AimiHolyDefenceLightMissile"
+  },
+  {
+    "id": 65,
+    "code_name": "AimiOathLightMissile"
+  },
+  {
+    "id": 66,
+    "code_name": "AimiOathHitLowerOtherCD"
+  },
+  {
+    "id": 67,
+    "code_name": "UlianaDanceDmgUp"
+  },
+  {
+    "id": 68,
+    "code_name": "UlianaIceExplodeOnKillSplashDmg"
+  },
+  {
+    "id": 69,
+    "code_name": "UlianaExplosionDmgUp"
+  },
+  {
+    "id": 70,
+    "code_name": "AdiraDownSlashDmgUp"
+  },
+  {
+    "id": 71,
+    "code_name": "AdiraUpSlashLowerDmgAndMoveSpd"
+  },
+  {
+    "id": 72,
+    "code_name": "AdiraWhirlwindSlashAddAirSlash"
+  },
+  {
+    "id": 73,
+    "code_name": "AdiraBackStepSlashAddBreakArmor"
+  },
+  {
+    "id": 74,
+    "code_name": "PropertyAttackSpeedUp"
+  },
+  {
+    "id": 75,
+    "code_name": "PropertyCritDamageUp"
+  },
+  {
+    "id": 76,
+    "code_name": "PropertyMaxHealthUp"
+  },
+  {
+    "id": 77,
+    "code_name": "PropertyShieldUp"
+  },
+  {
+    "id": 78,
+    "code_name": "PropertyDamageUp"
+  },
+  {
+    "id": 79,
+    "code_name": "PropertyMoveSpeedUp"
+  },
+  {
+    "id": 80,
+    "code_name": "YangkyiAddDmgOnMarked"
+  },
+  {
+    "id": 81,
+    "code_name": "YangkyiSkill3DmgUp"
+  },
+  {
+    "id": 82,
+    "code_name": "YangkyiSkill1ArmorBreak"
+  },
+  {
+    "id": 83,
+    "code_name": "YangkyiStackAddDmgDebuff"
+  },
+  {
+    "id": 84,
+    "code_name": "YangkyiDoubleAbsorbStack"
+  },
+  {
+    "id": 85,
+    "code_name": "YouziMachineGunWithAtkSpd"
+  },
+  {
+    "id": 86,
+    "code_name": "YouziArmorBreakPillar"
+  },
+  {
+    "id": 87,
+    "code_name": "YouziMissileDmgUpOnBurntEnemy"
+  },
+  {
+    "id": 88,
+    "code_name": "YufengPride"
+  },
+  {
+    "id": 89,
+    "code_name": "YufengBreak"
+  },
+  {
+    "id": 90,
+    "code_name": "YufengDestroy"
+  },
+  {
+    "id": 91,
+    "code_name": "WufeiCritBlade"
+  },
+  {
+    "id": 92,
+    "code_name": "WufeiBladeCatcher"
+  },
+  {
+    "id": 93,
+    "code_name": "WufeiFocusedArrowChip"
+  },
+  {
+    "id": 94,
+    "code_name": "BunnyGetEnergyOnKill"
+  },
+  {
+    "id": 95,
+    "code_name": "BunnyHammerChase"
+  },
+  {
+    "id": 96,
+    "code_name": "BunnyCritAfterSkill3"
+  },
+  {
+    "id": 97,
+    "code_name": "QifengEsrID2"
+  },
+  {
+    "id": 98,
+    "code_name": "QifengEsrID3"
+  },
+  {
+    "id": 99,
+    "code_name": "LinxiaoSkill1LightningChain"
+  },
+  {
+    "id": 100,
+    "code_name": "LinxiaoSkill2AddLightningBuff"
+  },
+  {
+    "id": 101,
+    "code_name": "LinxiaoSkill3GroundSpearFreqUp"
+  },
+  {
+    "id": 102,
+    "code_name": "FeiyuGroundDmgUp"
+  },
+  {
+    "id": 103,
+    "code_name": "FeiyuWoodBindAll"
+  },
+  {
+    "id": 104,
+    "code_name": "FeiyuWaterTyrant"
+  },
+  {
+    "id": 105,
+    "code_name": "HualingFullChargeSkillAlsoGetMomentum"
+  },
+  {
+    "id": 106,
+    "code_name": "HualingGainShieldOnKill"
+  },
+  {
+    "id": 107,
+    "code_name": "HualingStrongFullMomentumSkill"
+  },
+  {
+    "id": 108,
+    "code_name": "RanaRegenShieldOnPhantomAttack"
+  },
+  {
+    "id": 109,
+    "code_name": "RanaAddDebuffOnPhantomAttack"
+  },
+  {
+    "id": 110,
+    "code_name": "RanaPhantomExtraCritRateOnAttack"
+  },
+  {
+    "id": 111,
+    "code_name": "RanaAddComboDamageRatePerPhantom"
+  },
+  {
+    "id": 112,
+    "code_name": "ErdeneAutoShootFeather"
+  },
+  {
+    "id": 113,
+    "code_name": "ErdeneSkill1HigherFreq"
+  },
+  {
+    "id": 114,
+    "code_name": "ErdeneMarkOnEnterRoom"
+  },
+  {
+    "id": 115,
+    "code_name": "DragonBuffSkillAfterExitSwim"
+  },
+  {
+    "id": 116,
+    "code_name": "DragonExtraWave"
+  },
+  {
+    "id": 117,
+    "code_name": "DragonWaveAttackDmgUp"
+  }
+]

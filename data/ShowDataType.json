@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "KillCount"
+  },
+  {
+    "id": 1,
+    "code_name": "Damage"
+  },
+  {
+    "id": 2,
+    "code_name": "Cure"
+  },
+  {
+    "id": 3,
+    "code_name": "Reborn"
+  },
+  {
+    "id": 4,
+    "code_name": "Revive"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "code_name": "halfWidth_Left"
+  },
+  {
+    "id": 1,
+    "code_name": "halfWidth_Right"
+  },
+  {
+    "id": 2,
+    "code_name": "halfHeight_Up"
+  },
+  {
+    "id": 3,
+    "code_name": "halfHeight_Down"
+  },
+  {
+    "id": 4,
+    "code_name": "interval_1"
+  },
+  {
+    "id": 5,
+    "code_name": "interval_2"
+  },
+  {
+    "id": 6,
+    "code_name": "interval_3"
+  },
+  {
+    "id": 7,
+    "code_name": "interval_4"
+  },
+  {
+    "id": 8,
+    "code_name": "interstice_1"
+  },
+  {
+    "id": 9,
+    "code_name": "interstice_2"
+  }
+]

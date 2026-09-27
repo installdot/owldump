@@ -1,0 +1,462 @@
+[
+  {
+    "id": 0,
+    "code_name": "name_stoneBoss"
+  },
+  {
+    "id": 1,
+    "code_name": "name_fat"
+  },
+  {
+    "id": 2,
+    "code_name": "name_dracula"
+  },
+  {
+    "id": 3,
+    "code_name": "name_axasheir"
+  },
+  {
+    "id": 4,
+    "code_name": "name_yamato"
+  },
+  {
+    "id": 5,
+    "code_name": "name_tengo"
+  },
+  {
+    "id": 6,
+    "code_name": "name_chen"
+  },
+  {
+    "id": 7,
+    "code_name": "name_asura"
+  },
+  {
+    "id": 8,
+    "code_name": "name_morgan"
+  },
+  {
+    "id": 9,
+    "code_name": "name_centaur"
+  },
+  {
+    "id": 10,
+    "code_name": "name_bartender"
+  },
+  {
+    "id": 11,
+    "code_name": "name_mainSkill"
+  },
+  {
+    "id": 12,
+    "code_name": "name_exSkill"
+  },
+  {
+    "id": 13,
+    "code_name": "name_decomposition"
+  },
+  {
+    "id": 14,
+    "code_name": "name_purchasesBoss"
+  },
+  {
+    "id": 15,
+    "code_name": "other_coin"
+  },
+  {
+    "id": 16,
+    "code_name": "other_soulStone"
+  },
+  {
+    "id": 17,
+    "code_name": "other_blueStone"
+  },
+  {
+    "id": 18,
+    "code_name": "other_greenStone"
+  },
+  {
+    "id": 19,
+    "code_name": "other_redStone"
+  },
+  {
+    "id": 20,
+    "code_name": "item_healthBottle"
+  },
+  {
+    "id": 21,
+    "code_name": "item_characterEffect"
+  },
+  {
+    "id": 22,
+    "code_name": "item_mergeCharacterEffect"
+  },
+  {
+    "id": 23,
+    "code_name": "name_achievement"
+  },
+  {
+    "id": 24,
+    "code_name": "normalAttack"
+  },
+  {
+    "id": 25,
+    "code_name": "mainSkill"
+  },
+  {
+    "id": 26,
+    "code_name": "exSkill"
+  },
+  {
+    "id": 27,
+    "code_name": "skillStyle"
+  },
+  {
+    "id": 28,
+    "code_name": "escapeSkill"
+  },
+  {
+    "id": 29,
+    "code_name": "healthPoint"
+  },
+  {
+    "id": 30,
+    "code_name": "shield"
+  },
+  {
+    "id": 31,
+    "code_name": "lms_eu0"
+  },
+  {
+    "id": 32,
+    "code_name": "lms_eu1"
+  },
+  {
+    "id": 33,
+    "code_name": "lms_eu2"
+  },
+  {
+    "id": 34,
+    "code_name": "lms_eu3"
+  },
+  {
+    "id": 35,
+    "code_name": "lms_jpn0"
+  },
+  {
+    "id": 36,
+    "code_name": "lms_jpn1"
+  },
+  {
+    "id": 37,
+    "code_name": "lms_jpn2"
+  },
+  {
+    "id": 38,
+    "code_name": "lms_jpn3"
+  },
+  {
+    "id": 39,
+    "code_name": "lms_cn0"
+  },
+  {
+    "id": 40,
+    "code_name": "lms_cn1"
+  },
+  {
+    "id": 41,
+    "code_name": "lms_cn2"
+  },
+  {
+    "id": 42,
+    "code_name": "lms_cn3"
+  },
+  {
+    "id": 43,
+    "code_name": "lms_arab0"
+  },
+  {
+    "id": 44,
+    "code_name": "lms_arab1"
+  },
+  {
+    "id": 45,
+    "code_name": "lms_arab2"
+  },
+  {
+    "id": 46,
+    "code_name": "lms_arab3"
+  },
+  {
+    "id": 47,
+    "code_name": "lms_west0"
+  },
+  {
+    "id": 48,
+    "code_name": "lms_west1"
+  },
+  {
+    "id": 49,
+    "code_name": "lms_west2"
+  },
+  {
+    "id": 50,
+    "code_name": "lms_west3"
+  },
+  {
+    "id": 51,
+    "code_name": "lms_final"
+  },
+  {
+    "id": 52,
+    "code_name": "healthBottle"
+  },
+  {
+    "id": 53,
+    "code_name": "attendant"
+  },
+  {
+    "id": 54,
+    "code_name": "friendlyUnit"
+  },
+  {
+    "id": 55,
+    "code_name": "teamMate"
+  },
+  {
+    "id": 56,
+    "code_name": "enemy"
+  },
+  {
+    "id": 57,
+    "code_name": "eliteEnemy"
+  },
+  {
+    "id": 58,
+    "code_name": "tetrarchEnemy"
+  },
+  {
+    "id": 59,
+    "code_name": "invisibleChamber"
+  },
+  {
+    "id": 60,
+    "code_name": "lms_forest0"
+  },
+  {
+    "id": 61,
+    "code_name": "lms_forest1"
+  },
+  {
+    "id": 62,
+    "code_name": "lms_forest2"
+  },
+  {
+    "id": 63,
+    "code_name": "lms_forest3"
+  },
+  {
+    "id": 64,
+    "code_name": "name_mandolin"
+  },
+  {
+    "id": 65,
+    "code_name": "name_sakanayuKuma"
+  },
+  {
+    "id": 66,
+    "code_name": "lms_ger0"
+  },
+  {
+    "id": 67,
+    "code_name": "lms_ger1"
+  },
+  {
+    "id": 68,
+    "code_name": "lms_ger2"
+  },
+  {
+    "id": 69,
+    "code_name": "lms_ger3"
+  },
+  {
+    "id": 70,
+    "code_name": "name_doctor"
+  },
+  {
+    "id": 71,
+    "code_name": "skin_award"
+  },
+  {
+    "id": 72,
+    "code_name": "name_builderCat"
+  },
+  {
+    "id": 73,
+    "code_name": "name_crystallBall"
+  },
+  {
+    "id": 74,
+    "code_name": "lms_nordic0"
+  },
+  {
+    "id": 75,
+    "code_name": "lms_nordic1"
+  },
+  {
+    "id": 76,
+    "code_name": "lms_nordic2"
+  },
+  {
+    "id": 77,
+    "code_name": "lms_nordic3"
+  },
+  {
+    "id": 78,
+    "code_name": "name_octopus"
+  },
+  {
+    "id": 79,
+    "code_name": "name_lokiMirror"
+  },
+  {
+    "id": 80,
+    "code_name": "lms_nw0"
+  },
+  {
+    "id": 81,
+    "code_name": "lms_nw1"
+  },
+  {
+    "id": 82,
+    "code_name": "lms_nw2"
+  },
+  {
+    "id": 83,
+    "code_name": "name_norwegianLouis"
+  },
+  {
+    "id": 84,
+    "code_name": "name_adrien"
+  },
+  {
+    "id": 85,
+    "code_name": "lms_nw3"
+  },
+  {
+    "id": 86,
+    "code_name": "npcName_bookrack"
+  },
+  {
+    "id": 87,
+    "code_name": "name_nagaGate"
+  },
+  {
+    "id": 88,
+    "code_name": "name_xiaoke"
+  },
+  {
+    "id": 89,
+    "code_name": "name_caozuotai"
+  },
+  {
+    "id": 90,
+    "code_name": "lms_magic0"
+  },
+  {
+    "id": 91,
+    "code_name": "lms_magic1"
+  },
+  {
+    "id": 92,
+    "code_name": "lms_magic2"
+  },
+  {
+    "id": 93,
+    "code_name": "lms_magic3"
+  },
+  {
+    "id": 94,
+    "code_name": "name_magicBossWitch"
+  },
+  {
+    "id": 95,
+    "code_name": "name_magicBossDemon"
+  },
+  {
+    "id": 96,
+    "code_name": "name_madila"
+  },
+  {
+    "id": 97,
+    "code_name": "lms_fireDance"
+  },
+  {
+    "id": 98,
+    "code_name": "lms_fireDance3"
+  },
+  {
+    "id": 99,
+    "code_name": "name_garo"
+  },
+  {
+    "id": 100,
+    "code_name": "name_omnisphere"
+  },
+  {
+    "id": 101,
+    "code_name": "name_evilPrincess"
+  },
+  {
+    "id": 102,
+    "code_name": "lms_eu3_alt1"
+  },
+  {
+    "id": 103,
+    "code_name": "name_geisha"
+  },
+  {
+    "id": 104,
+    "code_name": "lms_jpn3_alt1"
+  },
+  {
+    "id": 105,
+    "code_name": "name_normalMode"
+  },
+  {
+    "id": 106,
+    "code_name": "name_specialMode"
+  },
+  {
+    "id": 107,
+    "code_name": "name_rougeMode"
+  },
+  {
+    "id": 108,
+    "code_name": "name_sixCyclesMode"
+  },
+  {
+    "id": 109,
+    "code_name": "lms_final_ren"
+  },
+  {
+    "id": 110,
+    "code_name": "lms_final_shou"
+  },
+  {
+    "id": 111,
+    "code_name": "lms_final_gui"
+  },
+  {
+    "id": 112,
+    "code_name": "lms_final_yu"
+  },
+  {
+    "id": 113,
+    "code_name": "lms_final_xiuluo"
+  },
+  {
+    "id": 114,
+    "code_name": "lms_final_tianren"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "skinPieces"
+  },
+  {
+    "id": 1,
+    "code_name": "heroCommonPieces"
+  },
+  {
+    "id": 2,
+    "code_name": "redStone"
+  },
+  {
+    "id": 3,
+    "code_name": "blueStone"
+  },
+  {
+    "id": 4,
+    "code_name": "soulStone"
+  },
+  {
+    "id": 5,
+    "code_name": "orbRefineTicket"
+  }
+]

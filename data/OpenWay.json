@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "Button_Reward"
+  },
+  {
+    "id": 1,
+    "code_name": "Button_RewardBox"
+  },
+  {
+    "id": 2,
+    "code_name": "Button_SkinRewardLock"
+  },
+  {
+    "id": 3,
+    "code_name": "Button_SkinRewardBox"
+  },
+  {
+    "id": 4,
+    "code_name": "Button_SkinShow"
+  },
+  {
+    "id": 5,
+    "code_name": "UnlockPopUp"
+  },
+  {
+    "id": 6,
+    "code_name": "OneHourPopUp"
+  }
+]

@@ -1,0 +1,3102 @@
+[
+  {
+    "id": 0,
+    "code_name": "quanhuyingCombo"
+  },
+  {
+    "id": 1,
+    "code_name": "quanhuyingHupuzi"
+  },
+  {
+    "id": 2,
+    "code_name": "quanhuyingHuanyingzhen"
+  },
+  {
+    "id": 3,
+    "code_name": "quanhuyingBackJump"
+  },
+  {
+    "id": 4,
+    "code_name": "quanhuyingLeicha"
+  },
+  {
+    "id": 5,
+    "code_name": "quanhuyingTieshankao"
+  },
+  {
+    "id": 6,
+    "code_name": "seebeeCombo"
+  },
+  {
+    "id": 7,
+    "code_name": "seebeeBackJump"
+  },
+  {
+    "id": 8,
+    "code_name": "seebeeQiefan"
+  },
+  {
+    "id": 9,
+    "code_name": "seebeeOneSlash"
+  },
+  {
+    "id": 10,
+    "code_name": "seebeeThunderCombo"
+  },
+  {
+    "id": 11,
+    "code_name": "sakariCombo"
+  },
+  {
+    "id": 12,
+    "code_name": "sakariDive"
+  },
+  {
+    "id": 13,
+    "code_name": "sakariHoldBreath"
+  },
+  {
+    "id": 14,
+    "code_name": "sakariCounterPunch"
+  },
+  {
+    "id": 15,
+    "code_name": "sakariWashingCombo"
+  },
+  {
+    "id": 16,
+    "code_name": "akaishaCombo"
+  },
+  {
+    "id": 17,
+    "code_name": "akaishaBackJump"
+  },
+  {
+    "id": 18,
+    "code_name": "akaishaArrowRain"
+  },
+  {
+    "id": 19,
+    "code_name": "akaishaTrap"
+  },
+  {
+    "id": 20,
+    "code_name": "akaishaThunderCombo"
+  },
+  {
+    "id": 21,
+    "code_name": "oliviaCombo"
+  },
+  {
+    "id": 22,
+    "code_name": "oliviaBackRoll"
+  },
+  {
+    "id": 23,
+    "code_name": "oliviaCallTransform"
+  },
+  {
+    "id": 24,
+    "code_name": "oliviaCallBunker"
+  },
+  {
+    "id": 25,
+    "code_name": "oliviaCallAerobat"
+  },
+  {
+    "id": 26,
+    "code_name": "oliviaTransformedGunFire"
+  },
+  {
+    "id": 27,
+    "code_name": "oliviaTransformedFist"
+  },
+  {
+    "id": 28,
+    "code_name": "oliviaTransformedMissile"
+  },
+  {
+    "id": 29,
+    "code_name": "oliviaTransformedCallback"
+  },
+  {
+    "id": 30,
+    "code_name": "gangdanShieldBlock"
+  },
+  {
+    "id": 31,
+    "code_name": "gangdanCombo"
+  },
+  {
+    "id": 32,
+    "code_name": "gangdanHolyLight"
+  },
+  {
+    "id": 33,
+    "code_name": "gangdanKingOfWar"
+  },
+  {
+    "id": 34,
+    "code_name": "gangdanShieldAttack"
+  },
+  {
+    "id": 35,
+    "code_name": "gangdanAngel"
+  },
+  {
+    "id": 36,
+    "code_name": "katherineCombo"
+  },
+  {
+    "id": 37,
+    "code_name": "katherineBlink"
+  },
+  {
+    "id": 38,
+    "code_name": "katherineFireBall"
+  },
+  {
+    "id": 39,
+    "code_name": "katherineSnowStorm"
+  },
+  {
+    "id": 40,
+    "code_name": "katherineThunderStorm"
+  },
+  {
+    "id": 199,
+    "code_name": "hannahCombo"
+  },
+  {
+    "id": 200,
+    "code_name": "hannahRoll"
+  },
+  {
+    "id": 201,
+    "code_name": "hannahRapidFire"
+  },
+  {
+    "id": 202,
+    "code_name": "hannahChangeShotgun"
+  },
+  {
+    "id": 203,
+    "code_name": "hannahChangeSniper"
+  },
+  {
+    "id": 204,
+    "code_name": "hannahChangeRevolver"
+  },
+  {
+    "id": 285,
+    "code_name": "hilldingCombo"
+  },
+  {
+    "id": 286,
+    "code_name": "hilldingKick"
+  },
+  {
+    "id": 287,
+    "code_name": "hilldingEat"
+  },
+  {
+    "id": 288,
+    "code_name": "hilldingPlunder"
+  },
+  {
+    "id": 289,
+    "code_name": "hilldingGyro"
+  },
+  {
+    "id": 290,
+    "code_name": "hilldingJumpCut"
+  },
+  {
+    "id": 327,
+    "code_name": "penhaligonCombo"
+  },
+  {
+    "id": 328,
+    "code_name": "penhaligonBackJump"
+  },
+  {
+    "id": 329,
+    "code_name": "penhaligonCallComrade"
+  },
+  {
+    "id": 330,
+    "code_name": "penhaligonArtilleryStrike"
+  },
+  {
+    "id": 331,
+    "code_name": "penhaligonChargeSpikes"
+  },
+  {
+    "id": 332,
+    "code_name": "penhaligonAddComboBuff"
+  },
+  {
+    "id": 333,
+    "code_name": "hayfaBackJump"
+  },
+  {
+    "id": 360,
+    "code_name": "hayfaCombo"
+  },
+  {
+    "id": 361,
+    "code_name": "hayfaShadowServant"
+  },
+  {
+    "id": 362,
+    "code_name": "hayfaTieXianZhan"
+  },
+  {
+    "id": 363,
+    "code_name": "hayfaTuDu"
+  },
+  {
+    "id": 364,
+    "code_name": "hayfaJumpShadowAttack"
+  },
+  {
+    "id": 419,
+    "code_name": "xuansheCombo"
+  },
+  {
+    "id": 420,
+    "code_name": "xuansheBackJump"
+  },
+  {
+    "id": 421,
+    "code_name": "xuansheWearHeart"
+  },
+  {
+    "id": 422,
+    "code_name": "xuansheHeavyRain"
+  },
+  {
+    "id": 423,
+    "code_name": "xuanshePlumBlossom"
+  },
+  {
+    "id": 467,
+    "code_name": "heyaoCombo"
+  },
+  {
+    "id": 468,
+    "code_name": "heyaoBackJump"
+  },
+  {
+    "id": 469,
+    "code_name": "heyaoShout"
+  },
+  {
+    "id": 470,
+    "code_name": "heyaoHeavyCombo"
+  },
+  {
+    "id": 471,
+    "code_name": "heyaoComboPlus"
+  },
+  {
+    "id": 472,
+    "code_name": "aimiBackJump"
+  },
+  {
+    "id": 473,
+    "code_name": "aimiCombo"
+  },
+  {
+    "id": 474,
+    "code_name": "aimiHolyDefence"
+  },
+  {
+    "id": 475,
+    "code_name": "aimiOath"
+  },
+  {
+    "id": 476,
+    "code_name": "aimiFaith"
+  },
+  {
+    "id": 481,
+    "code_name": "ulianaBackJump"
+  },
+  {
+    "id": 482,
+    "code_name": "ulianaCombo"
+  },
+  {
+    "id": 483,
+    "code_name": "ulianaExplosion"
+  },
+  {
+    "id": 484,
+    "code_name": "ulianaDance"
+  },
+  {
+    "id": 485,
+    "code_name": "ulianaSnow"
+  },
+  {
+    "id": 498,
+    "code_name": "anniceBackJump"
+  },
+  {
+    "id": 499,
+    "code_name": "anniceCombo"
+  },
+  {
+    "id": 500,
+    "code_name": "anniceSummonStar"
+  },
+  {
+    "id": 501,
+    "code_name": "anniceSummonMoon"
+  },
+  {
+    "id": 502,
+    "code_name": "anniceNightWeapon"
+  },
+  {
+    "id": 503,
+    "code_name": "ruthvenBackJump"
+  },
+  {
+    "id": 504,
+    "code_name": "ruthvenCombo"
+  },
+  {
+    "id": 505,
+    "code_name": "ruthvenRenge"
+  },
+  {
+    "id": 506,
+    "code_name": "ruthvenTorture"
+  },
+  {
+    "id": 507,
+    "code_name": "ruthvenDevil"
+  },
+  {
+    "id": 508,
+    "code_name": "ruthvenCrazy"
+  },
+  {
+    "id": 512,
+    "code_name": "anibellaBackJump"
+  },
+  {
+    "id": 513,
+    "code_name": "anibellaCombo"
+  },
+  {
+    "id": 514,
+    "code_name": "anibellaCallFrog"
+  },
+  {
+    "id": 515,
+    "code_name": "anibellaCallCat"
+  },
+  {
+    "id": 516,
+    "code_name": "anibellaCallGod"
+  },
+  {
+    "id": 517,
+    "code_name": "anibellaMark"
+  },
+  {
+    "id": 565,
+    "code_name": "adiraBackJump"
+  },
+  {
+    "id": 566,
+    "code_name": "adiraCombo"
+  },
+  {
+    "id": 567,
+    "code_name": "adiraDownSlash"
+  },
+  {
+    "id": 568,
+    "code_name": "adiraUpSlash"
+  },
+  {
+    "id": 569,
+    "code_name": "adiraWhirlwindSlash"
+  },
+  {
+    "id": 570,
+    "code_name": "adiraBackStepSlash"
+  },
+  {
+    "id": 600,
+    "code_name": "yangkyiBackJump"
+  },
+  {
+    "id": 601,
+    "code_name": "yangkyiCombo"
+  },
+  {
+    "id": 602,
+    "code_name": "yangkyiSkill1"
+  },
+  {
+    "id": 603,
+    "code_name": "yangkyiSkill2"
+  },
+  {
+    "id": 604,
+    "code_name": "yangkyiSkill3"
+  },
+  {
+    "id": 605,
+    "code_name": "youziBackJump"
+  },
+  {
+    "id": 606,
+    "code_name": "youziCombo"
+  },
+  {
+    "id": 607,
+    "code_name": "youziSkill1"
+  },
+  {
+    "id": 608,
+    "code_name": "youziSkill2"
+  },
+  {
+    "id": 609,
+    "code_name": "youziSkill3"
+  },
+  {
+    "id": 610,
+    "code_name": "yufengBackJump"
+  },
+  {
+    "id": 611,
+    "code_name": "yufengCombo"
+  },
+  {
+    "id": 612,
+    "code_name": "yufengSkill1"
+  },
+  {
+    "id": 613,
+    "code_name": "yufengSkill2"
+  },
+  {
+    "id": 614,
+    "code_name": "yufengSkill3"
+  },
+  {
+    "id": 615,
+    "code_name": "wufeiCombo"
+  },
+  {
+    "id": 616,
+    "code_name": "wufeiBackJump"
+  },
+  {
+    "id": 617,
+    "code_name": "wufeiSkill1"
+  },
+  {
+    "id": 618,
+    "code_name": "wufeiSkill2"
+  },
+  {
+    "id": 619,
+    "code_name": "wufeiSkill3"
+  },
+  {
+    "id": 638,
+    "code_name": "bunnyCombo"
+  },
+  {
+    "id": 639,
+    "code_name": "bunnyBackJump"
+  },
+  {
+    "id": 640,
+    "code_name": "bunnySkill1"
+  },
+  {
+    "id": 641,
+    "code_name": "bunnySkill2"
+  },
+  {
+    "id": 642,
+    "code_name": "bunnySkill3"
+  },
+  {
+    "id": 644,
+    "code_name": "qifengCombo"
+  },
+  {
+    "id": 645,
+    "code_name": "qifengBackJump"
+  },
+  {
+    "id": 646,
+    "code_name": "qifengSkill1"
+  },
+  {
+    "id": 647,
+    "code_name": "qifengSkill2"
+  },
+  {
+    "id": 648,
+    "code_name": "qifengSkill3"
+  },
+  {
+    "id": 649,
+    "code_name": "qifengSkill4"
+  },
+  {
+    "id": 674,
+    "code_name": "linxiaoCombo"
+  },
+  {
+    "id": 675,
+    "code_name": "linxiaoBackJump"
+  },
+  {
+    "id": 676,
+    "code_name": "linxiaoSkill1"
+  },
+  {
+    "id": 677,
+    "code_name": "linxiaoSkill2"
+  },
+  {
+    "id": 678,
+    "code_name": "linxiaoSkill3"
+  },
+  {
+    "id": 697,
+    "code_name": "feiyuCombo"
+  },
+  {
+    "id": 698,
+    "code_name": "feiyuBackJump"
+  },
+  {
+    "id": 699,
+    "code_name": "feiyuSkill1"
+  },
+  {
+    "id": 700,
+    "code_name": "feiyuSkill2"
+  },
+  {
+    "id": 701,
+    "code_name": "feiyuSkill3"
+  },
+  {
+    "id": 715,
+    "code_name": "hualingCombo"
+  },
+  {
+    "id": 716,
+    "code_name": "hualingBackJump"
+  },
+  {
+    "id": 717,
+    "code_name": "hualingSkill1"
+  },
+  {
+    "id": 718,
+    "code_name": "hualingSkill2"
+  },
+  {
+    "id": 719,
+    "code_name": "hualingSkill3"
+  },
+  {
+    "id": 741,
+    "code_name": "ranaCombo"
+  },
+  {
+    "id": 742,
+    "code_name": "ranaBackJump"
+  },
+  {
+    "id": 743,
+    "code_name": "ranaSkill1"
+  },
+  {
+    "id": 744,
+    "code_name": "ranaSkill2"
+  },
+  {
+    "id": 745,
+    "code_name": "ranaSkill3"
+  },
+  {
+    "id": 746,
+    "code_name": "erdeneCombo"
+  },
+  {
+    "id": 747,
+    "code_name": "erdeneBackJump"
+  },
+  {
+    "id": 748,
+    "code_name": "erdeneSkill1"
+  },
+  {
+    "id": 749,
+    "code_name": "erdeneSkill2"
+  },
+  {
+    "id": 750,
+    "code_name": "erdeneSkill3"
+  },
+  {
+    "id": 41,
+    "code_name": "zombieAdamCombo"
+  },
+  {
+    "id": 42,
+    "code_name": "batBiteCombo"
+  },
+  {
+    "id": 43,
+    "code_name": "batPoisonCombo"
+  },
+  {
+    "id": 44,
+    "code_name": "skeletonArkuCombo"
+  },
+  {
+    "id": 45,
+    "code_name": "skeletonKlukuCombo"
+  },
+  {
+    "id": 46,
+    "code_name": "skeletonKlukuShieldBlock"
+  },
+  {
+    "id": 47,
+    "code_name": "knightLibelueceCombo"
+  },
+  {
+    "id": 48,
+    "code_name": "grandknightAxasheirCombo"
+  },
+  {
+    "id": 49,
+    "code_name": "grandknightAxasheirRush"
+  },
+  {
+    "id": 50,
+    "code_name": "grandknightAxasheirHeavyCombo"
+  },
+  {
+    "id": 51,
+    "code_name": "grandknightAxasheirMeleeCombo"
+  },
+  {
+    "id": 52,
+    "code_name": "grandknightAxasheirMeleeCombo1"
+  },
+  {
+    "id": 53,
+    "code_name": "grandknightAxasheirMeleeShieldSlam"
+  },
+  {
+    "id": 54,
+    "code_name": "grandknightAxasheirMeleeShieldBlock"
+  },
+  {
+    "id": 55,
+    "code_name": "ghostAdobeCombo"
+  },
+  {
+    "id": 56,
+    "code_name": "dogeTykeCombo"
+  },
+  {
+    "id": 57,
+    "code_name": "witchCheapCalls"
+  },
+  {
+    "id": 58,
+    "code_name": "twinsAbubuCombo"
+  },
+  {
+    "id": 59,
+    "code_name": "twinsAbubuHeavyCombo"
+  },
+  {
+    "id": 60,
+    "code_name": "slimeJellyCombo"
+  },
+  {
+    "id": 61,
+    "code_name": "vampireDraculaCombo"
+  },
+  {
+    "id": 62,
+    "code_name": "vampireDraculaBloodShooting"
+  },
+  {
+    "id": 63,
+    "code_name": "vampireDraculaPortal"
+  },
+  {
+    "id": 64,
+    "code_name": "vampireDraculaHug"
+  },
+  {
+    "id": 65,
+    "code_name": "vampireDraculaBatTransform"
+  },
+  {
+    "id": 66,
+    "code_name": "jpnAshigaruCombo0"
+  },
+  {
+    "id": 67,
+    "code_name": "jpnUmbrellaRush"
+  },
+  {
+    "id": 68,
+    "code_name": "jpnGokouRise"
+  },
+  {
+    "id": 69,
+    "code_name": "jpnGokouSubmerge"
+  },
+  {
+    "id": 70,
+    "code_name": "jpnKappaThrowWaterball"
+  },
+  {
+    "id": 71,
+    "code_name": "jpnToadNinjaShuriken"
+  },
+  {
+    "id": 72,
+    "code_name": "jpnToadNinjaDragSlash"
+  },
+  {
+    "id": 73,
+    "code_name": "jpnToadSpitSaliva"
+  },
+  {
+    "id": 74,
+    "code_name": "jpnShinobiCombo0"
+  },
+  {
+    "id": 75,
+    "code_name": "jpnTanagashimaCombo"
+  },
+  {
+    "id": 76,
+    "code_name": "jpnBehemothredSmash"
+  },
+  {
+    "id": 77,
+    "code_name": "jpnBehemothredRushAttack"
+  },
+  {
+    "id": 78,
+    "code_name": "jpnSamuraiCombo0"
+  },
+  {
+    "id": 79,
+    "code_name": "jpnSamuraiBlock"
+  },
+  {
+    "id": 80,
+    "code_name": "jpnMonkCast"
+  },
+  {
+    "id": 81,
+    "code_name": "jpnMonkCallOni"
+  },
+  {
+    "id": 82,
+    "code_name": "jpnBehemothblueSmash"
+  },
+  {
+    "id": 83,
+    "code_name": "jpnBehemothblueRushAttack"
+  },
+  {
+    "id": 84,
+    "code_name": "jpnTengo1Combo"
+  },
+  {
+    "id": 85,
+    "code_name": "jpnTengo1TengoStone"
+  },
+  {
+    "id": 86,
+    "code_name": "jpnTengo1CallRocks"
+  },
+  {
+    "id": 87,
+    "code_name": "jpnTengo1EnergyRolling"
+  },
+  {
+    "id": 88,
+    "code_name": "jpnTengo1HeavyCombo"
+  },
+  {
+    "id": 89,
+    "code_name": "jpnYamatoRapidShooting"
+  },
+  {
+    "id": 90,
+    "code_name": "jpnYamatoDash"
+  },
+  {
+    "id": 91,
+    "code_name": "jpnYamatoRainFromAbove"
+  },
+  {
+    "id": 92,
+    "code_name": "jpnYamatoDownShot"
+  },
+  {
+    "id": 93,
+    "code_name": "cnZhaoFist"
+  },
+  {
+    "id": 94,
+    "code_name": "cnZhaoDashFist"
+  },
+  {
+    "id": 95,
+    "code_name": "cnZhaoCombo"
+  },
+  {
+    "id": 96,
+    "code_name": "cnZhaoBlock"
+  },
+  {
+    "id": 97,
+    "code_name": "cnQianCombo"
+  },
+  {
+    "id": 98,
+    "code_name": "cnQianRotate"
+  },
+  {
+    "id": 99,
+    "code_name": "cnSunAcupuncture"
+  },
+  {
+    "id": 100,
+    "code_name": "cnSunThunderCombo"
+  },
+  {
+    "id": 101,
+    "code_name": "cnSunHeavyAcupuncture"
+  },
+  {
+    "id": 102,
+    "code_name": "cnLiCombo0"
+  },
+  {
+    "id": 103,
+    "code_name": "cnLiCombo1"
+  },
+  {
+    "id": 104,
+    "code_name": "cnZhouCombo0"
+  },
+  {
+    "id": 105,
+    "code_name": "cnZhouCombo1"
+  },
+  {
+    "id": 106,
+    "code_name": "cnWuCombo0"
+  },
+  {
+    "id": 107,
+    "code_name": "cnWuCombo1"
+  },
+  {
+    "id": 108,
+    "code_name": "cnZhengCombo"
+  },
+  {
+    "id": 109,
+    "code_name": "cnZhengBlock"
+  },
+  {
+    "id": 110,
+    "code_name": "cnZhengPortal"
+  },
+  {
+    "id": 111,
+    "code_name": "cnFengCombo"
+  },
+  {
+    "id": 112,
+    "code_name": "cnFengWindmill"
+  },
+  {
+    "id": 113,
+    "code_name": "cnWangCombo"
+  },
+  {
+    "id": 114,
+    "code_name": "cnWangCombo2"
+  },
+  {
+    "id": 115,
+    "code_name": "cnChenLongCombo"
+  },
+  {
+    "id": 116,
+    "code_name": "cnChenLongBlock"
+  },
+  {
+    "id": 117,
+    "code_name": "cnChenLongAcupoint"
+  },
+  {
+    "id": 118,
+    "code_name": "cnChenLongTanZhi"
+  },
+  {
+    "id": 119,
+    "code_name": "cnChenLongFenShen"
+  },
+  {
+    "id": 120,
+    "code_name": "cnChenLongSwitchHu"
+  },
+  {
+    "id": 121,
+    "code_name": "cnChenHuCombo"
+  },
+  {
+    "id": 122,
+    "code_name": "cnChenHuBenQuan"
+  },
+  {
+    "id": 123,
+    "code_name": "cnChenHuPu"
+  },
+  {
+    "id": 124,
+    "code_name": "cnChenHuPao"
+  },
+  {
+    "id": 125,
+    "code_name": "cnChenHuSwitchLong"
+  },
+  {
+    "id": 126,
+    "code_name": "arabWizardFireMagic"
+  },
+  {
+    "id": 127,
+    "code_name": "arabWizardIceMagic"
+  },
+  {
+    "id": 128,
+    "code_name": "arabRogueCombo"
+  },
+  {
+    "id": 129,
+    "code_name": "arabPurpleRobeCallSD"
+  },
+  {
+    "id": 130,
+    "code_name": "arabPurpleRobeCallThunder"
+  },
+  {
+    "id": 131,
+    "code_name": "arabShadiaoPortal"
+  },
+  {
+    "id": 132,
+    "code_name": "arabShadiaoTaunt"
+  },
+  {
+    "id": 133,
+    "code_name": "arabShieldManCombo"
+  },
+  {
+    "id": 134,
+    "code_name": "arabShieldManShieldBlock"
+  },
+  {
+    "id": 135,
+    "code_name": "arabSnakePurpleCombo"
+  },
+  {
+    "id": 136,
+    "code_name": "arabSnakePurpleStoneEye"
+  },
+  {
+    "id": 137,
+    "code_name": "arabSnakeRedCombo"
+  },
+  {
+    "id": 138,
+    "code_name": "arabSnakeRedStoneEye"
+  },
+  {
+    "id": 139,
+    "code_name": "arabStoneManLaser0"
+  },
+  {
+    "id": 140,
+    "code_name": "arabStoneManLaser1"
+  },
+  {
+    "id": 141,
+    "code_name": "arabStoneManLaser2"
+  },
+  {
+    "id": 142,
+    "code_name": "arabThifeGoldSteal"
+  },
+  {
+    "id": 143,
+    "code_name": "arabThifeItemSteal"
+  },
+  {
+    "id": 144,
+    "code_name": "arabWhiteRobeCombo"
+  },
+  {
+    "id": 145,
+    "code_name": "arabFatAttendantWarriorCombo"
+  },
+  {
+    "id": 146,
+    "code_name": "arabFatAttendantWarriorBackJump"
+  },
+  {
+    "id": 147,
+    "code_name": "arabFatAttendantWarriorDashCombo"
+  },
+  {
+    "id": 148,
+    "code_name": "arabFatAttendantWarriorClaw"
+  },
+  {
+    "id": 149,
+    "code_name": "arabFatAttendantWitchPortal"
+  },
+  {
+    "id": 150,
+    "code_name": "arabFatAttendantWitchMagicBall"
+  },
+  {
+    "id": 151,
+    "code_name": "arabFatAttendantWitchAirKiss"
+  },
+  {
+    "id": 152,
+    "code_name": "arabFatAttendantWitchDance"
+  },
+  {
+    "id": 153,
+    "code_name": "arabStoneBossStoneFist"
+  },
+  {
+    "id": 154,
+    "code_name": "arabStoneBossStoneDash"
+  },
+  {
+    "id": 155,
+    "code_name": "arabStoneBossBigSand"
+  },
+  {
+    "id": 156,
+    "code_name": "forestDarkElvesBattlemageCombo"
+  },
+  {
+    "id": 157,
+    "code_name": "westSheriffCombo"
+  },
+  {
+    "id": 158,
+    "code_name": "westShotgunManCombo"
+  },
+  {
+    "id": 159,
+    "code_name": "westStrongManCombo0"
+  },
+  {
+    "id": 160,
+    "code_name": "westStrongManCombo1"
+  },
+  {
+    "id": 161,
+    "code_name": "westSwordsManCombo0"
+  },
+  {
+    "id": 162,
+    "code_name": "westSwordsManCombo1"
+  },
+  {
+    "id": 163,
+    "code_name": "westCowRunHit"
+  },
+  {
+    "id": 164,
+    "code_name": "westBoomFatCombo0"
+  },
+  {
+    "id": 165,
+    "code_name": "westFireWomanCombo0"
+  },
+  {
+    "id": 166,
+    "code_name": "westEagleCombo"
+  },
+  {
+    "id": 167,
+    "code_name": "westRopeManCombo"
+  },
+  {
+    "id": 168,
+    "code_name": "westMorganCombo"
+  },
+  {
+    "id": 169,
+    "code_name": "westMorganReload"
+  },
+  {
+    "id": 170,
+    "code_name": "westMorganShoot"
+  },
+  {
+    "id": 171,
+    "code_name": "westMorganPortal"
+  },
+  {
+    "id": 172,
+    "code_name": "westMorganEnergyDrop"
+  },
+  {
+    "id": 173,
+    "code_name": "westMorganHook"
+  },
+  {
+    "id": 174,
+    "code_name": "westMorganSuperDrop"
+  },
+  {
+    "id": 175,
+    "code_name": "westMorganPullTrain"
+  },
+  {
+    "id": 176,
+    "code_name": "westCentaurCombo0"
+  },
+  {
+    "id": 177,
+    "code_name": "westCentaurCombo1"
+  },
+  {
+    "id": 178,
+    "code_name": "westCentaurRush"
+  },
+  {
+    "id": 179,
+    "code_name": "finalAsura1Laser"
+  },
+  {
+    "id": 180,
+    "code_name": "finalAsura1LaserCombo"
+  },
+  {
+    "id": 181,
+    "code_name": "finalAsura1Mirror"
+  },
+  {
+    "id": 182,
+    "code_name": "finalAsura1Portal"
+  },
+  {
+    "id": 183,
+    "code_name": "finalAsura1CallArmy"
+  },
+  {
+    "id": 184,
+    "code_name": "finalAsura1ShieldBoom"
+  },
+  {
+    "id": 185,
+    "code_name": "finalAsura1EarthRock"
+  },
+  {
+    "id": 186,
+    "code_name": "finalAsura2Portal"
+  },
+  {
+    "id": 187,
+    "code_name": "finalAsura2PortalFist"
+  },
+  {
+    "id": 188,
+    "code_name": "finalAsura2FistCombo1"
+  },
+  {
+    "id": 189,
+    "code_name": "finalAsura2FistCombo2"
+  },
+  {
+    "id": 190,
+    "code_name": "finalAsura3CallFist"
+  },
+  {
+    "id": 191,
+    "code_name": "finalAsura3EyeLaser"
+  },
+  {
+    "id": 192,
+    "code_name": "finalAsura3Barrage"
+  },
+  {
+    "id": 193,
+    "code_name": "finalAsura3ShadowWorld"
+  },
+  {
+    "id": 194,
+    "code_name": "petHuskyCombo"
+  },
+  {
+    "id": 195,
+    "code_name": "flashBatCombo"
+  },
+  {
+    "id": 196,
+    "code_name": "flashBatPortal"
+  },
+  {
+    "id": 197,
+    "code_name": "saintLibelueceCombo"
+  },
+  {
+    "id": 198,
+    "code_name": "Empty"
+  },
+  {
+    "id": 205,
+    "code_name": "forestDarkElvesArcherCombo"
+  },
+  {
+    "id": 206,
+    "code_name": "forestRabbitBoxerCombo0"
+  },
+  {
+    "id": 207,
+    "code_name": "forestRabbitBoxerCombo1"
+  },
+  {
+    "id": 208,
+    "code_name": "forestWolfManCombo"
+  },
+  {
+    "id": 209,
+    "code_name": "forestWolfLeaderCombo"
+  },
+  {
+    "id": 210,
+    "code_name": "forestWolfLeaderCallWolf"
+  },
+  {
+    "id": 211,
+    "code_name": "forestUnicornCombo"
+  },
+  {
+    "id": 212,
+    "code_name": "forestRabbitPikemanCombo"
+  },
+  {
+    "id": 213,
+    "code_name": "forestRabbitRunshCombo"
+  },
+  {
+    "id": 214,
+    "code_name": "forestRabbitFatherCombo"
+  },
+  {
+    "id": 215,
+    "code_name": "forestRabbitFatherCallRabbit"
+  },
+  {
+    "id": 216,
+    "code_name": "forestRabbitFatherCallCarrot"
+  },
+  {
+    "id": 217,
+    "code_name": "forestWhiteCentaurCombo0"
+  },
+  {
+    "id": 218,
+    "code_name": "forestWhiteCentaurCombo1"
+  },
+  {
+    "id": 219,
+    "code_name": "forestWhiteCentaurRush"
+  },
+  {
+    "id": 220,
+    "code_name": "forestDarkElvesSacrificeAddBuff"
+  },
+  {
+    "id": 221,
+    "code_name": "forestWhiteElvesArcherCombo"
+  },
+  {
+    "id": 222,
+    "code_name": "forestWhiteElvesBattlemageCombo"
+  },
+  {
+    "id": 223,
+    "code_name": "forestDarkCentaurCombo0"
+  },
+  {
+    "id": 224,
+    "code_name": "forestDarkCentaurCombo1"
+  },
+  {
+    "id": 225,
+    "code_name": "forestDarkCentaurRush"
+  },
+  {
+    "id": 226,
+    "code_name": "forestDarkUnicornCombo"
+  },
+  {
+    "id": 227,
+    "code_name": "forestWhiteElvesSacrificeAddBuff"
+  },
+  {
+    "id": 228,
+    "code_name": "forestFlowerManCombo"
+  },
+  {
+    "id": 229,
+    "code_name": "forestWhiteElvesSacrificeCall"
+  },
+  {
+    "id": 230,
+    "code_name": "forestDarkElvesSacrificeCall"
+  },
+  {
+    "id": 231,
+    "code_name": "forestBlueWolfCombo"
+  },
+  {
+    "id": 232,
+    "code_name": "forestGrayWolfCombo"
+  },
+  {
+    "id": 233,
+    "code_name": "forestWhiteWolfCombo"
+  },
+  {
+    "id": 234,
+    "code_name": "forestWhiteWolfCallWolf"
+  },
+  {
+    "id": 235,
+    "code_name": "forestSwordsBearCombo"
+  },
+  {
+    "id": 236,
+    "code_name": "forestSwordsBearShout"
+  },
+  {
+    "id": 237,
+    "code_name": "forestSwordsBearLick"
+  },
+  {
+    "id": 238,
+    "code_name": "forestSwordsBearSuperCombo"
+  },
+  {
+    "id": 239,
+    "code_name": "sharedSkillGrandknightAxasheir"
+  },
+  {
+    "id": 240,
+    "code_name": "sharedSkillGrandknightAxasheirMelee"
+  },
+  {
+    "id": 241,
+    "code_name": "sharedSkillTengo"
+  },
+  {
+    "id": 242,
+    "code_name": "sharedSkillMorgan"
+  },
+  {
+    "id": 243,
+    "code_name": "sharedSkillFat"
+  },
+  {
+    "id": 244,
+    "code_name": "sharedSkillChen"
+  },
+  {
+    "id": 245,
+    "code_name": "forestMandolinCombo0"
+  },
+  {
+    "id": 246,
+    "code_name": "petGoldManSteal"
+  },
+  {
+    "id": 247,
+    "code_name": "forestMandolinCombo1"
+  },
+  {
+    "id": 248,
+    "code_name": "forestMandolinPortal"
+  },
+  {
+    "id": 249,
+    "code_name": "forestMandolinThunder"
+  },
+  {
+    "id": 250,
+    "code_name": "forestMandolinPush"
+  },
+  {
+    "id": 251,
+    "code_name": "forestMandolinCallVine"
+  },
+  {
+    "id": 252,
+    "code_name": "forestMandolinSuperDrop"
+  },
+  {
+    "id": 253,
+    "code_name": "grandknightAxasheirMeleeArena"
+  },
+  {
+    "id": 254,
+    "code_name": "jpnHellTengo1SkyFire"
+  },
+  {
+    "id": 255,
+    "code_name": "westHellMorganTrainsDisaster"
+  },
+  {
+    "id": 256,
+    "code_name": "arabFatHellBombersCharge"
+  },
+  {
+    "id": 257,
+    "code_name": "forestHellMandolinSkyLightning"
+  },
+  {
+    "id": 258,
+    "code_name": "cnChenHellViolent"
+  },
+  {
+    "id": 259,
+    "code_name": "finalHellAsura3BrokenGround"
+  },
+  {
+    "id": 260,
+    "code_name": "sharedSkillMandolin"
+  },
+  {
+    "id": 261,
+    "code_name": "vehicleGerTransformedGunfire"
+  },
+  {
+    "id": 262,
+    "code_name": "vehicleGerTransformedFist"
+  },
+  {
+    "id": 263,
+    "code_name": "vehicleGerTransformedMissile"
+  },
+  {
+    "id": 264,
+    "code_name": "vehicleGetOff"
+  },
+  {
+    "id": 265,
+    "code_name": "gerGreenRobotCombo"
+  },
+  {
+    "id": 266,
+    "code_name": "gerThunderWomanCombo"
+  },
+  {
+    "id": 267,
+    "code_name": "gerThunderWomanCallThunder"
+  },
+  {
+    "id": 268,
+    "code_name": "gerSilverRobotCombo"
+  },
+  {
+    "id": 269,
+    "code_name": "gerSilverRobotChainsaw"
+  },
+  {
+    "id": 270,
+    "code_name": "gerArmorHumanCombo"
+  },
+  {
+    "id": 271,
+    "code_name": "gerBladeGirlCombo0"
+  },
+  {
+    "id": 272,
+    "code_name": "gerLayEggRobotCombo"
+  },
+  {
+    "id": 273,
+    "code_name": "gerBladeGirlRush"
+  },
+  {
+    "id": 274,
+    "code_name": "gerGreenHumanCombo0"
+  },
+  {
+    "id": 275,
+    "code_name": "gerGreenHumanCombo1"
+  },
+  {
+    "id": 276,
+    "code_name": "gerGunGuyCombo"
+  },
+  {
+    "id": 277,
+    "code_name": "gerGunGuyAddBuff"
+  },
+  {
+    "id": 278,
+    "code_name": "gerHunkCombo0"
+  },
+  {
+    "id": 279,
+    "code_name": "gerHunkPush"
+  },
+  {
+    "id": 280,
+    "code_name": "gerRedHumanCombo"
+  },
+  {
+    "id": 281,
+    "code_name": "gerHunkPull"
+  },
+  {
+    "id": 282,
+    "code_name": "gerLaserUFOShotCombo"
+  },
+  {
+    "id": 283,
+    "code_name": "gerDoctorCallUFO"
+  },
+  {
+    "id": 284,
+    "code_name": "gerHellDoctorSurfaceBombing"
+  },
+  {
+    "id": 291,
+    "code_name": "petUrienCombo"
+  },
+  {
+    "id": 292,
+    "code_name": "nordicDwarfGuardCombo"
+  },
+  {
+    "id": 293,
+    "code_name": "nordicDwarfGuardShieldBlock"
+  },
+  {
+    "id": 294,
+    "code_name": "nordicDwarfAxeCombo0"
+  },
+  {
+    "id": 295,
+    "code_name": "nordicDwarfAxeCombo1"
+  },
+  {
+    "id": 296,
+    "code_name": "nordicDwarfAxeRage"
+  },
+  {
+    "id": 297,
+    "code_name": "nordicDwarfLancerCombo0"
+  },
+  {
+    "id": 298,
+    "code_name": "nordicDwarfLancerCombo1"
+  },
+  {
+    "id": 299,
+    "code_name": "nordicDwarfLancerCombo2"
+  },
+  {
+    "id": 300,
+    "code_name": "nordicDwarfSwordShieldCombo"
+  },
+  {
+    "id": 301,
+    "code_name": "nordicDwarfSwordShieldDefense"
+  },
+  {
+    "id": 302,
+    "code_name": "nordicWerwolfCombo0"
+  },
+  {
+    "id": 303,
+    "code_name": "nordicWerwolfCombo1"
+  },
+  {
+    "id": 304,
+    "code_name": "nordicDwarfFighterCombo0"
+  },
+  {
+    "id": 305,
+    "code_name": "nordicDwarfFighterCombo1"
+  },
+  {
+    "id": 306,
+    "code_name": "nordicDwarfFighterCombo2"
+  },
+  {
+    "id": 307,
+    "code_name": "nordicBearCombo"
+  },
+  {
+    "id": 308,
+    "code_name": "nordicFerretCombo"
+  },
+  {
+    "id": 309,
+    "code_name": "sharedSkillDoctor"
+  },
+  {
+    "id": 310,
+    "code_name": "petAfrCombo0"
+  },
+  {
+    "id": 311,
+    "code_name": "petAfrMissile"
+  },
+  {
+    "id": 312,
+    "code_name": "nordicFoxCombo"
+  },
+  {
+    "id": 313,
+    "code_name": "nordicLynxCombo"
+  },
+  {
+    "id": 314,
+    "code_name": "nordicPigCombo"
+  },
+  {
+    "id": 316,
+    "code_name": "nordicWalrusCombo"
+  },
+  {
+    "id": 317,
+    "code_name": "nordicOctopusVine"
+  },
+  {
+    "id": 318,
+    "code_name": "nordicOctopusBubble"
+  },
+  {
+    "id": 319,
+    "code_name": "nordicOctopusSpikes"
+  },
+  {
+    "id": 320,
+    "code_name": "nordicOctopusCombo"
+  },
+  {
+    "id": 321,
+    "code_name": "nordicOctopusPullShip"
+  },
+  {
+    "id": 322,
+    "code_name": "nordicOctopusHellCrazyCombo"
+  },
+  {
+    "id": 323,
+    "code_name": "nwInfantryCombo1"
+  },
+  {
+    "id": 324,
+    "code_name": "nwInfantryCombo0"
+  },
+  {
+    "id": 325,
+    "code_name": "sharedSkillOctopus"
+  },
+  {
+    "id": 326,
+    "code_name": "reverseWatchBack"
+  },
+  {
+    "id": 334,
+    "code_name": "nwHeavyGrenadierCombo0"
+  },
+  {
+    "id": 335,
+    "code_name": "nwLightGrenadierBombAndIdle"
+  },
+  {
+    "id": 336,
+    "code_name": "nwLightGrenadierBombAndRun"
+  },
+  {
+    "id": 337,
+    "code_name": "nwMortarThump"
+  },
+  {
+    "id": 338,
+    "code_name": "nwMortarBombard"
+  },
+  {
+    "id": 339,
+    "code_name": "nwSapperMine"
+  },
+  {
+    "id": 340,
+    "code_name": "nwSapperBuilding"
+  },
+  {
+    "id": 341,
+    "code_name": "nwShooterCombo"
+  },
+  {
+    "id": 342,
+    "code_name": "nwCommandoCombo"
+  },
+  {
+    "id": 343,
+    "code_name": "nwSwordCavalryRushAttack"
+  },
+  {
+    "id": 344,
+    "code_name": "nwGunCavalryRushAttack"
+  },
+  {
+    "id": 345,
+    "code_name": "nwSwordCavalryRunaway"
+  },
+  {
+    "id": 346,
+    "code_name": "nwGunCavalryRunaway"
+  },
+  {
+    "id": 347,
+    "code_name": "nwSwordCavalryAttack"
+  },
+  {
+    "id": 348,
+    "code_name": "nwNorwegianLouisCombo0"
+  },
+  {
+    "id": 349,
+    "code_name": "nwNorwegianLouisCombo1"
+  },
+  {
+    "id": 350,
+    "code_name": "nwMajorCombo0"
+  },
+  {
+    "id": 351,
+    "code_name": "nwMajorCombo1"
+  },
+  {
+    "id": 352,
+    "code_name": "nwNorwegianLouisDropShot"
+  },
+  {
+    "id": 353,
+    "code_name": "nwNorwegianLouisReboundShot"
+  },
+  {
+    "id": 354,
+    "code_name": "nwNorwegianLouisSuperShot"
+  },
+  {
+    "id": 355,
+    "code_name": "nwAdrienCombo"
+  },
+  {
+    "id": 356,
+    "code_name": "nwAdrienFlash"
+  },
+  {
+    "id": 357,
+    "code_name": "nwAdrienAttack"
+  },
+  {
+    "id": 358,
+    "code_name": "nwNorwegianLouisJumpCut"
+  },
+  {
+    "id": 359,
+    "code_name": "nwNorwegianLouisSave"
+  },
+  {
+    "id": 365,
+    "code_name": "jpnUmbrellaPlusBigRush"
+  },
+  {
+    "id": 366,
+    "code_name": "westSwordsManPlusCombo0"
+  },
+  {
+    "id": 367,
+    "code_name": "westSwordsManPlusCombo1"
+  },
+  {
+    "id": 368,
+    "code_name": "twinsAbubuPlusCombo"
+  },
+  {
+    "id": 369,
+    "code_name": "jpnUmbrellaPlusGhostFlutter"
+  },
+  {
+    "id": 370,
+    "code_name": "jpnUmbrellaPlusRushHasDamage"
+  },
+  {
+    "id": 371,
+    "code_name": "westSwordsManPlusCombo2"
+  },
+  {
+    "id": 372,
+    "code_name": "westSwordsManPluscounterAttack"
+  },
+  {
+    "id": 373,
+    "code_name": "westSwordsManPlusCombo3"
+  },
+  {
+    "id": 374,
+    "code_name": "westSwordsManPlusCombo4"
+  },
+  {
+    "id": 375,
+    "code_name": "nordicDwarfFighterPlusCombo0"
+  },
+  {
+    "id": 376,
+    "code_name": "nordicDwarfFighterPlusCombo1"
+  },
+  {
+    "id": 377,
+    "code_name": "nordicDwarfFighterPlusCombo2"
+  },
+  {
+    "id": 378,
+    "code_name": "westSheriffPlusCombo0"
+  },
+  {
+    "id": 379,
+    "code_name": "westSheriffPlusCombo1"
+  },
+  {
+    "id": 380,
+    "code_name": "westCowPlusRunHit"
+  },
+  {
+    "id": 381,
+    "code_name": "forestFireElvesArcherPlusCombo0"
+  },
+  {
+    "id": 382,
+    "code_name": "forestFireElvesArcherPlusCombo1"
+  },
+  {
+    "id": 383,
+    "code_name": "forestFireElvesArcherPlusCombo2"
+  },
+  {
+    "id": 384,
+    "code_name": "forestFireElvesArcherPlusCombo3"
+  },
+  {
+    "id": 385,
+    "code_name": "forestPoisonElvesArcherPlusCombo0"
+  },
+  {
+    "id": 386,
+    "code_name": "forestPoisonElvesArcherPlusCombo1"
+  },
+  {
+    "id": 387,
+    "code_name": "forestPoisonElvesArcherPlusCombo2"
+  },
+  {
+    "id": 388,
+    "code_name": "forestPoisonElvesArcherPlusCombo3"
+  },
+  {
+    "id": 389,
+    "code_name": "slimeJellyPlusCombo0"
+  },
+  {
+    "id": 390,
+    "code_name": "nwCommandoPlusCombo"
+  },
+  {
+    "id": 391,
+    "code_name": "nwCommandoPlusCloaking"
+  },
+  {
+    "id": 392,
+    "code_name": "nwCommandoPlusCallShip"
+  },
+  {
+    "id": 393,
+    "code_name": "forestFireElvesBattlemagePlusCombo"
+  },
+  {
+    "id": 394,
+    "code_name": "forestFireElvesBattlemagePlusCombo0"
+  },
+  {
+    "id": 395,
+    "code_name": "twinsAbubuPlusRockWaveCombo"
+  },
+  {
+    "id": 396,
+    "code_name": "twinsAbubuPlusChaseCombo"
+  },
+  {
+    "id": 397,
+    "code_name": "twinsAbubuPlusShockWaveCombo"
+  },
+  {
+    "id": 398,
+    "code_name": "nordicWerwolfPlusCombo0"
+  },
+  {
+    "id": 399,
+    "code_name": "nordicWerwolfPlusCombo1"
+  },
+  {
+    "id": 400,
+    "code_name": "nordicWerwolfPlusCombo2"
+  },
+  {
+    "id": 401,
+    "code_name": "gerThunderWomanPlusCombo0"
+  },
+  {
+    "id": 402,
+    "code_name": "gerThunderWomanPlusCallThunder"
+  },
+  {
+    "id": 403,
+    "code_name": "gerThunderWomanPlusCombo1"
+  },
+  {
+    "id": 404,
+    "code_name": "jpnMonkPlusCallVolcano"
+  },
+  {
+    "id": 405,
+    "code_name": "jpnMonkPlusCallOni"
+  },
+  {
+    "id": 406,
+    "code_name": "jpnMonkPlusCallSixVolcano"
+  },
+  {
+    "id": 407,
+    "code_name": "gerLaserUFOPlusDoubleLaser"
+  },
+  {
+    "id": 408,
+    "code_name": "jpnMonkPlusCallTengoStone"
+  },
+  {
+    "id": 409,
+    "code_name": "nwInfantryPlusCombo0"
+  },
+  {
+    "id": 410,
+    "code_name": "nwInfantryPlusCombo1"
+  },
+  {
+    "id": 411,
+    "code_name": "nwInfantryPlusCombo2"
+  },
+  {
+    "id": 412,
+    "code_name": "arabPurpleRobePlusLightningBall"
+  },
+  {
+    "id": 413,
+    "code_name": "arabPurpleRobePlusQuickLightningShock"
+  },
+  {
+    "id": 414,
+    "code_name": "arabPurpleRobePlusChaseLightning"
+  },
+  {
+    "id": 415,
+    "code_name": "arabPurpleRobePlusLightningLine"
+  },
+  {
+    "id": 416,
+    "code_name": "arabStoneManPlusLaser0"
+  },
+  {
+    "id": 417,
+    "code_name": "arabStoneManPlusLaser1"
+  },
+  {
+    "id": 418,
+    "code_name": "arabStoneManPlusBigLaser"
+  },
+  {
+    "id": 424,
+    "code_name": "vehicleTwinsAbubuPlusChaseCombo"
+  },
+  {
+    "id": 425,
+    "code_name": "vehicleTwinsAbubuPlusShockWaveCombo"
+  },
+  {
+    "id": 426,
+    "code_name": "vehiclecnSunAcupuncture"
+  },
+  {
+    "id": 427,
+    "code_name": "vehicleCnSunHeavyAcupuncture"
+  },
+  {
+    "id": 428,
+    "code_name": "vehicleCnZhengPortal"
+  },
+  {
+    "id": 429,
+    "code_name": "vehicleArabFatAttendantWarriorDashCombo"
+  },
+  {
+    "id": 430,
+    "code_name": "vehicleArabFatAttendantWarriorBackJump"
+  },
+  {
+    "id": 431,
+    "code_name": "vehicleWestSwordsManPlusCombo3"
+  },
+  {
+    "id": 432,
+    "code_name": "vehicleWestSwordsManPlusCombo4"
+  },
+  {
+    "id": 433,
+    "code_name": "vehicleGerHunkCombo0"
+  },
+  {
+    "id": 434,
+    "code_name": "vehicleGerThunderWomanPlusCombo1"
+  },
+  {
+    "id": 435,
+    "code_name": "vehicleWestSwordsManPluscounterAttack"
+  },
+  {
+    "id": 436,
+    "code_name": "vehicleGerThunderWomanPlusCallThunder"
+  },
+  {
+    "id": 437,
+    "code_name": "vehicleNordicDwarfFighterPlusCombo1"
+  },
+  {
+    "id": 438,
+    "code_name": "vehicleNordicDwarfFighterPlusCombo2"
+  },
+  {
+    "id": 439,
+    "code_name": "vehicleNwInfantryPlusCombo2"
+  },
+  {
+    "id": 440,
+    "code_name": "vehiclearabStoneBossStoneFist"
+  },
+  {
+    "id": 441,
+    "code_name": "vehicleArabFatAttendantWarriorClaw"
+  },
+  {
+    "id": 442,
+    "code_name": "vehicleCnQianCombo"
+  },
+  {
+    "id": 443,
+    "code_name": "vehicleCnQianJumpBack"
+  },
+  {
+    "id": 444,
+    "code_name": "vehicleCnQianRotate"
+  },
+  {
+    "id": 445,
+    "code_name": "vehicleForestRabbitBoxerCombo1"
+  },
+  {
+    "id": 446,
+    "code_name": "vehicleCnLiCombo0"
+  },
+  {
+    "id": 447,
+    "code_name": "vehicleCnLiCombo1"
+  },
+  {
+    "id": 448,
+    "code_name": "vehicleCnLiJumpBack"
+  },
+  {
+    "id": 449,
+    "code_name": "vehicleArabPurpleRobePlusLightningBall"
+  },
+  {
+    "id": 450,
+    "code_name": "vehicleArabPurpleRobePlusQuickLightningShock"
+  },
+  {
+    "id": 451,
+    "code_name": "vehicleArabPurpleRobePlusChaseLightning"
+  },
+  {
+    "id": 452,
+    "code_name": "vehicleArabPurpleRobePlusLightningLine"
+  },
+  {
+    "id": 453,
+    "code_name": "vehicleGrandknightAxasheirMeleeCombo"
+  },
+  {
+    "id": 454,
+    "code_name": "vehicleGrandknightAxasheirMeleeShieldSlam"
+  },
+  {
+    "id": 455,
+    "code_name": "vehicleCnChenHuCombo"
+  },
+  {
+    "id": 456,
+    "code_name": "vehicleCnChenHuBenQuan"
+  },
+  {
+    "id": 457,
+    "code_name": "vehicleCnChenHuPu"
+  },
+  {
+    "id": 458,
+    "code_name": "vehicleCnChenHuPao"
+  },
+  {
+    "id": 459,
+    "code_name": "vehicleCnChenLongTanZhi"
+  },
+  {
+    "id": 460,
+    "code_name": "vehicleCnChenLongDashAcupoint"
+  },
+  {
+    "id": 461,
+    "code_name": "vehicleCnChenLongCombo"
+  },
+  {
+    "id": 462,
+    "code_name": "vehicleCnChenHellViolent"
+  },
+  {
+    "id": 463,
+    "code_name": "vehicleArabStoneManPlusBigLaser"
+  },
+  {
+    "id": 464,
+    "code_name": "vehicleArabFatAttendantWarriorCombo"
+  },
+  {
+    "id": 465,
+    "code_name": "sharedSkillLouis"
+  },
+  {
+    "id": 466,
+    "code_name": "nordicDwarfSwordShieldPlusCombo"
+  },
+  {
+    "id": 477,
+    "code_name": "nordicDwarfSwordShieldPlusDefense"
+  },
+  {
+    "id": 478,
+    "code_name": "nordicDwarfSwordShieldPlusFissure"
+  },
+  {
+    "id": 479,
+    "code_name": "euSaintLibeluecePlusCombo"
+  },
+  {
+    "id": 480,
+    "code_name": "euSaintLibeluecePlusOneSlash"
+  },
+  {
+    "id": 486,
+    "code_name": "jpnBehemothPlusCombo"
+  },
+  {
+    "id": 487,
+    "code_name": "jpnBehemothPlusRushAttack"
+  },
+  {
+    "id": 488,
+    "code_name": "jpnBehemothPlusRoar"
+  },
+  {
+    "id": 489,
+    "code_name": "euSaintLibeluecePlusSkillCombo"
+  },
+  {
+    "id": 490,
+    "code_name": "nwLightGrenadierPlusThrowBombStay"
+  },
+  {
+    "id": 491,
+    "code_name": "nwLightGrenadierPlusThrowBombRun"
+  },
+  {
+    "id": 492,
+    "code_name": "nwLightGrenadierPlusSelfExplosion"
+  },
+  {
+    "id": 493,
+    "code_name": "arabRoguePlusCombo"
+  },
+  {
+    "id": 494,
+    "code_name": "arabRoguePlusShadowAttack"
+  },
+  {
+    "id": 495,
+    "code_name": "arabRoguePlusSandControl"
+  },
+  {
+    "id": 496,
+    "code_name": "petUrienCombo1"
+  },
+  {
+    "id": 497,
+    "code_name": "gangdanShieldDash"
+  },
+  {
+    "id": 509,
+    "code_name": "gerLaserUFOPlusCombo1"
+  },
+  {
+    "id": 510,
+    "code_name": "petLavaFrogCombo"
+  },
+  {
+    "id": 511,
+    "code_name": "petLavaFrogCombo1"
+  },
+  {
+    "id": 518,
+    "code_name": "petFatCatCombo"
+  },
+  {
+    "id": 519,
+    "code_name": "petFireGodCombo"
+  },
+  {
+    "id": 520,
+    "code_name": "petFatCatCombo1"
+  },
+  {
+    "id": 521,
+    "code_name": "petFireGodCombo1"
+  },
+  {
+    "id": 522,
+    "code_name": "magicJackNearCombo"
+  },
+  {
+    "id": 523,
+    "code_name": "magicJackTransfer"
+  },
+  {
+    "id": 524,
+    "code_name": "magicJackReleaseFlyBall"
+  },
+  {
+    "id": 525,
+    "code_name": "magicJackAddBuffIntoMonster"
+  },
+  {
+    "id": 526,
+    "code_name": "magicJackCallMonster"
+  },
+  {
+    "id": 527,
+    "code_name": "magicJackReleaseHugeStone"
+  },
+  {
+    "id": 528,
+    "code_name": "magicJackAddMultiBuffIntoMonster"
+  },
+  {
+    "id": 529,
+    "code_name": "magicJackCallPlusMonster"
+  },
+  {
+    "id": 530,
+    "code_name": "magicWitchKillerCombo"
+  },
+  {
+    "id": 531,
+    "code_name": "magicWitchKillerBlock"
+  },
+  {
+    "id": 532,
+    "code_name": "magicWitchKillerTransfer"
+  },
+  {
+    "id": 533,
+    "code_name": "magicBossDemonFormClaw1"
+  },
+  {
+    "id": 534,
+    "code_name": "magicBossDemonFormClaw2"
+  },
+  {
+    "id": 535,
+    "code_name": "magicBossDemonFormHook"
+  },
+  {
+    "id": 536,
+    "code_name": "magicBossDemonFormSummon"
+  },
+  {
+    "id": 537,
+    "code_name": "magicBossDemonFormElimination"
+  },
+  {
+    "id": 538,
+    "code_name": "magicBossDemonFormVoidAttack"
+  },
+  {
+    "id": 539,
+    "code_name": "magicBossDemonFormFlameArmor"
+  },
+  {
+    "id": 540,
+    "code_name": "magicBossDemonFormSummonEyeball"
+  },
+  {
+    "id": 541,
+    "code_name": "magicBossDemonFormPull"
+  },
+  {
+    "id": 542,
+    "code_name": "magicBossDemonFormBreakChain"
+  },
+  {
+    "id": 543,
+    "code_name": "magicArmorStatueCombo"
+  },
+  {
+    "id": 544,
+    "code_name": "magicArmorStatueMultiCombo"
+  },
+  {
+    "id": 545,
+    "code_name": "magicWhiteWitchReleaseVine"
+  },
+  {
+    "id": 546,
+    "code_name": "magicWhiteWitchCallHugeVine"
+  },
+  {
+    "id": 547,
+    "code_name": "magicLittleDemonLaugh"
+  },
+  {
+    "id": 548,
+    "code_name": "magicLittleDemonTrans"
+  },
+  {
+    "id": 549,
+    "code_name": "magicBigDemonCombo"
+  },
+  {
+    "id": 550,
+    "code_name": "magicBlackWitchCombo"
+  },
+  {
+    "id": 551,
+    "code_name": "magicBroomWitchDash"
+  },
+  {
+    "id": 552,
+    "code_name": "magicBroomWitchFireCircle"
+  },
+  {
+    "id": 553,
+    "code_name": "magicAncientWitchLaser"
+  },
+  {
+    "id": 554,
+    "code_name": "magicBossDemonFormTeleport"
+  },
+  {
+    "id": 555,
+    "code_name": "magicPaintMonsterPlusCombo"
+  },
+  {
+    "id": 556,
+    "code_name": "magicBrownWitchCombo"
+  },
+  {
+    "id": 557,
+    "code_name": "magicDevilCombo"
+  },
+  {
+    "id": 558,
+    "code_name": "magicArmorStatueActive"
+  },
+  {
+    "id": 559,
+    "code_name": "magicDevilCombo1"
+  },
+  {
+    "id": 560,
+    "code_name": "magicDevilCombo2"
+  },
+  {
+    "id": 561,
+    "code_name": "magicBossWitchFormSummon"
+  },
+  {
+    "id": 562,
+    "code_name": "magicBossWitchFormVoidAttack"
+  },
+  {
+    "id": 563,
+    "code_name": "magicBossWitchFormHyperFreeze"
+  },
+  {
+    "id": 564,
+    "code_name": "magicSacrificeCombo"
+  },
+  {
+    "id": 571,
+    "code_name": "fireDanceMeleeLongCombo"
+  },
+  {
+    "id": 572,
+    "code_name": "fireDanceRemoteCombo"
+  },
+  {
+    "id": 573,
+    "code_name": "fireDanceMeleeCombo"
+  },
+  {
+    "id": 574,
+    "code_name": "sharedSkillMagicDemonForm"
+  },
+  {
+    "id": 575,
+    "code_name": "fireDanceStoneEyeJumpDownEnemy"
+  },
+  {
+    "id": 576,
+    "code_name": "fireDanceStoneEyeSeeOneSide"
+  },
+  {
+    "id": 577,
+    "code_name": "fireDanceStoneEyeSeeFourSide"
+  },
+  {
+    "id": 578,
+    "code_name": "fireDanceStoneEyeFurySkill"
+  },
+  {
+    "id": 579,
+    "code_name": "fireDanceFireSoldierCombo"
+  },
+  {
+    "id": 580,
+    "code_name": "fireDanceFireSoldierCombo1"
+  },
+  {
+    "id": 581,
+    "code_name": "fireDanceFireSoldierChangeWeapon"
+  },
+  {
+    "id": 582,
+    "code_name": "fireDanceFireSoldierFenShen"
+  },
+  {
+    "id": 583,
+    "code_name": "fireDanceFireSoldierBreakDefense"
+  },
+  {
+    "id": 584,
+    "code_name": "fireDanceFireSoldierEyeFurySkill"
+  },
+  {
+    "id": 585,
+    "code_name": "fireDanceButterflyBlow"
+  },
+  {
+    "id": 586,
+    "code_name": "fireDanceButterflyFireTornado"
+  },
+  {
+    "id": 587,
+    "code_name": "fireDanceButterflyWindBlade"
+  },
+  {
+    "id": 588,
+    "code_name": "fireDanceButterflyPlantFlower"
+  },
+  {
+    "id": 589,
+    "code_name": "fireDanceButterflyEmo"
+  },
+  {
+    "id": 590,
+    "code_name": "fireDanceButterflyBossFlowerLava"
+  },
+  {
+    "id": 591,
+    "code_name": "fireDanceButterflyBossFlowerRecoverLava"
+  },
+  {
+    "id": 592,
+    "code_name": "fireDanceButterflyBossFlowerExpandLava"
+  },
+  {
+    "id": 593,
+    "code_name": "fireDanceWaterBallSuicide"
+  },
+  {
+    "id": 594,
+    "code_name": "fireDanceGaroCombo0"
+  },
+  {
+    "id": 595,
+    "code_name": "fireDanceGaroCombo1"
+  },
+  {
+    "id": 596,
+    "code_name": "fireDanceGaroCombo2"
+  },
+  {
+    "id": 597,
+    "code_name": "fireDanceGaroCombo3"
+  },
+  {
+    "id": 598,
+    "code_name": "fireDanceGaroFurySkill"
+  },
+  {
+    "id": 599,
+    "code_name": "fireDanceButterflyEscape"
+  },
+  {
+    "id": 620,
+    "code_name": "jpnYamatoPhantomShooting"
+  },
+  {
+    "id": 621,
+    "code_name": "jpnPhantomYamatoDash"
+  },
+  {
+    "id": 622,
+    "code_name": "jpnPhantomYamatoShooting"
+  },
+  {
+    "id": 623,
+    "code_name": "jpnAshigaruCombo1"
+  },
+  {
+    "id": 624,
+    "code_name": "jpnShinobiCombo1"
+  },
+  {
+    "id": 625,
+    "code_name": "jpnSamuraiCombo1"
+  },
+  {
+    "id": 626,
+    "code_name": "jpnMonkSpellWaterball"
+  },
+  {
+    "id": 627,
+    "code_name": "jpnYamatoExplosiveRain"
+  },
+  {
+    "id": 628,
+    "code_name": "evilPrincessCombo"
+  },
+  {
+    "id": 629,
+    "code_name": "evilPrincessRage"
+  },
+  {
+    "id": 630,
+    "code_name": "evilPrincessTeleport"
+  },
+  {
+    "id": 631,
+    "code_name": "evilPrincessSummonDragonWall"
+  },
+  {
+    "id": 632,
+    "code_name": "evilPrincessSummonDragon"
+  },
+  {
+    "id": 633,
+    "code_name": "evilPrincessDragonClaw"
+  },
+  {
+    "id": 634,
+    "code_name": "evilPrincessDragonDash"
+  },
+  {
+    "id": 635,
+    "code_name": "evilPrincessDragonFire"
+  },
+  {
+    "id": 636,
+    "code_name": "evilPrincessDragonDirectDash"
+  },
+  {
+    "id": 637,
+    "code_name": "sharedSkillPrincess"
+  },
+  {
+    "id": 643,
+    "code_name": "summonReleaseSkill"
+  },
+  {
+    "id": 650,
+    "code_name": "skeletonArkuSplitArrow"
+  },
+  {
+    "id": 651,
+    "code_name": "twinsAbubuLightHeavyCombo"
+  },
+  {
+    "id": 652,
+    "code_name": "witchCheapReleaseMissile"
+  },
+  {
+    "id": 653,
+    "code_name": "fireBall"
+  },
+  {
+    "id": 654,
+    "code_name": "jpnGeishaCombo"
+  },
+  {
+    "id": 655,
+    "code_name": "jpnGeishaThrowingFan"
+  },
+  {
+    "id": 656,
+    "code_name": "jpnGeishaTeleport"
+  },
+  {
+    "id": 657,
+    "code_name": "jpnGeishaShadowRealm"
+  },
+  {
+    "id": 658,
+    "code_name": "jpnGeishaSpinAttack"
+  },
+  {
+    "id": 659,
+    "code_name": "jpnGeishaPlayMusic"
+  },
+  {
+    "id": 660,
+    "code_name": "jpnGeishaGreenTeleport"
+  },
+  {
+    "id": 661,
+    "code_name": "jpnGeishaYellowTeleport"
+  },
+  {
+    "id": 662,
+    "code_name": "jpnGeishaYellowSpinAttack"
+  },
+  {
+    "id": 663,
+    "code_name": "jpnGeishDodge"
+  },
+  {
+    "id": 664,
+    "code_name": "jpnGeishaPurpleTeleport"
+  },
+  {
+    "id": 665,
+    "code_name": "jpnGeishaPurpleCombo"
+  },
+  {
+    "id": 666,
+    "code_name": "jpnGeishaPurpleSpinAttack"
+  },
+  {
+    "id": 667,
+    "code_name": "bigFireBall"
+  },
+  {
+    "id": 668,
+    "code_name": "hotExplosion"
+  },
+  {
+    "id": 669,
+    "code_name": "gasGrenade"
+  },
+  {
+    "id": 670,
+    "code_name": "jpnGeishaFanDance"
+  },
+  {
+    "id": 671,
+    "code_name": "gerLaserUFOLaserBeam"
+  },
+  {
+    "id": 672,
+    "code_name": "gerBladeGirlSlashLight"
+  },
+  {
+    "id": 673,
+    "code_name": "GeishaSummonFanSwapPosition"
+  },
+  {
+    "id": 679,
+    "code_name": "sharedSkillJpnGeisha"
+  },
+  {
+    "id": 680,
+    "code_name": "sharedSkillJpnGeishaSecond"
+  },
+  {
+    "id": 681,
+    "code_name": "asuraRendaoCombo"
+  },
+  {
+    "id": 682,
+    "code_name": "asuraRendaoShockwave"
+  },
+  {
+    "id": 683,
+    "code_name": "asuraRendaoThrowFire"
+  },
+  {
+    "id": 684,
+    "code_name": "asuraRendaoBlink"
+  },
+  {
+    "id": 685,
+    "code_name": "asuraRendaoSlapKick"
+  },
+  {
+    "id": 686,
+    "code_name": "asuraRendaoAxeKick"
+  },
+  {
+    "id": 687,
+    "code_name": "asuraShouDaoPush"
+  },
+  {
+    "id": 688,
+    "code_name": "asuraShouDaoClaw"
+  },
+  {
+    "id": 689,
+    "code_name": "asuraShouDaoKnockChest"
+  },
+  {
+    "id": 690,
+    "code_name": "asuraShouDaoJump"
+  },
+  {
+    "id": 691,
+    "code_name": "asuraShouDaoMultiJump"
+  },
+  {
+    "id": 692,
+    "code_name": "asuraShouDaoWeak"
+  },
+  {
+    "id": 693,
+    "code_name": "asuraRendaoDoubleShockwave"
+  },
+  {
+    "id": 694,
+    "code_name": "asuraRendaoQuickBlock"
+  },
+  {
+    "id": 695,
+    "code_name": "asuraShouDaoKnockChestPlus"
+  },
+  {
+    "id": 696,
+    "code_name": "lightningConductor"
+  },
+  {
+    "id": 702,
+    "code_name": "asuraShouDaoQuickClaw"
+  },
+  {
+    "id": 703,
+    "code_name": "asuraShouDaoEscape"
+  },
+  {
+    "id": 704,
+    "code_name": "plasmaBomb"
+  },
+  {
+    "id": 705,
+    "code_name": "asuraShouDaoPushGiantWindThenTryJump"
+  },
+  {
+    "id": 706,
+    "code_name": "forestFlowerManReleaseSporeBomb"
+  },
+  {
+    "id": 707,
+    "code_name": "forestSwordsBearOneSlash"
+  },
+  {
+    "id": 708,
+    "code_name": "asuraGuidaoJump"
+  },
+  {
+    "id": 709,
+    "code_name": "asuraGuidaoSummonHand"
+  },
+  {
+    "id": 710,
+    "code_name": "asuraGuidaoShootLaser"
+  },
+  {
+    "id": 711,
+    "code_name": "asuraGuidaoSelfExplosion"
+  },
+  {
+    "id": 712,
+    "code_name": "asuraGuidaoShootMagicBall"
+  },
+  {
+    "id": 713,
+    "code_name": "asuraGuidaoBigJump"
+  },
+  {
+    "id": 714,
+    "code_name": "asuraGuidaoSummonFist"
+  },
+  {
+    "id": 720,
+    "code_name": "nordicDwarfSwordShieldPlusSlash"
+  },
+  {
+    "id": 721,
+    "code_name": "asuraYudaoCombo"
+  },
+  {
+    "id": 722,
+    "code_name": "asuraYudaoThornArmor"
+  },
+  {
+    "id": 723,
+    "code_name": "asuraYudaoHeavyCleave"
+  },
+  {
+    "id": 724,
+    "code_name": "asuraYudaoHook"
+  },
+  {
+    "id": 725,
+    "code_name": "asuraYudaoUlt"
+  },
+  {
+    "id": 726,
+    "code_name": "YudaoZombieVomit"
+  },
+  {
+    "id": 727,
+    "code_name": "YudaoZombieCombo"
+  },
+  {
+    "id": 728,
+    "code_name": "asuraYudaoThornForest"
+  },
+  {
+    "id": 729,
+    "code_name": "asuraYudaoDizziness"
+  },
+  {
+    "id": 730,
+    "code_name": "petGreyWolfManCombo"
+  },
+  {
+    "id": 731,
+    "code_name": "asuraXiuluodaoTeleport"
+  },
+  {
+    "id": 732,
+    "code_name": "asuraXiuluodaoCombo"
+  },
+  {
+    "id": 733,
+    "code_name": "asuraXiuluodaoSmashGround"
+  },
+  {
+    "id": 734,
+    "code_name": "asuraXiuluodaoFlyingKick"
+  },
+  {
+    "id": 735,
+    "code_name": "asuraXiuluodaoUlt"
+  },
+  {
+    "id": 736,
+    "code_name": "asuraXiuluodaoMaxCombo"
+  },
+  {
+    "id": 737,
+    "code_name": "asuraXiuluodaoMaxSmashGround"
+  },
+  {
+    "id": 738,
+    "code_name": "asuraXiuluodaoMaxFlyingKick"
+  },
+  {
+    "id": 739,
+    "code_name": "asuraXiuluodaoLightningSpear"
+  },
+  {
+    "id": 740,
+    "code_name": "asuraXiuluodaoMaxTeleport"
+  },
+  {
+    "id": 751,
+    "code_name": "gerThunderWomanCallStrongThunder"
+  },
+  {
+    "id": 752,
+    "code_name": "asuraXiuluodaoMaxUlt"
+  },
+  {
+    "id": 753,
+    "code_name": "asuraXiuluodaoMaxLightningSpear"
+  },
+  {
+    "id": 754,
+    "code_name": "westManicMinerThrowDynamite"
+  },
+  {
+    "id": 755,
+    "code_name": "westBullRiderRush"
+  },
+  {
+    "id": 756,
+    "code_name": "westBullRiderThrust"
+  },
+  {
+    "id": 757,
+    "code_name": "westBullRiderAttack"
+  },
+  {
+    "id": 758,
+    "code_name": "dragonCombo"
+  },
+  {
+    "id": 759,
+    "code_name": "dragonBackJump"
+  },
+  {
+    "id": 760,
+    "code_name": "dragonSkill1"
+  },
+  {
+    "id": 761,
+    "code_name": "dragonSkill2"
+  },
+  {
+    "id": 762,
+    "code_name": "dragonSkill3"
+  },
+  {
+    "id": 763,
+    "code_name": "asuraTianrendaoLaser"
+  },
+  {
+    "id": 764,
+    "code_name": "asuraTianrendaoTeleport"
+  },
+  {
+    "id": 765,
+    "code_name": "asuraTianrendaoNebula"
+  },
+  {
+    "id": 766,
+    "code_name": "asuraTianrendaoBlackHole"
+  },
+  {
+    "id": 767,
+    "code_name": "asuraTianrendaoConstellation"
+  },
+  {
+    "id": 768,
+    "code_name": "asuraTianrendaoEarthRift"
+  },
+  {
+    "id": 769,
+    "code_name": "asuraTianrendaoSuperNova"
+  },
+  {
+    "id": 770,
+    "code_name": "asuraTianrendaoMaxTeleport"
+  },
+  {
+    "id": 771,
+    "code_name": "asuraTianrendaoMaxLaser"
+  },
+  {
+    "id": 772,
+    "code_name": "asuraTianrendaoMaxNebula"
+  },
+  {
+    "id": 773,
+    "code_name": "asuraTianrendaoSummonFist"
+  },
+  {
+    "id": 774,
+    "code_name": "asuraTianrendaoMaxSummonFist"
+  },
+  {
+    "id": 775,
+    "code_name": "asuraTianrendaoMaxSuperNova"
+  }
+]

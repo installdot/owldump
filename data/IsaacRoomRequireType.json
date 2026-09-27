@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "IsRoomNoNeedSand"
+  },
+  {
+    "id": 1,
+    "code_name": "IsRoomNoNeedMirror"
+  },
+  {
+    "id": 2,
+    "code_name": "Default"
+  },
+  {
+    "id": 3,
+    "code_name": "IsRoomNoNeedSnow"
+  }
+]

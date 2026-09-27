@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "Idle"
+  },
+  {
+    "id": 1,
+    "code_name": "EditingAndCanSet"
+  },
+  {
+    "id": 2,
+    "code_name": "EditingAndCanNotSet"
+  }
+]

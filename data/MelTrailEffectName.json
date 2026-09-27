@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "trail_Venom"
+  },
+  {
+    "id": 2,
+    "code_name": "trail_Offering"
+  },
+  {
+    "id": 3,
+    "code_name": "trail_Gold"
+  },
+  {
+    "id": 4,
+    "code_name": "trail_Dwarf"
+  },
+  {
+    "id": 5,
+    "code_name": "trail_Happiness"
+  },
+  {
+    "id": 6,
+    "code_name": "trail_Ties"
+  },
+  {
+    "id": 7,
+    "code_name": "trail_titan"
+  },
+  {
+    "id": 8,
+    "code_name": "trail_rage"
+  },
+  {
+    "id": 9,
+    "code_name": "trail_fireIce"
+  },
+  {
+    "id": 10,
+    "code_name": "trail_disciple"
+  }
+]

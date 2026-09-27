@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "code_name": "DamageRate"
+  },
+  {
+    "id": 1,
+    "code_name": "AreaRate"
+  },
+  {
+    "id": 2,
+    "code_name": "DistanceRate"
+  },
+  {
+    "id": 3,
+    "code_name": "DurationRate"
+  },
+  {
+    "id": 4,
+    "code_name": "BuffRate"
+  },
+  {
+    "id": 5,
+    "code_name": "DebuffRate"
+  },
+  {
+    "id": 6,
+    "code_name": "ChanceRate"
+  },
+  {
+    "id": 7,
+    "code_name": "CostReduceRate"
+  },
+  {
+    "id": 8,
+    "code_name": "ProjectileSpeedRate"
+  },
+  {
+    "id": 9,
+    "code_name": "ProjectileSizeRate"
+  },
+  {
+    "id": 10,
+    "code_name": "SummonSizeRate"
+  }
+]

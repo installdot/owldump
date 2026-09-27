@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "itemsInBackpack"
+  },
+  {
+    "id": 2,
+    "code_name": "gameMall"
+  },
+  {
+    "id": 3,
+    "code_name": "switchSkills"
+  },
+  {
+    "id": 4,
+    "code_name": "EventRoomSurpriseBox"
+  },
+  {
+    "id": 5,
+    "code_name": "EventRoomColosseum"
+  },
+  {
+    "id": 6,
+    "code_name": "ExSkill"
+  },
+  {
+    "id": 7,
+    "code_name": "SharedSkill"
+  },
+  {
+    "id": 8,
+    "code_name": "WeaponBank"
+  },
+  {
+    "id": 9,
+    "code_name": "WeaponItemReplace"
+  },
+  {
+    "id": 10,
+    "code_name": "WeaponUpgrade"
+  },
+  {
+    "id": 11,
+    "code_name": "LegendItemForge"
+  },
+  {
+    "id": 12,
+    "code_name": "ItemPack"
+  },
+  {
+    "id": 13,
+    "code_name": "MelStory"
+  },
+  {
+    "id": 14,
+    "code_name": "ItemMerge"
+  },
+  {
+    "id": 15,
+    "code_name": "ItemStoreRefresh"
+  },
+  {
+    "id": 16,
+    "code_name": "MonsterIllustrated"
+  },
+  {
+    "id": 17,
+    "code_name": "MelTrial"
+  },
+  {
+    "id": 18,
+    "code_name": "WineMaterialsSale"
+  },
+  {
+    "id": 19,
+    "code_name": "DailyMission"
+  },
+  {
+    "id": 20,
+    "code_name": "HighReward"
+  },
+  {
+    "id": 21,
+    "code_name": "BuildCatNpc"
+  },
+  {
+    "id": 22,
+    "code_name": "AsuraNpc"
+  },
+  {
+    "id": 23,
+    "code_name": "LinkRoom"
+  },
+  {
+    "id": 24,
+    "code_name": "AchievementsRoom"
+  },
+  {
+    "id": 25,
+    "code_name": "FirstIntoDungeon"
+  },
+  {
+    "id": 26,
+    "code_name": "CyclePower"
+  },
+  {
+    "id": 27,
+    "code_name": "ExperimentalGameplay"
+  },
+  {
+    "id": 28,
+    "code_name": "nagaGate"
+  },
+  {
+    "id": 29,
+    "code_name": "ExtraHeroSkill"
+  },
+  {
+    "id": 30,
+    "code_name": "ExtraHeroBodyStyle"
+  },
+  {
+    "id": 31,
+    "code_name": "ExtraHeroBodyStyleDiffuse"
+  },
+  {
+    "id": 32,
+    "code_name": "ExtraHeroNagaPower"
+  },
+  {
+    "id": 33,
+    "code_name": "SkillAffix"
+  },
+  {
+    "id": 34,
+    "code_name": "ChaosMode"
+  },
+  {
+    "id": 35,
+    "code_name": "FireDanceProtectRoom"
+  },
+  {
+    "id": 36,
+    "code_name": "FireDanceBossRush"
+  },
+  {
+    "id": 37,
+    "code_name": "ShamBattle"
+  },
+  {
+    "id": 38,
+    "code_name": "ESRBall"
+  },
+  {
+    "id": 39,
+    "code_name": "SkillStone"
+  },
+  {
+    "id": 40,
+    "code_name": "ChessMode"
+  },
+  {
+    "id": 41,
+    "code_name": "RougeMode"
+  },
+  {
+    "id": 42,
+    "code_name": "AsuraPower"
+  },
+  {
+    "id": 43,
+    "code_name": "StarterItem"
+  },
+  {
+    "id": 44,
+    "code_name": "StarterItemSelect"
+  }
+]

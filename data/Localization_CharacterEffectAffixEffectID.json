@@ -1,0 +1,442 @@
+[
+  {
+    "id": 0,
+    "code_name": "affixBuff"
+  },
+  {
+    "id": 1,
+    "code_name": "affixBuff2"
+  },
+  {
+    "id": 2,
+    "code_name": "affixBuff3"
+  },
+  {
+    "id": 3,
+    "code_name": "defualtAffexBuff"
+  },
+  {
+    "id": 4,
+    "code_name": "ce_sickMan_AffixBuff"
+  },
+  {
+    "id": 5,
+    "code_name": "ce_rateDefualt_AffixBuff"
+  },
+  {
+    "id": 6,
+    "code_name": "ce_firstAidKit_AffixBuff"
+  },
+  {
+    "id": 7,
+    "code_name": "ce_angryPufferFish_AffixBuff"
+  },
+  {
+    "id": 8,
+    "code_name": "ce_bionicShield_AffixBuff"
+  },
+  {
+    "id": 9,
+    "code_name": "ce_chewingGum_AffixBuff"
+  },
+  {
+    "id": 10,
+    "code_name": "ce_petDogeTyke_AffixBuff"
+  },
+  {
+    "id": 11,
+    "code_name": "ce_flameFlower_AffixBuff"
+  },
+  {
+    "id": 12,
+    "code_name": "ce_paralysisBoom_AffixBuff"
+  },
+  {
+    "id": 13,
+    "code_name": "ce_jiazigu_AffixBuff"
+  },
+  {
+    "id": 14,
+    "code_name": "ce_shouhuan_AffixBuff"
+  },
+  {
+    "id": 15,
+    "code_name": "ce_drillingMonkey_AffixBuff"
+  },
+  {
+    "id": 16,
+    "code_name": "defualtTimeAffixBuff"
+  },
+  {
+    "id": 17,
+    "code_name": "ce_sharedMachine_AffixBuff"
+  },
+  {
+    "id": 18,
+    "code_name": "ce_adrenaline_AffixBuff"
+  },
+  {
+    "id": 19,
+    "code_name": "ce_paper_AffixBuff"
+  },
+  {
+    "id": 20,
+    "code_name": "ce_cat_AffixBuff"
+  },
+  {
+    "id": 21,
+    "code_name": "ce_porkBelly_AffixBuff"
+  },
+  {
+    "id": 22,
+    "code_name": "ce_gasolineCan_AffixBuff"
+  },
+  {
+    "id": 23,
+    "code_name": "ce_blackTea_AffixBuff"
+  },
+  {
+    "id": 24,
+    "code_name": "ce_robotNurse_AffixBuff"
+  },
+  {
+    "id": 25,
+    "code_name": "ce_spurRing_AffixBuff"
+  },
+  {
+    "id": 26,
+    "code_name": "ce_halfHealthRage_AffixBuff"
+  },
+  {
+    "id": 27,
+    "code_name": "ce_opticalCamouflage_AffixBuff"
+  },
+  {
+    "id": 28,
+    "code_name": "ce_pocketMoney_AffixBuff"
+  },
+  {
+    "id": 29,
+    "code_name": "ce_huoluoyou_AffixBuff"
+  },
+  {
+    "id": 30,
+    "code_name": "ce_leicha_AffixBuff"
+  },
+  {
+    "id": 31,
+    "code_name": "ce_yuchang_AffixBuff"
+  },
+  {
+    "id": 32,
+    "code_name": "ce_attributePrism_AffixBuff"
+  },
+  {
+    "id": 33,
+    "code_name": "ce_toreDagger_AffixBuff"
+  },
+  {
+    "id": 34,
+    "code_name": "ce_soulEcho_AffixBuff"
+  },
+  {
+    "id": 35,
+    "code_name": "ce_blackPearl_AffixBuff"
+  },
+  {
+    "id": 36,
+    "code_name": "ce_pursuit_AffixBuff"
+  },
+  {
+    "id": 37,
+    "code_name": "ce_tacticalArmor_AffixBuff"
+  },
+  {
+    "id": 38,
+    "code_name": "ce_petBatPoison_AffixBuff"
+  },
+  {
+    "id": 39,
+    "code_name": "ce_fishingNet_AffixBuff"
+  },
+  {
+    "id": 40,
+    "code_name": "ce_tykeSoul_AffixBuff"
+  },
+  {
+    "id": 41,
+    "code_name": "ce_wolf_AffixBuff"
+  },
+  {
+    "id": 42,
+    "code_name": "ce_xau_AffixBuff"
+  },
+  {
+    "id": 43,
+    "code_name": "ce_lion_AffixBuff"
+  },
+  {
+    "id": 44,
+    "code_name": "ce_darkHumor_AffixBuff"
+  },
+  {
+    "id": 45,
+    "code_name": "ce_microPlanet_AffixBuff"
+  },
+  {
+    "id": 46,
+    "code_name": "ce_coinBoom_AffixBuff"
+  },
+  {
+    "id": 47,
+    "code_name": "ce_zeroElement_AffixBuff"
+  },
+  {
+    "id": 48,
+    "code_name": "ce_flashBat_AffixBuff"
+  },
+  {
+    "id": 49,
+    "code_name": "ce_fireSupport_AffixBuff"
+  },
+  {
+    "id": 50,
+    "code_name": "ce_shhuriken_AffixBuff"
+  },
+  {
+    "id": 51,
+    "code_name": "ce_gloves_AffixBuff"
+  },
+  {
+    "id": 52,
+    "code_name": "ce_lifeConversion_AffixBuff"
+  },
+  {
+    "id": 53,
+    "code_name": "ce_critHeal_AffixBuff"
+  },
+  {
+    "id": 54,
+    "code_name": "ce_chargingJar_AffixBuff"
+  },
+  {
+    "id": 55,
+    "code_name": "ce_vampire_AffixBuff"
+  },
+  {
+    "id": 56,
+    "code_name": "ce_sunWine_AffixBuff"
+  },
+  {
+    "id": 57,
+    "code_name": "ce_crowbar_AffixBuff"
+  },
+  {
+    "id": 58,
+    "code_name": "ce_sacrificeKnife_AffixBuff"
+  },
+  {
+    "id": 59,
+    "code_name": "ce_poisonTouch_AffixBuff"
+  },
+  {
+    "id": 60,
+    "code_name": "ce_critChain_AffixBuff"
+  },
+  {
+    "id": 61,
+    "code_name": "ce_vampireSeed_AffixBuff"
+  },
+  {
+    "id": 62,
+    "code_name": "ce_hedgehog_AffixBuff"
+  },
+  {
+    "id": 63,
+    "code_name": "ce_fishTank_AffixBuff"
+  },
+  {
+    "id": 64,
+    "code_name": "ce_arsonistMask_AffixBuff"
+  },
+  {
+    "id": 65,
+    "code_name": "ce_shoes_AffixBuff"
+  },
+  {
+    "id": 66,
+    "code_name": "ce_demonCharm_AffixBuff"
+  },
+  {
+    "id": 67,
+    "code_name": "ce_radicalHeart_AffixBuff"
+  },
+  {
+    "id": 68,
+    "code_name": "ce_nightmareDoll_AffixBuff"
+  },
+  {
+    "id": 69,
+    "code_name": "ce_giveMeFive_AffixBuff"
+  },
+  {
+    "id": 70,
+    "code_name": "ce_huju_AffixBuff"
+  },
+  {
+    "id": 71,
+    "code_name": "ce_hotWheel_AffixBuff"
+  },
+  {
+    "id": 72,
+    "code_name": "ce_sea25_AffixBuff"
+  },
+  {
+    "id": 73,
+    "code_name": "ce_bigFlameBall_AffixBuff"
+  },
+  {
+    "id": 74,
+    "code_name": "ce_holyFestival_AffixBuff"
+  },
+  {
+    "id": 75,
+    "code_name": "ce_shamanTotem_AffixBuff"
+  },
+  {
+    "id": 76,
+    "code_name": "ce_trailce_Happiness_AffixBuff"
+  },
+  {
+    "id": 77,
+    "code_name": "ce_runicRootArmor_AffixBuff"
+  },
+  {
+    "id": 78,
+    "code_name": "ce_liquidNitrogenTank_AffixBuff"
+  },
+  {
+    "id": 79,
+    "code_name": "ce_holyGrail_AffixBuff"
+  },
+  {
+    "id": 80,
+    "code_name": "ce_jack_AffixBuff"
+  },
+  {
+    "id": 81,
+    "code_name": "ce_finalSacrifice_AffixBuff"
+  },
+  {
+    "id": 82,
+    "code_name": "ce_flameGlove_AffixBuff"
+  },
+  {
+    "id": 83,
+    "code_name": "ce_petLibeluece_AffixBuff"
+  },
+  {
+    "id": 84,
+    "code_name": "ce_saintLibeluece_AffixBuff"
+  },
+  {
+    "id": 85,
+    "code_name": "ce_rocker_AffixBuff"
+  },
+  {
+    "id": 86,
+    "code_name": "ce_yamatoJade_AffixBuff"
+  },
+  {
+    "id": 87,
+    "code_name": "ce_fruits_AffixBuff"
+  },
+  {
+    "id": 88,
+    "code_name": "ce_tengoStone_AffixBuff"
+  },
+  {
+    "id": 89,
+    "code_name": "ce_critRing_AffixBuff"
+  },
+  {
+    "id": 90,
+    "code_name": "ce_urien_AffixBuff"
+  },
+  {
+    "id": 91,
+    "code_name": "ce_zenfuzhuangzhi_AffixBuff"
+  },
+  {
+    "id": 92,
+    "code_name": "ce_fireworks_AffixBuff"
+  },
+  {
+    "id": 93,
+    "code_name": "ce_shirenmaozhua_AffixBuff"
+  },
+  {
+    "id": 94,
+    "code_name": "ce_duanbingzhanfu_AffixBuff"
+  },
+  {
+    "id": 95,
+    "code_name": "ce_monocle_AffixBuff"
+  },
+  {
+    "id": 96,
+    "code_name": "ce_basicHealth_AffixBuff"
+  },
+  {
+    "id": 97,
+    "code_name": "ce_muscleFeedback_AffixBuff"
+  },
+  {
+    "id": 98,
+    "code_name": "ce_stoicCarapace_AffixBuff"
+  },
+  {
+    "id": 99,
+    "code_name": "ce_iceFireRing_AffixBuff"
+  },
+  {
+    "id": 100,
+    "code_name": "ce_iceWand_AffixBuff"
+  },
+  {
+    "id": 101,
+    "code_name": "ce_sourceFortune_AffixBuff"
+  },
+  {
+    "id": 102,
+    "code_name": "ce_flammableFragments_AffixBuff"
+  },
+  {
+    "id": 103,
+    "code_name": "ce_burnTouch_AffixBuff"
+  },
+  {
+    "id": 104,
+    "code_name": "ce_ancientNecklace_AffixBuff"
+  },
+  {
+    "id": 105,
+    "code_name": "ce_shadowLife_Reforge"
+  },
+  {
+    "id": 106,
+    "code_name": "ce_livingCat_Reforge"
+  },
+  {
+    "id": 107,
+    "code_name": "ce_demonCharm_Reforge"
+  },
+  {
+    "id": 108,
+    "code_name": "ce_damokelisi_Reforge"
+  },
+  {
+    "id": 109,
+    "code_name": "ce_wuhun_Reforge"
+  }
+]

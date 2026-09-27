@@ -1,0 +1,6570 @@
+[
+  {
+    "id": 0,
+    "code_name": "cut"
+  },
+  {
+    "id": 1,
+    "code_name": "hit"
+  },
+  {
+    "id": 2,
+    "code_name": "hitBlood"
+  },
+  {
+    "id": 3,
+    "code_name": "qiefan"
+  },
+  {
+    "id": 4,
+    "code_name": "dizzinessStar"
+  },
+  {
+    "id": 5,
+    "code_name": "fear"
+  },
+  {
+    "id": 6,
+    "code_name": "levelUp"
+  },
+  {
+    "id": 7,
+    "code_name": "shildBlock"
+  },
+  {
+    "id": 8,
+    "code_name": "oliviaComboEffect0"
+  },
+  {
+    "id": 9,
+    "code_name": "gunFire"
+  },
+  {
+    "id": 10,
+    "code_name": "hero_olivia__transformedFistEffect"
+  },
+  {
+    "id": 11,
+    "code_name": "sakula"
+  },
+  {
+    "id": 12,
+    "code_name": "storm"
+  },
+  {
+    "id": 13,
+    "code_name": "dashDust"
+  },
+  {
+    "id": 14,
+    "code_name": "heavyPunch"
+  },
+  {
+    "id": 15,
+    "code_name": "circle"
+  },
+  {
+    "id": 16,
+    "code_name": "arrowShoot"
+  },
+  {
+    "id": 17,
+    "code_name": "bottomCircleIn"
+  },
+  {
+    "id": 18,
+    "code_name": "earthPower"
+  },
+  {
+    "id": 19,
+    "code_name": "quanhuyingqi"
+  },
+  {
+    "id": 20,
+    "code_name": "defaultBoom"
+  },
+  {
+    "id": 21,
+    "code_name": "fistBoom"
+  },
+  {
+    "id": 22,
+    "code_name": "heavyFistBoom"
+  },
+  {
+    "id": 23,
+    "code_name": "energyGather"
+  },
+  {
+    "id": 24,
+    "code_name": "oliviaTransformedMissileEffect"
+  },
+  {
+    "id": 25,
+    "code_name": "tanagashimaGunFire"
+  },
+  {
+    "id": 26,
+    "code_name": "burnFloor"
+  },
+  {
+    "id": 27,
+    "code_name": "heavenLight"
+  },
+  {
+    "id": 28,
+    "code_name": "frozenFloor"
+  },
+  {
+    "id": 29,
+    "code_name": "stoneHitted"
+  },
+  {
+    "id": 30,
+    "code_name": "tengoRock"
+  },
+  {
+    "id": 31,
+    "code_name": "fireBoom"
+  },
+  {
+    "id": 32,
+    "code_name": "fireAshes"
+  },
+  {
+    "id": 33,
+    "code_name": "jumpBoom"
+  },
+  {
+    "id": 34,
+    "code_name": "boomAsh"
+  },
+  {
+    "id": 35,
+    "code_name": "fireBoomBig"
+  },
+  {
+    "id": 36,
+    "code_name": "chen_tanzhi_0"
+  },
+  {
+    "id": 37,
+    "code_name": "chen_tanzhi_1"
+  },
+  {
+    "id": 38,
+    "code_name": "chen_smoke_0"
+  },
+  {
+    "id": 39,
+    "code_name": "chen_smoke_1"
+  },
+  {
+    "id": 40,
+    "code_name": "chen_smoke_2"
+  },
+  {
+    "id": 41,
+    "code_name": "chen_smoke_3"
+  },
+  {
+    "id": 42,
+    "code_name": "attackAlart"
+  },
+  {
+    "id": 43,
+    "code_name": "huPuCut"
+  },
+  {
+    "id": 44,
+    "code_name": "boomAsh_vertical"
+  },
+  {
+    "id": 45,
+    "code_name": "chenHuSpell"
+  },
+  {
+    "id": 46,
+    "code_name": "chenLongSpell"
+  },
+  {
+    "id": 47,
+    "code_name": "gokouDust"
+  },
+  {
+    "id": 48,
+    "code_name": "gokouSplitDust"
+  },
+  {
+    "id": 49,
+    "code_name": "gokouMoveDust"
+  },
+  {
+    "id": 50,
+    "code_name": "heal"
+  },
+  {
+    "id": 51,
+    "code_name": "holdPower"
+  },
+  {
+    "id": 52,
+    "code_name": "hero_seebee__bazhiniao_omega"
+  },
+  {
+    "id": 53,
+    "code_name": "chaos"
+  },
+  {
+    "id": 54,
+    "code_name": "shieldBreak"
+  },
+  {
+    "id": 55,
+    "code_name": "sun_sword"
+  },
+  {
+    "id": 56,
+    "code_name": "heavyHeavyFistBoom"
+  },
+  {
+    "id": 57,
+    "code_name": "asura_laser"
+  },
+  {
+    "id": 58,
+    "code_name": "laserRing"
+  },
+  {
+    "id": 59,
+    "code_name": "laserTrail"
+  },
+  {
+    "id": 60,
+    "code_name": "asura1CallArmyEffect"
+  },
+  {
+    "id": 61,
+    "code_name": "shieldBoomGatherEffect"
+  },
+  {
+    "id": 62,
+    "code_name": "shieldBoomBoomEffect"
+  },
+  {
+    "id": 63,
+    "code_name": "earthRockEffect"
+  },
+  {
+    "id": 64,
+    "code_name": "thunder"
+  },
+  {
+    "id": 65,
+    "code_name": "thunderGather"
+  },
+  {
+    "id": 66,
+    "code_name": "sandGrow"
+  },
+  {
+    "id": 67,
+    "code_name": "snakeEye"
+  },
+  {
+    "id": 68,
+    "code_name": "stoneManEyeLight"
+  },
+  {
+    "id": 69,
+    "code_name": "bubbleGatherEffect"
+  },
+  {
+    "id": 70,
+    "code_name": "bubbleBoomEffect"
+  },
+  {
+    "id": 71,
+    "code_name": "highLightBottom"
+  },
+  {
+    "id": 72,
+    "code_name": "wind_gather"
+  },
+  {
+    "id": 73,
+    "code_name": "lampMoneyRelease"
+  },
+  {
+    "id": 74,
+    "code_name": "shineDisaper"
+  },
+  {
+    "id": 75,
+    "code_name": "airKiss"
+  },
+  {
+    "id": 76,
+    "code_name": "airKissHit"
+  },
+  {
+    "id": 77,
+    "code_name": "trailStar"
+  },
+  {
+    "id": 78,
+    "code_name": "finalAsura3_fist"
+  },
+  {
+    "id": 79,
+    "code_name": "LightningBall"
+  },
+  {
+    "id": 80,
+    "code_name": "LightningBallTrigger"
+  },
+  {
+    "id": 81,
+    "code_name": "asura3_bigLaser"
+  },
+  {
+    "id": 82,
+    "code_name": "halfCircleAttackAlart"
+  },
+  {
+    "id": 83,
+    "code_name": "finalAsura3BornGather"
+  },
+  {
+    "id": 84,
+    "code_name": "finalAsura2BornGather"
+  },
+  {
+    "id": 85,
+    "code_name": "finalAsura2AntiBornGather"
+  },
+  {
+    "id": 86,
+    "code_name": "finalAsura3AntiBornGather"
+  },
+  {
+    "id": 87,
+    "code_name": "finalAsura2PortalPrepare"
+  },
+  {
+    "id": 88,
+    "code_name": "highSpeedLine"
+  },
+  {
+    "id": 89,
+    "code_name": "quanhuyingLeicha"
+  },
+  {
+    "id": 90,
+    "code_name": "gangdanHolyLight"
+  },
+  {
+    "id": 91,
+    "code_name": "gangdanKOW_bottom"
+  },
+  {
+    "id": 92,
+    "code_name": "gangdanKOW_body"
+  },
+  {
+    "id": 93,
+    "code_name": "gangdanAngel_heavenLight"
+  },
+  {
+    "id": 94,
+    "code_name": "holyEnergyHit"
+  },
+  {
+    "id": 95,
+    "code_name": "gangdanHolyLight_self"
+  },
+  {
+    "id": 96,
+    "code_name": "gangdanKOW_fanshang"
+  },
+  {
+    "id": 97,
+    "code_name": "gangdanKOW_shengchui"
+  },
+  {
+    "id": 98,
+    "code_name": "gangdanSA_rennai"
+  },
+  {
+    "id": 99,
+    "code_name": "bigTitsAngel_ball"
+  },
+  {
+    "id": 100,
+    "code_name": "bigTitsAngel_ball_alart"
+  },
+  {
+    "id": 101,
+    "code_name": "bigTitsAngel_ball_boom"
+  },
+  {
+    "id": 102,
+    "code_name": "default_buff_get"
+  },
+  {
+    "id": 103,
+    "code_name": "energyGather_3D"
+  },
+  {
+    "id": 104,
+    "code_name": "blackShine"
+  },
+  {
+    "id": 105,
+    "code_name": "menghuEffect"
+  },
+  {
+    "id": 106,
+    "code_name": "gangdanHolyLight_style0"
+  },
+  {
+    "id": 107,
+    "code_name": "gangdanHolyLight_style1"
+  },
+  {
+    "id": 108,
+    "code_name": "gangdanKOW_bottom_style1"
+  },
+  {
+    "id": 109,
+    "code_name": "gangdanKOW_bottom_style2"
+  },
+  {
+    "id": 110,
+    "code_name": "quanhuying_tieshankao_ash"
+  },
+  {
+    "id": 111,
+    "code_name": "seebee_thunderCombo_zhaoguang"
+  },
+  {
+    "id": 112,
+    "code_name": "hero_quanhuying__hupuzi_menghu_gather"
+  },
+  {
+    "id": 113,
+    "code_name": "hero_quanhuying__hupuzi_menghu_release"
+  },
+  {
+    "id": 114,
+    "code_name": "circle_display"
+  },
+  {
+    "id": 115,
+    "code_name": "tengo1BornBoom"
+  },
+  {
+    "id": 116,
+    "code_name": "cn_chen_hupao"
+  },
+  {
+    "id": 117,
+    "code_name": "floorSharpBoom"
+  },
+  {
+    "id": 118,
+    "code_name": "alartLine"
+  },
+  {
+    "id": 119,
+    "code_name": "thunderHit"
+  },
+  {
+    "id": 120,
+    "code_name": "conductionNodePoint"
+  },
+  {
+    "id": 121,
+    "code_name": "chargingJarTrigger"
+  },
+  {
+    "id": 122,
+    "code_name": "poisonTouchTrigger"
+  },
+  {
+    "id": 123,
+    "code_name": "crowbarTrigger"
+  },
+  {
+    "id": 124,
+    "code_name": "UI_geneParticle"
+  },
+  {
+    "id": 125,
+    "code_name": "friendlyAlart"
+  },
+  {
+    "id": 126,
+    "code_name": "heavenLight2"
+  },
+  {
+    "id": 127,
+    "code_name": "doubt"
+  },
+  {
+    "id": 128,
+    "code_name": "love"
+  },
+  {
+    "id": 129,
+    "code_name": "fireBoomMid"
+  },
+  {
+    "id": 130,
+    "code_name": "tinyBoom"
+  },
+  {
+    "id": 131,
+    "code_name": "flashBoom"
+  },
+  {
+    "id": 132,
+    "code_name": "exLightningBall"
+  },
+  {
+    "id": 133,
+    "code_name": "alartLine2"
+  },
+  {
+    "id": 134,
+    "code_name": "bigFlameBallBoom"
+  },
+  {
+    "id": 135,
+    "code_name": "holyGrail_touch"
+  },
+  {
+    "id": 136,
+    "code_name": "blackBelt"
+  },
+  {
+    "id": 137,
+    "code_name": "blackHumour"
+  },
+  {
+    "id": 138,
+    "code_name": "bigSkull"
+  },
+  {
+    "id": 139,
+    "code_name": "ballPullBack"
+  },
+  {
+    "id": 140,
+    "code_name": "tinyHighSpeedMissile"
+  },
+  {
+    "id": 141,
+    "code_name": "fireBoomElfKing"
+  },
+  {
+    "id": 142,
+    "code_name": "greenMushroom"
+  },
+  {
+    "id": 143,
+    "code_name": "engine"
+  },
+  {
+    "id": 144,
+    "code_name": "soulEchoDisappear"
+  },
+  {
+    "id": 145,
+    "code_name": "wowAlart"
+  },
+  {
+    "id": 146,
+    "code_name": "bombBoom"
+  },
+  {
+    "id": 147,
+    "code_name": "shotGunSmoke"
+  },
+  {
+    "id": 148,
+    "code_name": "eagleFeather"
+  },
+  {
+    "id": 149,
+    "code_name": "collectEnergia"
+  },
+  {
+    "id": 150,
+    "code_name": "shotGunSmokeBig"
+  },
+  {
+    "id": 151,
+    "code_name": "fireHit"
+  },
+  {
+    "id": 152,
+    "code_name": "fireJet"
+  },
+  {
+    "id": 153,
+    "code_name": "blinkDust"
+  },
+  {
+    "id": 154,
+    "code_name": "burnFloorLine"
+  },
+  {
+    "id": 155,
+    "code_name": "bigFlameBallBoomThreeTimes"
+  },
+  {
+    "id": 156,
+    "code_name": "iceCut"
+  },
+  {
+    "id": 157,
+    "code_name": "thunderFlag"
+  },
+  {
+    "id": 158,
+    "code_name": "katherineThunder"
+  },
+  {
+    "id": 159,
+    "code_name": "gunHit"
+  },
+  {
+    "id": 160,
+    "code_name": "handGunFire"
+  },
+  {
+    "id": 161,
+    "code_name": "ninjaCloakTrigger"
+  },
+  {
+    "id": 162,
+    "code_name": "hero_hannah__rapidFireAim"
+  },
+  {
+    "id": 163,
+    "code_name": "blueAimEye"
+  },
+  {
+    "id": 164,
+    "code_name": "tricksTrigger"
+  },
+  {
+    "id": 165,
+    "code_name": "hero_hannah__sniperFire"
+  },
+  {
+    "id": 166,
+    "code_name": "revolverFire"
+  },
+  {
+    "id": 167,
+    "code_name": "downBullet"
+  },
+  {
+    "id": 168,
+    "code_name": "toreTrigger"
+  },
+  {
+    "id": 169,
+    "code_name": "demonHeart"
+  },
+  {
+    "id": 170,
+    "code_name": "sniperSmoke"
+  },
+  {
+    "id": 171,
+    "code_name": "headShot"
+  },
+  {
+    "id": 172,
+    "code_name": "unicornComboSplitDust"
+  },
+  {
+    "id": 173,
+    "code_name": "whiteElvesSacrificeBuff"
+  },
+  {
+    "id": 174,
+    "code_name": "whiteElvesSacrificeBuffAdd"
+  },
+  {
+    "id": 175,
+    "code_name": "wolfLeaderAsh"
+  },
+  {
+    "id": 176,
+    "code_name": "blast"
+  },
+  {
+    "id": 177,
+    "code_name": "saliva"
+  },
+  {
+    "id": 178,
+    "code_name": "appearSmoke"
+  },
+  {
+    "id": 179,
+    "code_name": "deadBear"
+  },
+  {
+    "id": 180,
+    "code_name": "noise"
+  },
+  {
+    "id": 181,
+    "code_name": "howlWave"
+  },
+  {
+    "id": 182,
+    "code_name": "whiteEnergyAbsorption"
+  },
+  {
+    "id": 183,
+    "code_name": "darkEnergyAbsorption"
+  },
+  {
+    "id": 184,
+    "code_name": "nightDollBoom"
+  },
+  {
+    "id": 185,
+    "code_name": "eyeLine"
+  },
+  {
+    "id": 186,
+    "code_name": "blackDisAppear"
+  },
+  {
+    "id": 187,
+    "code_name": "venomTrigger"
+  },
+  {
+    "id": 188,
+    "code_name": "mandolinLeftCombo"
+  },
+  {
+    "id": 189,
+    "code_name": "mandolinRightCombo"
+  },
+  {
+    "id": 190,
+    "code_name": "ties"
+  },
+  {
+    "id": 191,
+    "code_name": "smoke"
+  },
+  {
+    "id": 192,
+    "code_name": "mandolinThunder"
+  },
+  {
+    "id": 193,
+    "code_name": "hero_seebee__thunderCombo_zhaoguang_warrior"
+  },
+  {
+    "id": 194,
+    "code_name": "mandolinPush"
+  },
+  {
+    "id": 195,
+    "code_name": "seebee_thunderCombo_firstSlash_warrior"
+  },
+  {
+    "id": 196,
+    "code_name": "seebee_thunderCombo_secondSlash_warrior"
+  },
+  {
+    "id": 197,
+    "code_name": "seebee_thunderCombo_thirdSlash_warrior"
+  },
+  {
+    "id": 198,
+    "code_name": "seebee_thunderCombo_waveUp_warrior"
+  },
+  {
+    "id": 199,
+    "code_name": "seebee_thunderCombo_splash_warrior"
+  },
+  {
+    "id": 200,
+    "code_name": "hero_seebee__thunderCombo_beforeblink_warrior"
+  },
+  {
+    "id": 201,
+    "code_name": "mapleleaves"
+  },
+  {
+    "id": 202,
+    "code_name": "hero_seebee__qiefan_warrior"
+  },
+  {
+    "id": 203,
+    "code_name": "hero_seebee__qiefan_showmoon_warrior"
+  },
+  {
+    "id": 204,
+    "code_name": "hero_seebee__qiefan_slashlight_warrior"
+  },
+  {
+    "id": 205,
+    "code_name": "trailClock"
+  },
+  {
+    "id": 206,
+    "code_name": "knightDisAppear"
+  },
+  {
+    "id": 207,
+    "code_name": "cyclePoisonExpand"
+  },
+  {
+    "id": 208,
+    "code_name": "LightningBall_fire"
+  },
+  {
+    "id": 209,
+    "code_name": "LightningBall_ice"
+  },
+  {
+    "id": 210,
+    "code_name": "LightningBall_poison"
+  },
+  {
+    "id": 211,
+    "code_name": "hero_quanhuying__leicha_beerWave_bartender"
+  },
+  {
+    "id": 212,
+    "code_name": "hero_quanhuying__hupuzi_menghu_bartender"
+  },
+  {
+    "id": 213,
+    "code_name": "hero_quanhuying__tieshankao_bartender"
+  },
+  {
+    "id": 214,
+    "code_name": "asura3_hellLaser"
+  },
+  {
+    "id": 215,
+    "code_name": "thunderSurrounded"
+  },
+  {
+    "id": 216,
+    "code_name": "alertExclamationMark"
+  },
+  {
+    "id": 217,
+    "code_name": "bubbleBreak"
+  },
+  {
+    "id": 218,
+    "code_name": "mandolinPushGather"
+  },
+  {
+    "id": 219,
+    "code_name": "bubbleBreak_big"
+  },
+  {
+    "id": 220,
+    "code_name": "flaskTrigger"
+  },
+  {
+    "id": 221,
+    "code_name": "hedgehogTrigger"
+  },
+  {
+    "id": 222,
+    "code_name": "poisonFloor"
+  },
+  {
+    "id": 223,
+    "code_name": "chagamaLight"
+  },
+  {
+    "id": 224,
+    "code_name": "chagamaHide"
+  },
+  {
+    "id": 225,
+    "code_name": "chagamaRedLight"
+  },
+  {
+    "id": 226,
+    "code_name": "chagamaRedLight2"
+  },
+  {
+    "id": 227,
+    "code_name": "laserGunFire"
+  },
+  {
+    "id": 228,
+    "code_name": "gunguySpeech"
+  },
+  {
+    "id": 229,
+    "code_name": "fireGun"
+  },
+  {
+    "id": 230,
+    "code_name": "mortarFire"
+  },
+  {
+    "id": 231,
+    "code_name": "hunkOutStorm"
+  },
+  {
+    "id": 232,
+    "code_name": "hunkInStorm"
+  },
+  {
+    "id": 233,
+    "code_name": "gunGuyAddBuffCircle"
+  },
+  {
+    "id": 234,
+    "code_name": "fireGunFirst"
+  },
+  {
+    "id": 235,
+    "code_name": "hit_star"
+  },
+  {
+    "id": 236,
+    "code_name": "zhanguiDisappear"
+  },
+  {
+    "id": 237,
+    "code_name": "hero_olivia__gunFire_sailor"
+  },
+  {
+    "id": 238,
+    "code_name": "laserUFOGunFirePrepare"
+  },
+  {
+    "id": 239,
+    "code_name": "blueFlash"
+  },
+  {
+    "id": 240,
+    "code_name": "robotNurseEffect"
+  },
+  {
+    "id": 241,
+    "code_name": "melTrailGetItemEffect"
+  },
+  {
+    "id": 242,
+    "code_name": "mortarBullet"
+  },
+  {
+    "id": 243,
+    "code_name": "opticalCamouflageEffect"
+  },
+  {
+    "id": 244,
+    "code_name": "crystallGetItemEffect"
+  },
+  {
+    "id": 245,
+    "code_name": "crystallStart"
+  },
+  {
+    "id": 246,
+    "code_name": "UI_crystallParticle"
+  },
+  {
+    "id": 247,
+    "code_name": "bigGyro"
+  },
+  {
+    "id": 248,
+    "code_name": "crystallStart2"
+  },
+  {
+    "id": 249,
+    "code_name": "crystallStart3"
+  },
+  {
+    "id": 250,
+    "code_name": "hilldingHeavyCut"
+  },
+  {
+    "id": 251,
+    "code_name": "hilldingEnergyStorage1"
+  },
+  {
+    "id": 252,
+    "code_name": "hilldingEnergyStorage2"
+  },
+  {
+    "id": 253,
+    "code_name": "outburst"
+  },
+  {
+    "id": 254,
+    "code_name": "hilldingKickHit"
+  },
+  {
+    "id": 255,
+    "code_name": "hilldingKickHitWall"
+  },
+  {
+    "id": 256,
+    "code_name": "hilldingAddAnger"
+  },
+  {
+    "id": 257,
+    "code_name": "glovesParticle"
+  },
+  {
+    "id": 258,
+    "code_name": "giveMeFive"
+  },
+  {
+    "id": 259,
+    "code_name": "blackhatBlueAimEye"
+  },
+  {
+    "id": 260,
+    "code_name": "blackhatRapidFireAim"
+  },
+  {
+    "id": 261,
+    "code_name": "blackhatSniperSmoke"
+  },
+  {
+    "id": 262,
+    "code_name": "assistantFireJet"
+  },
+  {
+    "id": 263,
+    "code_name": "assistantKatherineThunder"
+  },
+  {
+    "id": 264,
+    "code_name": "assistantCircle_display"
+  },
+  {
+    "id": 265,
+    "code_name": "assistantBlinkDust"
+  },
+  {
+    "id": 266,
+    "code_name": "assistantBigFlameBallBoom"
+  },
+  {
+    "id": 267,
+    "code_name": "blackhatStorm"
+  },
+  {
+    "id": 268,
+    "code_name": "blackhatHeavyFistBoom"
+  },
+  {
+    "id": 269,
+    "code_name": "blackhatHeavyPunch"
+  },
+  {
+    "id": 270,
+    "code_name": "blackhatHeavyHeavyFistBoom"
+  },
+  {
+    "id": 271,
+    "code_name": "goldSakula"
+  },
+  {
+    "id": 272,
+    "code_name": "hero_seebee__qiefan_showImage_ghostface_0"
+  },
+  {
+    "id": 273,
+    "code_name": "seebee_thunderCombo_firstSlash_ghostface"
+  },
+  {
+    "id": 274,
+    "code_name": "seebee_thunderCombo_secondSlash_ghostface"
+  },
+  {
+    "id": 275,
+    "code_name": "seebee_thunderCombo_thirdSlash_ghostface"
+  },
+  {
+    "id": 276,
+    "code_name": "seebee_thunderCombo_waveUp_ghostface"
+  },
+  {
+    "id": 277,
+    "code_name": "hero_seebee__thunderCombo_zhaoguang_ghostface"
+  },
+  {
+    "id": 278,
+    "code_name": "skeletonBigTitsAngel_ball"
+  },
+  {
+    "id": 279,
+    "code_name": "skeletonBigTitsAngel_ball_alart"
+  },
+  {
+    "id": 280,
+    "code_name": "skeletonBigTitsAngel_ball_boom"
+  },
+  {
+    "id": 281,
+    "code_name": "skeletonGangdanHolyLight"
+  },
+  {
+    "id": 282,
+    "code_name": "skeletonGangdanKOW_bottom"
+  },
+  {
+    "id": 283,
+    "code_name": "skeletonGangdanHolyLight_style0"
+  },
+  {
+    "id": 284,
+    "code_name": "skeletonGangdanHolyLight_style1"
+  },
+  {
+    "id": 285,
+    "code_name": "skeletonGangdanKOW_bottom_style1"
+  },
+  {
+    "id": 286,
+    "code_name": "skeletonGangdanKOW_bottom_style2"
+  },
+  {
+    "id": 287,
+    "code_name": "skeletonGangdanKOW_body"
+  },
+  {
+    "id": 288,
+    "code_name": "skeletonHolyEnergyHit"
+  },
+  {
+    "id": 289,
+    "code_name": "skeletonGangdanHolyLight_self"
+  },
+  {
+    "id": 290,
+    "code_name": "skeletonGangdanAngel_heavenLight"
+  },
+  {
+    "id": 291,
+    "code_name": "skeletonGangdanKOW_shengchui"
+  },
+  {
+    "id": 292,
+    "code_name": "skeletonGangdanKOW_fanshang"
+  },
+  {
+    "id": 293,
+    "code_name": "skeletonGangdanSA_rennai"
+  },
+  {
+    "id": 294,
+    "code_name": "blackhatFistBoom"
+  },
+  {
+    "id": 295,
+    "code_name": "UI_crystallParticleSmall"
+  },
+  {
+    "id": 296,
+    "code_name": "skeletonGangdanSA_normal"
+  },
+  {
+    "id": 297,
+    "code_name": "hero_seebee__qiefan_showImage_ghostface_1"
+  },
+  {
+    "id": 298,
+    "code_name": "hero_seebee__qiefan_showImage_ghostface_2"
+  },
+  {
+    "id": 299,
+    "code_name": "hero_seebee__qiefan_slashImage_ghostface_0"
+  },
+  {
+    "id": 300,
+    "code_name": "hero_seebee__qiefan_slashImage_ghostface_1"
+  },
+  {
+    "id": 301,
+    "code_name": "hero_seebee__qiefan_slashImage_ghostface_2"
+  },
+  {
+    "id": 302,
+    "code_name": "iceFireRock"
+  },
+  {
+    "id": 303,
+    "code_name": "whipEffect"
+  },
+  {
+    "id": 304,
+    "code_name": "iceFireGunFirst"
+  },
+  {
+    "id": 305,
+    "code_name": "iceFireGun"
+  },
+  {
+    "id": 306,
+    "code_name": "UI_crystallParticleWhite"
+  },
+  {
+    "id": 307,
+    "code_name": "ferretSmoke"
+  },
+  {
+    "id": 308,
+    "code_name": "ferretBigSmoke"
+  },
+  {
+    "id": 309,
+    "code_name": "nordicPigDust0"
+  },
+  {
+    "id": 310,
+    "code_name": "nordicPigDust1"
+  },
+  {
+    "id": 311,
+    "code_name": "sacrifice"
+  },
+  {
+    "id": 312,
+    "code_name": "holyEnergyPrepare"
+  },
+  {
+    "id": 313,
+    "code_name": "iceBomb"
+  },
+  {
+    "id": 314,
+    "code_name": "iceBombHeavy"
+  },
+  {
+    "id": 315,
+    "code_name": "bubbleBreakgreen"
+  },
+  {
+    "id": 316,
+    "code_name": "iceBombWithTentacles"
+  },
+  {
+    "id": 317,
+    "code_name": "biandang_defult"
+  },
+  {
+    "id": 318,
+    "code_name": "stoneShieldPartical"
+  },
+  {
+    "id": 319,
+    "code_name": "rageHealParticles"
+  },
+  {
+    "id": 320,
+    "code_name": "rageReleasePower"
+  },
+  {
+    "id": 321,
+    "code_name": "mirrorBrokenF"
+  },
+  {
+    "id": 322,
+    "code_name": "mirrorBrokenS"
+  },
+  {
+    "id": 323,
+    "code_name": "mirrorBrokenE"
+  },
+  {
+    "id": 324,
+    "code_name": "smilingLoki"
+  },
+  {
+    "id": 325,
+    "code_name": "lokiMirrorDeathEffect"
+  },
+  {
+    "id": 326,
+    "code_name": "hero_hannah__shotGunSmoke_police"
+  },
+  {
+    "id": 327,
+    "code_name": "hero_hannah__sniperFire_police"
+  },
+  {
+    "id": 328,
+    "code_name": "hero_hannah__revolverFire_police"
+  },
+  {
+    "id": 329,
+    "code_name": "hero_hannah__handGunFire_police"
+  },
+  {
+    "id": 330,
+    "code_name": "hero_hannah__rapidFireAim_police"
+  },
+  {
+    "id": 331,
+    "code_name": "hero_hannah__bombBoom_police"
+  },
+  {
+    "id": 332,
+    "code_name": "headShot_police"
+  },
+  {
+    "id": 333,
+    "code_name": "hero_olivia__transformedFistEffect_timewalker"
+  },
+  {
+    "id": 334,
+    "code_name": "hero_olivia__gunFire_timewalker"
+  },
+  {
+    "id": 335,
+    "code_name": "fireJet_marry"
+  },
+  {
+    "id": 336,
+    "code_name": "blinkDust_marry"
+  },
+  {
+    "id": 337,
+    "code_name": "hero_katherine__thunder_marry"
+  },
+  {
+    "id": 338,
+    "code_name": "hero_katherine__circle_display_marry"
+  },
+  {
+    "id": 339,
+    "code_name": "damokelisi_fallDown"
+  },
+  {
+    "id": 340,
+    "code_name": "hero_katherine__bigFlameBallBoom_marry"
+  },
+  {
+    "id": 341,
+    "code_name": "bigFlameBallBoomWithPieces_marry"
+  },
+  {
+    "id": 342,
+    "code_name": "hilldingKickHitFlowerman"
+  },
+  {
+    "id": 343,
+    "code_name": "hilldingKickHitWallFlowerman"
+  },
+  {
+    "id": 344,
+    "code_name": "hilldingEnergyStorage1Flowerman"
+  },
+  {
+    "id": 345,
+    "code_name": "hilldingEnergyStorage2Flowerman"
+  },
+  {
+    "id": 346,
+    "code_name": "hilldingHeavyCutFlowerman"
+  },
+  {
+    "id": 347,
+    "code_name": "hilldingFoodShadowBuffEffect"
+  },
+  {
+    "id": 348,
+    "code_name": "hilldingFoodShadowBuffEffectFlowerman"
+  },
+  {
+    "id": 349,
+    "code_name": "bigGyroFlowerman"
+  },
+  {
+    "id": 350,
+    "code_name": "smallGyroFlowerman"
+  },
+  {
+    "id": 351,
+    "code_name": "defaultBoomChristmas"
+  },
+  {
+    "id": 352,
+    "code_name": "hilldingBeriberiFlowerman"
+  },
+  {
+    "id": 353,
+    "code_name": "poisonBombEffect"
+  },
+  {
+    "id": 354,
+    "code_name": "fireExplosionEffect"
+  },
+  {
+    "id": 355,
+    "code_name": "curseEffect"
+  },
+  {
+    "id": 356,
+    "code_name": "rewardEffect"
+  },
+  {
+    "id": 357,
+    "code_name": "curseScatteringEffect"
+  },
+  {
+    "id": 358,
+    "code_name": "craterExplosionEffect"
+  },
+  {
+    "id": 359,
+    "code_name": "penhaligonAdditionalDamage"
+  },
+  {
+    "id": 360,
+    "code_name": "penhaligonRushSmoke"
+  },
+  {
+    "id": 361,
+    "code_name": "powerFist"
+  },
+  {
+    "id": 362,
+    "code_name": "simpleExplosion"
+  },
+  {
+    "id": 363,
+    "code_name": "complexUpwardExplosion"
+  },
+  {
+    "id": 364,
+    "code_name": "yellowAlart"
+  },
+  {
+    "id": 365,
+    "code_name": "sacrificialBackpack"
+  },
+  {
+    "id": 366,
+    "code_name": "bombInGround"
+  },
+  {
+    "id": 367,
+    "code_name": "dirtBurst"
+  },
+  {
+    "id": 368,
+    "code_name": "victoryAlart"
+  },
+  {
+    "id": 369,
+    "code_name": "flareEmitterWithExplosion"
+  },
+  {
+    "id": 370,
+    "code_name": "shotgunShooting"
+  },
+  {
+    "id": 371,
+    "code_name": "flareEmitterWithExplosionBlue"
+  },
+  {
+    "id": 372,
+    "code_name": "buildingSparkEffect"
+  },
+  {
+    "id": 373,
+    "code_name": "chargingEnergy"
+  },
+  {
+    "id": 374,
+    "code_name": "releaseEnergySystem"
+  },
+  {
+    "id": 375,
+    "code_name": "ironHit"
+  },
+  {
+    "id": 376,
+    "code_name": "dirtBurstOnLine"
+  },
+  {
+    "id": 377,
+    "code_name": "dirtBurstOnLineSmall"
+  },
+  {
+    "id": 378,
+    "code_name": "blinkDust_magician"
+  },
+  {
+    "id": 379,
+    "code_name": "fireJet_magician"
+  },
+  {
+    "id": 380,
+    "code_name": "hero_katherine__bigFlameBallBoom_magician"
+  },
+  {
+    "id": 381,
+    "code_name": "bigFlameBallBoom_1_magician"
+  },
+  {
+    "id": 382,
+    "code_name": "hero_katherine__thunder_magician"
+  },
+  {
+    "id": 383,
+    "code_name": "hero_katherine__circle_display_magician"
+  },
+  {
+    "id": 384,
+    "code_name": "bigFlameBallBoom_2_magician"
+  },
+  {
+    "id": 385,
+    "code_name": "gangdanHolyLight_soldier"
+  },
+  {
+    "id": 386,
+    "code_name": "gangdanHolyLight_soldier_style0"
+  },
+  {
+    "id": 387,
+    "code_name": "gangdanHolyLight_soldier_style1"
+  },
+  {
+    "id": 388,
+    "code_name": "holyEnergyHit_soldier"
+  },
+  {
+    "id": 389,
+    "code_name": "gangdanHolyLight_soldier_self"
+  },
+  {
+    "id": 390,
+    "code_name": "gangdanKOW_bottom_soldier"
+  },
+  {
+    "id": 391,
+    "code_name": "gangdanKOW_bottom_soldier_style1"
+  },
+  {
+    "id": 392,
+    "code_name": "gangdanKOW_bottom_soldier_style2"
+  },
+  {
+    "id": 393,
+    "code_name": "gangdanKOW_body_soldier"
+  },
+  {
+    "id": 394,
+    "code_name": "gangdanKOW_fanshang_soldier"
+  },
+  {
+    "id": 395,
+    "code_name": "soldierHolyEnergyHit"
+  },
+  {
+    "id": 396,
+    "code_name": "soldierGangdanKOW_shengchui"
+  },
+  {
+    "id": 397,
+    "code_name": "soldierGangdanSA_rennai"
+  },
+  {
+    "id": 398,
+    "code_name": "soldierGangdanSA_normal"
+  },
+  {
+    "id": 399,
+    "code_name": "soldierGangdanAngel_heavenLight"
+  },
+  {
+    "id": 400,
+    "code_name": "soldierBigTitsAngel_ball"
+  },
+  {
+    "id": 401,
+    "code_name": "soldierBigTitsAngel_ball_alart"
+  },
+  {
+    "id": 402,
+    "code_name": "soldierBigTitsAngel_ball_boom"
+  },
+  {
+    "id": 403,
+    "code_name": "hero_hannah__handGunFire_detective"
+  },
+  {
+    "id": 404,
+    "code_name": "hero_hannah__shotGunSmoke_detective"
+  },
+  {
+    "id": 405,
+    "code_name": "hero_hannah__sniperFire_detective"
+  },
+  {
+    "id": 406,
+    "code_name": "hero_hannah__revolverFire_detective"
+  },
+  {
+    "id": 407,
+    "code_name": "hero_hannah__bombBoom_detective"
+  },
+  {
+    "id": 408,
+    "code_name": "detectiveSniperSmoke"
+  },
+  {
+    "id": 409,
+    "code_name": "taisyouStorm"
+  },
+  {
+    "id": 410,
+    "code_name": "taisyouFistBoom"
+  },
+  {
+    "id": 411,
+    "code_name": "taisyouHeavyFistBoom"
+  },
+  {
+    "id": 412,
+    "code_name": "taisyouHeavyPunch"
+  },
+  {
+    "id": 413,
+    "code_name": "taisyouHeavyHeavyFistBoom"
+  },
+  {
+    "id": 414,
+    "code_name": "detectiveBlueAimEye"
+  },
+  {
+    "id": 415,
+    "code_name": "hero_hannah__rapidFireAim_detective"
+  },
+  {
+    "id": 416,
+    "code_name": "headShot_detective"
+  },
+  {
+    "id": 417,
+    "code_name": "penhaligonDeBuffMeleeEffect"
+  },
+  {
+    "id": 418,
+    "code_name": "penhaligonDeBuffRemotelyEffect"
+  },
+  {
+    "id": 419,
+    "code_name": "penhaligonDeBuffMeleeEffect_infantry"
+  },
+  {
+    "id": 420,
+    "code_name": "penhaligonDeBuffRemotelyEffect_infantry"
+  },
+  {
+    "id": 421,
+    "code_name": "craterExplosionEffect_infantry"
+  },
+  {
+    "id": 422,
+    "code_name": "bombInGround_infantry"
+  },
+  {
+    "id": 423,
+    "code_name": "flareEmitterWithExplosion_infantry"
+  },
+  {
+    "id": 424,
+    "code_name": "flareEmitterWithExplosionBlue_infantry"
+  },
+  {
+    "id": 425,
+    "code_name": "powerFist_infantry"
+  },
+  {
+    "id": 426,
+    "code_name": "hero_quanhuying__hupuzi_menghu_gather_chinadoll"
+  },
+  {
+    "id": 427,
+    "code_name": "hero_quanhuying__energyGather_3D_chinadoll"
+  },
+  {
+    "id": 428,
+    "code_name": "hero_quanhuying__blackShine_chinadoll"
+  },
+  {
+    "id": 429,
+    "code_name": "hero_quanhuying__hupuzi_release_chinadoll"
+  },
+  {
+    "id": 430,
+    "code_name": "quanhuying_hupuzi_release"
+  },
+  {
+    "id": 431,
+    "code_name": "hero_quanhuying__hupuzi_menghu_release_chinadoll"
+  },
+  {
+    "id": 432,
+    "code_name": "hero_quanhuying__tieshankao_chinadoll"
+  },
+  {
+    "id": 433,
+    "code_name": "hero_quanhuying__leicha_release_chinadoll"
+  },
+  {
+    "id": 434,
+    "code_name": "hero_quanhuying__Leicha2Fire"
+  },
+  {
+    "id": 435,
+    "code_name": "hero_quanhuying__Leicha2Fire_chinadoll"
+  },
+  {
+    "id": 436,
+    "code_name": "weaponChargingEffect"
+  },
+  {
+    "id": 437,
+    "code_name": "weaponActiveEffect"
+  },
+  {
+    "id": 438,
+    "code_name": "oneSlashExtra"
+  },
+  {
+    "id": 439,
+    "code_name": "tornadoEffect"
+  },
+  {
+    "id": 440,
+    "code_name": "cloudAndRain"
+  },
+  {
+    "id": 441,
+    "code_name": "saintLibelueceEffect"
+  },
+  {
+    "id": 442,
+    "code_name": "blackSkull"
+  },
+  {
+    "id": 443,
+    "code_name": "iceBreakWithFire"
+  },
+  {
+    "id": 444,
+    "code_name": "storyAwardEffect"
+  },
+  {
+    "id": 445,
+    "code_name": "iceExplosionEffect"
+  },
+  {
+    "id": 446,
+    "code_name": "burnFloorLoop"
+  },
+  {
+    "id": 447,
+    "code_name": "trippleSlash1Effect"
+  },
+  {
+    "id": 448,
+    "code_name": "trippleSlash2Effect"
+  },
+  {
+    "id": 449,
+    "code_name": "disperseBuffEffect"
+  },
+  {
+    "id": 450,
+    "code_name": "selfDisperseBuffEffect"
+  },
+  {
+    "id": 451,
+    "code_name": "frozenFloorEffect"
+  },
+  {
+    "id": 452,
+    "code_name": "oilOnTheFloorEffect"
+  },
+  {
+    "id": 453,
+    "code_name": "poisonOnTheFloorEffect"
+  },
+  {
+    "id": 454,
+    "code_name": "hero_hayfa__hayfaMarkedDebuffEffect"
+  },
+  {
+    "id": 455,
+    "code_name": "akaishaTrapCircle_default"
+  },
+  {
+    "id": 456,
+    "code_name": "hero_akaisha__TrapCircle_red"
+  },
+  {
+    "id": 457,
+    "code_name": "hero_akaisha__TrapBoom_red"
+  },
+  {
+    "id": 458,
+    "code_name": "hero_akaisha__ArrowRainCircleDisplay_red"
+  },
+  {
+    "id": 459,
+    "code_name": "hero_hayfa__comboBackJumpAttackEffect"
+  },
+  {
+    "id": 460,
+    "code_name": "hayfaTuduBackJumpAttackEffect"
+  },
+  {
+    "id": 461,
+    "code_name": "hayfaTuduAttackEnemyEffect"
+  },
+  {
+    "id": 462,
+    "code_name": "hayfaTuDuPoisonBoomEffect"
+  },
+  {
+    "id": 463,
+    "code_name": "hero_akaisha__arrowShoot_red"
+  },
+  {
+    "id": 464,
+    "code_name": "hayfaShadowBodyDisappear"
+  },
+  {
+    "id": 465,
+    "code_name": "singleSlashEffect"
+  },
+  {
+    "id": 466,
+    "code_name": "tieXianZhanLight"
+  },
+  {
+    "id": 467,
+    "code_name": "tieXianZhanLight2"
+  },
+  {
+    "id": 468,
+    "code_name": "sakari_storm_style2_wolfman"
+  },
+  {
+    "id": 469,
+    "code_name": "sakari_storm_christmas"
+  },
+  {
+    "id": 470,
+    "code_name": "sakari_washingCombo_ComboBoom_wolfman_human"
+  },
+  {
+    "id": 471,
+    "code_name": "sakari_washingCombo_ComboBoom_wolfman_wolf"
+  },
+  {
+    "id": 472,
+    "code_name": "sakari_washingCombo_onePunch_wolfman_human"
+  },
+  {
+    "id": 473,
+    "code_name": "sakari_washingCombo_onePunch_wolfman_wolf"
+  },
+  {
+    "id": 474,
+    "code_name": "sakari_holdBreath_active_wolfman"
+  },
+  {
+    "id": 475,
+    "code_name": "sakari_holdBreath_deactive_wolfman"
+  },
+  {
+    "id": 476,
+    "code_name": "hayfaShadowBackAttackEffect"
+  },
+  {
+    "id": 477,
+    "code_name": "shadowHideHostMan"
+  },
+  {
+    "id": 478,
+    "code_name": "hero_seebee_ashloo_avoid"
+  },
+  {
+    "id": 479,
+    "code_name": "hero_seebee_ashloo_attack1"
+  },
+  {
+    "id": 480,
+    "code_name": "hero_seebee_ashloo_attack2"
+  },
+  {
+    "id": 481,
+    "code_name": "hero_seebee_ashloo_attack3"
+  },
+  {
+    "id": 482,
+    "code_name": "hero_seebee_ashloo_oneSlash_flash_extra"
+  },
+  {
+    "id": 483,
+    "code_name": "hero_seebee_ashloo_qiefan_flash_extra"
+  },
+  {
+    "id": 484,
+    "code_name": "hero_seebee_ashloo_thunder_bird_extra"
+  },
+  {
+    "id": 485,
+    "code_name": "hero_seebee__thunderCombo_zhaoguang_ashloo"
+  },
+  {
+    "id": 486,
+    "code_name": "hero_seebee_ashloo_thunder_slash_extra1"
+  },
+  {
+    "id": 487,
+    "code_name": "hero_seebee_ashloo_thunder_slash_extra2"
+  },
+  {
+    "id": 488,
+    "code_name": "hero_seebee_ashloo_thunder_slash_extra3"
+  },
+  {
+    "id": 489,
+    "code_name": "hero_seebee_ashloo_thunder_slash_extra4"
+  },
+  {
+    "id": 490,
+    "code_name": "hero_sakari_wolfman_dive_extra"
+  },
+  {
+    "id": 491,
+    "code_name": "hayfaServantBodyDeathBoom"
+  },
+  {
+    "id": 492,
+    "code_name": "hayfaServantCreateDust"
+  },
+  {
+    "id": 493,
+    "code_name": "singleSlashEffectOnPath"
+  },
+  {
+    "id": 494,
+    "code_name": "hayfaShadowAttackStiffnessEffect"
+  },
+  {
+    "id": 495,
+    "code_name": "hayfaTieXianZhanBodyEffect"
+  },
+  {
+    "id": 496,
+    "code_name": "tieXianZhanBackAttackLightEffect"
+  },
+  {
+    "id": 497,
+    "code_name": "catGodShakingMiao"
+  },
+  {
+    "id": 498,
+    "code_name": "fallFromTheSky"
+  },
+  {
+    "id": 499,
+    "code_name": "powerFist_Blue"
+  },
+  {
+    "id": 500,
+    "code_name": "deathDistortionEffect"
+  },
+  {
+    "id": 501,
+    "code_name": "nordicDwarfFighterPlusCombo0Effect"
+  },
+  {
+    "id": 502,
+    "code_name": "nordicDwarfFighterPlusCombo1Effect"
+  },
+  {
+    "id": 503,
+    "code_name": "fighterStorm"
+  },
+  {
+    "id": 504,
+    "code_name": "slimeStickyFloorEffect"
+  },
+  {
+    "id": 505,
+    "code_name": "sheriffPlusAim"
+  },
+  {
+    "id": 506,
+    "code_name": "slashLight"
+  },
+  {
+    "id": 507,
+    "code_name": "fireAttackArc"
+  },
+  {
+    "id": 508,
+    "code_name": "plusMonsterType"
+  },
+  {
+    "id": 509,
+    "code_name": "commandoPutOutDeathEffect"
+  },
+  {
+    "id": 510,
+    "code_name": "commandoPlusComboPutOutDeathEffect"
+  },
+  {
+    "id": 511,
+    "code_name": "twinsAbubuPlusShockWave"
+  },
+  {
+    "id": 512,
+    "code_name": "earthPowerAbubuPlus"
+  },
+  {
+    "id": 513,
+    "code_name": "skyThunder_yellow"
+  },
+  {
+    "id": 514,
+    "code_name": "thunderSurroundedYellow"
+  },
+  {
+    "id": 515,
+    "code_name": "commandoPlusWhirlingRingEffect"
+  },
+  {
+    "id": 516,
+    "code_name": "nwInfantryPlusGhostRelease"
+  },
+  {
+    "id": 517,
+    "code_name": "laserStart"
+  },
+  {
+    "id": 518,
+    "code_name": "laserEnd"
+  },
+  {
+    "id": 519,
+    "code_name": "arabPurpleRobePlusLightningBallBoom"
+  },
+  {
+    "id": 520,
+    "code_name": "purpleRobePlusGather"
+  },
+  {
+    "id": 521,
+    "code_name": "laserStartBlue"
+  },
+  {
+    "id": 522,
+    "code_name": "laserEndBlue"
+  },
+  {
+    "id": 523,
+    "code_name": "lightBeamChargingEffect"
+  },
+  {
+    "id": 524,
+    "code_name": "fireHand"
+  },
+  {
+    "id": 525,
+    "code_name": "poisonHand"
+  },
+  {
+    "id": 526,
+    "code_name": "blueBigLaser"
+  },
+  {
+    "id": 527,
+    "code_name": "storeBossGetCEEffect"
+  },
+  {
+    "id": 528,
+    "code_name": "storeStandBreakeEffect"
+  },
+  {
+    "id": 529,
+    "code_name": "AkaishaTornadoArrowEffect"
+  },
+  {
+    "id": 530,
+    "code_name": "quickFlash"
+  },
+  {
+    "id": 531,
+    "code_name": "AkaishaTrapMarkedDebuff"
+  },
+  {
+    "id": 532,
+    "code_name": "fireJet_pusa"
+  },
+  {
+    "id": 533,
+    "code_name": "bigFlameBallBoom_1_pusa"
+  },
+  {
+    "id": 534,
+    "code_name": "hero_katherine__thunder_pusa"
+  },
+  {
+    "id": 535,
+    "code_name": "hero_katherine__circle_display_pusa"
+  },
+  {
+    "id": 536,
+    "code_name": "heyaoKnifeLight_1"
+  },
+  {
+    "id": 537,
+    "code_name": "heyaoKnifeLight_2"
+  },
+  {
+    "id": 538,
+    "code_name": "lightningStart_pusa"
+  },
+  {
+    "id": 539,
+    "code_name": "heyaoShoutAsh"
+  },
+  {
+    "id": 540,
+    "code_name": "heyaoFireAttackArc_1"
+  },
+  {
+    "id": 541,
+    "code_name": "heyaoEnergyStorage"
+  },
+  {
+    "id": 542,
+    "code_name": "plumBlossomBoom"
+  },
+  {
+    "id": 543,
+    "code_name": "bigNeedleDisappear"
+  },
+  {
+    "id": 544,
+    "code_name": "bigNeedleBomb"
+  },
+  {
+    "id": 545,
+    "code_name": "bigNeedleRotateCut"
+  },
+  {
+    "id": 546,
+    "code_name": "hero_katherine__attackBodyVFX_pusa"
+  },
+  {
+    "id": 547,
+    "code_name": "hilldingWarriorIdleBuffUpVFX"
+  },
+  {
+    "id": 548,
+    "code_name": "hilldingWarriorSpiralKickVFX"
+  },
+  {
+    "id": 549,
+    "code_name": "hilldingFoodShadowBuffEffectWarrior"
+  },
+  {
+    "id": 550,
+    "code_name": "hilldingWarriorNormalAttackVFX1"
+  },
+  {
+    "id": 551,
+    "code_name": "hilldingWarriorNormalAttackVFX2"
+  },
+  {
+    "id": 552,
+    "code_name": "hilldingWarriorSpinAttackVFX"
+  },
+  {
+    "id": 553,
+    "code_name": "hilldingWarriorBigGyroVFX"
+  },
+  {
+    "id": 554,
+    "code_name": "hilldingWarriorPlunderAttackVFX1"
+  },
+  {
+    "id": 555,
+    "code_name": "hilldingWarriorPlunderAttackVFX2"
+  },
+  {
+    "id": 556,
+    "code_name": "hilldingWarriorDodgeAttackVFX"
+  },
+  {
+    "id": 557,
+    "code_name": "hilldingWarriorBackToNonRageVFX"
+  },
+  {
+    "id": 558,
+    "code_name": "energyOrbGatheringEffect"
+  },
+  {
+    "id": 559,
+    "code_name": "gainEnergyOrbEffect"
+  },
+  {
+    "id": 560,
+    "code_name": "extraHeroDeathEffect"
+  },
+  {
+    "id": 561,
+    "code_name": "hero_hayfa__singleSlashEffect_protector"
+  },
+  {
+    "id": 562,
+    "code_name": "hero_hayfa__singleSlashEffectOnPath_protector"
+  },
+  {
+    "id": 563,
+    "code_name": "hero_hayfa__tieXianZhanBackAttackLightEffect_protector"
+  },
+  {
+    "id": 564,
+    "code_name": "hayfaProtectorDodgeTrailVFX"
+  },
+  {
+    "id": 565,
+    "code_name": "hayfaProtectorTieXianZhanWings"
+  },
+  {
+    "id": 566,
+    "code_name": "hero_hayfa__tuduBackJumpAttackEffect_protector"
+  },
+  {
+    "id": 567,
+    "code_name": "hero_hayfa__shadowBackAttackEffect_protector"
+  },
+  {
+    "id": 568,
+    "code_name": "hero_hayfa__shadowHideHostMan_protector"
+  },
+  {
+    "id": 569,
+    "code_name": "hero_hayfa__tieXianZhanBodyEffect_protector"
+  },
+  {
+    "id": 570,
+    "code_name": "hayfaTieXianZhanAirCircle_protector"
+  },
+  {
+    "id": 571,
+    "code_name": "hayfaTieXianZhanAirDash_protector"
+  },
+  {
+    "id": 572,
+    "code_name": "hayfaTieXianZhanAirLine_protector"
+  },
+  {
+    "id": 573,
+    "code_name": "hayfaShadowAttackStiffnessEffect_protector"
+  },
+  {
+    "id": 574,
+    "code_name": "hero_hayfa__hayfaMarkedDebuffEffect_protector"
+  },
+  {
+    "id": 575,
+    "code_name": "hayfaServantCreateDust_protector"
+  },
+  {
+    "id": 576,
+    "code_name": "hayfaShadowAttackExtraSlash_protector"
+  },
+  {
+    "id": 577,
+    "code_name": "flashBatThunderEffect"
+  },
+  {
+    "id": 578,
+    "code_name": "lavaOrbEffect"
+  },
+  {
+    "id": 579,
+    "code_name": "lavaOrbExplosion"
+  },
+  {
+    "id": 580,
+    "code_name": "extraHeroSoulFireEffect"
+  },
+  {
+    "id": 581,
+    "code_name": "extraHeroRescueEffect"
+  },
+  {
+    "id": 582,
+    "code_name": "hero_hayfa__comboBackJumpAttackEffect_protector"
+  },
+  {
+    "id": 583,
+    "code_name": "critChainWave"
+  },
+  {
+    "id": 584,
+    "code_name": "hero_quanhuying__DiLeiZhenTraceEffect"
+  },
+  {
+    "id": 585,
+    "code_name": "hero_quanhuying__DiLeiZhenTraceEffect_bartender"
+  },
+  {
+    "id": 586,
+    "code_name": "hero_quanhuying__DiLeiZhenTraceEffect_chinadoll"
+  },
+  {
+    "id": 587,
+    "code_name": "callBunkerFinsh"
+  },
+  {
+    "id": 588,
+    "code_name": "flashFadeIn"
+  },
+  {
+    "id": 589,
+    "code_name": "flashFadeOut"
+  },
+  {
+    "id": 590,
+    "code_name": "totemAttackEffect"
+  },
+  {
+    "id": 591,
+    "code_name": "totemShockWave"
+  },
+  {
+    "id": 592,
+    "code_name": "gainEnhanceSoulEffect_SkillPerk"
+  },
+  {
+    "id": 593,
+    "code_name": "gainRerollSoulEffect_SkillPerk"
+  },
+  {
+    "id": 594,
+    "code_name": "iceRoadTrailEffect"
+  },
+  {
+    "id": 595,
+    "code_name": "aimiOathThunderEffect"
+  },
+  {
+    "id": 596,
+    "code_name": "libeluecePlusCleave"
+  },
+  {
+    "id": 597,
+    "code_name": "hellFireTrailEffect"
+  },
+  {
+    "id": 598,
+    "code_name": "ulianaiceBomb"
+  },
+  {
+    "id": 599,
+    "code_name": "ulianaSlash"
+  },
+  {
+    "id": 600,
+    "code_name": "ulianaDance"
+  },
+  {
+    "id": 601,
+    "code_name": "behemothSoundWave"
+  },
+  {
+    "id": 602,
+    "code_name": "stuffDropEffect"
+  },
+  {
+    "id": 603,
+    "code_name": "ulianaBackJumpSlash"
+  },
+  {
+    "id": 604,
+    "code_name": "ulianaForwardJumpSlash"
+  },
+  {
+    "id": 605,
+    "code_name": "ulianaExplosionBoomEffect"
+  },
+  {
+    "id": 606,
+    "code_name": "aimiHolyDefenceCircle"
+  },
+  {
+    "id": 607,
+    "code_name": "aimiHolyHealthBuffEffect"
+  },
+  {
+    "id": 608,
+    "code_name": "sandOnTheFloorEffect"
+  },
+  {
+    "id": 609,
+    "code_name": "sandRainDropEffect"
+  },
+  {
+    "id": 610,
+    "code_name": "aimiComboFireEffect"
+  },
+  {
+    "id": 611,
+    "code_name": "aimiOathBuffEffect"
+  },
+  {
+    "id": 612,
+    "code_name": "ulianaOneSlashExtra"
+  },
+  {
+    "id": 613,
+    "code_name": "powerFist_Uliana"
+  },
+  {
+    "id": 614,
+    "code_name": "sawDisappear"
+  },
+  {
+    "id": 615,
+    "code_name": "enhanceSoulGatheringEffect"
+  },
+  {
+    "id": 616,
+    "code_name": "rerollSoulGatheringEffect"
+  },
+  {
+    "id": 617,
+    "code_name": "iceFireGunFirst1"
+  },
+  {
+    "id": 618,
+    "code_name": "iceFireGun1"
+  },
+  {
+    "id": 619,
+    "code_name": "laserBullet_penhaligon_starwar"
+  },
+  {
+    "id": 620,
+    "code_name": "powerFist_penhaligon_starwar"
+  },
+  {
+    "id": 621,
+    "code_name": "penhaligonDeBuffMeleeEffect_penhaligon_starwar"
+  },
+  {
+    "id": 622,
+    "code_name": "penhaligonDeBuffRemotelyEffect_penhaligon_starwar"
+  },
+  {
+    "id": 623,
+    "code_name": "grenadeExplode_penhaligon_starwar"
+  },
+  {
+    "id": 624,
+    "code_name": "yellowAlart_penhaligon_starwar"
+  },
+  {
+    "id": 625,
+    "code_name": "penhaligon_starwar_scanning"
+  },
+  {
+    "id": 626,
+    "code_name": "victoryAlart_penhaligon_starwar"
+  },
+  {
+    "id": 627,
+    "code_name": "laserArtillery_penhaligon_starwar"
+  },
+  {
+    "id": 628,
+    "code_name": "penhaligon_starwar_recieve_signal"
+  },
+  {
+    "id": 629,
+    "code_name": "penhaligon_starwar_send_signal"
+  },
+  {
+    "id": 630,
+    "code_name": "laserBullet_laserBody_penhaligon_starwar"
+  },
+  {
+    "id": 631,
+    "code_name": "penhaligon_rush_shotgun_vfx"
+  },
+  {
+    "id": 632,
+    "code_name": "quan_master_hupuzi_release"
+  },
+  {
+    "id": 633,
+    "code_name": "quan_master_hupuzi_release_wide"
+  },
+  {
+    "id": 634,
+    "code_name": "quan_master_animal_illu_turtle"
+  },
+  {
+    "id": 635,
+    "code_name": "quan_master_animal_illu_wolf"
+  },
+  {
+    "id": 636,
+    "code_name": "quan_master_animal_illu_tiger"
+  },
+  {
+    "id": 637,
+    "code_name": "quan_master_animal_illu_boar"
+  },
+  {
+    "id": 638,
+    "code_name": "quan_master_animal_illu_ox"
+  },
+  {
+    "id": 639,
+    "code_name": "quan_master_animal_illu_horse"
+  },
+  {
+    "id": 640,
+    "code_name": "quan_master_animal_illu_pheonix"
+  },
+  {
+    "id": 641,
+    "code_name": "quan_master_animal_illu_demon"
+  },
+  {
+    "id": 642,
+    "code_name": "quan_master_animal_illu_dragon"
+  },
+  {
+    "id": 643,
+    "code_name": "quan_master_tieshankao_release"
+  },
+  {
+    "id": 644,
+    "code_name": "quan_master_leicha_release"
+  },
+  {
+    "id": 645,
+    "code_name": "hero_quanhuying__DiLeiZhenTraceEffect_master"
+  },
+  {
+    "id": 646,
+    "code_name": "hero_olivia__gunFire_groot"
+  },
+  {
+    "id": 647,
+    "code_name": "olivia_groot_bunker_appear"
+  },
+  {
+    "id": 648,
+    "code_name": "hero_olivia__bunker_circle_groot"
+  },
+  {
+    "id": 649,
+    "code_name": "olivia_groot_aerobat_appear"
+  },
+  {
+    "id": 650,
+    "code_name": "olivia_groot_bodyLightEffect"
+  },
+  {
+    "id": 651,
+    "code_name": "olivia_groot_backGroundLightEffect"
+  },
+  {
+    "id": 652,
+    "code_name": "hero_olivia__transformedFistEffect_groot"
+  },
+  {
+    "id": 653,
+    "code_name": "quan_master_hupuzi_release_red"
+  },
+  {
+    "id": 654,
+    "code_name": "quan_master_hupuzi_release_blue"
+  },
+  {
+    "id": 655,
+    "code_name": "quan_master_tieshankao_release_red"
+  },
+  {
+    "id": 656,
+    "code_name": "quan_master_tieshankao_release_yellow"
+  },
+  {
+    "id": 657,
+    "code_name": "quan_master_tieshankao_release_blue"
+  },
+  {
+    "id": 658,
+    "code_name": "quan_master_leicha_release_yellow"
+  },
+  {
+    "id": 659,
+    "code_name": "quan_master_leicha_release_blue"
+  },
+  {
+    "id": 660,
+    "code_name": "halloweenSkeletoHead1Effect"
+  },
+  {
+    "id": 661,
+    "code_name": "halloweenSkeletoHead2Effect"
+  },
+  {
+    "id": 662,
+    "code_name": "quan_master_leicha_release_dragon_fire"
+  },
+  {
+    "id": 663,
+    "code_name": "sakari_washingCombo_ComboBoom_christmas"
+  },
+  {
+    "id": 664,
+    "code_name": "sakari_washingCombo_onePunch_christmas"
+  },
+  {
+    "id": 665,
+    "code_name": "hero_gangdan__HolyLight_christmas_style0"
+  },
+  {
+    "id": 666,
+    "code_name": "hero_gangdan__HolyLight_christmas_style1"
+  },
+  {
+    "id": 667,
+    "code_name": "hero_gangdan__HolyLight_christmas_self"
+  },
+  {
+    "id": 668,
+    "code_name": "hero_gangdan__HolyLight_christmas"
+  },
+  {
+    "id": 669,
+    "code_name": "hero_gangdan__KOW_bottom_christmas"
+  },
+  {
+    "id": 670,
+    "code_name": "hero_gangdan__KOW_bottom_christmas_style1"
+  },
+  {
+    "id": 671,
+    "code_name": "hero_gangdan__KOW_bottom_christmas_style2"
+  },
+  {
+    "id": 672,
+    "code_name": "hero_gangdan__KOW_body_christmas"
+  },
+  {
+    "id": 673,
+    "code_name": "anniceMoonExplode"
+  },
+  {
+    "id": 674,
+    "code_name": "anniceStarMoonDisappear"
+  },
+  {
+    "id": 675,
+    "code_name": "bloodBoom"
+  },
+  {
+    "id": 676,
+    "code_name": "bloodSlashEffect"
+  },
+  {
+    "id": 677,
+    "code_name": "anniceStarMeteor"
+  },
+  {
+    "id": 678,
+    "code_name": "anniceStarMeteorExplosion"
+  },
+  {
+    "id": 679,
+    "code_name": "bloodBleedSlash"
+  },
+  {
+    "id": 680,
+    "code_name": "anniceComboEffect0"
+  },
+  {
+    "id": 681,
+    "code_name": "anniceComboEffect1"
+  },
+  {
+    "id": 682,
+    "code_name": "anniceComboEffect2"
+  },
+  {
+    "id": 683,
+    "code_name": "bloodCyclone"
+  },
+  {
+    "id": 684,
+    "code_name": "hero_gangdan__heavenLight_christmas"
+  },
+  {
+    "id": 685,
+    "code_name": "hero_gangdan__KOW_shengchui_christmas"
+  },
+  {
+    "id": 686,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_christmas"
+  },
+  {
+    "id": 687,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_alart_christmas"
+  },
+  {
+    "id": 688,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_boom_christmas"
+  },
+  {
+    "id": 689,
+    "code_name": "hero_gangdan__SA_normal_christmas"
+  },
+  {
+    "id": 690,
+    "code_name": "hero_gangdan__SA_rennai_christmas"
+  },
+  {
+    "id": 691,
+    "code_name": "circle_display_ruthvenTorture"
+  },
+  {
+    "id": 692,
+    "code_name": "heyaoKnifeLight_1_technology"
+  },
+  {
+    "id": 693,
+    "code_name": "heyaoKnifeLight_2_technology"
+  },
+  {
+    "id": 694,
+    "code_name": "heyaoFireAttackArc_1_technology"
+  },
+  {
+    "id": 695,
+    "code_name": "hero_gangdan__HolyLight_skeleton_style2"
+  },
+  {
+    "id": 696,
+    "code_name": "hero_gangdan__HolyLight_soldier_style2"
+  },
+  {
+    "id": 697,
+    "code_name": "hero_gangdan__HolyLight_christmas_style2"
+  },
+  {
+    "id": 698,
+    "code_name": "hero_gangdan__HolyLight_style2"
+  },
+  {
+    "id": 699,
+    "code_name": "heyaoShoutAsh_technology"
+  },
+  {
+    "id": 700,
+    "code_name": "gangdan_sap_shieldCharge_body_vfx"
+  },
+  {
+    "id": 701,
+    "code_name": "gangdan_sap_hammerCharge_vfx"
+  },
+  {
+    "id": 702,
+    "code_name": "heyaoEnergyStorage_technology"
+  },
+  {
+    "id": 703,
+    "code_name": "anniceComboEffect_EX_hammer"
+  },
+  {
+    "id": 704,
+    "code_name": "anniceComboEffect_EX_sword"
+  },
+  {
+    "id": 705,
+    "code_name": "anniceComboEffect_EX_scythe"
+  },
+  {
+    "id": 706,
+    "code_name": "anniceComboEffect0_hammer"
+  },
+  {
+    "id": 707,
+    "code_name": "anniceComboEffect1_hammer"
+  },
+  {
+    "id": 708,
+    "code_name": "anniceComboEffect2_hammer"
+  },
+  {
+    "id": 709,
+    "code_name": "anniceComboEffect0_sword"
+  },
+  {
+    "id": 710,
+    "code_name": "anniceComboEffect1_sword"
+  },
+  {
+    "id": 711,
+    "code_name": "anniceComboEffect2_sword"
+  },
+  {
+    "id": 712,
+    "code_name": "anniceComboEffect0_scythe"
+  },
+  {
+    "id": 713,
+    "code_name": "anniceComboEffect1_scythe"
+  },
+  {
+    "id": 714,
+    "code_name": "anniceComboEffect2_scythe"
+  },
+  {
+    "id": 715,
+    "code_name": "anniceWeaponPickUpVFX"
+  },
+  {
+    "id": 716,
+    "code_name": "laserUFOLaserPrepare"
+  },
+  {
+    "id": 717,
+    "code_name": "swordNeedBloodUpgradeEffect"
+  },
+  {
+    "id": 718,
+    "code_name": "bigNeedleDisappear_technology"
+  },
+  {
+    "id": 719,
+    "code_name": "bigNeedleBomb_technology"
+  },
+  {
+    "id": 720,
+    "code_name": "plumBlossomBoom_technology"
+  },
+  {
+    "id": 721,
+    "code_name": "bigNeedleRotateCut_technology"
+  },
+  {
+    "id": 722,
+    "code_name": "anniceStarCollideVFX"
+  },
+  {
+    "id": 723,
+    "code_name": "anniceWeaponPickUpDisappear"
+  },
+  {
+    "id": 724,
+    "code_name": "anniceStarReleaseVFX"
+  },
+  {
+    "id": 725,
+    "code_name": "anniceAttackHitStarVFX"
+  },
+  {
+    "id": 726,
+    "code_name": "aimiComboFireEffect_queen"
+  },
+  {
+    "id": 727,
+    "code_name": "aimiComboHitEffect_queen"
+  },
+  {
+    "id": 728,
+    "code_name": "aimiHolyHealthBuffEffect_queen"
+  },
+  {
+    "id": 729,
+    "code_name": "holyEnergyHit_queen"
+  },
+  {
+    "id": 730,
+    "code_name": "aimiHolyDefenceCircle_queen"
+  },
+  {
+    "id": 731,
+    "code_name": "aimiOathBuffEffect_queen"
+  },
+  {
+    "id": 732,
+    "code_name": "flashBatThunderEffect_queen"
+  },
+  {
+    "id": 733,
+    "code_name": "bubbleBoomEffect_queen"
+  },
+  {
+    "id": 734,
+    "code_name": "aimiBackJump_queen"
+  },
+  {
+    "id": 735,
+    "code_name": "ulianaDance_springfes"
+  },
+  {
+    "id": 736,
+    "code_name": "ulianaiceBomb_springfes"
+  },
+  {
+    "id": 737,
+    "code_name": "ulianaExplosionBoomEffect_springfes"
+  },
+  {
+    "id": 738,
+    "code_name": "ulianaSlash_springfes"
+  },
+  {
+    "id": 739,
+    "code_name": "ulianaChillSlashDebuffFog"
+  },
+  {
+    "id": 740,
+    "code_name": "ulianaChillSlashDebuffFog_springfes"
+  },
+  {
+    "id": 741,
+    "code_name": "ulianaOneSlashExtra_springfes"
+  },
+  {
+    "id": 742,
+    "code_name": "fireworksParticle"
+  },
+  {
+    "id": 743,
+    "code_name": "ulianaSawFade_springfes"
+  },
+  {
+    "id": 744,
+    "code_name": "ulianaFistPowerUp_springfest"
+  },
+  {
+    "id": 745,
+    "code_name": "hero_seebee__qiefan_slashImage_asura_0"
+  },
+  {
+    "id": 746,
+    "code_name": "hero_seebee__qiefan_slashImage_asura_1"
+  },
+  {
+    "id": 747,
+    "code_name": "hero_seebee__qiefan_slashImage_asura_2"
+  },
+  {
+    "id": 748,
+    "code_name": "hero_seebee__qiefan_slashImage_asura_3"
+  },
+  {
+    "id": 749,
+    "code_name": "hero_seebee__thunderCombo_zhaoguang_asura"
+  },
+  {
+    "id": 750,
+    "code_name": "seebee_thunderCombo_asuraLaser_asura"
+  },
+  {
+    "id": 751,
+    "code_name": "hero_seebee_asura_attack1"
+  },
+  {
+    "id": 752,
+    "code_name": "hero_seebee_asura_attack2"
+  },
+  {
+    "id": 753,
+    "code_name": "hero_seebee_asura_attack3"
+  },
+  {
+    "id": 754,
+    "code_name": "hero_seebee_asura_avoid"
+  },
+  {
+    "id": 755,
+    "code_name": "hero_seebee__thunder_slash_extra1_asura"
+  },
+  {
+    "id": 756,
+    "code_name": "hero_seebee__thunder_slash_extra2_asura"
+  },
+  {
+    "id": 757,
+    "code_name": "hero_seebee__thunder_slash_extra3_asura"
+  },
+  {
+    "id": 758,
+    "code_name": "hero_seebee__thunder_slash_extra4_asura"
+  },
+  {
+    "id": 759,
+    "code_name": "hero_seebee_asura_qiefan_flash_extra"
+  },
+  {
+    "id": 760,
+    "code_name": "ulianaBackJumpSlash_springfes"
+  },
+  {
+    "id": 761,
+    "code_name": "ulianaForwardJumpSlash_springfes"
+  },
+  {
+    "id": 762,
+    "code_name": "hero_seebee__oneSlash_flash_extra_asura"
+  },
+  {
+    "id": 763,
+    "code_name": "hero_seebee__qiefan_preSlashIllustrate_asura_0"
+  },
+  {
+    "id": 764,
+    "code_name": "hero_seebee__qiefan_preSlashIllustrate_asura_1"
+  },
+  {
+    "id": 765,
+    "code_name": "hero_seebee__qiefan_preSlashIllustrate_asura_2"
+  },
+  {
+    "id": 766,
+    "code_name": "hero_seebee__qiefan_preSlashIllustrate_asura_3"
+  },
+  {
+    "id": 767,
+    "code_name": "hero_seebee__oneSlash_flash_extra1_asura"
+  },
+  {
+    "id": 768,
+    "code_name": "hero_seebee__oneSlash_flash_extra2_asura"
+  },
+  {
+    "id": 769,
+    "code_name": "hero_seebee__oneSlash_sakula_asura"
+  },
+  {
+    "id": 770,
+    "code_name": "hero_seebee__oneSlash_flash_extra3_asura"
+  },
+  {
+    "id": 771,
+    "code_name": "hero_seebee__oneSlash_flash_extra4_asura"
+  },
+  {
+    "id": 772,
+    "code_name": "hero_seebee_asura_qiefan_circle_hold"
+  },
+  {
+    "id": 773,
+    "code_name": "hero_seebee_asura_qiefan_circle_fade"
+  },
+  {
+    "id": 774,
+    "code_name": "seebee_thunderCombo_asuraLaserGround_asura"
+  },
+  {
+    "id": 775,
+    "code_name": "lavaBallBoom"
+  },
+  {
+    "id": 776,
+    "code_name": "summonMagicEffect"
+  },
+  {
+    "id": 777,
+    "code_name": "fireGodSlashEffect"
+  },
+  {
+    "id": 778,
+    "code_name": "laserRibbonEffect"
+  },
+  {
+    "id": 779,
+    "code_name": "laserRibbonEffect_green"
+  },
+  {
+    "id": 780,
+    "code_name": "newProgressiveItemShowEffect"
+  },
+  {
+    "id": 781,
+    "code_name": "anibellaMagic"
+  },
+  {
+    "id": 782,
+    "code_name": "fireGodEnergyStorage"
+  },
+  {
+    "id": 783,
+    "code_name": "fireBoomFireGod"
+  },
+  {
+    "id": 784,
+    "code_name": "anibellaPetDeathEffect"
+  },
+  {
+    "id": 785,
+    "code_name": "redFireRock"
+  },
+  {
+    "id": 786,
+    "code_name": "redFireRockBoom"
+  },
+  {
+    "id": 787,
+    "code_name": "magicCircleBrokenEffect"
+  },
+  {
+    "id": 788,
+    "code_name": "magicWitchKillerStartTransfer"
+  },
+  {
+    "id": 789,
+    "code_name": "magicWitchKillerEndTransfer"
+  },
+  {
+    "id": 790,
+    "code_name": "magicArmorStatueSlash"
+  },
+  {
+    "id": 791,
+    "code_name": "magicBossDemonFormVoidAttackVFX"
+  },
+  {
+    "id": 792,
+    "code_name": "magicBossDemonFormEliminateVFX"
+  },
+  {
+    "id": 793,
+    "code_name": "fireStorm"
+  },
+  {
+    "id": 794,
+    "code_name": "expandCircleAlert"
+  },
+  {
+    "id": 795,
+    "code_name": "magicBossDemonFormFlameArmorVFX"
+  },
+  {
+    "id": 796,
+    "code_name": "magicBossDemonFormFlameArmorFireBallExplosion"
+  },
+  {
+    "id": 797,
+    "code_name": "magicBossCollectEnergia"
+  },
+  {
+    "id": 798,
+    "code_name": "hero_hannah__handGunFire_exorcist"
+  },
+  {
+    "id": 799,
+    "code_name": "hero_hannah__sniperSmoke_exorcist"
+  },
+  {
+    "id": 800,
+    "code_name": "ChainBreakBlueVFX"
+  },
+  {
+    "id": 801,
+    "code_name": "ChainBreakGreenVFX"
+  },
+  {
+    "id": 802,
+    "code_name": "ChainBreakYellowVFX"
+  },
+  {
+    "id": 803,
+    "code_name": "blackAttackArc"
+  },
+  {
+    "id": 804,
+    "code_name": "hero_hannah__rapidFireAim_exorcist"
+  },
+  {
+    "id": 805,
+    "code_name": "hero_hannah__sniperFireSmoke_exorcist"
+  },
+  {
+    "id": 806,
+    "code_name": "hero_hannah__sniperGunHitEx_exorcist"
+  },
+  {
+    "id": 807,
+    "code_name": "hero_hannah__shotGunSmoke_exorcist"
+  },
+  {
+    "id": 808,
+    "code_name": "hero_hannah__shotGunHit_exorcist"
+  },
+  {
+    "id": 809,
+    "code_name": "hero_hannah__shotGunSmokeEx_exorcist"
+  },
+  {
+    "id": 810,
+    "code_name": "magicWitchKillerSlash"
+  },
+  {
+    "id": 811,
+    "code_name": "magicWitchKillerEyeTrail"
+  },
+  {
+    "id": 812,
+    "code_name": "magicBossDemonFormEyeballEmitFlame"
+  },
+  {
+    "id": 813,
+    "code_name": "hero_hannah__revolverFireSmoke_exorcist"
+  },
+  {
+    "id": 814,
+    "code_name": "hero_hannah__revolverFireSmokeEx_exorcist"
+  },
+  {
+    "id": 815,
+    "code_name": "hero_hannah__revolverBoom_exorcist"
+  },
+  {
+    "id": 816,
+    "code_name": "hero_hannah__revolverBoomEx_exorcist"
+  },
+  {
+    "id": 817,
+    "code_name": "hero_hayfa__markedDebuffEffect_magician"
+  },
+  {
+    "id": 818,
+    "code_name": "hero_hayfa__comboBackJumpAttackEffect_magician"
+  },
+  {
+    "id": 819,
+    "code_name": "burnFloorLineGreen"
+  },
+  {
+    "id": 820,
+    "code_name": "hero_hannah__shotGunHitEx_exorcist"
+  },
+  {
+    "id": 821,
+    "code_name": "sacrificePlusEffect"
+  },
+  {
+    "id": 822,
+    "code_name": "hero_hayfa__servantBodyDeathBoom_magician"
+  },
+  {
+    "id": 823,
+    "code_name": "hero_hayfa__tieXianZhanBodyEffect_magician"
+  },
+  {
+    "id": 824,
+    "code_name": "hero_hayfa__singleSlashEffectOnPath_magician"
+  },
+  {
+    "id": 825,
+    "code_name": "hero_hayfa__comboBackJumpAttackPurpleEffect_magician"
+  },
+  {
+    "id": 826,
+    "code_name": "hero_hayfa__singleSlashEffect_magician"
+  },
+  {
+    "id": 827,
+    "code_name": "hero_hayfa__shadowHideHostMan_magician"
+  },
+  {
+    "id": 828,
+    "code_name": "summonMagicEffect_Purple"
+  },
+  {
+    "id": 829,
+    "code_name": "hero_hayfa__tieXianZhanBackAttackLightEffect_magician"
+  },
+  {
+    "id": 830,
+    "code_name": "hero_hayfa__servantBodyBing_magician"
+  },
+  {
+    "id": 831,
+    "code_name": "hero_katherine__bigFlameBallBoom_professor"
+  },
+  {
+    "id": 832,
+    "code_name": "hero_hayfa__shadowBackAttackEffect_magician"
+  },
+  {
+    "id": 833,
+    "code_name": "hero_katherine__bigFlameBallBoomNormal_professor"
+  },
+  {
+    "id": 834,
+    "code_name": "hero_katherine__attackBodyVFX_professor"
+  },
+  {
+    "id": 835,
+    "code_name": "hero_hayfa__tuduBackJumpAttackEffect_magician"
+  },
+  {
+    "id": 836,
+    "code_name": "hero_hayfa__tuduPoisonBoomEffect_magician"
+  },
+  {
+    "id": 837,
+    "code_name": "hero_katherine__circle_display_professor"
+  },
+  {
+    "id": 838,
+    "code_name": "hero_katherine__thunder_professor"
+  },
+  {
+    "id": 839,
+    "code_name": "magicBossWitchCastHyperFreezeVFX"
+  },
+  {
+    "id": 840,
+    "code_name": "magicChainedBlueVFX"
+  },
+  {
+    "id": 841,
+    "code_name": "magicChainedGreenVFX"
+  },
+  {
+    "id": 842,
+    "code_name": "magicChainedYellowVFX"
+  },
+  {
+    "id": 843,
+    "code_name": "fireJet_professor"
+  },
+  {
+    "id": 844,
+    "code_name": "hero_katherine__bigFlameBallBoomTrap_professor"
+  },
+  {
+    "id": 845,
+    "code_name": "blinkDust_professor"
+  },
+  {
+    "id": 846,
+    "code_name": "hero_katherine__thunderLine_professor"
+  },
+  {
+    "id": 847,
+    "code_name": "hero_adira__strongAttackHint"
+  },
+  {
+    "id": 848,
+    "code_name": "hero_adira__strongAttackTriggered"
+  },
+  {
+    "id": 849,
+    "code_name": "hero_adira__groundDustUp"
+  },
+  {
+    "id": 850,
+    "code_name": "hero_adira__groundDustFront"
+  },
+  {
+    "id": 851,
+    "code_name": "hero_adira__groundDustBack"
+  },
+  {
+    "id": 852,
+    "code_name": "hero_adira__downSlashGroundBreak"
+  },
+  {
+    "id": 853,
+    "code_name": "hero_adira__downSlashHandGather"
+  },
+  {
+    "id": 854,
+    "code_name": "hero_adira__upSlashSparkle"
+  },
+  {
+    "id": 855,
+    "code_name": "hero_adira__upSlashSparkle1"
+  },
+  {
+    "id": 856,
+    "code_name": "hero_adira__upSlashAttack"
+  },
+  {
+    "id": 857,
+    "code_name": "hero_adira__whirlwindSlashContinued"
+  },
+  {
+    "id": 858,
+    "code_name": "hero_adira__backStepSlashRemain"
+  },
+  {
+    "id": 859,
+    "code_name": "hero_adira__backStepSlashDash"
+  },
+  {
+    "id": 860,
+    "code_name": "hero_adira__backStepSlashChargeHint"
+  },
+  {
+    "id": 861,
+    "code_name": "hero_adira__backStepSlashChargeHint1"
+  },
+  {
+    "id": 862,
+    "code_name": "hero_adira__backStepSlashChargeHint2"
+  },
+  {
+    "id": 863,
+    "code_name": "hero_adira__backStepSlashChargeTriggered"
+  },
+  {
+    "id": 864,
+    "code_name": "hero_adira__backStepSlashChargeTriggered1"
+  },
+  {
+    "id": 865,
+    "code_name": "hero_adira__backStepSlashChargeTriggered2"
+  },
+  {
+    "id": 866,
+    "code_name": "hero_adira__strongAttackLight"
+  },
+  {
+    "id": 867,
+    "code_name": "hero_adira__strongAttackLight1"
+  },
+  {
+    "id": 868,
+    "code_name": "hero_adira__strongAttackLight2"
+  },
+  {
+    "id": 869,
+    "code_name": "hero_adira__strongAttackLight3"
+  },
+  {
+    "id": 870,
+    "code_name": "hero_adira__upSlashStyle1Release"
+  },
+  {
+    "id": 871,
+    "code_name": "hero_adira__upSlashStyle2Release"
+  },
+  {
+    "id": 872,
+    "code_name": "hero_adira__upSlashStyle3Release"
+  },
+  {
+    "id": 873,
+    "code_name": "hero_adira__backStepSlashHitTyrant"
+  },
+  {
+    "id": 874,
+    "code_name": "hero_adira__backStepToOtherSkillTriggered"
+  },
+  {
+    "id": 875,
+    "code_name": "coinBoom"
+  },
+  {
+    "id": 876,
+    "code_name": "fireDanceRemoteMagicBall"
+  },
+  {
+    "id": 877,
+    "code_name": "fireDanceMonsterDead"
+  },
+  {
+    "id": 878,
+    "code_name": "fireDanceProtectKillAllMonster"
+  },
+  {
+    "id": 879,
+    "code_name": "fireDanceRemoteMagicBallTrigger"
+  },
+  {
+    "id": 880,
+    "code_name": "darkMonsterAppear"
+  },
+  {
+    "id": 881,
+    "code_name": "fireDanceBigMonsterEffect"
+  },
+  {
+    "id": 882,
+    "code_name": "attackAlertEffect_Circle"
+  },
+  {
+    "id": 883,
+    "code_name": "jumpSmoke_stoneEye"
+  },
+  {
+    "id": 884,
+    "code_name": "boomAsh_stoneEye"
+  },
+  {
+    "id": 885,
+    "code_name": "boomDust_stoneEye"
+  },
+  {
+    "id": 886,
+    "code_name": "attackAlertEffect_QuarterCircle"
+  },
+  {
+    "id": 887,
+    "code_name": "boomQuarterCircle_stoneEye"
+  },
+  {
+    "id": 888,
+    "code_name": "stoneEyeEnergyStorage"
+  },
+  {
+    "id": 889,
+    "code_name": "shildBlock_stoneEye"
+  },
+  {
+    "id": 890,
+    "code_name": "attackAlertEffect_Quad"
+  },
+  {
+    "id": 891,
+    "code_name": "boomQuad_stoneEye"
+  },
+  {
+    "id": 892,
+    "code_name": "fireDanceGlitterBallDead"
+  },
+  {
+    "id": 893,
+    "code_name": "fireDanceGlitterBallFlash"
+  },
+  {
+    "id": 894,
+    "code_name": "fireDanceGlitterBallAppear"
+  },
+  {
+    "id": 895,
+    "code_name": "stoneBeAttackEffect"
+  },
+  {
+    "id": 896,
+    "code_name": "fireDanceStoneEyeDrop"
+  },
+  {
+    "id": 897,
+    "code_name": "attackAlertEffect_HalfCircle_Clockwise"
+  },
+  {
+    "id": 898,
+    "code_name": "halfCircle_fireSlash"
+  },
+  {
+    "id": 899,
+    "code_name": "fireSoldierEnergyStorage"
+  },
+  {
+    "id": 900,
+    "code_name": "fireSoldierEnergyStorage_plus"
+  },
+  {
+    "id": 901,
+    "code_name": "boomFireAsh_fireSoldier"
+  },
+  {
+    "id": 902,
+    "code_name": "fireSoldierChangeWeaponEffect"
+  },
+  {
+    "id": 903,
+    "code_name": "fireSoldierDisAppear"
+  },
+  {
+    "id": 904,
+    "code_name": "fireSoldierAppear"
+  },
+  {
+    "id": 905,
+    "code_name": "fireSoldierFakeBodyDead"
+  },
+  {
+    "id": 906,
+    "code_name": "fireSoldierShadowAppear"
+  },
+  {
+    "id": 907,
+    "code_name": "fireSoldierBreakDefense"
+  },
+  {
+    "id": 908,
+    "code_name": "fireSoldierBreakDefenseBack"
+  },
+  {
+    "id": 909,
+    "code_name": "fireSoldierBeAttackEffect"
+  },
+  {
+    "id": 910,
+    "code_name": "boomFire_FireSoldier"
+  },
+  {
+    "id": 911,
+    "code_name": "furyEffect_FireSoldier"
+  },
+  {
+    "id": 912,
+    "code_name": "furyBodyEffect_FireSoldier"
+  },
+  {
+    "id": 913,
+    "code_name": "smoke_FireSoldier"
+  },
+  {
+    "id": 914,
+    "code_name": "furyEffect_BigFire"
+  },
+  {
+    "id": 915,
+    "code_name": "garo_fireButterfly"
+  },
+  {
+    "id": 916,
+    "code_name": "attackAlertEffect_QuadMid"
+  },
+  {
+    "id": 917,
+    "code_name": "butterflyDisAppearFlash"
+  },
+  {
+    "id": 918,
+    "code_name": "garoButterflyFireBall"
+  },
+  {
+    "id": 919,
+    "code_name": "bodyEffect_garo"
+  },
+  {
+    "id": 920,
+    "code_name": "garo_fireButterflyCam"
+  },
+  {
+    "id": 921,
+    "code_name": "oneSlashFire"
+  },
+  {
+    "id": 922,
+    "code_name": "garoButterflyFireBallDropBomb"
+  },
+  {
+    "id": 923,
+    "code_name": "garoButterflyFireBallDropBomb_Big_UpDown"
+  },
+  {
+    "id": 924,
+    "code_name": "garoButterflyFireBallDropBomb_Big_LeftRight"
+  },
+  {
+    "id": 925,
+    "code_name": "garoBackGround"
+  },
+  {
+    "id": 926,
+    "code_name": "garoFuryShapeshiftToBall"
+  },
+  {
+    "id": 927,
+    "code_name": "garoFuryBackGroundShapeshiftToBall"
+  },
+  {
+    "id": 928,
+    "code_name": "garoFuryFinalDrop"
+  },
+  {
+    "id": 929,
+    "code_name": "garoFurySafeArea"
+  },
+  {
+    "id": 930,
+    "code_name": "garoFuryFinalExp"
+  },
+  {
+    "id": 931,
+    "code_name": "garoButterflyDead"
+  },
+  {
+    "id": 932,
+    "code_name": "butterflyWindBlowBox"
+  },
+  {
+    "id": 933,
+    "code_name": "stoneEyeAppear"
+  },
+  {
+    "id": 934,
+    "code_name": "fireSoldierStartAppear"
+  },
+  {
+    "id": 935,
+    "code_name": "butterflyBossAppear"
+  },
+  {
+    "id": 936,
+    "code_name": "waterBallBoom"
+  },
+  {
+    "id": 937,
+    "code_name": "butterflyBreak"
+  },
+  {
+    "id": 938,
+    "code_name": "waterSteam"
+  },
+  {
+    "id": 939,
+    "code_name": "butterflyBossHold"
+  },
+  {
+    "id": 940,
+    "code_name": "garoAppear"
+  },
+  {
+    "id": 941,
+    "code_name": "garoAppear_2"
+  },
+  {
+    "id": 942,
+    "code_name": "fantasyMirrorDead"
+  },
+  {
+    "id": 943,
+    "code_name": "garoButterflyRipple"
+  },
+  {
+    "id": 944,
+    "code_name": "butterflyEscapeFloorEffect"
+  },
+  {
+    "id": 945,
+    "code_name": "flowerChangeCoverEffect"
+  },
+  {
+    "id": 946,
+    "code_name": "hero_quanhuying__hupuzi_menghu_gather_asura"
+  },
+  {
+    "id": 947,
+    "code_name": "flowerHugeDamageEffect"
+  },
+  {
+    "id": 948,
+    "code_name": "hero_quanhuying__hupuzi_menghu_release_asura"
+  },
+  {
+    "id": 949,
+    "code_name": "hero_quanhuying__energyGather_3D_asura"
+  },
+  {
+    "id": 950,
+    "code_name": "hero_quanhuying__blackShine_asura"
+  },
+  {
+    "id": 951,
+    "code_name": "hero_quanhuying__hupuzi_release_asura"
+  },
+  {
+    "id": 952,
+    "code_name": "hero_quanhuying__tieshankao_asura"
+  },
+  {
+    "id": 953,
+    "code_name": "hero_quanhuying__DiLeiZhenTraceEffect_asura"
+  },
+  {
+    "id": 954,
+    "code_name": "hero_quanhuying__leicha_release_asura"
+  },
+  {
+    "id": 955,
+    "code_name": "hero_quanhuying__Leicha2Fire_asura"
+  },
+  {
+    "id": 956,
+    "code_name": "hero_seebee__thunderCombo_zhaoguang_omega"
+  },
+  {
+    "id": 957,
+    "code_name": "hero_quanhuying__earthPower_asura"
+  },
+  {
+    "id": 958,
+    "code_name": "hero_seebee__oneSlash_flash_extra1_omega"
+  },
+  {
+    "id": 959,
+    "code_name": "hero_seebee__oneSlash_flash_extra2_omega"
+  },
+  {
+    "id": 960,
+    "code_name": "hero_seebee__oneSlash_flash_extra_omega"
+  },
+  {
+    "id": 961,
+    "code_name": "hero_seebee__oneSlash_flash_extra3_omega"
+  },
+  {
+    "id": 962,
+    "code_name": "hero_seebee__oneSlash_flash_extra4_omega"
+  },
+  {
+    "id": 963,
+    "code_name": "hero_seebee__thunder_slash_extra1_omega"
+  },
+  {
+    "id": 964,
+    "code_name": "hero_seebee__thunder_slash_extra2_omega"
+  },
+  {
+    "id": 965,
+    "code_name": "hero_seebee__thunder_slash_extra3_omega"
+  },
+  {
+    "id": 966,
+    "code_name": "hero_seebee__thunder_slash_extra4_omega"
+  },
+  {
+    "id": 967,
+    "code_name": "hero_seebee__qiefan_preSlashIllustrate0_omega"
+  },
+  {
+    "id": 968,
+    "code_name": "hero_seebee__qiefan_preSlashIllustrate1_omega"
+  },
+  {
+    "id": 969,
+    "code_name": "hero_seebee__qiefan_preSlashIllustrate2_omega"
+  },
+  {
+    "id": 970,
+    "code_name": "bloodBleedSputtering"
+  },
+  {
+    "id": 971,
+    "code_name": "hero_seebee__qiefan_slashImage0_omega"
+  },
+  {
+    "id": 972,
+    "code_name": "hero_seebee__qiefan_slashImage1_omega"
+  },
+  {
+    "id": 973,
+    "code_name": "hero_seebee__qiefan_slashImage2_omega"
+  },
+  {
+    "id": 974,
+    "code_name": "hero_seebee__oneSlash_sakula_omega"
+  },
+  {
+    "id": 975,
+    "code_name": "hero_seebee__thunder_slash_style2_extra1_omega"
+  },
+  {
+    "id": 976,
+    "code_name": "hero_seebee__thunder_slash_style2_extra2_omega"
+  },
+  {
+    "id": 977,
+    "code_name": "hero_seebee__thunder_slash_style2_extra3_omega"
+  },
+  {
+    "id": 978,
+    "code_name": "hero_seebee__thunder_slash_style2_extra4_omega"
+  },
+  {
+    "id": 979,
+    "code_name": "hero_seebee__baizhiniao_cut_omega"
+  },
+  {
+    "id": 980,
+    "code_name": "hero_seebee__oneSlash_sakula2_omega"
+  },
+  {
+    "id": 981,
+    "code_name": "hero_seebee__oneSlash_sakula3_omega"
+  },
+  {
+    "id": 982,
+    "code_name": "shockWave"
+  },
+  {
+    "id": 983,
+    "code_name": "hero_seebee__oneSlash_sakula4_omega"
+  },
+  {
+    "id": 984,
+    "code_name": "hero_akaisha__MeleeAttackCut_princess"
+  },
+  {
+    "id": 985,
+    "code_name": "hero_akaisha__arrowShoot_princess"
+  },
+  {
+    "id": 986,
+    "code_name": "hero_akaisha__ArrowRainCircleDisplay_princess"
+  },
+  {
+    "id": 987,
+    "code_name": "hero_akaisha__ArrowRainCircleDisplayStyle0_princess"
+  },
+  {
+    "id": 988,
+    "code_name": "hero_akaisha__TrapCircle_princess"
+  },
+  {
+    "id": 989,
+    "code_name": "hero_akaisha__TrapBoom_princess"
+  },
+  {
+    "id": 990,
+    "code_name": "hero_akaisha__TrapCircle1_princess"
+  },
+  {
+    "id": 991,
+    "code_name": "hero_akaisha__TrapCircle2_princess"
+  },
+  {
+    "id": 992,
+    "code_name": "hero_akaisha__TrapCircle3_princess"
+  },
+  {
+    "id": 993,
+    "code_name": "hero_akaisha__arrowSpark_princess"
+  },
+  {
+    "id": 994,
+    "code_name": "hero_akaisha__holdPower_princess"
+  },
+  {
+    "id": 995,
+    "code_name": "hero_akaisha__TornadoArrowEffect_princess"
+  },
+  {
+    "id": 996,
+    "code_name": "hero_yangkyi__skill1_wall_effect"
+  },
+  {
+    "id": 997,
+    "code_name": "hero_yangkyi__skill1_wall_effect_reverse"
+  },
+  {
+    "id": 998,
+    "code_name": "hero_yangkyi__skill1_circle_release_effect"
+  },
+  {
+    "id": 999,
+    "code_name": "hero_yangkyi__skill1_side_release_effect"
+  },
+  {
+    "id": 1000,
+    "code_name": "hero_yangkyi__skill2_aim_circle_effect"
+  },
+  {
+    "id": 1001,
+    "code_name": "hero_yangkyi__skill2_wind_effect"
+  },
+  {
+    "id": 1002,
+    "code_name": "hero_yangkyi__skill3_style2_explode_effect"
+  },
+  {
+    "id": 1003,
+    "code_name": "hero_yangkyi__skill3_style3_release_effect"
+  },
+  {
+    "id": 1004,
+    "code_name": "hero_yangkyi__feather_ball_effect"
+  },
+  {
+    "id": 1005,
+    "code_name": "hero_yangkyi__full_stack_body_effect"
+  },
+  {
+    "id": 1006,
+    "code_name": "hero_yangkyi__feather_road_trail_effect"
+  },
+  {
+    "id": 1007,
+    "code_name": "hero_yangkyi__skill2_small_wind_effect"
+  },
+  {
+    "id": 1008,
+    "code_name": "hero_yangkyi__autoAttack_emit_effect"
+  },
+  {
+    "id": 1009,
+    "code_name": "hero_yangkyi__skill1_style3_hit_effect"
+  },
+  {
+    "id": 1010,
+    "code_name": "hero_yangkyi__mark_area_explode_effect"
+  },
+  {
+    "id": 1011,
+    "code_name": "hero_yangkyi__green_onhit_effect"
+  },
+  {
+    "id": 1012,
+    "code_name": "bigThunder_weaponPower"
+  },
+  {
+    "id": 1013,
+    "code_name": "handFire_purple"
+  },
+  {
+    "id": 1014,
+    "code_name": "boxingWind"
+  },
+  {
+    "id": 1015,
+    "code_name": "airBillow"
+  },
+  {
+    "id": 1016,
+    "code_name": "hero_yangkyi__absorb_flying_energy"
+  },
+  {
+    "id": 1017,
+    "code_name": "hero_yangkyi__dodge_wind"
+  },
+  {
+    "id": 1018,
+    "code_name": "hero_yangkyi__skill1_wall_effect_dissolve"
+  },
+  {
+    "id": 1019,
+    "code_name": "XSlash"
+  },
+  {
+    "id": 1020,
+    "code_name": "hero_yangkyi__full_mark_exp_effect"
+  },
+  {
+    "id": 1021,
+    "code_name": "hero_youzi__MachineGunMuzzleFlash"
+  },
+  {
+    "id": 1022,
+    "code_name": "hero_youzi__MachineGunPopShell"
+  },
+  {
+    "id": 1023,
+    "code_name": "hero_youzi__OverHeatGasEffect"
+  },
+  {
+    "id": 1024,
+    "code_name": "hero_youzi__ReleaseHeatGasEffect"
+  },
+  {
+    "id": 1025,
+    "code_name": "hero_youzi__ReleaseMissileEffect"
+  },
+  {
+    "id": 1026,
+    "code_name": "hero_youzi__MissileExplode"
+  },
+  {
+    "id": 1027,
+    "code_name": "hero_youzi__MissileBombExplode"
+  },
+  {
+    "id": 1028,
+    "code_name": "hero_youzi__PillarExplode"
+  },
+  {
+    "id": 1029,
+    "code_name": "hero_youzi__PillarExplodeFlameBall"
+  },
+  {
+    "id": 1030,
+    "code_name": "hero_youzi__PillarExplodeStaticField"
+  },
+  {
+    "id": 1031,
+    "code_name": "hero_youzi__PillarExplodeForceField"
+  },
+  {
+    "id": 1032,
+    "code_name": "hero_youzi__PillarHitGround"
+  },
+  {
+    "id": 1033,
+    "code_name": "hero_youzi__PillarExplodeForceFieldSecondExplode"
+  },
+  {
+    "id": 1034,
+    "code_name": "hero_ruthven_god_skin_normal_slash"
+  },
+  {
+    "id": 1035,
+    "code_name": "hero_ruthven_god_skin_devil_slash"
+  },
+  {
+    "id": 1036,
+    "code_name": "hero_ruthven_god_skin_torture_circle"
+  },
+  {
+    "id": 1037,
+    "code_name": "hero_ruthven_god_skin_crazy"
+  },
+  {
+    "id": 1038,
+    "code_name": "hero_ruthven_god_skin_devil_renge"
+  },
+  {
+    "id": 1039,
+    "code_name": "heroSeatHintExclaimationMark"
+  },
+  {
+    "id": 1040,
+    "code_name": "hero_anibella_call_pet_astronaut"
+  },
+  {
+    "id": 1041,
+    "code_name": "hero_anibella_fire_god_slash_astronaut"
+  },
+  {
+    "id": 1042,
+    "code_name": "electronicBallBoom"
+  },
+  {
+    "id": 1043,
+    "code_name": "hero_anibella_astronaut_combo_effect"
+  },
+  {
+    "id": 1044,
+    "code_name": "hero_anibella_astronaut_mark_laser"
+  },
+  {
+    "id": 1045,
+    "code_name": "hero_anibella_astronaut_mark_green_laser"
+  },
+  {
+    "id": 1046,
+    "code_name": "hero_anibella_astronaut_fire_boom"
+  },
+  {
+    "id": 1047,
+    "code_name": "hero_anibella_astronaut_energy_storage"
+  },
+  {
+    "id": 1048,
+    "code_name": "hero_anibella_astronaut_pet_death"
+  },
+  {
+    "id": 1049,
+    "code_name": "lavaPoolEffect"
+  },
+  {
+    "id": 1050,
+    "code_name": "hero_anibella_astronaut_dead_boom"
+  },
+  {
+    "id": 1051,
+    "code_name": "hero_anibella_astronaut_fireStorm"
+  },
+  {
+    "id": 1052,
+    "code_name": "hero_ruthven_god_skin_torture_circle_normal"
+  },
+  {
+    "id": 1053,
+    "code_name": "hero_ruthven_god_skin_normal_strong_sword"
+  },
+  {
+    "id": 1054,
+    "code_name": "hero_ruthven_god_skin_devil_strong_sword"
+  },
+  {
+    "id": 1055,
+    "code_name": "ulianaiceBomb_captain"
+  },
+  {
+    "id": 1056,
+    "code_name": "ulianaExplosionBoomEffect_captain"
+  },
+  {
+    "id": 1057,
+    "code_name": "ulianaOneSlashExtra_captain"
+  },
+  {
+    "id": 1058,
+    "code_name": "powerFist_Uliana_captain"
+  },
+  {
+    "id": 1059,
+    "code_name": "ulianaSlash_captain"
+  },
+  {
+    "id": 1060,
+    "code_name": "ulianaDance_captain"
+  },
+  {
+    "id": 1061,
+    "code_name": "ulianaChillSlashDebuffFog_captain"
+  },
+  {
+    "id": 1062,
+    "code_name": "bloodBleedSlash_god_normal"
+  },
+  {
+    "id": 1063,
+    "code_name": "bloodBleedSlash_god_devil"
+  },
+  {
+    "id": 1064,
+    "code_name": "ulianaBackJumpSlash_captain"
+  },
+  {
+    "id": 1065,
+    "code_name": "ulianaForwardJumpSlash_captain"
+  },
+  {
+    "id": 1066,
+    "code_name": "hero_youzi__GunExplodeEffect"
+  },
+  {
+    "id": 1067,
+    "code_name": "ulianaGun_captain"
+  },
+  {
+    "id": 1068,
+    "code_name": "ulianaCannon_captain"
+  },
+  {
+    "id": 1069,
+    "code_name": "ulianaCallShip_captain"
+  },
+  {
+    "id": 1070,
+    "code_name": "ulianaCallShark_captain"
+  },
+  {
+    "id": 1071,
+    "code_name": "ulianaSawFade_captain"
+  },
+  {
+    "id": 1072,
+    "code_name": "ulianaShipRush_captain"
+  },
+  {
+    "id": 1073,
+    "code_name": "ulianaSharkRush_captain"
+  },
+  {
+    "id": 1074,
+    "code_name": "hero_youzi__OverHeatBodyFlame"
+  },
+  {
+    "id": 1075,
+    "code_name": "ruthven_god_skin_into_normal"
+  },
+  {
+    "id": 1076,
+    "code_name": "ruthven_god_skin_into_devil"
+  },
+  {
+    "id": 1077,
+    "code_name": "ruthven_god_skin_crazy_fade_out"
+  },
+  {
+    "id": 1078,
+    "code_name": "ruthven_god_skin_power_damage_circle"
+  },
+  {
+    "id": 1079,
+    "code_name": "hero_yufeng__Skill1BladeAirWave"
+  },
+  {
+    "id": 1080,
+    "code_name": "skill_vfx_placeholder_box"
+  },
+  {
+    "id": 1081,
+    "code_name": "skill_vfx_placeholder_sphere"
+  },
+  {
+    "id": 1082,
+    "code_name": "hero_yufeng__Skill2AreaSlashes"
+  },
+  {
+    "id": 1083,
+    "code_name": "hero_yufeng__BigSlashLight"
+  },
+  {
+    "id": 1084,
+    "code_name": "hero_yufeng__SmallSlashLight"
+  },
+  {
+    "id": 1085,
+    "code_name": "hero_yufeng__WhiteDownSlashLight"
+  },
+  {
+    "id": 1086,
+    "code_name": "plumBlossomBoom_christmas"
+  },
+  {
+    "id": 1087,
+    "code_name": "heyaoShoutAsh_christmas"
+  },
+  {
+    "id": 1088,
+    "code_name": "heyaoFireAttack_christmas_snow_fall"
+  },
+  {
+    "id": 1089,
+    "code_name": "heyaoFireAttackArc_1_christmas"
+  },
+  {
+    "id": 1090,
+    "code_name": "heyaoEnergyStorage_christmas"
+  },
+  {
+    "id": 1091,
+    "code_name": "heyaoKnifeLight_1_christmas"
+  },
+  {
+    "id": 1092,
+    "code_name": "heyaoKnifeLight_2_christmas"
+  },
+  {
+    "id": 1093,
+    "code_name": "bigNeedleRotateCut_christmas"
+  },
+  {
+    "id": 1094,
+    "code_name": "xuanshe_christmas_snowball_boom_lite"
+  },
+  {
+    "id": 1095,
+    "code_name": "xuanshe_christmas_snowball_boom"
+  },
+  {
+    "id": 1096,
+    "code_name": "hero_yufeng__Skill2Style2Charge"
+  },
+  {
+    "id": 1097,
+    "code_name": "hero_yufeng__Skill2Style2Release"
+  },
+  {
+    "id": 1098,
+    "code_name": "hero_yufeng__Skill1BladeAirWaveForward"
+  },
+  {
+    "id": 1099,
+    "code_name": "hero_yufeng__Skill3DashSmoke"
+  },
+  {
+    "id": 1100,
+    "code_name": "hero_wufei__Skill3ShatteredArrows"
+  },
+  {
+    "id": 1101,
+    "code_name": "hero_wufei__Skill3ShatteredArrowsExplosion"
+  },
+  {
+    "id": 1102,
+    "code_name": "hero_wufei__Skill1PickUpSword"
+  },
+  {
+    "id": 1103,
+    "code_name": "hero_wufei__KickHitBlade"
+  },
+  {
+    "id": 1104,
+    "code_name": "hero_wufei__ArrowHitBlade"
+  },
+  {
+    "id": 1105,
+    "code_name": "hero_wufei__SpinKickAir"
+  },
+  {
+    "id": 1106,
+    "code_name": "hero_adira__strongAttackLight_fireKnight"
+  },
+  {
+    "id": 1107,
+    "code_name": "hero_adira__strongAttackLight1_fireKnight"
+  },
+  {
+    "id": 1108,
+    "code_name": "hero_adira__strongAttackLight2_fireKnight"
+  },
+  {
+    "id": 1109,
+    "code_name": "hero_adira__strongAttackLight3_fireKnight"
+  },
+  {
+    "id": 1110,
+    "code_name": "hero_adira__groundDustUp_fireKnight"
+  },
+  {
+    "id": 1111,
+    "code_name": "hero_adira__groundDustFront_fireKnight"
+  },
+  {
+    "id": 1112,
+    "code_name": "hero_adira__groundDustBack_fireKnight"
+  },
+  {
+    "id": 1113,
+    "code_name": "hero_wufei__Skill3ShootVFX"
+  },
+  {
+    "id": 1114,
+    "code_name": "hero_adira__backStepSlashHitTyrant_fireKnight"
+  },
+  {
+    "id": 1115,
+    "code_name": "hero_adira__upSlashStyle1Release_fireKnight"
+  },
+  {
+    "id": 1116,
+    "code_name": "hero_adira__upSlashStyle2Release_fireKnight"
+  },
+  {
+    "id": 1117,
+    "code_name": "hero_adira__downSlashGroundBreak_fireKnight"
+  },
+  {
+    "id": 1118,
+    "code_name": "hero_adira__upSlashSparkle_fireKnight"
+  },
+  {
+    "id": 1119,
+    "code_name": "hero_adira__upSlashSparkle1_fireKnight"
+  },
+  {
+    "id": 1120,
+    "code_name": "hero_adira__upSlashAttack_fireKnight"
+  },
+  {
+    "id": 1121,
+    "code_name": "hero_adira__whirlwindSlashContinued_fireKnight"
+  },
+  {
+    "id": 1122,
+    "code_name": "hero_adira__backStepSlashRemain_fireKnight"
+  },
+  {
+    "id": 1123,
+    "code_name": "hero_adira__backStepSlashChargeHint1_fireKnight"
+  },
+  {
+    "id": 1124,
+    "code_name": "hero_adira__backStepSlashChargeHint2_fireKnight"
+  },
+  {
+    "id": 1125,
+    "code_name": "hero_adira__backStepSlashDash_fireKnight"
+  },
+  {
+    "id": 1126,
+    "code_name": "hero_adira__backStepSlashChargeTriggered1_fireKnight"
+  },
+  {
+    "id": 1127,
+    "code_name": "hero_adira__backStepSlashChargeTriggered2_fireKnight"
+  },
+  {
+    "id": 1128,
+    "code_name": "hero_adira__backStepToOtherSkillTriggered_fireKnight"
+  },
+  {
+    "id": 1129,
+    "code_name": "evilDragonFlame"
+  },
+  {
+    "id": 1130,
+    "code_name": "evilPrincessScream"
+  },
+  {
+    "id": 1131,
+    "code_name": "evilDragonDeath"
+  },
+  {
+    "id": 1132,
+    "code_name": "evilDragonAwake"
+  },
+  {
+    "id": 1133,
+    "code_name": "anniceMoonExplode_springFestival"
+  },
+  {
+    "id": 1134,
+    "code_name": "anniceStarMoonDisappear_springFestival"
+  },
+  {
+    "id": 1135,
+    "code_name": "anniceStarMeteor_springFestival"
+  },
+  {
+    "id": 1136,
+    "code_name": "anniceStarMeteorExplosion_springFestival"
+  },
+  {
+    "id": 1137,
+    "code_name": "anniceComboEffect0_springFestival"
+  },
+  {
+    "id": 1138,
+    "code_name": "anniceComboEffect1_springFestival"
+  },
+  {
+    "id": 1139,
+    "code_name": "anniceComboEffect2_springFestival"
+  },
+  {
+    "id": 1140,
+    "code_name": "anniceComboEffect_EX_hammer_springFestival"
+  },
+  {
+    "id": 1141,
+    "code_name": "anniceComboEffect_EX_sword_springFestival"
+  },
+  {
+    "id": 1142,
+    "code_name": "anniceComboEffect_EX_scythe_springFestival"
+  },
+  {
+    "id": 1143,
+    "code_name": "anniceComboEffect0_hammer_springFestival"
+  },
+  {
+    "id": 1144,
+    "code_name": "anniceComboEffect1_hammer_springFestival"
+  },
+  {
+    "id": 1145,
+    "code_name": "anniceComboEffect2_hammer_springFestival"
+  },
+  {
+    "id": 1146,
+    "code_name": "anniceComboEffect0_sword_springFestival"
+  },
+  {
+    "id": 1147,
+    "code_name": "anniceComboEffect1_sword_springFestival"
+  },
+  {
+    "id": 1148,
+    "code_name": "anniceComboEffect2_sword_springFestival"
+  },
+  {
+    "id": 1149,
+    "code_name": "anniceComboEffect0_scythe_springFestival"
+  },
+  {
+    "id": 1150,
+    "code_name": "anniceComboEffect1_scythe_springFestival"
+  },
+  {
+    "id": 1151,
+    "code_name": "anniceComboEffect2_scythe_springFestival"
+  },
+  {
+    "id": 1152,
+    "code_name": "anniceWeaponPickUpVFX_springFestival"
+  },
+  {
+    "id": 1153,
+    "code_name": "anniceStarCollideVFX_springFestival"
+  },
+  {
+    "id": 1154,
+    "code_name": "anniceWeaponPickUpDisappear_springFestival"
+  },
+  {
+    "id": 1155,
+    "code_name": "anniceAttackHitStarVFX_springFestival"
+  },
+  {
+    "id": 1156,
+    "code_name": "alartLine3"
+  },
+  {
+    "id": 1157,
+    "code_name": "ceilingBreak"
+  },
+  {
+    "id": 1158,
+    "code_name": "quanhuying_punch"
+  },
+  {
+    "id": 1159,
+    "code_name": "holyEnergyHit_dragonArmor"
+  },
+  {
+    "id": 1160,
+    "code_name": "gangdanKOW_shengchui_dragonArmor"
+  },
+  {
+    "id": 1161,
+    "code_name": "hero_gangdan__HolyLight_dragonArmor"
+  },
+  {
+    "id": 1162,
+    "code_name": "hero_gangdan__HolyLight_dragonArmor_style0"
+  },
+  {
+    "id": 1163,
+    "code_name": "hero_gangdan__HolyLight_dragonArmor_style1"
+  },
+  {
+    "id": 1164,
+    "code_name": "hero_gangdan__HolyLight_dragonArmor_style2"
+  },
+  {
+    "id": 1165,
+    "code_name": "hero_gangdan__heavenLight_dragonArmor"
+  },
+  {
+    "id": 1166,
+    "code_name": "shildSmoke_dragonArmor"
+  },
+  {
+    "id": 1167,
+    "code_name": "hero_gangdan__KOW_body_dragonArmor"
+  },
+  {
+    "id": 1168,
+    "code_name": "hero_gangdan__KOW_bottom_dragonArmor"
+  },
+  {
+    "id": 1169,
+    "code_name": "hero_gangdan__KOW_bottom_dragonArmor_style1"
+  },
+  {
+    "id": 1170,
+    "code_name": "hero_gangdan__KOW_bottom_dragonArmor_style2"
+  },
+  {
+    "id": 1171,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_dragonArmor"
+  },
+  {
+    "id": 1172,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_alart_dragonArmor"
+  },
+  {
+    "id": 1173,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_boom_dragonArmor"
+  },
+  {
+    "id": 1174,
+    "code_name": "toudPoisonBombEffect"
+  },
+  {
+    "id": 1175,
+    "code_name": "behemothblueIceExplosionEffect"
+  },
+  {
+    "id": 1176,
+    "code_name": "behemothredFireExplosionEffect"
+  },
+  {
+    "id": 1177,
+    "code_name": "heal_gangdan_dragonArmor"
+  },
+  {
+    "id": 1178,
+    "code_name": "hero_gangdan__SA_rennai_dragonArmor"
+  },
+  {
+    "id": 1179,
+    "code_name": "angel1HitEffect_normal_dragonArmor"
+  },
+  {
+    "id": 1180,
+    "code_name": "angel1HitEffect_ice_dragonArmor"
+  },
+  {
+    "id": 1181,
+    "code_name": "angel1HitEffect_fire_dragonArmor"
+  },
+  {
+    "id": 1182,
+    "code_name": "angel1HitEffect_demon_dragonArmor"
+  },
+  {
+    "id": 1183,
+    "code_name": "dragonArmor_angle3_laserHitEffect"
+  },
+  {
+    "id": 1184,
+    "code_name": "dragonArmor_angle3_fireHitEffect"
+  },
+  {
+    "id": 1185,
+    "code_name": "dragonArmor_angle3_demonHitEffect"
+  },
+  {
+    "id": 1186,
+    "code_name": "dragonArmor_angle3_defaultHitEffect"
+  },
+  {
+    "id": 1187,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_alart_dragonArmor_vine"
+  },
+  {
+    "id": 1188,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_alart_dragonArmor_fire"
+  },
+  {
+    "id": 1189,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_alart_dragonArmor_demon"
+  },
+  {
+    "id": 1190,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_dragonArmor_vine"
+  },
+  {
+    "id": 1191,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_dragonArmor_fire"
+  },
+  {
+    "id": 1192,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_dragonArmor_demon"
+  },
+  {
+    "id": 1193,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_boom_dragonArmor_vine"
+  },
+  {
+    "id": 1194,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_boom_dragonArmor_fire"
+  },
+  {
+    "id": 1195,
+    "code_name": "hero_gangdan__BigTitsAngel_ball_boom_dragonArmor_demon"
+  },
+  {
+    "id": 1196,
+    "code_name": "burnFloorLoop_dragonArmorAngel2"
+  },
+  {
+    "id": 1197,
+    "code_name": "vineFloorLoop_dragonArmorAngel2"
+  },
+  {
+    "id": 1198,
+    "code_name": "vineEntangle"
+  },
+  {
+    "id": 1199,
+    "code_name": "annice_hammer_hit_springFestival"
+  },
+  {
+    "id": 1200,
+    "code_name": "annice_sword_hit_springFestival"
+  },
+  {
+    "id": 1201,
+    "code_name": "annice_scythe_hit_springFestival"
+  },
+  {
+    "id": 1202,
+    "code_name": "anniceStarReleaseVFX_springFes"
+  },
+  {
+    "id": 1203,
+    "code_name": "anniceHammerHitStarExplode_springFes"
+  },
+  {
+    "id": 1204,
+    "code_name": "anniceStarHitEnemy_springFes"
+  },
+  {
+    "id": 1205,
+    "code_name": "sakari_storm_superboss"
+  },
+  {
+    "id": 1206,
+    "code_name": "sakari_kg_punch_superboss"
+  },
+  {
+    "id": 1207,
+    "code_name": "sakari_kg_punch_precast_superboss"
+  },
+  {
+    "id": 1208,
+    "code_name": "sakari_holdBreath_activate_superboss"
+  },
+  {
+    "id": 1209,
+    "code_name": "sakari_holdBreath_deactivate_superboss"
+  },
+  {
+    "id": 1210,
+    "code_name": "sakari_washingcombo_punch1_superboss"
+  },
+  {
+    "id": 1211,
+    "code_name": "sakari_washingcombo_punch2_superboss"
+  },
+  {
+    "id": 1212,
+    "code_name": "sakari_kg_punch_alt1_superboss"
+  },
+  {
+    "id": 1213,
+    "code_name": "sakari_kg_punch_alt2_superboss"
+  },
+  {
+    "id": 1214,
+    "code_name": "sakari_kg_punch_kick_hit_superboss"
+  },
+  {
+    "id": 1215,
+    "code_name": "sakari_kg_punch_alt3_superboss"
+  },
+  {
+    "id": 1216,
+    "code_name": "sakari_washingcombo_punch_hit1_superboss"
+  },
+  {
+    "id": 1217,
+    "code_name": "sakari_washingcombo_punch_hit2_superboss"
+  },
+  {
+    "id": 1218,
+    "code_name": "sakari_washingcombo_speedline_superboss"
+  },
+  {
+    "id": 1219,
+    "code_name": "sakari_washingcombo_speedline_alt_superboss"
+  },
+  {
+    "id": 1220,
+    "code_name": "sakari_dash_speedline_superboss"
+  },
+  {
+    "id": 1221,
+    "code_name": "sakari_dash_speedline_alt_superboss"
+  },
+  {
+    "id": 1222,
+    "code_name": "empty"
+  },
+  {
+    "id": 1223,
+    "code_name": "hero_bunny__bunny_gun_fire"
+  },
+  {
+    "id": 1224,
+    "code_name": "hero_bunny__bunny_gun_hit_target"
+  },
+  {
+    "id": 1225,
+    "code_name": "hero_bunny__bunny_gun_hit_wall"
+  },
+  {
+    "id": 1226,
+    "code_name": "poisonFog"
+  },
+  {
+    "id": 1227,
+    "code_name": "hero_bunny__bunny_air_step"
+  },
+  {
+    "id": 1228,
+    "code_name": "hero_qifeng__extra_rope_dart"
+  },
+  {
+    "id": 1229,
+    "code_name": "slimeTerrainEffect"
+  },
+  {
+    "id": 1230,
+    "code_name": "witchCheapMissileHit"
+  },
+  {
+    "id": 1231,
+    "code_name": "attackAlertEffect_CircleWithEdge"
+  },
+  {
+    "id": 1232,
+    "code_name": "slimePlusTerrainEffect"
+  },
+  {
+    "id": 1233,
+    "code_name": "vampireDracula_slashLight"
+  },
+  {
+    "id": 1234,
+    "code_name": "smallFlames"
+  },
+  {
+    "id": 1235,
+    "code_name": "hero_bunny__bunny_hammer_fade_upswing"
+  },
+  {
+    "id": 1236,
+    "code_name": "hero_bunny__bunny_hammer_fade_smash1"
+  },
+  {
+    "id": 1237,
+    "code_name": "hero_bunny__bunny_hammer_fade_smash2"
+  },
+  {
+    "id": 1238,
+    "code_name": "hero_bunny__bunny_bullet_end_fire"
+  },
+  {
+    "id": 1239,
+    "code_name": "hero_bunny__bunny_hammer_smash_ground"
+  },
+  {
+    "id": 1240,
+    "code_name": "hero_bunny__bunny_hammer_upswing"
+  },
+  {
+    "id": 1241,
+    "code_name": "fireJetGun"
+  },
+  {
+    "id": 1242,
+    "code_name": "waterStainsRipples"
+  },
+  {
+    "id": 1243,
+    "code_name": "hero_bunny__bunny_blast_energy_gather"
+  },
+  {
+    "id": 1244,
+    "code_name": "hero_bunny__bunny_blast_explode_half"
+  },
+  {
+    "id": 1245,
+    "code_name": "hero_qifeng__combo3_hit_ground"
+  },
+  {
+    "id": 1246,
+    "code_name": "hero_qifeng__attaching_rop_hit_effect"
+  },
+  {
+    "id": 1247,
+    "code_name": "hero_qifeng__combo_hit_effect"
+  },
+  {
+    "id": 1248,
+    "code_name": "hero_qifeng__skill4_rush_effect"
+  },
+  {
+    "id": 1249,
+    "code_name": "hero_qifeng__fire_ball_explode"
+  },
+  {
+    "id": 1250,
+    "code_name": "hero_qifeng__skill2_4_hit_effect"
+  },
+  {
+    "id": 1251,
+    "code_name": "shadowRealmFadeOutEffect"
+  },
+  {
+    "id": 1252,
+    "code_name": "sakuraTrailEffect"
+  },
+  {
+    "id": 1253,
+    "code_name": "sakuraBurstUpward"
+  },
+  {
+    "id": 1254,
+    "code_name": "fireBall"
+  },
+  {
+    "id": 1255,
+    "code_name": "sakuraFade"
+  },
+  {
+    "id": 1256,
+    "code_name": "flameArea"
+  },
+  {
+    "id": 1257,
+    "code_name": "sakuraFadeLite"
+  },
+  {
+    "id": 1258,
+    "code_name": "neutralSkillRelease"
+  },
+  {
+    "id": 1259,
+    "code_name": "geishaSoundWave"
+  },
+  {
+    "id": 1260,
+    "code_name": "poisonRing"
+  },
+  {
+    "id": 1261,
+    "code_name": "flameRing"
+  },
+  {
+    "id": 1262,
+    "code_name": "poisonSmoke"
+  },
+  {
+    "id": 1263,
+    "code_name": "poisonFogArea"
+  },
+  {
+    "id": 1264,
+    "code_name": "appearSmoke_weaponSkill"
+  },
+  {
+    "id": 1265,
+    "code_name": "hero_qifeng__skill2FireBallSuck"
+  },
+  {
+    "id": 1266,
+    "code_name": "hero_qifeng__skill3RopeSuck"
+  },
+  {
+    "id": 1267,
+    "code_name": "poisonHalo"
+  },
+  {
+    "id": 1268,
+    "code_name": "energyShieldBlock"
+  },
+  {
+    "id": 1269,
+    "code_name": "energyShieldBreak"
+  },
+  {
+    "id": 1270,
+    "code_name": "penhaligonDeBuffMeleeEffect_Wonderbrush_Melee"
+  },
+  {
+    "id": 1271,
+    "code_name": "penhaligonDeBuffMeleeEffect_Wonderbrush_Range"
+  },
+  {
+    "id": 1272,
+    "code_name": "common_aim"
+  },
+  {
+    "id": 1273,
+    "code_name": "penhaligonFireSmoke_Wonderbrush"
+  },
+  {
+    "id": 1274,
+    "code_name": "bigFlames"
+  },
+  {
+    "id": 1275,
+    "code_name": "hero_wufei__Skill1PickUpSword_mili"
+  },
+  {
+    "id": 1276,
+    "code_name": "hero_wufei__KickHitBlade_mili"
+  },
+  {
+    "id": 1277,
+    "code_name": "hero_wufei__Skill3ShatteredArrows_mili"
+  },
+  {
+    "id": 1278,
+    "code_name": "hero_wufei__SpinKickAir_mili"
+  },
+  {
+    "id": 1279,
+    "code_name": "hero_wufei__Skill3ShootVFX_mili"
+  },
+  {
+    "id": 1280,
+    "code_name": "penhaligonWonderBrushDeBuffTriggerEffect"
+  },
+  {
+    "id": 1281,
+    "code_name": "penhaligonWonderBrushPowerFist"
+  },
+  {
+    "id": 1282,
+    "code_name": "grenadeExplode_penhaligon_wonderBrush"
+  },
+  {
+    "id": 1283,
+    "code_name": "penhaligon_wonderBrush_trajectory_startPoint"
+  },
+  {
+    "id": 1284,
+    "code_name": "penhaligon_rush_shotgun_vfx_wonderBrush"
+  },
+  {
+    "id": 1285,
+    "code_name": "victoryAlart_penhaligon_wonderBrush"
+  },
+  {
+    "id": 1286,
+    "code_name": "craterExplosionEffect_wonderBrush"
+  },
+  {
+    "id": 1287,
+    "code_name": "penhaligon_wonderBrush_bullet_hit"
+  },
+  {
+    "id": 1288,
+    "code_name": "releaseFlareEmitter_penhaligon_wonderbrush"
+  },
+  {
+    "id": 1289,
+    "code_name": "releaseFlareEmitter_penhaligon_wonderbrush_alter"
+  },
+  {
+    "id": 1290,
+    "code_name": "normalAlert_penhaligon_wonderBrush"
+  },
+  {
+    "id": 1291,
+    "code_name": "ItemSelectionEffect"
+  },
+  {
+    "id": 1292,
+    "code_name": "style2Alert_penhaligon_wonderBrush"
+  },
+  {
+    "id": 1293,
+    "code_name": "style2ExplosionEffect_penhaligon_wonderBrush"
+  },
+  {
+    "id": 1294,
+    "code_name": "style3ExplosionEffect_penhaligon_wonderBrush"
+  },
+  {
+    "id": 1295,
+    "code_name": "penhaligon_wonderBrush_charge_dissipate"
+  },
+  {
+    "id": 1296,
+    "code_name": "lightningHit"
+  },
+  {
+    "id": 1297,
+    "code_name": "asuraRendaoFireExplosion"
+  },
+  {
+    "id": 1298,
+    "code_name": "asuraRendaoAlertEffect"
+  },
+  {
+    "id": 1299,
+    "code_name": "AsuraShockwaveBoomAsh"
+  },
+  {
+    "id": 1300,
+    "code_name": "asuraShouDaoJumpStart"
+  },
+  {
+    "id": 1301,
+    "code_name": "asuraShouDaoSmashGround"
+  },
+  {
+    "id": 1302,
+    "code_name": "hero_linxiao__linxiaoSkill1DmgAreaVFX"
+  },
+  {
+    "id": 1303,
+    "code_name": "hero_linxiao__linxiaoDropSpearVFX"
+  },
+  {
+    "id": 1304,
+    "code_name": "hero_linxiao__linxiaoVerticalSpearVFX"
+  },
+  {
+    "id": 1305,
+    "code_name": "hero_linxiao__linxiaoSkill1ChargeVFX"
+  },
+  {
+    "id": 1306,
+    "code_name": "hero_linxiao__linxiaoSkill3GroundSpearVFX"
+  },
+  {
+    "id": 1307,
+    "code_name": "hero_linxiao__linxiaoSkill3ThunderShotVFX"
+  },
+  {
+    "id": 1308,
+    "code_name": "hero_linxiao__linxiaoSkill3ThunderCutVFX"
+  },
+  {
+    "id": 1309,
+    "code_name": "hero_linxiao__linxiaoThunderVFX"
+  },
+  {
+    "id": 1310,
+    "code_name": "lightningConductorAlertEffect"
+  },
+  {
+    "id": 1311,
+    "code_name": "defaultLightningBallBoom"
+  },
+  {
+    "id": 1312,
+    "code_name": "hero_linxiao__linxiaoLightningArcVFX"
+  },
+  {
+    "id": 1313,
+    "code_name": "hero_linxiao__linxiaoInstantLightningVFX"
+  },
+  {
+    "id": 1314,
+    "code_name": "hero_linxiao__linxiaoGroundSpearBuffedVFX"
+  },
+  {
+    "id": 1315,
+    "code_name": "rendao_axekick_crack"
+  },
+  {
+    "id": 1316,
+    "code_name": "rendao_uppercut_spike"
+  },
+  {
+    "id": 1317,
+    "code_name": "rendao_combo_wave"
+  },
+  {
+    "id": 1318,
+    "code_name": "hero_linxiao__linxiaoSkill3GroundSpearVFXFast"
+  },
+  {
+    "id": 1319,
+    "code_name": "hero_linxiao__linxiaoLightningArcVerticalVFX"
+  },
+  {
+    "id": 1320,
+    "code_name": "asuraShoudaoBullSmoke"
+  },
+  {
+    "id": 1321,
+    "code_name": "asuraShoudaoCallEffect"
+  },
+  {
+    "id": 1322,
+    "code_name": "asuraShoudaoClaw1Effect"
+  },
+  {
+    "id": 1323,
+    "code_name": "asuraShoudaoClaw2Effect"
+  },
+  {
+    "id": 1324,
+    "code_name": "asuraShoudaoChaosExtraDamageEffect"
+  },
+  {
+    "id": 1325,
+    "code_name": "asuraShoudaoPushHandEffect"
+  },
+  {
+    "id": 1326,
+    "code_name": "rendao_magic_ball_smoke"
+  },
+  {
+    "id": 1327,
+    "code_name": "hero_feiyu__feiyuTalismanVFXGround"
+  },
+  {
+    "id": 1328,
+    "code_name": "hero_feiyu__feiyuTalismanVFXWater"
+  },
+  {
+    "id": 1329,
+    "code_name": "hero_feiyu__feiyuTalismanVFXWood"
+  },
+  {
+    "id": 1330,
+    "code_name": "hero_feiyu__feiyuTalismanVFXIce"
+  },
+  {
+    "id": 1331,
+    "code_name": "hero_feiyu__feiyuTalismanVFXThunder"
+  },
+  {
+    "id": 1332,
+    "code_name": "hero_feiyu__feiyuTalismanVFXFire"
+  },
+  {
+    "id": 1333,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXGround"
+  },
+  {
+    "id": 1334,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXWater"
+  },
+  {
+    "id": 1335,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXWood"
+  },
+  {
+    "id": 1336,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXIce"
+  },
+  {
+    "id": 1337,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXThunder"
+  },
+  {
+    "id": 1338,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXFire"
+  },
+  {
+    "id": 1339,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXGround"
+  },
+  {
+    "id": 1340,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXWater"
+  },
+  {
+    "id": 1341,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXWood"
+  },
+  {
+    "id": 1342,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXIce"
+  },
+  {
+    "id": 1343,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXThunder"
+  },
+  {
+    "id": 1344,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXFire"
+  },
+  {
+    "id": 1345,
+    "code_name": "hero_feiyu__feiyuGroundTalismanShockWaveVFX"
+  },
+  {
+    "id": 1346,
+    "code_name": "hero_feiyu__feiyuGroundTalismanGroundSpearVFX"
+  },
+  {
+    "id": 1347,
+    "code_name": "hero_feiyu__feiyuWaterTalismanBigWaveVFX"
+  },
+  {
+    "id": 1348,
+    "code_name": "hero_feiyu__feiyuIceTalismanAttackVFX"
+  },
+  {
+    "id": 1349,
+    "code_name": "hero_feiyu__feiyuFireTalismanAttackVFX"
+  },
+  {
+    "id": 1350,
+    "code_name": "hero_feiyu__feiyuThunderTalismanAttackVFX"
+  },
+  {
+    "id": 1351,
+    "code_name": "hero_feiyu__feiyuTalismanMergeVFX"
+  },
+  {
+    "id": 1352,
+    "code_name": "hero_feiyu__feiyuWoodTalismanThornVFX"
+  },
+  {
+    "id": 1353,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXThunder1"
+  },
+  {
+    "id": 1354,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXThunder2"
+  },
+  {
+    "id": 1355,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXThunder3"
+  },
+  {
+    "id": 1356,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXThunder4"
+  },
+  {
+    "id": 1357,
+    "code_name": "hero_feiyu__feiyuHiddenTripleMergeThunderVFX"
+  },
+  {
+    "id": 1358,
+    "code_name": "hero_feiyu__feiyuWaterFlowVFX"
+  },
+  {
+    "id": 1359,
+    "code_name": "forestLightArrowFlash"
+  },
+  {
+    "id": 1360,
+    "code_name": "forestBattlemagePlusRock"
+  },
+  {
+    "id": 1361,
+    "code_name": "forestFlowermanCreateSporeBomb"
+  },
+  {
+    "id": 1362,
+    "code_name": "forestDarkElvesBattlemageFireballBoom"
+  },
+  {
+    "id": 1363,
+    "code_name": "wufei_mili_blade_ghost_blue"
+  },
+  {
+    "id": 1364,
+    "code_name": "wufei_mili_blade_ghost_purple"
+  },
+  {
+    "id": 1365,
+    "code_name": "sakula_evilslash"
+  },
+  {
+    "id": 1366,
+    "code_name": "qiefan_evilSlash"
+  },
+  {
+    "id": 1367,
+    "code_name": "seebee_thunderCombo_zhaoguang_evilSlash"
+  },
+  {
+    "id": 1368,
+    "code_name": "hero_youzi__water_hit_swimsuits"
+  },
+  {
+    "id": 1369,
+    "code_name": "hero_youzi__water_boom_swimsuits"
+  },
+  {
+    "id": 1370,
+    "code_name": "hero_youzi__missile_emision_swimsuits"
+  },
+  {
+    "id": 1371,
+    "code_name": "hero_youzi__pillar_explode_style_1_swimsuits"
+  },
+  {
+    "id": 1372,
+    "code_name": "hero_youzi__pillar_explode_style_2_swimsuits"
+  },
+  {
+    "id": 1373,
+    "code_name": "hero_youzi__pillar_explode_style_3_swimsuits"
+  },
+  {
+    "id": 1374,
+    "code_name": "hero_youzi__pillar_second_explode_style_3_swimsuits"
+  },
+  {
+    "id": 1375,
+    "code_name": "hero_feiyu__feiyuContinueThunderVFX"
+  },
+  {
+    "id": 1376,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXWaterSwirl"
+  },
+  {
+    "id": 1377,
+    "code_name": "asuraGuidaoChargingEnergy"
+  },
+  {
+    "id": 1378,
+    "code_name": "asuraGuidaoExplosionVfx"
+  },
+  {
+    "id": 1379,
+    "code_name": "asuraGuidaoMagicBallEnergyGather"
+  },
+  {
+    "id": 1380,
+    "code_name": "asuraGuidaoLaser_burn"
+  },
+  {
+    "id": 1381,
+    "code_name": "asuraGuidaoLaser_ice"
+  },
+  {
+    "id": 1382,
+    "code_name": "asuraGuidaoLaser_lightning"
+  },
+  {
+    "id": 1383,
+    "code_name": "asuraGuidaoLaserTrail_burn"
+  },
+  {
+    "id": 1384,
+    "code_name": "asuraGuidaoLaserTrail_ice"
+  },
+  {
+    "id": 1385,
+    "code_name": "asuraGuidaoLaserTrail_lightning"
+  },
+  {
+    "id": 1386,
+    "code_name": "asuraGuidaoLaserSparkle"
+  },
+  {
+    "id": 1387,
+    "code_name": "asuraGuidaoLaserEnergyGather_burn"
+  },
+  {
+    "id": 1388,
+    "code_name": "asuraGuidaoLaserEnergyGather_ice"
+  },
+  {
+    "id": 1389,
+    "code_name": "asuraGuidaoLaserEnergyGather_lightning"
+  },
+  {
+    "id": 1390,
+    "code_name": "laserGunFireBlue"
+  },
+  {
+    "id": 1391,
+    "code_name": "hero_youzi__GunExplodeEffect_swimsuits"
+  },
+  {
+    "id": 1392,
+    "code_name": "hero_youzi__OverHeatBodyFlame_swimsuits"
+  },
+  {
+    "id": 1393,
+    "code_name": "bigFlamesAndIce"
+  },
+  {
+    "id": 1394,
+    "code_name": "AsuraGuidaoHomingBallExplosion"
+  },
+  {
+    "id": 1395,
+    "code_name": "AsuraGuidaoDirectBallExplosion"
+  },
+  {
+    "id": 1396,
+    "code_name": "AsuraGuidaoClusterBallExplosion"
+  },
+  {
+    "id": 1397,
+    "code_name": "AsuraGuidaoAlertEffect"
+  },
+  {
+    "id": 1398,
+    "code_name": "guidaoShockwave"
+  },
+  {
+    "id": 1399,
+    "code_name": "asuraGuidaoJumpSmoke"
+  },
+  {
+    "id": 1400,
+    "code_name": "asuraGuidaoJumpMegaSmoke"
+  },
+  {
+    "id": 1401,
+    "code_name": "hero_wufei__KickHitBlade_mili_blue"
+  },
+  {
+    "id": 1402,
+    "code_name": "hero_wufei__miliSpinningBladeDrop_purple"
+  },
+  {
+    "id": 1403,
+    "code_name": "hero_wufei__miliSpinningBladeDrop_blue"
+  },
+  {
+    "id": 1404,
+    "code_name": "hero_wufei__miliArrowHitBlade_purple"
+  },
+  {
+    "id": 1405,
+    "code_name": "hero_wufei__miliArrowHitBlade_blue"
+  },
+  {
+    "id": 1406,
+    "code_name": "hero_wufei__arrowDispear_mili"
+  },
+  {
+    "id": 1407,
+    "code_name": "hero_wufei__wufeiMarkDispear_mili"
+  },
+  {
+    "id": 1408,
+    "code_name": "hero_wufei__multiShoot_mili"
+  },
+  {
+    "id": 1409,
+    "code_name": "hero_yufeng__yinyang_circle_disappear"
+  },
+  {
+    "id": 1410,
+    "code_name": "hero_wufei__backSeat_mili"
+  },
+  {
+    "id": 1411,
+    "code_name": "hero_wufei__kickHit_mili"
+  },
+  {
+    "id": 1412,
+    "code_name": "hero_wufei__secondKickHit_mili"
+  },
+  {
+    "id": 1413,
+    "code_name": "hero_yufeng__BigSlashLight_yinyang"
+  },
+  {
+    "id": 1414,
+    "code_name": "hero_yufeng__SmallSlashLight_yinyang"
+  },
+  {
+    "id": 1415,
+    "code_name": "hero_yufeng__WhiteDownSlashLight_yinyang"
+  },
+  {
+    "id": 1416,
+    "code_name": "hero_yufeng__yinyang_special_hit"
+  },
+  {
+    "id": 1417,
+    "code_name": "hero_yufeng__yinyang_Skill2AreaSlashes"
+  },
+  {
+    "id": 1418,
+    "code_name": "hero_yufeng__Skill1BladeAirWave_yinyang"
+  },
+  {
+    "id": 1419,
+    "code_name": "hero_yufeng__Skill1BladeAirWaveForward_yinyang"
+  },
+  {
+    "id": 1420,
+    "code_name": "hero_yufeng__Skill2Style2Release_yinyang"
+  },
+  {
+    "id": 1421,
+    "code_name": "hero_yufeng__Butterfly_yinyang"
+  },
+  {
+    "id": 1422,
+    "code_name": "hero_hualing__hualingSkill2SwirlWindVFX"
+  },
+  {
+    "id": 1423,
+    "code_name": "hero_yufeng__Skill1BladeAirWave_alter_yinyang"
+  },
+  {
+    "id": 1424,
+    "code_name": "hero_yufeng__Skill1BladeAirWaveForward_alter_yinyang"
+  },
+  {
+    "id": 1425,
+    "code_name": "hero_yufeng__yinyang_special_hit_debuff"
+  },
+  {
+    "id": 1426,
+    "code_name": "powerFist_Uliana_rock"
+  },
+  {
+    "id": 1427,
+    "code_name": "ulianaiceBomb_rock"
+  },
+  {
+    "id": 1428,
+    "code_name": "ulianaExplosionBoomEffect_rock"
+  },
+  {
+    "id": 1429,
+    "code_name": "ulianaSlash_rock"
+  },
+  {
+    "id": 1430,
+    "code_name": "ulianaForwardJumpSlash_rock"
+  },
+  {
+    "id": 1431,
+    "code_name": "ulianaBackJumpSlash_rock"
+  },
+  {
+    "id": 1432,
+    "code_name": "ulianaDance_rock"
+  },
+  {
+    "id": 1433,
+    "code_name": "ulianaChillSlashDebuffFog_rock"
+  },
+  {
+    "id": 1434,
+    "code_name": "ulianaOneSlashExtra_rock"
+  },
+  {
+    "id": 1435,
+    "code_name": "ulianaRockSkinWholeRoomEffect"
+  },
+  {
+    "id": 1436,
+    "code_name": "ulianaRockSkinHeavenLight"
+  },
+  {
+    "id": 1437,
+    "code_name": "ulianaRockSkinBatScream"
+  },
+  {
+    "id": 1438,
+    "code_name": "sawDisappear_rock"
+  },
+  {
+    "id": 1439,
+    "code_name": "ulianaCut_rock"
+  },
+  {
+    "id": 1440,
+    "code_name": "sawExtraDisappear_rock"
+  },
+  {
+    "id": 1441,
+    "code_name": "fireJet_purple"
+  },
+  {
+    "id": 1442,
+    "code_name": "hero_katherine__circle_display_purple"
+  },
+  {
+    "id": 1443,
+    "code_name": "hero_katherine__thunder_purple"
+  },
+  {
+    "id": 1444,
+    "code_name": "hero_hualing__hualingSkill1SpinningBladeVFX"
+  },
+  {
+    "id": 1445,
+    "code_name": "hero_hualing__hualingSlashLight"
+  },
+  {
+    "id": 1446,
+    "code_name": "hero_hualing__hualingMaxMomentumVFX"
+  },
+  {
+    "id": 1447,
+    "code_name": "hero_hualing__hualingSlashLightShort"
+  },
+  {
+    "id": 1448,
+    "code_name": "hero_hualing__hualingSlashLightUp"
+  },
+  {
+    "id": 1449,
+    "code_name": "hero_hualing__hualingSlashLightMid"
+  },
+  {
+    "id": 1450,
+    "code_name": "hero_hualing__hualingSlashLightDown"
+  },
+  {
+    "id": 1451,
+    "code_name": "hero_hualing__hualingSlashLightDownLong"
+  },
+  {
+    "id": 1452,
+    "code_name": "hero_hualing__hualingSkill3Flash"
+  },
+  {
+    "id": 1453,
+    "code_name": "hero_hualing__hualingcut"
+  },
+  {
+    "id": 1454,
+    "code_name": "hero_hualing__hualingSkill1fullMomentumBladeLight"
+  },
+  {
+    "id": 1455,
+    "code_name": "hero_bunny__bunny_nun_gun_fire"
+  },
+  {
+    "id": 1456,
+    "code_name": "hero_bunny__bunny_nun_gun_hit_target"
+  },
+  {
+    "id": 1457,
+    "code_name": "hero_bunny__bunny_nun_gun_hit_wall"
+  },
+  {
+    "id": 1458,
+    "code_name": "hero_bunny__bunny_nun_air_step"
+  },
+  {
+    "id": 1459,
+    "code_name": "hero_bunny__bunny_nun_hammer_upswing"
+  },
+  {
+    "id": 1460,
+    "code_name": "hero_bunny__bunny_nun_hammer_smash_ground"
+  },
+  {
+    "id": 1461,
+    "code_name": "hero_bunny__bunny_nun_blast_energy_gather"
+  },
+  {
+    "id": 1462,
+    "code_name": "hero_bunny__bunny_nun_blast_explode_half"
+  },
+  {
+    "id": 1463,
+    "code_name": "hero_bunny__bunny_nun_hammer_fade_upswing"
+  },
+  {
+    "id": 1464,
+    "code_name": "hero_bunny__bunny_nun_hammer_fade_smash1"
+  },
+  {
+    "id": 1465,
+    "code_name": "hero_bunny__bunny_nun_hammer_fade_smash2"
+  },
+  {
+    "id": 1466,
+    "code_name": "yudao_zombie_vomit"
+  },
+  {
+    "id": 1467,
+    "code_name": "yudao_zombie_vomit_hit"
+  },
+  {
+    "id": 1468,
+    "code_name": "asuraYudaoVomitExplosion"
+  },
+  {
+    "id": 1469,
+    "code_name": "asuraYudaoVomitProjectileDrop"
+  },
+  {
+    "id": 1470,
+    "code_name": "asuraYudaoMouthVomit"
+  },
+  {
+    "id": 1471,
+    "code_name": "ruptureBlood"
+  },
+  {
+    "id": 1472,
+    "code_name": "yudaoHookShatter"
+  },
+  {
+    "id": 1473,
+    "code_name": "yudaoHookHeadShatter"
+  },
+  {
+    "id": 1474,
+    "code_name": "asuraYudaoPoisonTerrain"
+  },
+  {
+    "id": 1475,
+    "code_name": "AsuraYudaoGroundCrack"
+  },
+  {
+    "id": 1476,
+    "code_name": "AsuraYudaoLavaBallBoom"
+  },
+  {
+    "id": 1477,
+    "code_name": "hero_feiyu__feiyuTalismanVFXGround_zombie"
+  },
+  {
+    "id": 1478,
+    "code_name": "hero_feiyu__feiyuTalismanVFXWater_zombie"
+  },
+  {
+    "id": 1479,
+    "code_name": "hero_feiyu__feiyuTalismanVFXWood_zombie"
+  },
+  {
+    "id": 1480,
+    "code_name": "hero_feiyu__feiyuTalismanVFXIce_zombie"
+  },
+  {
+    "id": 1481,
+    "code_name": "hero_feiyu__feiyuTalismanVFXThunder_zombie"
+  },
+  {
+    "id": 1482,
+    "code_name": "hero_feiyu__feiyuTalismanVFXFire_zombie"
+  },
+  {
+    "id": 1483,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXGround_zombie"
+  },
+  {
+    "id": 1484,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXWater_zombie"
+  },
+  {
+    "id": 1485,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXWood_zombie"
+  },
+  {
+    "id": 1486,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXIce_zombie"
+  },
+  {
+    "id": 1487,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXThunder_zombie"
+  },
+  {
+    "id": 1488,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXFire_zombie"
+  },
+  {
+    "id": 1489,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXGround_zombie"
+  },
+  {
+    "id": 1490,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXWater_zombie"
+  },
+  {
+    "id": 1491,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXWood_zombie"
+  },
+  {
+    "id": 1492,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXIce_zombie"
+  },
+  {
+    "id": 1493,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXThunder_zombie"
+  },
+  {
+    "id": 1494,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXThunder1_zombie"
+  },
+  {
+    "id": 1495,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXThunder2_zombie"
+  },
+  {
+    "id": 1496,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXThunder3_zombie"
+  },
+  {
+    "id": 1497,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXThunder4_zombie"
+  },
+  {
+    "id": 1498,
+    "code_name": "hero_feiyu__feiyuComboSwordVFXFire_zombie"
+  },
+  {
+    "id": 1499,
+    "code_name": "hero_feiyu__feiyuGroundTalismanShockWaveVFX_zombie"
+  },
+  {
+    "id": 1500,
+    "code_name": "hero_feiyu__feiyuGroundTalismanGroundSpearVFX_zombie"
+  },
+  {
+    "id": 1501,
+    "code_name": "hero_feiyu__feiyuWaterTalismanBigWaveVFX_zombie"
+  },
+  {
+    "id": 1502,
+    "code_name": "hero_feiyu__feiyuIceTalismanAttackVFX_zombie"
+  },
+  {
+    "id": 1503,
+    "code_name": "hero_feiyu__feiyuFireTalismanAttackVFX_zombie"
+  },
+  {
+    "id": 1504,
+    "code_name": "hero_feiyu__feiyuThunderTalismanAttackVFX_zombie"
+  },
+  {
+    "id": 1505,
+    "code_name": "hero_feiyu__feiyuTalismanMergeVFX_zombie"
+  },
+  {
+    "id": 1506,
+    "code_name": "hero_feiyu__feiyuWoodTalismanThornVFX_zombie"
+  },
+  {
+    "id": 1507,
+    "code_name": "hero_feiyu__feiyuTalismanVFXGhost_zombie"
+  },
+  {
+    "id": 1508,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXGhost_zombie"
+  },
+  {
+    "id": 1509,
+    "code_name": "hero_feiyu__feiyuHiddenTripleMergeThunderVFX_zombie"
+  },
+  {
+    "id": 1510,
+    "code_name": "hero_feiyu__feiyuWaterFlowVFX_zombie"
+  },
+  {
+    "id": 1511,
+    "code_name": "hero_feiyu__feiyuTalismanAreaVFXWaterSwirl_zombie"
+  },
+  {
+    "id": 1512,
+    "code_name": "asuraYudaoMouthChargingEnergy"
+  },
+  {
+    "id": 1513,
+    "code_name": "alertLine_manual"
+  },
+  {
+    "id": 1514,
+    "code_name": "asura_yudao_shieldBreak"
+  },
+  {
+    "id": 1515,
+    "code_name": "heavenLight_purple"
+  },
+  {
+    "id": 1516,
+    "code_name": "appearSmoke_purple"
+  },
+  {
+    "id": 1517,
+    "code_name": "uliana_rockSkinPowerSign"
+  },
+  {
+    "id": 1518,
+    "code_name": "reviveEffectBattleGhost"
+  },
+  {
+    "id": 1519,
+    "code_name": "reviveEffectChallengeFactor"
+  },
+  {
+    "id": 1520,
+    "code_name": "reviveEffectRenDao"
+  },
+  {
+    "id": 1521,
+    "code_name": "reviveEffectTianRen"
+  },
+  {
+    "id": 1522,
+    "code_name": "shenweiSuctionEffect"
+  },
+  {
+    "id": 1523,
+    "code_name": "XiuluodaoFloorCrack"
+  },
+  {
+    "id": 1524,
+    "code_name": "XiuluodaoFloorStompCrack"
+  },
+  {
+    "id": 1525,
+    "code_name": "XiuluodaoMegaFloorCrack"
+  },
+  {
+    "id": 1526,
+    "code_name": "asuraXiuluodaoLightningSpear"
+  },
+  {
+    "id": 1527,
+    "code_name": "asuraXiuluodaoLightningSpearAlertEffect"
+  },
+  {
+    "id": 1528,
+    "code_name": "asuraXiuluodaoTornado"
+  },
+  {
+    "id": 1529,
+    "code_name": "asuraXiuluodaoLightBeam"
+  },
+  {
+    "id": 1530,
+    "code_name": "asuraXiuluodaoMaxLightBeam"
+  },
+  {
+    "id": 1531,
+    "code_name": "asuraXiuluodaoLightningSpearProjectile"
+  },
+  {
+    "id": 1532,
+    "code_name": "asuraXiuluodaoKickWind"
+  },
+  {
+    "id": 1533,
+    "code_name": "asuraXiuludaoComboWind"
+  },
+  {
+    "id": 1534,
+    "code_name": "asuraXiuludaoLightningSpearDieEffect"
+  },
+  {
+    "id": 1535,
+    "code_name": "ranaPhantomTeleportHint"
+  },
+  {
+    "id": 1536,
+    "code_name": "ranaPhantomCutEffect"
+  },
+  {
+    "id": 1537,
+    "code_name": "ranaOneSlashExtra"
+  },
+  {
+    "id": 1538,
+    "code_name": "ranaSkill3PhantomSlashTrail"
+  },
+  {
+    "id": 1539,
+    "code_name": "powerFist_Rana"
+  },
+  {
+    "id": 1540,
+    "code_name": "asuraTianrendaoNebulaExplosion"
+  },
+  {
+    "id": 1541,
+    "code_name": "tianrendaoBlackHoleSuck"
+  },
+  {
+    "id": 1542,
+    "code_name": "tianrendaoBlackHoleExplosion"
+  },
+  {
+    "id": 1543,
+    "code_name": "asuraTianrendaoLaserGather"
+  },
+  {
+    "id": 1544,
+    "code_name": "asuraTianrendaoLaser"
+  },
+  {
+    "id": 1545,
+    "code_name": "tianrendaoConstellationExplosion"
+  },
+  {
+    "id": 1546,
+    "code_name": "hero_olivia__bunker_circle_christmas"
+  },
+  {
+    "id": 1547,
+    "code_name": "hero_olivia__transformedFistEffect_christmas"
+  },
+  {
+    "id": 1548,
+    "code_name": "hero_olivia__enemy_beHit_christmas"
+  },
+  {
+    "id": 1549,
+    "code_name": "customizedArrow"
+  },
+  {
+    "id": 1550,
+    "code_name": "AsuraTianrendaoEarthRift"
+  },
+  {
+    "id": 1551,
+    "code_name": "AsuraTianrendaoSuperNova"
+  },
+  {
+    "id": 1552,
+    "code_name": "AsuraTianrendaoEnergyGather"
+  },
+  {
+    "id": 1553,
+    "code_name": "AsuraTianrendaoEnergyGatherSecondPhase"
+  },
+  {
+    "id": 1554,
+    "code_name": "hero_olivia__gunFire_christmas"
+  },
+  {
+    "id": 1555,
+    "code_name": "hero_olivia__giftBoxExplode_christmas"
+  },
+  {
+    "id": 1556,
+    "code_name": "hero_erdene__erdeneSkill1ArrowSpin"
+  },
+  {
+    "id": 1557,
+    "code_name": "hero_erdene__erdeneSkill1EagleSpin"
+  },
+  {
+    "id": 1558,
+    "code_name": "hero_erdene__erdeneFeatherBlade"
+  },
+  {
+    "id": 1559,
+    "code_name": "hero_erdene__erdeneDiveHit"
+  },
+  {
+    "id": 1560,
+    "code_name": "hero_erdene__erdeneLockOnDebuffEffect"
+  },
+  {
+    "id": 1561,
+    "code_name": "hero_erdene__erdeneSkill1Tornado"
+  },
+  {
+    "id": 1562,
+    "code_name": "hero_erdene__erdeneWindSlash"
+  },
+  {
+    "id": 1563,
+    "code_name": "hero_erdene__erdeneHitMarked"
+  },
+  {
+    "id": 1564,
+    "code_name": "hero_erdene__erdeneEagleClawHit"
+  },
+  {
+    "id": 1565,
+    "code_name": "hero_yangkyi__skill1_wall_effect_dissolve_queen"
+  },
+  {
+    "id": 1566,
+    "code_name": "hero_yangkyi__skill1_side_release_effect_queen"
+  },
+  {
+    "id": 1567,
+    "code_name": "hero_yangkyi__skill1_circle_release_effect_queen"
+  },
+  {
+    "id": 1568,
+    "code_name": "hero_yangkyi__full_mark_exp_effect_queen"
+  },
+  {
+    "id": 1569,
+    "code_name": "hero_yangkyi__skill2_aim_circle_effect_queen"
+  },
+  {
+    "id": 1570,
+    "code_name": "hero_yangkyi__skill2_wind_effect_queen"
+  },
+  {
+    "id": 1571,
+    "code_name": "hero_yangkyi__dodge_wind_queen"
+  },
+  {
+    "id": 1572,
+    "code_name": "hero_yangkyi__autoAttack_emit_effect_queen"
+  },
+  {
+    "id": 1573,
+    "code_name": "hero_yangkyi__full_mark_gather"
+  },
+  {
+    "id": 1574,
+    "code_name": "hero_yangkyi__full_mark_gather_queen"
+  },
+  {
+    "id": 1575,
+    "code_name": "hero_yangkyi__skill2_small_wind_effect_queen"
+  },
+  {
+    "id": 1576,
+    "code_name": "hero_yangkyi__skill3_style3_release_effect_queen"
+  },
+  {
+    "id": 1577,
+    "code_name": "hero_yangkyi__skill3_style2_explode_effect_queen"
+  },
+  {
+    "id": 1578,
+    "code_name": "hero_yangkyi__absorb_flying_energy_queen"
+  },
+  {
+    "id": 1579,
+    "code_name": "hero_yangkyi__feather_ball_effect_queen"
+  },
+  {
+    "id": 1580,
+    "code_name": "hero_yangkyi__feather_road_trail_effect_queen"
+  },
+  {
+    "id": 1581,
+    "code_name": "asuraTianrendaofist"
+  },
+  {
+    "id": 1582,
+    "code_name": "attackAlertEffect_Quad_withHoles"
+  },
+  {
+    "id": 1583,
+    "code_name": "tianrendaoFinalSuperNova"
+  },
+  {
+    "id": 1584,
+    "code_name": "tianrendaoFinalSuperNovaShield"
+  },
+  {
+    "id": 1585,
+    "code_name": "hero_yangkyi__full_stack_body_effect_queen"
+  },
+  {
+    "id": 1586,
+    "code_name": "hero_yangkyi__dead_effect_queen"
+  },
+  {
+    "id": 1587,
+    "code_name": "hero_dragon__dragonSlashLight"
+  },
+  {
+    "id": 1588,
+    "code_name": "hero_dragon__dragonSlashTrail"
+  },
+  {
+    "id": 1589,
+    "code_name": "hero_dragon__dragonSwimmingTrail"
+  },
+  {
+    "id": 1590,
+    "code_name": "hero_dragon__dragonSpecialSwimmingTrail"
+  },
+  {
+    "id": 1591,
+    "code_name": "hero_dragon__dragonIdleTrail"
+  },
+  {
+    "id": 1592,
+    "code_name": "hero_dragon__dragonWaterSplash"
+  },
+  {
+    "id": 1593,
+    "code_name": "hero_dragon__dragonSkill2Swirl"
+  },
+  {
+    "id": 1594,
+    "code_name": "hero_dragon__dragonSkill3WaveSplash"
+  },
+  {
+    "id": 1595,
+    "code_name": "hero_dragon__dragonSkill3WaveSplashStrong"
+  },
+  {
+    "id": 1596,
+    "code_name": "hero_dragon__dragonSkill2SlashLight"
+  },
+  {
+    "id": 1597,
+    "code_name": "hero_dragon__dragonExtraSlash"
+  },
+  {
+    "id": 1598,
+    "code_name": "hero_dragon__dragonWaterExtraSlash"
+  },
+  {
+    "id": 1599,
+    "code_name": "hero_linxiao__springFestival_seat_angry"
+  },
+  {
+    "id": 1600,
+    "code_name": "hero_linxiao__springFestival_seat_happy"
+  },
+  {
+    "id": 1601,
+    "code_name": "hero_qifeng__combo3_hit_ground_cowboy"
+  },
+  {
+    "id": 1602,
+    "code_name": "hero_qifeng__attaching_rop_hit_effect_cowboy"
+  },
+  {
+    "id": 1603,
+    "code_name": "hero_qifeng__combo_hit_effect_cowboy"
+  },
+  {
+    "id": 1604,
+    "code_name": "hero_qifeng__skill4_rush_effect_cowboy"
+  },
+  {
+    "id": 1605,
+    "code_name": "hero_qifeng__fire_ball_explode_cowboy"
+  },
+  {
+    "id": 1606,
+    "code_name": "hero_qifeng__skill2_4_hit_effect_cowboy"
+  },
+  {
+    "id": 1607,
+    "code_name": "hero_qifeng__skill2FireBallSuck_cowboy"
+  },
+  {
+    "id": 1608,
+    "code_name": "hero_qifeng__skill3RopeSuck_cowboy"
+  },
+  {
+    "id": 1609,
+    "code_name": "hero_qifeng__extra_rope_dart_cowboy"
+  },
+  {
+    "id": 1610,
+    "code_name": "hero_qifeng__jump_trail_cowboy"
+  },
+  {
+    "id": 1611,
+    "code_name": "flameArea_qifengCowboy"
+  },
+  {
+    "id": 1612,
+    "code_name": "hero_qifeng__dartReleaseDisaapear"
+  },
+  {
+    "id": 1613,
+    "code_name": "hero_linxiao__linxiaoVerticalSpearVFX_springFestival"
+  },
+  {
+    "id": 1614,
+    "code_name": "hero_linxiao__linxiaoVerticalSpearVFX_springFestival_style_1"
+  },
+  {
+    "id": 1615,
+    "code_name": "hero_linxiao__linxiaoVerticalSpearVFX_springFestival_style_3"
+  },
+  {
+    "id": 1616,
+    "code_name": "hero_linxiao__horizontalSpearLaunch_springFestival"
+  },
+  {
+    "id": 1617,
+    "code_name": "hero_linxiao__linxiaoSkill1ChargeVFX_springFestival"
+  },
+  {
+    "id": 1618,
+    "code_name": "hero_linxiao__linxiaoSkill1DmgAreaVFX_springFestival"
+  },
+  {
+    "id": 1619,
+    "code_name": "hero_linxiao__linxiaoThunderVFX_springFestival"
+  },
+  {
+    "id": 1620,
+    "code_name": "hero_erdene__eagle_effect_wild"
+  },
+  {
+    "id": 1621,
+    "code_name": "hero_erdene__erdeneLockOnDebuffEffect_wild"
+  },
+  {
+    "id": 1622,
+    "code_name": "hero_erdene__erdeneEagleClawHit_wild"
+  },
+  {
+    "id": 1623,
+    "code_name": "hero_erdene__erdeneFeatherBlade_wild"
+  },
+  {
+    "id": 1624,
+    "code_name": "hero_erdene__erdeneSkill1Tornado_wild"
+  },
+  {
+    "id": 1625,
+    "code_name": "hero_erdene__erdeneSkill1EagleSpin_wild"
+  },
+  {
+    "id": 1626,
+    "code_name": "hero_erdene__erdeneSkill1ArrowSpin_wild"
+  },
+  {
+    "id": 1627,
+    "code_name": "hero_erdene__erdeneDiveHit_wild"
+  },
+  {
+    "id": 1628,
+    "code_name": "hero_erdene__eagleFeatherHit_wild"
+  },
+  {
+    "id": 1629,
+    "code_name": "plumBlossomBoom_snake"
+  },
+  {
+    "id": 1630,
+    "code_name": "bigNeedleRotateCut_snake"
+  },
+  {
+    "id": 1631,
+    "code_name": "xuanshe_snake_explode"
+  },
+  {
+    "id": 1632,
+    "code_name": "xuanshe_snake_thunder"
+  },
+  {
+    "id": 1633,
+    "code_name": "tianrendaoLaserTrail"
+  },
+  {
+    "id": 1634,
+    "code_name": "hero_linxiao__linxiaoLightningArcVFX_springFestival"
+  },
+  {
+    "id": 1635,
+    "code_name": "hero_linxiao__linxiaoLightningArcVerticalVFX_springFestival"
+  },
+  {
+    "id": 1636,
+    "code_name": "hero_linxiao__skill3_style2_extra_springFestival"
+  },
+  {
+    "id": 1637,
+    "code_name": "xuanshe_snake_illu_snake"
+  },
+  {
+    "id": 1638,
+    "code_name": "hero_linxiao__linxiaoSkill3GroundSpearVFX_springFestival"
+  },
+  {
+    "id": 1639,
+    "code_name": "hero_linxiao__linxiaoSkill3GroundSpearVFXFast_springFestival"
+  },
+  {
+    "id": 1640,
+    "code_name": "hero_linxiao__skill3_extra_springFestival"
+  },
+  {
+    "id": 1641,
+    "code_name": "linxiao_cut_springFestival"
+  }
+]

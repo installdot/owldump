@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "code_name": "Different"
+  },
+  {
+    "id": 1,
+    "code_name": "Hero"
+  },
+  {
+    "id": 2,
+    "code_name": "Currency"
+  },
+  {
+    "id": 3,
+    "code_name": "WineMaterial"
+  },
+  {
+    "id": 4,
+    "code_name": "LivingRoomSkin"
+  },
+  {
+    "id": 5,
+    "code_name": "HeroSkin"
+  },
+  {
+    "id": 6,
+    "code_name": "Pet"
+  },
+  {
+    "id": 7,
+    "code_name": "BossSkill"
+  },
+  {
+    "id": 8,
+    "code_name": "Other"
+  },
+  {
+    "id": 9,
+    "code_name": "SnakeHero"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "building"
+  },
+  {
+    "id": 1,
+    "code_name": "sleep"
+  },
+  {
+    "id": 2,
+    "code_name": "press"
+  },
+  {
+    "id": 3,
+    "code_name": "bomb"
+  }
+]

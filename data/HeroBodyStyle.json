@@ -1,0 +1,118 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "xuansheSplit"
+  },
+  {
+    "id": 2,
+    "code_name": "xuansheContinuous"
+  },
+  {
+    "id": 3,
+    "code_name": "xuansheExtra"
+  },
+  {
+    "id": 4,
+    "code_name": "xuansheDeathSpeak"
+  },
+  {
+    "id": 5,
+    "code_name": "heyaoDefense"
+  },
+  {
+    "id": 6,
+    "code_name": "heyaoRevenge"
+  },
+  {
+    "id": 7,
+    "code_name": "heyaoFire"
+  },
+  {
+    "id": 8,
+    "code_name": "heyaoBigger"
+  },
+  {
+    "id": 9,
+    "code_name": "aimiFocus"
+  },
+  {
+    "id": 10,
+    "code_name": "aimiCaritas"
+  },
+  {
+    "id": 11,
+    "code_name": "aimiHeroic"
+  },
+  {
+    "id": 12,
+    "code_name": "aimiDedication"
+  },
+  {
+    "id": 13,
+    "code_name": "ulianaCold"
+  },
+  {
+    "id": 14,
+    "code_name": "ulianaSaw"
+  },
+  {
+    "id": 15,
+    "code_name": "ulianaSoft"
+  },
+  {
+    "id": 16,
+    "code_name": "ulianaOutbreak"
+  },
+  {
+    "id": 17,
+    "code_name": "ruthvenGreed"
+  },
+  {
+    "id": 18,
+    "code_name": "ruthvenGluttony"
+  },
+  {
+    "id": 19,
+    "code_name": "ruthvenRage"
+  },
+  {
+    "id": 20,
+    "code_name": "ruthvenArrogance"
+  },
+  {
+    "id": 21,
+    "code_name": "anniceStarDmgUp"
+  },
+  {
+    "id": 22,
+    "code_name": "anniceMoonCenterDmgUp"
+  },
+  {
+    "id": 23,
+    "code_name": "anniceMoonProtection"
+  },
+  {
+    "id": 24,
+    "code_name": "anniceWeaponGainShield"
+  },
+  {
+    "id": 25,
+    "code_name": "erdeneBodyStyle1"
+  },
+  {
+    "id": 26,
+    "code_name": "erdeneBodyStyle2"
+  },
+  {
+    "id": 27,
+    "code_name": "erdeneBodyStyle3"
+  },
+  {
+    "id": 28,
+    "code_name": "erdeneBodyStyle4"
+  }
+]

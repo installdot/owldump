@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "born"
+  },
+  {
+    "id": 1,
+    "code_name": "idle"
+  },
+  {
+    "id": 2,
+    "code_name": "idle2"
+  },
+  {
+    "id": 3,
+    "code_name": "run"
+  },
+  {
+    "id": 4,
+    "code_name": "run2"
+  },
+  {
+    "id": 5,
+    "code_name": "beHit0"
+  },
+  {
+    "id": 6,
+    "code_name": "beHit1"
+  },
+  {
+    "id": 7,
+    "code_name": "beHit2"
+  },
+  {
+    "id": 8,
+    "code_name": "beHit3"
+  },
+  {
+    "id": 9,
+    "code_name": "defaultDeath"
+  },
+  {
+    "id": 10,
+    "code_name": "cutDeath"
+  },
+  {
+    "id": 11,
+    "code_name": "count"
+  }
+]

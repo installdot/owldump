@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "code_name": "EmptyTag"
+  },
+  {
+    "id": 1,
+    "code_name": "ExclusiveSixRealmSeed"
+  },
+  {
+    "id": 2,
+    "code_name": "ExclusiveSixRealmBallSave"
+  },
+  {
+    "id": 3,
+    "code_name": "ExclusiveSixRealmBallIdentificationSave"
+  },
+  {
+    "id": 4,
+    "code_name": "SixCycleOrbData"
+  },
+  {
+    "id": 5,
+    "code_name": "SixCycleOrbAccountSeed"
+  },
+  {
+    "id": 6,
+    "code_name": "EquippedSixCycleOrbData"
+  },
+  {
+    "id": 7,
+    "code_name": "CustomSixCycleOrbData"
+  },
+  {
+    "id": 8,
+    "code_name": "AdventureLevelMiscNewUnlockWineFormula"
+  },
+  {
+    "id": 9,
+    "code_name": "AdventureLevelMiscNewUnlockedTravel"
+  },
+  {
+    "id": 10,
+    "code_name": "SixCycleOrbDroppedFirstOrb"
+  },
+  {
+    "id": 11,
+    "code_name": "LimitActivity"
+  },
+  {
+    "id": 12,
+    "code_name": "DailyBoxBoxesArchive"
+  },
+  {
+    "id": 13,
+    "code_name": "DailyBoxChosenRewardArchive"
+  },
+  {
+    "id": 14,
+    "code_name": "DailyBoxExtraFreeBoxArchive"
+  },
+  {
+    "id": 15,
+    "code_name": "RandomBuff"
+  }
+]

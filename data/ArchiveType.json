@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "SF_PW_2024_8"
+  },
+  {
+    "id": 2,
+    "code_name": "SF_BPK_2024_8"
+  },
+  {
+    "id": 3,
+    "code_name": "SF_PT_2024_8"
+  },
+  {
+    "id": 4,
+    "code_name": "SF_FYPRK_2024_8"
+  },
+  {
+    "id": 5,
+    "code_name": "SF_SYPRK_2024_8"
+  },
+  {
+    "id": 6,
+    "code_name": "SF_FYStatueQuan_2024_8"
+  },
+  {
+    "id": 7,
+    "code_name": "SF_SYStatueAkaisha_2024_8"
+  }
+]

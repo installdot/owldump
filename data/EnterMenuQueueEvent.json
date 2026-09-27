@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "ExtraHeroSystemAutoPlay"
+  },
+  {
+    "id": 1,
+    "code_name": "AchievementRoomAutoPlay"
+  },
+  {
+    "id": 2,
+    "code_name": "RealBattleSystemAutoPlay"
+  },
+  {
+    "id": 3,
+    "code_name": "HeroFall"
+  },
+  {
+    "id": 4,
+    "code_name": "DailyBoxCanvasAutoShow"
+  },
+  {
+    "id": 5,
+    "code_name": "AdventureLevelAutoShow"
+  },
+  {
+    "id": 6,
+    "code_name": "BattlePassMgrAutoShow"
+  }
+]

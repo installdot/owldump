@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "VolicityZero"
+  },
+  {
+    "id": 1,
+    "code_name": "DirectionInput"
+  },
+  {
+    "id": 2,
+    "code_name": "MoveInput"
+  },
+  {
+    "id": 3,
+    "code_name": "SkillInput"
+  },
+  {
+    "id": 4,
+    "code_name": "AnimPause"
+  },
+  {
+    "id": 5,
+    "code_name": "StiffPause"
+  }
+]

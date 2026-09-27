@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "FollowTarget"
+  },
+  {
+    "id": 1,
+    "code_name": "Up"
+  },
+  {
+    "id": 2,
+    "code_name": "Down"
+  },
+  {
+    "id": 3,
+    "code_name": "Left"
+  },
+  {
+    "id": 4,
+    "code_name": "Right"
+  },
+  {
+    "id": 5,
+    "code_name": "Mid"
+  }
+]

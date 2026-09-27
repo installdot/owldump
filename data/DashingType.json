@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "Thrust"
+  },
+  {
+    "id": 1,
+    "code_name": "AdvancedAttack"
+  },
+  {
+    "id": 2,
+    "code_name": "Attack"
+  },
+  {
+    "id": 3,
+    "code_name": "Skill3Thrust"
+  },
+  {
+    "id": 4,
+    "code_name": "Skill3Slash"
+  },
+  {
+    "id": 5,
+    "code_name": "Empty"
+  }
+]

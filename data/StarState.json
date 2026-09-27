@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "Follow"
+  },
+  {
+    "id": 1,
+    "code_name": "Shoot"
+  },
+  {
+    "id": 2,
+    "code_name": "Bounce"
+  },
+  {
+    "id": 3,
+    "code_name": "GroundHover"
+  },
+  {
+    "id": 4,
+    "code_name": "Gather"
+  },
+  {
+    "id": 5,
+    "code_name": "GatherSpin"
+  },
+  {
+    "id": 6,
+    "code_name": "OrbitMoon"
+  }
+]

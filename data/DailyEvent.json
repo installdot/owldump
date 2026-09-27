@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "code_name": "KillNormalEnemy"
+  },
+  {
+    "id": 1,
+    "code_name": "KillHiddenEnemy"
+  },
+  {
+    "id": 2,
+    "code_name": "KillBossEnemy"
+  },
+  {
+    "id": 3,
+    "code_name": "MergeItem"
+  },
+  {
+    "id": 4,
+    "code_name": "WeaponUpdate"
+  },
+  {
+    "id": 5,
+    "code_name": "Clearance"
+  },
+  {
+    "id": 6,
+    "code_name": "HaveDrink"
+  },
+  {
+    "id": 7,
+    "code_name": "CompleteMel"
+  },
+  {
+    "id": 8,
+    "code_name": "FightClubChallenge"
+  },
+  {
+    "id": 9,
+    "code_name": "Login"
+  }
+]

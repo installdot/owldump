@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "Sleep"
+  },
+  {
+    "id": 2,
+    "code_name": "Orbiting"
+  },
+  {
+    "id": 3,
+    "code_name": "Homing"
+  },
+  {
+    "id": 4,
+    "code_name": "Die"
+  }
+]

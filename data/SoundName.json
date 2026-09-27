@@ -1,0 +1,7418 @@
+[
+  {
+    "id": 0,
+    "code_name": "default_attack_fist"
+  },
+  {
+    "id": 1,
+    "code_name": "default_attack_sword"
+  },
+  {
+    "id": 2,
+    "code_name": "default_attack_bite"
+  },
+  {
+    "id": 3,
+    "code_name": "default_attack_heavyCut"
+  },
+  {
+    "id": 4,
+    "code_name": "default_block_release"
+  },
+  {
+    "id": 5,
+    "code_name": "default_block_trigger"
+  },
+  {
+    "id": 6,
+    "code_name": "default_gather"
+  },
+  {
+    "id": 7,
+    "code_name": "default_bow_gather"
+  },
+  {
+    "id": 8,
+    "code_name": "default_effect_hit"
+  },
+  {
+    "id": 9,
+    "code_name": "default_effect_cut"
+  },
+  {
+    "id": 10,
+    "code_name": "default_effect_kick"
+  },
+  {
+    "id": 11,
+    "code_name": "default_effect_fire_exp"
+  },
+  {
+    "id": 12,
+    "code_name": "default_effect_open"
+  },
+  {
+    "id": 13,
+    "code_name": "default_effect_close"
+  },
+  {
+    "id": 14,
+    "code_name": "default_arrow_shoot"
+  },
+  {
+    "id": 15,
+    "code_name": "default_arrow_hit"
+  },
+  {
+    "id": 16,
+    "code_name": "default_coin_pick"
+  },
+  {
+    "id": 17,
+    "code_name": "default_hp_recovery"
+  },
+  {
+    "id": 18,
+    "code_name": "default_drink"
+  },
+  {
+    "id": 19,
+    "code_name": "default_effect_punch_exp"
+  },
+  {
+    "id": 20,
+    "code_name": "default_storm_loop"
+  },
+  {
+    "id": 21,
+    "code_name": "default_hammer"
+  },
+  {
+    "id": 22,
+    "code_name": "default_bullet_hit"
+  },
+  {
+    "id": 23,
+    "code_name": "default_machineGun_fire"
+  },
+  {
+    "id": 24,
+    "code_name": "default_gunCart_drop"
+  },
+  {
+    "id": 25,
+    "code_name": "default_machine_break"
+  },
+  {
+    "id": 26,
+    "code_name": "default_missile_launch"
+  },
+  {
+    "id": 27,
+    "code_name": "default_missile_boom"
+  },
+  {
+    "id": 28,
+    "code_name": "default_item_pick"
+  },
+  {
+    "id": 29,
+    "code_name": "default_slash_a"
+  },
+  {
+    "id": 30,
+    "code_name": "default_slash_b"
+  },
+  {
+    "id": 31,
+    "code_name": "default_slash_c"
+  },
+  {
+    "id": 32,
+    "code_name": "default_typewriter_click"
+  },
+  {
+    "id": 33,
+    "code_name": "default_armor_dmg"
+  },
+  {
+    "id": 34,
+    "code_name": "default_bite_dmg"
+  },
+  {
+    "id": 35,
+    "code_name": "default_liftUp"
+  },
+  {
+    "id": 36,
+    "code_name": "default_knight_move"
+  },
+  {
+    "id": 37,
+    "code_name": "default_heavySword_down"
+  },
+  {
+    "id": 38,
+    "code_name": "default_heavySword_up"
+  },
+  {
+    "id": 39,
+    "code_name": "default_spell_fire_loop"
+  },
+  {
+    "id": 40,
+    "code_name": "default_attack_liquid"
+  },
+  {
+    "id": 41,
+    "code_name": "default_cloth"
+  },
+  {
+    "id": 42,
+    "code_name": "default_horse_shout"
+  },
+  {
+    "id": 43,
+    "code_name": "default_horse_dmg"
+  },
+  {
+    "id": 44,
+    "code_name": "default_horse_move_loop"
+  },
+  {
+    "id": 45,
+    "code_name": "default_horse_die"
+  },
+  {
+    "id": 46,
+    "code_name": "default_earth_crash"
+  },
+  {
+    "id": 47,
+    "code_name": "default_box_break"
+  },
+  {
+    "id": 48,
+    "code_name": "default_wood_break"
+  },
+  {
+    "id": 49,
+    "code_name": "default_tiny_break"
+  },
+  {
+    "id": 50,
+    "code_name": "default_jar_break"
+  },
+  {
+    "id": 51,
+    "code_name": "default_dizziness"
+  },
+  {
+    "id": 52,
+    "code_name": "default_treasure_open"
+  },
+  {
+    "id": 53,
+    "code_name": "default_treasure_dropDown"
+  },
+  {
+    "id": 54,
+    "code_name": "default_holy_hit"
+  },
+  {
+    "id": 55,
+    "code_name": "default_healthDrop"
+  },
+  {
+    "id": 56,
+    "code_name": "default_attack_totem"
+  },
+  {
+    "id": 57,
+    "code_name": "default_light_boom"
+  },
+  {
+    "id": 58,
+    "code_name": "default_energyCharge"
+  },
+  {
+    "id": 59,
+    "code_name": "default_attack_dagger"
+  },
+  {
+    "id": 60,
+    "code_name": "default_effect_daggerCut"
+  },
+  {
+    "id": 61,
+    "code_name": "default_drillingDown"
+  },
+  {
+    "id": 62,
+    "code_name": "default_drillingUp"
+  },
+  {
+    "id": 63,
+    "code_name": "default_rifleGun_fire"
+  },
+  {
+    "id": 64,
+    "code_name": "default_rifleGun_reload"
+  },
+  {
+    "id": 65,
+    "code_name": "default_burn_fire_loop"
+  },
+  {
+    "id": 66,
+    "code_name": "default_ice_create"
+  },
+  {
+    "id": 67,
+    "code_name": "default_fire_create"
+  },
+  {
+    "id": 68,
+    "code_name": "default_deep_exp"
+  },
+  {
+    "id": 69,
+    "code_name": "default_attack_heavyFist"
+  },
+  {
+    "id": 70,
+    "code_name": "default_energyCharge_lite"
+  },
+  {
+    "id": 71,
+    "code_name": "default_energyCharge_demon"
+  },
+  {
+    "id": 72,
+    "code_name": "default_energyGet_lowPass"
+  },
+  {
+    "id": 73,
+    "code_name": "default_stone_dmg"
+  },
+  {
+    "id": 74,
+    "code_name": "default_boom_lowPass"
+  },
+  {
+    "id": 75,
+    "code_name": "default_buttonClick"
+  },
+  {
+    "id": 76,
+    "code_name": "default_buttonClick_bubble"
+  },
+  {
+    "id": 77,
+    "code_name": "default_buttonClick_bubble_big"
+  },
+  {
+    "id": 78,
+    "code_name": "default_buttonClick_matel"
+  },
+  {
+    "id": 79,
+    "code_name": "default_buttonClick_energy"
+  },
+  {
+    "id": 80,
+    "code_name": "default_buttonClick_pixel"
+  },
+  {
+    "id": 81,
+    "code_name": "default_buttonClick_pageOpen"
+  },
+  {
+    "id": 82,
+    "code_name": "default_buttonClick_pageClose"
+  },
+  {
+    "id": 83,
+    "code_name": "default_buttonClick_title"
+  },
+  {
+    "id": 84,
+    "code_name": "default_buttonClick_confirm"
+  },
+  {
+    "id": 85,
+    "code_name": "default_buttonClick_slideIn"
+  },
+  {
+    "id": 86,
+    "code_name": "default_buttonClick_slideOut"
+  },
+  {
+    "id": 87,
+    "code_name": "default_buttonClick_slideScroll"
+  },
+  {
+    "id": 88,
+    "code_name": "default_buttonClick_hero_slideIn"
+  },
+  {
+    "id": 89,
+    "code_name": "default_buttonClick_hero_slideOut"
+  },
+  {
+    "id": 90,
+    "code_name": "default_buttonClick_hero_skillChoose_active"
+  },
+  {
+    "id": 91,
+    "code_name": "default_buttonClick_hero_skillChoose_inactive"
+  },
+  {
+    "id": 92,
+    "code_name": "default_buttonClick_hero_styleChoose_active"
+  },
+  {
+    "id": 93,
+    "code_name": "default_buttonClick_hero_styleChoose_inactive"
+  },
+  {
+    "id": 94,
+    "code_name": "default_buttonClick_ex_skill_select"
+  },
+  {
+    "id": 95,
+    "code_name": "default_buttonClick_reject"
+  },
+  {
+    "id": 96,
+    "code_name": "default_buttonClick_buy_skill"
+  },
+  {
+    "id": 97,
+    "code_name": "default_buttonClick_buy_style"
+  },
+  {
+    "id": 98,
+    "code_name": "default_buttonClick_difficultySelection_normal"
+  },
+  {
+    "id": 99,
+    "code_name": "default_buttonClick_difficultySelection_hard"
+  },
+  {
+    "id": 100,
+    "code_name": "default_buttonClick_difficultySelection_epic"
+  },
+  {
+    "id": 101,
+    "code_name": "default_buttonClick_itemClick"
+  },
+  {
+    "id": 102,
+    "code_name": "default_buttonClick_itemDrop_walkman"
+  },
+  {
+    "id": 103,
+    "code_name": "default_buttonClick_itemDrop_active"
+  },
+  {
+    "id": 104,
+    "code_name": "default_buttonClick_itemDrop_inactive"
+  },
+  {
+    "id": 105,
+    "code_name": "default_buttonClick_itemDrop_merge"
+  },
+  {
+    "id": 106,
+    "code_name": "default_buttonClick_merge"
+  },
+  {
+    "id": 107,
+    "code_name": "default_bill_unitShow"
+  },
+  {
+    "id": 108,
+    "code_name": "default_bill_score_low"
+  },
+  {
+    "id": 109,
+    "code_name": "default_bill_score_mid"
+  },
+  {
+    "id": 110,
+    "code_name": "default_bill_score_high"
+  },
+  {
+    "id": 111,
+    "code_name": "default_water_bubble"
+  },
+  {
+    "id": 112,
+    "code_name": "default_portal_button_loop"
+  },
+  {
+    "id": 113,
+    "code_name": "default_portal__wind_loop"
+  },
+  {
+    "id": 114,
+    "code_name": "default_gem_pick"
+  },
+  {
+    "id": 115,
+    "code_name": "default_water_flow"
+  },
+  {
+    "id": 116,
+    "code_name": "default_equipment_pick"
+  },
+  {
+    "id": 117,
+    "code_name": "default_equipment_buy"
+  },
+  {
+    "id": 118,
+    "code_name": "default_equipment_disappear"
+  },
+  {
+    "id": 119,
+    "code_name": "default_weapon_pick"
+  },
+  {
+    "id": 120,
+    "code_name": "default_lightning_loop"
+  },
+  {
+    "id": 121,
+    "code_name": "default_attack_light"
+  },
+  {
+    "id": 122,
+    "code_name": "default_attack_lightSmall"
+  },
+  {
+    "id": 123,
+    "code_name": "default_wind_gather"
+  },
+  {
+    "id": 124,
+    "code_name": "default_knife_throw"
+  },
+  {
+    "id": 125,
+    "code_name": "default_attack_energy"
+  },
+  {
+    "id": 126,
+    "code_name": "default_attack_spear"
+  },
+  {
+    "id": 127,
+    "code_name": "defaut_attack_sword_energy"
+  },
+  {
+    "id": 128,
+    "code_name": "default_attack_chainSpur"
+  },
+  {
+    "id": 129,
+    "code_name": "default_portal_release"
+  },
+  {
+    "id": 130,
+    "code_name": "default_attack_heavyPunch"
+  },
+  {
+    "id": 131,
+    "code_name": "default_befalling"
+  },
+  {
+    "id": 132,
+    "code_name": "default_attack_magic"
+  },
+  {
+    "id": 133,
+    "code_name": "default_textGuide"
+  },
+  {
+    "id": 134,
+    "code_name": "default_inputGuide"
+  },
+  {
+    "id": 135,
+    "code_name": "default_scoreUp_loop"
+  },
+  {
+    "id": 136,
+    "code_name": "default_reborn"
+  },
+  {
+    "id": 137,
+    "code_name": "default_attack_iceCut"
+  },
+  {
+    "id": 138,
+    "code_name": "default_attack_iceCrash"
+  },
+  {
+    "id": 139,
+    "code_name": "default_amb_snowwind_loop"
+  },
+  {
+    "id": 140,
+    "code_name": "default_revolver_ready"
+  },
+  {
+    "id": 141,
+    "code_name": "default_revolver_fire"
+  },
+  {
+    "id": 142,
+    "code_name": "default_shotGun_fire"
+  },
+  {
+    "id": 143,
+    "code_name": "default_shotGun_reload"
+  },
+  {
+    "id": 144,
+    "code_name": "default_stone_throw"
+  },
+  {
+    "id": 145,
+    "code_name": "default_stone_hit"
+  },
+  {
+    "id": 146,
+    "code_name": "default_bottle_broken"
+  },
+  {
+    "id": 147,
+    "code_name": "default_firecrackers_boom"
+  },
+  {
+    "id": 148,
+    "code_name": "achievement_reward_welding"
+  },
+  {
+    "id": 149,
+    "code_name": "commonMsg_stone_popUp"
+  },
+  {
+    "id": 150,
+    "code_name": "commonMsg_hero_unlock"
+  },
+  {
+    "id": 151,
+    "code_name": "ui_decompositionMachineScrollNumber"
+  },
+  {
+    "id": 152,
+    "code_name": "ui_decompositionMachineStoneAmount"
+  },
+  {
+    "id": 153,
+    "code_name": "ui_decompositionMachineConfirmHandle"
+  },
+  {
+    "id": 154,
+    "code_name": "ui_decompositionMachineCancelHandle"
+  },
+  {
+    "id": 155,
+    "code_name": "ui_decompositionMachineSoulStoneNumber"
+  },
+  {
+    "id": 156,
+    "code_name": "ce_tykeSoul_release"
+  },
+  {
+    "id": 157,
+    "code_name": "ce_soulEcho_release"
+  },
+  {
+    "id": 158,
+    "code_name": "ce_porkBelly_transform"
+  },
+  {
+    "id": 159,
+    "code_name": "ce_shamanTotem_release"
+  },
+  {
+    "id": 160,
+    "code_name": "ce_halfHealthRage_triggered"
+  },
+  {
+    "id": 161,
+    "code_name": "ce_chargingJar_triggered"
+  },
+  {
+    "id": 162,
+    "code_name": "ce_chargingJar_release"
+  },
+  {
+    "id": 163,
+    "code_name": "ce_poisonTouch_release"
+  },
+  {
+    "id": 164,
+    "code_name": "ce_drumbling_release"
+  },
+  {
+    "id": 165,
+    "code_name": "ce_gene_release"
+  },
+  {
+    "id": 166,
+    "code_name": "ce_imperial_engine"
+  },
+  {
+    "id": 167,
+    "code_name": "ce_green_mushroom_chime"
+  },
+  {
+    "id": 168,
+    "code_name": "ce_green_mushroom_release"
+  },
+  {
+    "id": 169,
+    "code_name": "ce_broken_bone_knife"
+  },
+  {
+    "id": 170,
+    "code_name": "ce_amber"
+  },
+  {
+    "id": 171,
+    "code_name": "ce_tectical_armor"
+  },
+  {
+    "id": 172,
+    "code_name": "ce_micro_planet"
+  },
+  {
+    "id": 173,
+    "code_name": "ce_paralysis_boom"
+  },
+  {
+    "id": 174,
+    "code_name": "ce_big_flame_ball_release"
+  },
+  {
+    "id": 175,
+    "code_name": "ce_big_flame_ball_explode"
+  },
+  {
+    "id": 176,
+    "code_name": "ce_final_sacrifice"
+  },
+  {
+    "id": 177,
+    "code_name": "ce_source_fortune_loop"
+  },
+  {
+    "id": 178,
+    "code_name": "ce_three_wishes_impact"
+  },
+  {
+    "id": 179,
+    "code_name": "ce_three_wishes_melodic"
+  },
+  {
+    "id": 180,
+    "code_name": "ce_succubuss_mask"
+  },
+  {
+    "id": 181,
+    "code_name": "walk_grassland"
+  },
+  {
+    "id": 182,
+    "code_name": "walk_marble"
+  },
+  {
+    "id": 183,
+    "code_name": "walk_floor"
+  },
+  {
+    "id": 184,
+    "code_name": "walk_snow"
+  },
+  {
+    "id": 185,
+    "code_name": "walk_swamp"
+  },
+  {
+    "id": 186,
+    "code_name": "sakari_dmg"
+  },
+  {
+    "id": 187,
+    "code_name": "sakari_die"
+  },
+  {
+    "id": 188,
+    "code_name": "sakari_combo_shout"
+  },
+  {
+    "id": 189,
+    "code_name": "sakari_dive_release"
+  },
+  {
+    "id": 190,
+    "code_name": "sakari_washingCombo_style2_release0"
+  },
+  {
+    "id": 191,
+    "code_name": "sakari_washingCombo_style2_release1"
+  },
+  {
+    "id": 192,
+    "code_name": "sakari_washingCombo_style2_release2"
+  },
+  {
+    "id": 193,
+    "code_name": "sakari_counterPunch_style0_release"
+  },
+  {
+    "id": 194,
+    "code_name": "sakari_counterPunch_style0_atk"
+  },
+  {
+    "id": 195,
+    "code_name": "sakari_counterPunch_style0_stormCast"
+  },
+  {
+    "id": 196,
+    "code_name": "seebee_dmg"
+  },
+  {
+    "id": 197,
+    "code_name": "seebee_die"
+  },
+  {
+    "id": 198,
+    "code_name": "seebee_combo_shout"
+  },
+  {
+    "id": 199,
+    "code_name": "seebee_back_shout"
+  },
+  {
+    "id": 200,
+    "code_name": "seebee_qiefan_style0_shout"
+  },
+  {
+    "id": 201,
+    "code_name": "seebee_qiefan_style0_attack"
+  },
+  {
+    "id": 202,
+    "code_name": "seebee_oneSlash_style0_attack"
+  },
+  {
+    "id": 203,
+    "code_name": "seebee_oneSlash_style2_small"
+  },
+  {
+    "id": 204,
+    "code_name": "seebee_oneSlash_style2_attack"
+  },
+  {
+    "id": 205,
+    "code_name": "seebee_thunderCombo_style0_attack"
+  },
+  {
+    "id": 206,
+    "code_name": "seebee_thunderCombo_style0_final"
+  },
+  {
+    "id": 207,
+    "code_name": "quanhuying_dmg"
+  },
+  {
+    "id": 208,
+    "code_name": "quanhuying_die"
+  },
+  {
+    "id": 209,
+    "code_name": "quanhuying_combo_shout"
+  },
+  {
+    "id": 210,
+    "code_name": "quanhuying_back_shout"
+  },
+  {
+    "id": 211,
+    "code_name": "quanhuying_hupuzi_style0_shout_gather"
+  },
+  {
+    "id": 212,
+    "code_name": "quanhuying_hupuzi_style0_shout_release"
+  },
+  {
+    "id": 213,
+    "code_name": "quanhuying_hupuzi_style0_attack"
+  },
+  {
+    "id": 214,
+    "code_name": "quanhuying_huanyingzhen_style0_shout"
+  },
+  {
+    "id": 215,
+    "code_name": "quanhuying_tieshankao_style0_shout"
+  },
+  {
+    "id": 216,
+    "code_name": "quanhuying_tieshankao_style0_exp"
+  },
+  {
+    "id": 217,
+    "code_name": "quanhuying_leicha_style0_shout_gather"
+  },
+  {
+    "id": 218,
+    "code_name": "quanhuying_leicha_style0_shout_release"
+  },
+  {
+    "id": 219,
+    "code_name": "quanhuying_leicha_style3_shout_gather"
+  },
+  {
+    "id": 220,
+    "code_name": "quanhuying_leicha_style3_shout_release"
+  },
+  {
+    "id": 221,
+    "code_name": "quanhuying_leicha_style3_exp"
+  },
+  {
+    "id": 222,
+    "code_name": "quanhuying_leicha_style0_exp"
+  },
+  {
+    "id": 223,
+    "code_name": "akaisha_dmg"
+  },
+  {
+    "id": 224,
+    "code_name": "akaisha_die"
+  },
+  {
+    "id": 225,
+    "code_name": "akaisha_bowHold_gatherLevelUp"
+  },
+  {
+    "id": 226,
+    "code_name": "akaisha_arrowRain_style0_gather"
+  },
+  {
+    "id": 227,
+    "code_name": "akaisha_arrowRain_style0_release"
+  },
+  {
+    "id": 228,
+    "code_name": "akaisha_trap_style0_release"
+  },
+  {
+    "id": 229,
+    "code_name": "akaisha_trap_style0_trigger"
+  },
+  {
+    "id": 230,
+    "code_name": "akaisha_trap_style0_loop"
+  },
+  {
+    "id": 231,
+    "code_name": "olivia_dmg"
+  },
+  {
+    "id": 232,
+    "code_name": "olivia_die"
+  },
+  {
+    "id": 233,
+    "code_name": "olivia_combo_shout"
+  },
+  {
+    "id": 234,
+    "code_name": "olivia_drill_shout"
+  },
+  {
+    "id": 235,
+    "code_name": "olivia_combo_attack1"
+  },
+  {
+    "id": 236,
+    "code_name": "olivia_drill"
+  },
+  {
+    "id": 237,
+    "code_name": "olivia_backRoll"
+  },
+  {
+    "id": 238,
+    "code_name": "oliviaBunker_born"
+  },
+  {
+    "id": 239,
+    "code_name": "oliviaAerobat_fire"
+  },
+  {
+    "id": 240,
+    "code_name": "oliviaTransform_born"
+  },
+  {
+    "id": 241,
+    "code_name": "oliviaTransform_walk"
+  },
+  {
+    "id": 242,
+    "code_name": "oliviaTransform_punch"
+  },
+  {
+    "id": 243,
+    "code_name": "oliviaTransform_reload"
+  },
+  {
+    "id": 244,
+    "code_name": "oliviaTransform_noBullet"
+  },
+  {
+    "id": 245,
+    "code_name": "oliviaAerobat_born_inTransform"
+  },
+  {
+    "id": 246,
+    "code_name": "oliviaBunker_born_inTransform"
+  },
+  {
+    "id": 247,
+    "code_name": "oliviaBunker_born_inTransform_prepare"
+  },
+  {
+    "id": 248,
+    "code_name": "tinybot_rocket_exp"
+  },
+  {
+    "id": 249,
+    "code_name": "gangdan_dmg"
+  },
+  {
+    "id": 250,
+    "code_name": "gangdan_die"
+  },
+  {
+    "id": 251,
+    "code_name": "gangdan_combo_shout"
+  },
+  {
+    "id": 252,
+    "code_name": "gangdan_heavyCombo_shout"
+  },
+  {
+    "id": 253,
+    "code_name": "gangdan_combo_chain"
+  },
+  {
+    "id": 254,
+    "code_name": "gangdan_shieldBlock_energyLevelUp"
+  },
+  {
+    "id": 255,
+    "code_name": "gangdan_shieldBlock_release"
+  },
+  {
+    "id": 256,
+    "code_name": "gangdan_holyLight_release"
+  },
+  {
+    "id": 257,
+    "code_name": "gangdan_KOW_shout"
+  },
+  {
+    "id": 258,
+    "code_name": "gangdan_KOW_release"
+  },
+  {
+    "id": 259,
+    "code_name": "gangdan_shieldAttack_shout"
+  },
+  {
+    "id": 260,
+    "code_name": "gangdan_shieldAttack_release"
+  },
+  {
+    "id": 261,
+    "code_name": "gangdan_angel_release"
+  },
+  {
+    "id": 262,
+    "code_name": "gangdan_angel2_gather_shout"
+  },
+  {
+    "id": 263,
+    "code_name": "gangdan_angel2_release_shout"
+  },
+  {
+    "id": 264,
+    "code_name": "gangdan_angel2_release"
+  },
+  {
+    "id": 265,
+    "code_name": "katherine_dmg"
+  },
+  {
+    "id": 266,
+    "code_name": "katherine_die"
+  },
+  {
+    "id": 267,
+    "code_name": "katherine_skill_shout"
+  },
+  {
+    "id": 268,
+    "code_name": "katherine_skillrelease"
+  },
+  {
+    "id": 269,
+    "code_name": "katherine_fireBall_style2"
+  },
+  {
+    "id": 270,
+    "code_name": "zombie_adam_shout"
+  },
+  {
+    "id": 271,
+    "code_name": "zombie_adam_dmg"
+  },
+  {
+    "id": 272,
+    "code_name": "zombie_adam_die"
+  },
+  {
+    "id": 273,
+    "code_name": "bat_dmg"
+  },
+  {
+    "id": 274,
+    "code_name": "bat_die"
+  },
+  {
+    "id": 275,
+    "code_name": "skeleton_dmg"
+  },
+  {
+    "id": 276,
+    "code_name": "skeleton_die"
+  },
+  {
+    "id": 277,
+    "code_name": "knight_libeluece_die"
+  },
+  {
+    "id": 278,
+    "code_name": "knight_libeluece_shout"
+  },
+  {
+    "id": 279,
+    "code_name": "witch_cheap_dmg"
+  },
+  {
+    "id": 280,
+    "code_name": "witch_cheap_die"
+  },
+  {
+    "id": 281,
+    "code_name": "witch_cheap_call_finish"
+  },
+  {
+    "id": 282,
+    "code_name": "doge_tyke_dmg"
+  },
+  {
+    "id": 283,
+    "code_name": "doge_tyke_die"
+  },
+  {
+    "id": 284,
+    "code_name": "doge_tyke_attack_prepare"
+  },
+  {
+    "id": 285,
+    "code_name": "doge_tyke_attack"
+  },
+  {
+    "id": 286,
+    "code_name": "twins_abubu_dmg"
+  },
+  {
+    "id": 287,
+    "code_name": "twins_abubu_die"
+  },
+  {
+    "id": 288,
+    "code_name": "twins_abubu_shout"
+  },
+  {
+    "id": 289,
+    "code_name": "twins_abubu_combo_prepare"
+  },
+  {
+    "id": 290,
+    "code_name": "slime_jelly_dmg"
+  },
+  {
+    "id": 291,
+    "code_name": "slime_jelly_die"
+  },
+  {
+    "id": 292,
+    "code_name": "slime_jelly_attack"
+  },
+  {
+    "id": 293,
+    "code_name": "vampire_dracula_dmg"
+  },
+  {
+    "id": 294,
+    "code_name": "vampire_dracula_die"
+  },
+  {
+    "id": 295,
+    "code_name": "vampire_dracula_shout"
+  },
+  {
+    "id": 296,
+    "code_name": "vampire_dracula_callBats"
+  },
+  {
+    "id": 297,
+    "code_name": "vampire_dracula_shooting"
+  },
+  {
+    "id": 298,
+    "code_name": "grandknight_axasheir_shout"
+  },
+  {
+    "id": 299,
+    "code_name": "grandknight_axasheir_rush_release"
+  },
+  {
+    "id": 300,
+    "code_name": "grandknight_axasheir_shout_prepare"
+  },
+  {
+    "id": 301,
+    "code_name": "grandknight_axasheir_dropDown"
+  },
+  {
+    "id": 302,
+    "code_name": "grandknight_axasheir_Melee_die"
+  },
+  {
+    "id": 303,
+    "code_name": "grandknight_axasheir_Melee_shieldSlam"
+  },
+  {
+    "id": 304,
+    "code_name": "jpn_ashigaru_dmg"
+  },
+  {
+    "id": 305,
+    "code_name": "jpn_ashigaru_die"
+  },
+  {
+    "id": 306,
+    "code_name": "jpn_umbrella_dmg"
+  },
+  {
+    "id": 307,
+    "code_name": "jpn_umbrella_die"
+  },
+  {
+    "id": 308,
+    "code_name": "jpn_umbrella_spin"
+  },
+  {
+    "id": 309,
+    "code_name": "jpn_gokou_dmg"
+  },
+  {
+    "id": 310,
+    "code_name": "jpn_gokou_die"
+  },
+  {
+    "id": 311,
+    "code_name": "jpn_gokou_shout"
+  },
+  {
+    "id": 312,
+    "code_name": "jpn_kappa_dmg"
+  },
+  {
+    "id": 313,
+    "code_name": "jpn_kappa_die"
+  },
+  {
+    "id": 314,
+    "code_name": "jpn_kappa_cast"
+  },
+  {
+    "id": 315,
+    "code_name": "jpn_shinobi_dmg"
+  },
+  {
+    "id": 316,
+    "code_name": "jpn_shinobi_die"
+  },
+  {
+    "id": 317,
+    "code_name": "jpn_shinobi_shout"
+  },
+  {
+    "id": 318,
+    "code_name": "jpn_toud_dmg"
+  },
+  {
+    "id": 319,
+    "code_name": "jpn_toud_die"
+  },
+  {
+    "id": 320,
+    "code_name": "jpn_toud_shout"
+  },
+  {
+    "id": 321,
+    "code_name": "jpn_tanagashima_dmg"
+  },
+  {
+    "id": 322,
+    "code_name": "jpn_tanagashima_die"
+  },
+  {
+    "id": 323,
+    "code_name": "jpn_behemoth_dmg"
+  },
+  {
+    "id": 324,
+    "code_name": "jpn_behemoth_die"
+  },
+  {
+    "id": 325,
+    "code_name": "jpn_behemoth_shout"
+  },
+  {
+    "id": 326,
+    "code_name": "jpn_behemoth_breath"
+  },
+  {
+    "id": 327,
+    "code_name": "jpn_behemoth_rush_shout"
+  },
+  {
+    "id": 328,
+    "code_name": "jpn_samurai_dmg"
+  },
+  {
+    "id": 329,
+    "code_name": "jpn_samurai_die"
+  },
+  {
+    "id": 330,
+    "code_name": "jpn_samurai_shout"
+  },
+  {
+    "id": 331,
+    "code_name": "jpn_samurai_block_attack"
+  },
+  {
+    "id": 332,
+    "code_name": "jpn_oni_dmg"
+  },
+  {
+    "id": 333,
+    "code_name": "jpn_oni_die"
+  },
+  {
+    "id": 334,
+    "code_name": "jpn_oni_attach_loop"
+  },
+  {
+    "id": 335,
+    "code_name": "jpn_monk_dmg"
+  },
+  {
+    "id": 336,
+    "code_name": "jpn_monk_die"
+  },
+  {
+    "id": 337,
+    "code_name": "jpn_monk_callOni_loop"
+  },
+  {
+    "id": 338,
+    "code_name": "jpn_monk_callOni_done"
+  },
+  {
+    "id": 339,
+    "code_name": "jpn_monk_cast_done"
+  },
+  {
+    "id": 340,
+    "code_name": "jpn_tengo1_dmg"
+  },
+  {
+    "id": 341,
+    "code_name": "jpn_tengo1_die"
+  },
+  {
+    "id": 342,
+    "code_name": "jpn_tengo1_shout"
+  },
+  {
+    "id": 343,
+    "code_name": "jpn_tengo1_heavyCombo_shout"
+  },
+  {
+    "id": 344,
+    "code_name": "jpn_tengo1_bornPrepare"
+  },
+  {
+    "id": 345,
+    "code_name": "jpn_tengo1_bornShout"
+  },
+  {
+    "id": 346,
+    "code_name": "jpn_tengo1_callStone_stoneOut"
+  },
+  {
+    "id": 347,
+    "code_name": "jpn_tengo1_energyRoll_up"
+  },
+  {
+    "id": 348,
+    "code_name": "jpn_tengo1_energyRoll_down"
+  },
+  {
+    "id": 349,
+    "code_name": "jpn_tengo1_stoneShout"
+  },
+  {
+    "id": 350,
+    "code_name": "jpn_tengo1_energyRoll_up_shout"
+  },
+  {
+    "id": 351,
+    "code_name": "jpn_tengo1_energyRoll_down_shout"
+  },
+  {
+    "id": 352,
+    "code_name": "jpn_tengo1_comboShout"
+  },
+  {
+    "id": 353,
+    "code_name": "jpn_tengo1_callRocks_flyUp"
+  },
+  {
+    "id": 354,
+    "code_name": "jpn_tengo1_callRocks_flying"
+  },
+  {
+    "id": 355,
+    "code_name": "jpn_tengo1_callRocks_flyDown"
+  },
+  {
+    "id": 356,
+    "code_name": "jpn_tengo1_breath"
+  },
+  {
+    "id": 357,
+    "code_name": "jpn_yamato_dmg"
+  },
+  {
+    "id": 358,
+    "code_name": "jpn_yamato_die"
+  },
+  {
+    "id": 359,
+    "code_name": "jpn_yamato_dash_release"
+  },
+  {
+    "id": 360,
+    "code_name": "jpn_yamato_upShot_shout"
+  },
+  {
+    "id": 361,
+    "code_name": "arab_wizard_dmg"
+  },
+  {
+    "id": 362,
+    "code_name": "arab_wizard_die"
+  },
+  {
+    "id": 363,
+    "code_name": "arab_wizard_spell_loop"
+  },
+  {
+    "id": 364,
+    "code_name": "arab_rogue_dmg"
+  },
+  {
+    "id": 365,
+    "code_name": "arab_rogue_die"
+  },
+  {
+    "id": 366,
+    "code_name": "arab_purpleRobe_dmg"
+  },
+  {
+    "id": 367,
+    "code_name": "arab_purpleRobe_die"
+  },
+  {
+    "id": 368,
+    "code_name": "arab_purpleRobe_callSD_loop"
+  },
+  {
+    "id": 369,
+    "code_name": "arab_shadiao_die"
+  },
+  {
+    "id": 370,
+    "code_name": "arab_shadiao_dmg"
+  },
+  {
+    "id": 371,
+    "code_name": "arab_shadiao_whistle"
+  },
+  {
+    "id": 372,
+    "code_name": "arab_shieldMan_die"
+  },
+  {
+    "id": 373,
+    "code_name": "arab_shieldMan_dmg"
+  },
+  {
+    "id": 374,
+    "code_name": "arab_snakePurple_die"
+  },
+  {
+    "id": 375,
+    "code_name": "arab_snakePurple_dmg"
+  },
+  {
+    "id": 376,
+    "code_name": "arab_snakePurple_stoneEye_cast"
+  },
+  {
+    "id": 377,
+    "code_name": "arab_stoneMan_die"
+  },
+  {
+    "id": 378,
+    "code_name": "arab_stoneMan_laser_release"
+  },
+  {
+    "id": 379,
+    "code_name": "arab_thife_die"
+  },
+  {
+    "id": 380,
+    "code_name": "arab_thife_dmg"
+  },
+  {
+    "id": 381,
+    "code_name": "arab_thife_shout"
+  },
+  {
+    "id": 382,
+    "code_name": "arab_whiteRobe_die"
+  },
+  {
+    "id": 383,
+    "code_name": "arab_whiteRobe_dmg"
+  },
+  {
+    "id": 384,
+    "code_name": "arab_whiteRobe_buble_exp"
+  },
+  {
+    "id": 385,
+    "code_name": "arab_whiteRobe_combo_prepare"
+  },
+  {
+    "id": 386,
+    "code_name": "arab_whiteRobe_combo_release"
+  },
+  {
+    "id": 387,
+    "code_name": "arab_stoneBoss_bigSand_prepare"
+  },
+  {
+    "id": 388,
+    "code_name": "arab_stoneBoss_bigSand_loop"
+  },
+  {
+    "id": 389,
+    "code_name": "arab_stoneBoss_bigSand_end"
+  },
+  {
+    "id": 390,
+    "code_name": "arab_stoneBoss_stoneFist_prepare"
+  },
+  {
+    "id": 391,
+    "code_name": "arab_stoneBoss_stoneFist_release"
+  },
+  {
+    "id": 392,
+    "code_name": "arab_stoneBoss_stoneDash_prepare"
+  },
+  {
+    "id": 393,
+    "code_name": "arab_stoneBoss_stoneDash_release"
+  },
+  {
+    "id": 394,
+    "code_name": "arab_stoneBoss_heartOpen"
+  },
+  {
+    "id": 395,
+    "code_name": "arab_stoneBoss_heartClose"
+  },
+  {
+    "id": 396,
+    "code_name": "arab_stoneBoss_die"
+  },
+  {
+    "id": 397,
+    "code_name": "arab_fat_dmg"
+  },
+  {
+    "id": 398,
+    "code_name": "arab_fat_die"
+  },
+  {
+    "id": 399,
+    "code_name": "arab_fatAttendantWarrior_die"
+  },
+  {
+    "id": 400,
+    "code_name": "arab_fatAttendantWarrior_dmg"
+  },
+  {
+    "id": 401,
+    "code_name": "arab_fatAttendantWarrior_shout"
+  },
+  {
+    "id": 402,
+    "code_name": "arab_fatAttendantWarrior_combo_release0"
+  },
+  {
+    "id": 403,
+    "code_name": "arab_fatAttendantWarrior_combo_release1"
+  },
+  {
+    "id": 404,
+    "code_name": "arab_fatAttendantWarrior_dashCombo_release"
+  },
+  {
+    "id": 405,
+    "code_name": "arab_fatAttendantWitch_die"
+  },
+  {
+    "id": 406,
+    "code_name": "arab_fatAttendantWitch_dmg"
+  },
+  {
+    "id": 407,
+    "code_name": "arab_fatAttendantWitch_airKiss_exp"
+  },
+  {
+    "id": 408,
+    "code_name": "arab_fatAttendantWitch_airKiss_release"
+  },
+  {
+    "id": 409,
+    "code_name": "arab_fatAttendantWitch_magicBall_exp"
+  },
+  {
+    "id": 410,
+    "code_name": "arab_fatAttendantWitch_magicBall_release"
+  },
+  {
+    "id": 411,
+    "code_name": "arab_fatAttendantWitch_portal_release"
+  },
+  {
+    "id": 412,
+    "code_name": "arab_fatAttendantWitch_portal_end"
+  },
+  {
+    "id": 413,
+    "code_name": "arab_lamp_born"
+  },
+  {
+    "id": 414,
+    "code_name": "arab_lamp_laugh"
+  },
+  {
+    "id": 415,
+    "code_name": "arab_lamp_money_release"
+  },
+  {
+    "id": 416,
+    "code_name": "cn_zhao_dmg"
+  },
+  {
+    "id": 417,
+    "code_name": "cn_zhao_die"
+  },
+  {
+    "id": 418,
+    "code_name": "cn_qian_dmg"
+  },
+  {
+    "id": 419,
+    "code_name": "cn_qian_die"
+  },
+  {
+    "id": 420,
+    "code_name": "cn_sun_dmg"
+  },
+  {
+    "id": 421,
+    "code_name": "cn_sun_die"
+  },
+  {
+    "id": 422,
+    "code_name": "cn_li_dmg"
+  },
+  {
+    "id": 423,
+    "code_name": "cn_li_die"
+  },
+  {
+    "id": 424,
+    "code_name": "cn_zhou_dmg"
+  },
+  {
+    "id": 425,
+    "code_name": "cn_zhou_die"
+  },
+  {
+    "id": 426,
+    "code_name": "cn_wu_combo1_release0"
+  },
+  {
+    "id": 427,
+    "code_name": "cn_wu_combo1_release1"
+  },
+  {
+    "id": 428,
+    "code_name": "cn_wu_combo1_release2"
+  },
+  {
+    "id": 429,
+    "code_name": "cn_wu_die"
+  },
+  {
+    "id": 430,
+    "code_name": "cn_wu_dmg"
+  },
+  {
+    "id": 431,
+    "code_name": "cn_zheng_die"
+  },
+  {
+    "id": 432,
+    "code_name": "cn_zheng_dmg"
+  },
+  {
+    "id": 433,
+    "code_name": "cn_feng_die"
+  },
+  {
+    "id": 434,
+    "code_name": "cn_feng_dmg"
+  },
+  {
+    "id": 435,
+    "code_name": "cn_wang_die"
+  },
+  {
+    "id": 436,
+    "code_name": "cn_wang_dmg"
+  },
+  {
+    "id": 437,
+    "code_name": "cn_chen_huPu_release"
+  },
+  {
+    "id": 438,
+    "code_name": "cn_chen_huPu_shout"
+  },
+  {
+    "id": 439,
+    "code_name": "cn_chen_huPao_release"
+  },
+  {
+    "id": 440,
+    "code_name": "cn_chen_huPao_shout"
+  },
+  {
+    "id": 441,
+    "code_name": "cn_chen_huBenQuan_shout"
+  },
+  {
+    "id": 442,
+    "code_name": "cn_chen_longFenShen_release"
+  },
+  {
+    "id": 443,
+    "code_name": "cn_chen_longFenShen_shout"
+  },
+  {
+    "id": 444,
+    "code_name": "cn_chen_switch_release"
+  },
+  {
+    "id": 445,
+    "code_name": "cn_chen_longSwitchHu_shout"
+  },
+  {
+    "id": 446,
+    "code_name": "cn_chen_huSwitchLong_shout"
+  },
+  {
+    "id": 447,
+    "code_name": "cn_chen_dmg"
+  },
+  {
+    "id": 448,
+    "code_name": "cn_chen_die"
+  },
+  {
+    "id": 449,
+    "code_name": "final_asura1_laser_release"
+  },
+  {
+    "id": 450,
+    "code_name": "final_asura1_laser_exp"
+  },
+  {
+    "id": 451,
+    "code_name": "final_asura1_laserCombo_release"
+  },
+  {
+    "id": 452,
+    "code_name": "final_asura1_laserCombo_exp"
+  },
+  {
+    "id": 453,
+    "code_name": "final_asura1_mirror_shout"
+  },
+  {
+    "id": 454,
+    "code_name": "final_asura1_mirror_release"
+  },
+  {
+    "id": 455,
+    "code_name": "final_asura1_earthRock_shout"
+  },
+  {
+    "id": 456,
+    "code_name": "final_asura1_earthRock_exp"
+  },
+  {
+    "id": 457,
+    "code_name": "final_asura1_portal_release"
+  },
+  {
+    "id": 458,
+    "code_name": "final_asura1_portal_end"
+  },
+  {
+    "id": 459,
+    "code_name": "final_asura1_shieldBoom_release"
+  },
+  {
+    "id": 460,
+    "code_name": "final_asura1_shieldBoom_shout"
+  },
+  {
+    "id": 461,
+    "code_name": "final_asura1_callArmy_loop"
+  },
+  {
+    "id": 462,
+    "code_name": "final_asura1_callArmy_release"
+  },
+  {
+    "id": 463,
+    "code_name": "final_asura1_jumpUp"
+  },
+  {
+    "id": 464,
+    "code_name": "final_asura2_fistCombo1_exp"
+  },
+  {
+    "id": 465,
+    "code_name": "final_asura2_fistCombo1_shout"
+  },
+  {
+    "id": 466,
+    "code_name": "final_asura2_fistCombo2_shout"
+  },
+  {
+    "id": 467,
+    "code_name": "final_asura2_dmg"
+  },
+  {
+    "id": 468,
+    "code_name": "final_asura3_born_shout"
+  },
+  {
+    "id": 469,
+    "code_name": "final_asura3_eyeLaser_release"
+  },
+  {
+    "id": 470,
+    "code_name": "final_asura3_laserBall_shot"
+  },
+  {
+    "id": 471,
+    "code_name": "final_asura3_barrage_release"
+  },
+  {
+    "id": 472,
+    "code_name": "final_asura3_barrage_shout"
+  },
+  {
+    "id": 473,
+    "code_name": "final_asura3_fistBoom_release"
+  },
+  {
+    "id": 474,
+    "code_name": "final_asura3_fistBoom_expLayer"
+  },
+  {
+    "id": 475,
+    "code_name": "final_asura3_shadowWorld_release"
+  },
+  {
+    "id": 476,
+    "code_name": "final_asura3_shadowWorld_shout"
+  },
+  {
+    "id": 477,
+    "code_name": "final_asura3_bigLaser_release"
+  },
+  {
+    "id": 478,
+    "code_name": "final_asura3_bigLaser_shout"
+  },
+  {
+    "id": 479,
+    "code_name": "final_asura3_die"
+  },
+  {
+    "id": 480,
+    "code_name": "final_asura3_die_shout"
+  },
+  {
+    "id": 481,
+    "code_name": "west_sheriff_die"
+  },
+  {
+    "id": 482,
+    "code_name": "west_sheriff_dmg"
+  },
+  {
+    "id": 483,
+    "code_name": "west_shotgunMan_die"
+  },
+  {
+    "id": 484,
+    "code_name": "west_shotgunMan_dmg"
+  },
+  {
+    "id": 485,
+    "code_name": "west_strongMan_die"
+  },
+  {
+    "id": 486,
+    "code_name": "west_strongMan_dmg"
+  },
+  {
+    "id": 487,
+    "code_name": "west_strongMan_combo0_shout"
+  },
+  {
+    "id": 488,
+    "code_name": "west_strongMan_combo1_shout"
+  },
+  {
+    "id": 489,
+    "code_name": "west_swordsMan_die"
+  },
+  {
+    "id": 490,
+    "code_name": "west_swordsMan_dmg"
+  },
+  {
+    "id": 491,
+    "code_name": "west_fireWoman_die"
+  },
+  {
+    "id": 492,
+    "code_name": "west_fireWoman_dmg"
+  },
+  {
+    "id": 493,
+    "code_name": "west_fireWoman_combo0_shout"
+  },
+  {
+    "id": 494,
+    "code_name": "west_boomFat_die"
+  },
+  {
+    "id": 495,
+    "code_name": "west_boomFat_dmg"
+  },
+  {
+    "id": 496,
+    "code_name": "west_boomFat_combo0_shout"
+  },
+  {
+    "id": 497,
+    "code_name": "west_cow_die"
+  },
+  {
+    "id": 498,
+    "code_name": "west_cow_readyRush"
+  },
+  {
+    "id": 499,
+    "code_name": "west_cow_readyRush_shout"
+  },
+  {
+    "id": 500,
+    "code_name": "west_cow_move_loop"
+  },
+  {
+    "id": 501,
+    "code_name": "west_eagle_die"
+  },
+  {
+    "id": 502,
+    "code_name": "west_eagle_dmg"
+  },
+  {
+    "id": 503,
+    "code_name": "west_eagle_come_shout"
+  },
+  {
+    "id": 504,
+    "code_name": "west_eagle_combo0_shout"
+  },
+  {
+    "id": 505,
+    "code_name": "west_ropeMan_die"
+  },
+  {
+    "id": 506,
+    "code_name": "west_ropeMan_dmg"
+  },
+  {
+    "id": 507,
+    "code_name": "west_ropeMan_combo0_shout"
+  },
+  {
+    "id": 508,
+    "code_name": "west_morgan_die"
+  },
+  {
+    "id": 509,
+    "code_name": "west_morgan_dmg"
+  },
+  {
+    "id": 510,
+    "code_name": "west_morgan_combo0_shout"
+  },
+  {
+    "id": 511,
+    "code_name": "west_morgan_energyDrop_wind"
+  },
+  {
+    "id": 512,
+    "code_name": "west_morgan_energyDrop_wind_shout"
+  },
+  {
+    "id": 513,
+    "code_name": "west_morgan_energyDrop_down"
+  },
+  {
+    "id": 514,
+    "code_name": "west_morgan_energyDrop_down_shout"
+  },
+  {
+    "id": 515,
+    "code_name": "west_morgan_energyDrop_up"
+  },
+  {
+    "id": 516,
+    "code_name": "west_morgan_hook"
+  },
+  {
+    "id": 517,
+    "code_name": "west_morgan_portal_up"
+  },
+  {
+    "id": 518,
+    "code_name": "west_morgan_portal_down"
+  },
+  {
+    "id": 519,
+    "code_name": "west_morgan_reload_success"
+  },
+  {
+    "id": 520,
+    "code_name": "west_morgan_reload_failure"
+  },
+  {
+    "id": 521,
+    "code_name": "west_morgan_reload_finshLaugh"
+  },
+  {
+    "id": 522,
+    "code_name": "west_morgan_reload_finshFlip"
+  },
+  {
+    "id": 523,
+    "code_name": "west_morgan_reload_finsh"
+  },
+  {
+    "id": 524,
+    "code_name": "west_morgan_shoot"
+  },
+  {
+    "id": 525,
+    "code_name": "west_morgan_superDrop_down"
+  },
+  {
+    "id": 526,
+    "code_name": "west_morgan_pullTrain_shout"
+  },
+  {
+    "id": 527,
+    "code_name": "west_morgan_pullTrain_warning"
+  },
+  {
+    "id": 528,
+    "code_name": "west_morgan_trainBoom"
+  },
+  {
+    "id": 529,
+    "code_name": "west_morgan_pullTrainRope"
+  },
+  {
+    "id": 530,
+    "code_name": "west_centaur_die"
+  },
+  {
+    "id": 531,
+    "code_name": "west_centaur_dmg"
+  },
+  {
+    "id": 532,
+    "code_name": "west_centaur_combo0"
+  },
+  {
+    "id": 533,
+    "code_name": "west_centaur_combo1_shout"
+  },
+  {
+    "id": 534,
+    "code_name": "west_centaur_readyRush_shout"
+  },
+  {
+    "id": 535,
+    "code_name": "west_centaur_readyRush_move_loop"
+  },
+  {
+    "id": 536,
+    "code_name": "west_train_readyPush"
+  },
+  {
+    "id": 537,
+    "code_name": "west_train_warning"
+  },
+  {
+    "id": 538,
+    "code_name": "west_train_loop"
+  },
+  {
+    "id": 539,
+    "code_name": "default_buttonClick_recorder"
+  },
+  {
+    "id": 540,
+    "code_name": "hannah_dmg"
+  },
+  {
+    "id": 541,
+    "code_name": "hannah_die"
+  },
+  {
+    "id": 542,
+    "code_name": "hannah_swingGunNormal"
+  },
+  {
+    "id": 543,
+    "code_name": "hannah_takeGunNormal"
+  },
+  {
+    "id": 544,
+    "code_name": "hannah_roll"
+  },
+  {
+    "id": 545,
+    "code_name": "hannah_reloadNormal"
+  },
+  {
+    "id": 546,
+    "code_name": "hannah_takeSniper"
+  },
+  {
+    "id": 547,
+    "code_name": "hannah_changeGun_shout"
+  },
+  {
+    "id": 548,
+    "code_name": "hannah_sniperShoot"
+  },
+  {
+    "id": 549,
+    "code_name": "hannah_sniperRebound"
+  },
+  {
+    "id": 550,
+    "code_name": "hannah_shotgunShoot"
+  },
+  {
+    "id": 551,
+    "code_name": "hannah_shotgunSwing"
+  },
+  {
+    "id": 552,
+    "code_name": "hannah_revolverSwing"
+  },
+  {
+    "id": 553,
+    "code_name": "hannah_revolverShoot"
+  },
+  {
+    "id": 554,
+    "code_name": "hannah_revolverShoot_shout"
+  },
+  {
+    "id": 555,
+    "code_name": "hannah_findTarget"
+  },
+  {
+    "id": 556,
+    "code_name": "hannah_blueEye"
+  },
+  {
+    "id": 557,
+    "code_name": "Empty"
+  },
+  {
+    "id": 558,
+    "code_name": "forest_elvesBattlemage_die"
+  },
+  {
+    "id": 559,
+    "code_name": "forest_elvesBattlemage_dmg"
+  },
+  {
+    "id": 560,
+    "code_name": "forest_elvesArcher_die"
+  },
+  {
+    "id": 561,
+    "code_name": "forest_elvesArcher_dmg"
+  },
+  {
+    "id": 562,
+    "code_name": "forest_rabbit_die"
+  },
+  {
+    "id": 563,
+    "code_name": "forest_rabbit_dmg"
+  },
+  {
+    "id": 564,
+    "code_name": "forest_wolfMan_die"
+  },
+  {
+    "id": 565,
+    "code_name": "forest_wolfMan_dmg"
+  },
+  {
+    "id": 566,
+    "code_name": "forest_wolfLeader_die"
+  },
+  {
+    "id": 567,
+    "code_name": "forest_wolfLeader_dmg"
+  },
+  {
+    "id": 568,
+    "code_name": "forest_unicorn_die"
+  },
+  {
+    "id": 569,
+    "code_name": "forest_unicorn_dmg"
+  },
+  {
+    "id": 570,
+    "code_name": "forest_rabbitFather_die"
+  },
+  {
+    "id": 571,
+    "code_name": "forest_rabbitFather_dmg"
+  },
+  {
+    "id": 572,
+    "code_name": "forest_centaur_die"
+  },
+  {
+    "id": 573,
+    "code_name": "forest_centaur_dmg"
+  },
+  {
+    "id": 574,
+    "code_name": "forest_elvesSacrifice_die"
+  },
+  {
+    "id": 575,
+    "code_name": "forest_elvesSacrifice_dmg"
+  },
+  {
+    "id": 576,
+    "code_name": "forest_flowerMan_die"
+  },
+  {
+    "id": 577,
+    "code_name": "forest_flowerMan_dmg"
+  },
+  {
+    "id": 578,
+    "code_name": "forest_wolf_die"
+  },
+  {
+    "id": 579,
+    "code_name": "forest_wolf_dmg"
+  },
+  {
+    "id": 580,
+    "code_name": "forest_swordsBear_die"
+  },
+  {
+    "id": 581,
+    "code_name": "forest_swordsBear_dmg"
+  },
+  {
+    "id": 582,
+    "code_name": "forest_elvesBattlemage_seizeWeapons"
+  },
+  {
+    "id": 583,
+    "code_name": "forest_elvesBattlemage_shout"
+  },
+  {
+    "id": 584,
+    "code_name": "forest_elvesSacrifice_readyShout"
+  },
+  {
+    "id": 585,
+    "code_name": "forest_elvesSacrifice_shout"
+  },
+  {
+    "id": 586,
+    "code_name": "forest_elvesSacrifice_holyBuffCalling"
+  },
+  {
+    "id": 587,
+    "code_name": "forest_elvesSacrifice_holyBuffFinsh"
+  },
+  {
+    "id": 588,
+    "code_name": "forest_rabbit_shout"
+  },
+  {
+    "id": 589,
+    "code_name": "forest_rabbit_longShout"
+  },
+  {
+    "id": 590,
+    "code_name": "forest_rabbitFather_findCarrot"
+  },
+  {
+    "id": 591,
+    "code_name": "forest_rabbitFather_throwCarrot"
+  },
+  {
+    "id": 592,
+    "code_name": "forest_rabbitFather_throwCarrotLaugh"
+  },
+  {
+    "id": 593,
+    "code_name": "forest_rabbitFather_shout"
+  },
+  {
+    "id": 594,
+    "code_name": "forest_rabbitFather_whistle"
+  },
+  {
+    "id": 595,
+    "code_name": "forest_rabbit_eatCarrot"
+  },
+  {
+    "id": 596,
+    "code_name": "forest_wolfMan_shout"
+  },
+  {
+    "id": 597,
+    "code_name": "forest_wolfLeader_howl"
+  },
+  {
+    "id": 598,
+    "code_name": "forest_wolfLeader_shout"
+  },
+  {
+    "id": 599,
+    "code_name": "forest_darkUnicorn_combo"
+  },
+  {
+    "id": 600,
+    "code_name": "forest_centaur_shout"
+  },
+  {
+    "id": 601,
+    "code_name": "forest_flowerMan_combo"
+  },
+  {
+    "id": 602,
+    "code_name": "forest_swordBear_lick"
+  },
+  {
+    "id": 603,
+    "code_name": "forest_swordBear_longShout"
+  },
+  {
+    "id": 604,
+    "code_name": "forest_swordBear_shout"
+  },
+  {
+    "id": 605,
+    "code_name": "forest_mandolin_dmg"
+  },
+  {
+    "id": 606,
+    "code_name": "forest_mandolin_die"
+  },
+  {
+    "id": 607,
+    "code_name": "forest_mandolin_idle"
+  },
+  {
+    "id": 608,
+    "code_name": "forest_mandolin_thunder"
+  },
+  {
+    "id": 609,
+    "code_name": "forest_mandolin_drop"
+  },
+  {
+    "id": 610,
+    "code_name": "forest_mandolin_callVine"
+  },
+  {
+    "id": 611,
+    "code_name": "forest_mandolin_push"
+  },
+  {
+    "id": 612,
+    "code_name": "forest_mandolin_combo"
+  },
+  {
+    "id": 613,
+    "code_name": "forest_mandolin_portalStart"
+  },
+  {
+    "id": 614,
+    "code_name": "forest_mandolin_portalEnd"
+  },
+  {
+    "id": 615,
+    "code_name": "forest_wolfMan_dash_release"
+  },
+  {
+    "id": 616,
+    "code_name": "forest_wolfLeader_down"
+  },
+  {
+    "id": 617,
+    "code_name": "grandknight_final_asura1_jumpUp"
+  },
+  {
+    "id": 618,
+    "code_name": "ger_alart"
+  },
+  {
+    "id": 619,
+    "code_name": "default_cat_call"
+  },
+  {
+    "id": 620,
+    "code_name": "ger_doctor_laugh"
+  },
+  {
+    "id": 621,
+    "code_name": "ger_doctor_clickButton"
+  },
+  {
+    "id": 622,
+    "code_name": "ger_doctor_gunBarrelUpStart"
+  },
+  {
+    "id": 623,
+    "code_name": "ger_doctor_gunBarrelUpEnd"
+  },
+  {
+    "id": 624,
+    "code_name": "ger_doctorMachineMortar_shoot"
+  },
+  {
+    "id": 625,
+    "code_name": "default_barrel_boom"
+  },
+  {
+    "id": 626,
+    "code_name": "default_superMissile_launch"
+  },
+  {
+    "id": 627,
+    "code_name": "default_superMissile_boom"
+  },
+  {
+    "id": 628,
+    "code_name": "default_laserGun_fire"
+  },
+  {
+    "id": 629,
+    "code_name": "default_laserGun_hit"
+  },
+  {
+    "id": 630,
+    "code_name": "ger_doctor_smile"
+  },
+  {
+    "id": 631,
+    "code_name": "default_alarm"
+  },
+  {
+    "id": 632,
+    "code_name": "ger_doctor_dmg"
+  },
+  {
+    "id": 633,
+    "code_name": "ger_doctor_die"
+  },
+  {
+    "id": 634,
+    "code_name": "ger_silverRobot_elecsaw"
+  },
+  {
+    "id": 635,
+    "code_name": "ger_layEggRobot_drop"
+  },
+  {
+    "id": 636,
+    "code_name": "ger_layEggRobot_boomTip"
+  },
+  {
+    "id": 637,
+    "code_name": "ger_gerTransformedVehicle_bron"
+  },
+  {
+    "id": 638,
+    "code_name": "ger_bladeGirl_dmg"
+  },
+  {
+    "id": 639,
+    "code_name": "ger_bladeGirl_die"
+  },
+  {
+    "id": 640,
+    "code_name": "ger_bladeGirl_combo0"
+  },
+  {
+    "id": 641,
+    "code_name": "ger_bladeGirl_rush"
+  },
+  {
+    "id": 642,
+    "code_name": "ger_hunk_comboWind"
+  },
+  {
+    "id": 643,
+    "code_name": "ger_hunk_dmg"
+  },
+  {
+    "id": 644,
+    "code_name": "ger_hunk_combo"
+  },
+  {
+    "id": 645,
+    "code_name": "ger_hunk_die"
+  },
+  {
+    "id": 646,
+    "code_name": "ger_redHuman_flamethrowerLoop"
+  },
+  {
+    "id": 647,
+    "code_name": "ger_redHuman_flamethrowerEnd"
+  },
+  {
+    "id": 648,
+    "code_name": "ger_redHuman_dmg"
+  },
+  {
+    "id": 649,
+    "code_name": "ger_redHuman_die"
+  },
+  {
+    "id": 650,
+    "code_name": "ger_armorHuman_openFire"
+  },
+  {
+    "id": 651,
+    "code_name": "ger_armorHuman_dmg"
+  },
+  {
+    "id": 652,
+    "code_name": "ger_armorHuman_loadingGun"
+  },
+  {
+    "id": 653,
+    "code_name": "ger_armorHuman_die"
+  },
+  {
+    "id": 654,
+    "code_name": "ger_gunGuy_postolFire"
+  },
+  {
+    "id": 655,
+    "code_name": "ger_gunGuy_postolLoadBullet"
+  },
+  {
+    "id": 656,
+    "code_name": "ger_gunGuy_addBuff"
+  },
+  {
+    "id": 657,
+    "code_name": "ger_gunGuy_addBuffStart"
+  },
+  {
+    "id": 658,
+    "code_name": "ger_gunGuy_dmg"
+  },
+  {
+    "id": 659,
+    "code_name": "ger_gunGuy_die"
+  },
+  {
+    "id": 660,
+    "code_name": "ger_greenHuman_dmg"
+  },
+  {
+    "id": 661,
+    "code_name": "ger_greenHuman_die"
+  },
+  {
+    "id": 662,
+    "code_name": "ger_hunk_fan"
+  },
+  {
+    "id": 663,
+    "code_name": "ger_bladeGirl_combo1"
+  },
+  {
+    "id": 664,
+    "code_name": "ger_bladeGirl_combo2"
+  },
+  {
+    "id": 665,
+    "code_name": "ger_bladeGirl_ready"
+  },
+  {
+    "id": 666,
+    "code_name": "ger_redHuman_flamethrowerStart"
+  },
+  {
+    "id": 667,
+    "code_name": "ger_doctor_gunBarrelUpLoop"
+  },
+  {
+    "id": 668,
+    "code_name": "ger_thunderWoman_dmg"
+  },
+  {
+    "id": 669,
+    "code_name": "ger_thunderWoman_die"
+  },
+  {
+    "id": 670,
+    "code_name": "hillding_dmg"
+  },
+  {
+    "id": 671,
+    "code_name": "hillding_die"
+  },
+  {
+    "id": 672,
+    "code_name": "hillding_combo_shout"
+  },
+  {
+    "id": 673,
+    "code_name": "hillding_kick_shout"
+  },
+  {
+    "id": 674,
+    "code_name": "hillding_eat_shout"
+  },
+  {
+    "id": 675,
+    "code_name": "hillding_eat_eat"
+  },
+  {
+    "id": 676,
+    "code_name": "default_attack_axe"
+  },
+  {
+    "id": 677,
+    "code_name": "default_effect_axe"
+  },
+  {
+    "id": 679,
+    "code_name": "default_heavyAttack_axe"
+  },
+  {
+    "id": 680,
+    "code_name": "hillding_energyStorage_finsh"
+  },
+  {
+    "id": 681,
+    "code_name": "hillding_energyStorage_shout"
+  },
+  {
+    "id": 682,
+    "code_name": "hillding_heavyComboOneCut_shout"
+  },
+  {
+    "id": 683,
+    "code_name": "hillding_heavyCombo_shout"
+  },
+  {
+    "id": 684,
+    "code_name": "hillding_Gyro"
+  },
+  {
+    "id": 685,
+    "code_name": "default_wolfLeader_shout"
+  },
+  {
+    "id": 686,
+    "code_name": "default_wolfMan_dash_release"
+  },
+  {
+    "id": 687,
+    "code_name": "default_wolfMan_shout"
+  },
+  {
+    "id": 688,
+    "code_name": "hillding_outBreak"
+  },
+  {
+    "id": 689,
+    "code_name": "defualt_crystall_start"
+  },
+  {
+    "id": 690,
+    "code_name": "defualt_crystall_open_light"
+  },
+  {
+    "id": 691,
+    "code_name": "defualt_crystall_openBook"
+  },
+  {
+    "id": 692,
+    "code_name": "defualt_crystall_leftUnlock"
+  },
+  {
+    "id": 693,
+    "code_name": "defualt_gene_release"
+  },
+  {
+    "id": 694,
+    "code_name": "defualt_crystall_open"
+  },
+  {
+    "id": 695,
+    "code_name": "default_draw_card"
+  },
+  {
+    "id": 696,
+    "code_name": "defualt_turn_card"
+  },
+  {
+    "id": 697,
+    "code_name": "default_takeup_card"
+  },
+  {
+    "id": 698,
+    "code_name": "default_effect_kick_exp"
+  },
+  {
+    "id": 699,
+    "code_name": "hillding_energyStorage_finsh2"
+  },
+  {
+    "id": 700,
+    "code_name": "atm_saveConfirm"
+  },
+  {
+    "id": 701,
+    "code_name": "atm_valueChange"
+  },
+  {
+    "id": 702,
+    "code_name": "nordic_octopus_dmg"
+  },
+  {
+    "id": 703,
+    "code_name": "nordic_octopus_die"
+  },
+  {
+    "id": 704,
+    "code_name": "nordic_octopus_spikes"
+  },
+  {
+    "id": 705,
+    "code_name": "nordic_octopus_octopusVineAppear"
+  },
+  {
+    "id": 706,
+    "code_name": "nordic_octopus_tentaclesRetractionUp"
+  },
+  {
+    "id": 707,
+    "code_name": "nordic_octopus_bubble"
+  },
+  {
+    "id": 708,
+    "code_name": "nordic_dwarfGuard_dmg"
+  },
+  {
+    "id": 709,
+    "code_name": "nordic_dwarfGuard_die"
+  },
+  {
+    "id": 710,
+    "code_name": "nordic_dwarfAxe_dmg"
+  },
+  {
+    "id": 711,
+    "code_name": "nordic_dwarfAxe_die"
+  },
+  {
+    "id": 712,
+    "code_name": "nordic_dwarfAxe_rage"
+  },
+  {
+    "id": 713,
+    "code_name": "nordic_dwarfLancer_dmg"
+  },
+  {
+    "id": 714,
+    "code_name": "nordic_dwarfLancer_die"
+  },
+  {
+    "id": 715,
+    "code_name": "nordic_dwarfSwordShield_dmg"
+  },
+  {
+    "id": 716,
+    "code_name": "nordic_dwarfSwordShield_die"
+  },
+  {
+    "id": 717,
+    "code_name": "nordic_werwolf_readyRush"
+  },
+  {
+    "id": 718,
+    "code_name": "nordic_werwolf_Rushing"
+  },
+  {
+    "id": 719,
+    "code_name": "nordic_werwolf_combo"
+  },
+  {
+    "id": 720,
+    "code_name": "nordic_werwolf_dmg"
+  },
+  {
+    "id": 721,
+    "code_name": "nordic_werwolf_die"
+  },
+  {
+    "id": 722,
+    "code_name": "nordic_dwarfFighter_dmg"
+  },
+  {
+    "id": 723,
+    "code_name": "nordic_dwarfFighter_die"
+  },
+  {
+    "id": 724,
+    "code_name": "nordic_dwarfFighter_combo_two"
+  },
+  {
+    "id": 725,
+    "code_name": "nordic_bear_dmg"
+  },
+  {
+    "id": 726,
+    "code_name": "nordic_bear_die"
+  },
+  {
+    "id": 727,
+    "code_name": "nordic_bear_roar"
+  },
+  {
+    "id": 728,
+    "code_name": "nordic_ferret_dmg"
+  },
+  {
+    "id": 729,
+    "code_name": "nordic_ferret_die"
+  },
+  {
+    "id": 730,
+    "code_name": "nordic_ferret_dance_step"
+  },
+  {
+    "id": 731,
+    "code_name": "nordic_ferret_sniff"
+  },
+  {
+    "id": 732,
+    "code_name": "nordic_fox_dmg"
+  },
+  {
+    "id": 733,
+    "code_name": "nordic_fox_die"
+  },
+  {
+    "id": 734,
+    "code_name": "nordic_fox_combo_ready"
+  },
+  {
+    "id": 735,
+    "code_name": "nordic_fox_combo_attack"
+  },
+  {
+    "id": 736,
+    "code_name": "nordic_lynx_dmg"
+  },
+  {
+    "id": 737,
+    "code_name": "nordic_lynx_die"
+  },
+  {
+    "id": 738,
+    "code_name": "nordic_lynx_combo"
+  },
+  {
+    "id": 739,
+    "code_name": "nordic_lynx_bite"
+  },
+  {
+    "id": 740,
+    "code_name": "nordic_pig_rush_ready"
+  },
+  {
+    "id": 741,
+    "code_name": "nordic_pig_dmg"
+  },
+  {
+    "id": 742,
+    "code_name": "nordic_pig_die"
+  },
+  {
+    "id": 743,
+    "code_name": "nordic_pig_rushing"
+  },
+  {
+    "id": 744,
+    "code_name": "nordic_pig_rush_end"
+  },
+  {
+    "id": 745,
+    "code_name": "nordic_dwarfFighter_FightGrunts_first"
+  },
+  {
+    "id": 746,
+    "code_name": "nordic_dwarfFighter_FightGrunts_second"
+  },
+  {
+    "id": 747,
+    "code_name": "nordic_dwarfFighter_FightGrunts_third"
+  },
+  {
+    "id": 748,
+    "code_name": "nordic_dwarfFighter_hook"
+  },
+  {
+    "id": 749,
+    "code_name": "nordic_walrus_dmg"
+  },
+  {
+    "id": 750,
+    "code_name": "nordic_walrus_die"
+  },
+  {
+    "id": 751,
+    "code_name": "nordic_walrus_atk"
+  },
+  {
+    "id": 752,
+    "code_name": "nordic_dwarfAxe_startRageRoar"
+  },
+  {
+    "id": 753,
+    "code_name": "nordic_dwarfGuard_startRageRoar"
+  },
+  {
+    "id": 754,
+    "code_name": "nordic_dwarfFighter_startRageRoar"
+  },
+  {
+    "id": 755,
+    "code_name": "nordic_dwarfLancer_startRageRoar"
+  },
+  {
+    "id": 756,
+    "code_name": "nordic_dwarfSwordShield_startRageRoar"
+  },
+  {
+    "id": 757,
+    "code_name": "nordic_werwolf_startRageRoar"
+  },
+  {
+    "id": 758,
+    "code_name": "nordic_dwarfAxe_rageingRoarLoop"
+  },
+  {
+    "id": 759,
+    "code_name": "nordic_dwarfGuard_rageingRoarLoop"
+  },
+  {
+    "id": 760,
+    "code_name": "nordic_dwarfFighter_rageingRoarLoop"
+  },
+  {
+    "id": 761,
+    "code_name": "nordic_dwarfLancer_rageingRoarLoop"
+  },
+  {
+    "id": 762,
+    "code_name": "nordic_dwarfSwordShield_rageingRoarLoop"
+  },
+  {
+    "id": 763,
+    "code_name": "nordic_werwolf_rageingRoarLoop"
+  },
+  {
+    "id": 764,
+    "code_name": "nordic_dwarfAxe_releasePowerRoar"
+  },
+  {
+    "id": 765,
+    "code_name": "nordic_dwarfGuard_releasePowerRoar"
+  },
+  {
+    "id": 766,
+    "code_name": "nordic_dwarfFighter_releasePowerRoar"
+  },
+  {
+    "id": 767,
+    "code_name": "nordic_dwarfLancer_releasePowerRoar"
+  },
+  {
+    "id": 768,
+    "code_name": "nordic_dwarfSwordShield_releasePowerRoar"
+  },
+  {
+    "id": 769,
+    "code_name": "nordic_werwolf_releasePowerRoar"
+  },
+  {
+    "id": 770,
+    "code_name": "nordic_octopus_drop"
+  },
+  {
+    "id": 771,
+    "code_name": "nordic_octopus_combo"
+  },
+  {
+    "id": 772,
+    "code_name": "ce_drumset_doubleSound"
+  },
+  {
+    "id": 773,
+    "code_name": "ce_drumset_longSound"
+  },
+  {
+    "id": 774,
+    "code_name": "ce_drumset_sound"
+  },
+  {
+    "id": 775,
+    "code_name": "nordic_octopus_tentaclesRetractionDown"
+  },
+  {
+    "id": 776,
+    "code_name": "nordic_octopus_throwShip"
+  },
+  {
+    "id": 777,
+    "code_name": "nordic_octopus_shipBroken"
+  },
+  {
+    "id": 778,
+    "code_name": "nordic_octopus_shipSwing"
+  },
+  {
+    "id": 779,
+    "code_name": "nordic_lokiMirror_broken_first"
+  },
+  {
+    "id": 780,
+    "code_name": "nordic_lokiMirror_broken_seccond"
+  },
+  {
+    "id": 781,
+    "code_name": "nordic_lokiMirror_broken_end"
+  },
+  {
+    "id": 782,
+    "code_name": "hannah_sniperShoot_police"
+  },
+  {
+    "id": 783,
+    "code_name": "hannah_shotgunShoot_police"
+  },
+  {
+    "id": 784,
+    "code_name": "hannah_findTarget_police"
+  },
+  {
+    "id": 785,
+    "code_name": "clock_HeavyHit"
+  },
+  {
+    "id": 786,
+    "code_name": "nordic_lokiLaugh"
+  },
+  {
+    "id": 787,
+    "code_name": "hannah_reloadFinal_police"
+  },
+  {
+    "id": 788,
+    "code_name": "penhaligon_flareShoot"
+  },
+  {
+    "id": 789,
+    "code_name": "penhaligon_whistling"
+  },
+  {
+    "id": 790,
+    "code_name": "nw_norwegianLouis_dmg"
+  },
+  {
+    "id": 791,
+    "code_name": "nw_norwegianLouis_die"
+  },
+  {
+    "id": 792,
+    "code_name": "nw_norwegianLouis_combo_shout"
+  },
+  {
+    "id": 793,
+    "code_name": "nw_norwegianLouis_superCombo_release"
+  },
+  {
+    "id": 794,
+    "code_name": "nw_norwegianLouis_normalShoot_release"
+  },
+  {
+    "id": 795,
+    "code_name": "nw_norwegianLouis_superShoot_release"
+  },
+  {
+    "id": 796,
+    "code_name": "default_IronCollision"
+  },
+  {
+    "id": 797,
+    "code_name": "nw_infantry_dmg"
+  },
+  {
+    "id": 798,
+    "code_name": "nw_infantry_die"
+  },
+  {
+    "id": 799,
+    "code_name": "default_artillery_firing"
+  },
+  {
+    "id": 800,
+    "code_name": "nw_heavyGrenadier_dmg"
+  },
+  {
+    "id": 801,
+    "code_name": "nw_heavyGrenadier_die"
+  },
+  {
+    "id": 802,
+    "code_name": "nw_lightGrenadier_dmg"
+  },
+  {
+    "id": 803,
+    "code_name": "nw_lightGrenadier_die"
+  },
+  {
+    "id": 804,
+    "code_name": "nw_lightGrenadier_cast"
+  },
+  {
+    "id": 805,
+    "code_name": "nw_mortar_dmg"
+  },
+  {
+    "id": 806,
+    "code_name": "nw_mortar_die"
+  },
+  {
+    "id": 807,
+    "code_name": "nw_mortar_bombs_filled"
+  },
+  {
+    "id": 808,
+    "code_name": "nw_sapper_dmg"
+  },
+  {
+    "id": 809,
+    "code_name": "nw_sapper_die"
+  },
+  {
+    "id": 810,
+    "code_name": "nw_sapper_mine_slowLoop"
+  },
+  {
+    "id": 811,
+    "code_name": "nw_sapper_mine_midLoop"
+  },
+  {
+    "id": 812,
+    "code_name": "nw_sapper_mine_quickLoop"
+  },
+  {
+    "id": 813,
+    "code_name": "nw_shooter_dmg"
+  },
+  {
+    "id": 814,
+    "code_name": "nw_shooter_die"
+  },
+  {
+    "id": 815,
+    "code_name": "nw_commando_dmg"
+  },
+  {
+    "id": 816,
+    "code_name": "nw_commando_attack_rage"
+  },
+  {
+    "id": 817,
+    "code_name": "nw_commando_die"
+  },
+  {
+    "id": 818,
+    "code_name": "nw_cavalryRushLoop"
+  },
+  {
+    "id": 819,
+    "code_name": "nw_cavalryRushEnd"
+  },
+  {
+    "id": 820,
+    "code_name": "nw_swordCavalryRush_waveSword"
+  },
+  {
+    "id": 821,
+    "code_name": "nw_swordCavalry_attackRoar"
+  },
+  {
+    "id": 822,
+    "code_name": "nw_major_attack_roar"
+  },
+  {
+    "id": 823,
+    "code_name": "nw_major_attackReady_roar"
+  },
+  {
+    "id": 824,
+    "code_name": "nw_adrien_attack_roar"
+  },
+  {
+    "id": 825,
+    "code_name": "nw_adrien_laugh"
+  },
+  {
+    "id": 826,
+    "code_name": "nw_adrien_dmg"
+  },
+  {
+    "id": 827,
+    "code_name": "nw_adrien_die"
+  },
+  {
+    "id": 828,
+    "code_name": "nw_adrien_flush_shout"
+  },
+  {
+    "id": 829,
+    "code_name": "nw_adrien_friction"
+  },
+  {
+    "id": 830,
+    "code_name": "penhaligon_dmg"
+  },
+  {
+    "id": 831,
+    "code_name": "penhaligon_die"
+  },
+  {
+    "id": 832,
+    "code_name": "penhaligon_combo_shout"
+  },
+  {
+    "id": 833,
+    "code_name": "penhaligon_combo_shoutLoud"
+  },
+  {
+    "id": 834,
+    "code_name": "penhaligon_back_shout"
+  },
+  {
+    "id": 835,
+    "code_name": "defalut_gunShotLoud"
+  },
+  {
+    "id": 836,
+    "code_name": "penhaligon_buffBreak"
+  },
+  {
+    "id": 837,
+    "code_name": "penhaligon_rush_shout"
+  },
+  {
+    "id": 838,
+    "code_name": "penhaligon_cannon_fire"
+  },
+  {
+    "id": 839,
+    "code_name": "default_rock_break"
+  },
+  {
+    "id": 840,
+    "code_name": "penhaligon_whistle"
+  },
+  {
+    "id": 841,
+    "code_name": "nw_cavalry_dmg"
+  },
+  {
+    "id": 842,
+    "code_name": "nw_cavalry_die"
+  },
+  {
+    "id": 843,
+    "code_name": "nw_major_breath"
+  },
+  {
+    "id": 844,
+    "code_name": "nw_major_dmg"
+  },
+  {
+    "id": 845,
+    "code_name": "nw_major_die"
+  },
+  {
+    "id": 846,
+    "code_name": "nw_norwegianLouis_jump_shout"
+  },
+  {
+    "id": 847,
+    "code_name": "relicRainReleaseLoop"
+  },
+  {
+    "id": 848,
+    "code_name": "relicTornadoReleaseLoop"
+  },
+  {
+    "id": 849,
+    "code_name": "trapFuseBurning"
+  },
+  {
+    "id": 850,
+    "code_name": "sakari_wolfman_walk_wolf"
+  },
+  {
+    "id": 851,
+    "code_name": "sakari_wolfman_dive_release_wolf"
+  },
+  {
+    "id": 852,
+    "code_name": "sakari_wolfman_attackShout_wolf"
+  },
+  {
+    "id": 853,
+    "code_name": "sakari_wolfman_default_attack_wolf"
+  },
+  {
+    "id": 854,
+    "code_name": "sakari_wolfman_counter_pull_voice_wolf"
+  },
+  {
+    "id": 855,
+    "code_name": "sakari_wolfman_counter_release_voice_wolf"
+  },
+  {
+    "id": 856,
+    "code_name": "sakari_wolfman_punch_explosion_wolf"
+  },
+  {
+    "id": 857,
+    "code_name": "sakari_wolfman_1000k_hold_wolf"
+  },
+  {
+    "id": 858,
+    "code_name": "sakari_wolfman_1000k_Release1_wolf"
+  },
+  {
+    "id": 859,
+    "code_name": "sakari_wolfman_1000k_Release2_wolf"
+  },
+  {
+    "id": 860,
+    "code_name": "sakari_wolfman_dmg_wolf"
+  },
+  {
+    "id": 861,
+    "code_name": "sakari_wolfman_die_wolf"
+  },
+  {
+    "id": 862,
+    "code_name": "sakari_wolfman_walk_human"
+  },
+  {
+    "id": 863,
+    "code_name": "sakari_wolfman_dive_release_human"
+  },
+  {
+    "id": 864,
+    "code_name": "sakari_wolfman_attackShout_human"
+  },
+  {
+    "id": 865,
+    "code_name": "sakari_wolfman_default_attack_human"
+  },
+  {
+    "id": 866,
+    "code_name": "sakari_wolfman_counter_pull_voice_human"
+  },
+  {
+    "id": 867,
+    "code_name": "sakari_wolfman_counter_release_voice_human"
+  },
+  {
+    "id": 868,
+    "code_name": "sakari_wolfman_punch_explosion_human"
+  },
+  {
+    "id": 869,
+    "code_name": "sakari_wolfman_1000k_hold_human"
+  },
+  {
+    "id": 871,
+    "code_name": "sakari_wolfman_1000k_Release1_human"
+  },
+  {
+    "id": 872,
+    "code_name": "sakari_wolfman_1000k_Release2_human"
+  },
+  {
+    "id": 873,
+    "code_name": "sakari_wolfman_dmg_human"
+  },
+  {
+    "id": 874,
+    "code_name": "sakari_wolfman_die_human"
+  },
+  {
+    "id": 875,
+    "code_name": "sakari_wolfman_holdBreath_active_explosion"
+  },
+  {
+    "id": 876,
+    "code_name": "sakari_wolfman_holdBreath_deactive_sound"
+  },
+  {
+    "id": 877,
+    "code_name": "sakari_wolfman_cast_wind"
+  },
+  {
+    "id": 878,
+    "code_name": "sakari_wolfman_tornado"
+  },
+  {
+    "id": 879,
+    "code_name": "catgod_cast_spell"
+  },
+  {
+    "id": 880,
+    "code_name": "catgod_disperse_onhit"
+  },
+  {
+    "id": 881,
+    "code_name": "catgod_fade_out"
+  },
+  {
+    "id": 882,
+    "code_name": "catgod_fade_in"
+  },
+  {
+    "id": 883,
+    "code_name": "catgod_summon"
+  },
+  {
+    "id": 884,
+    "code_name": "step_leaves"
+  },
+  {
+    "id": 885,
+    "code_name": "trap_spike_in"
+  },
+  {
+    "id": 886,
+    "code_name": "trap_spike_out"
+  },
+  {
+    "id": 887,
+    "code_name": "trap_plate_down"
+  },
+  {
+    "id": 888,
+    "code_name": "hayfa_dmg"
+  },
+  {
+    "id": 889,
+    "code_name": "hayfa_die"
+  },
+  {
+    "id": 890,
+    "code_name": "hayfa_combo_shout"
+  },
+  {
+    "id": 891,
+    "code_name": "hayfa_back_shout"
+  },
+  {
+    "id": 892,
+    "code_name": "hayfa_hupuzi_style0_shout_gather"
+  },
+  {
+    "id": 893,
+    "code_name": "hayfa_hupuzi_style0_shout_release"
+  },
+  {
+    "id": 894,
+    "code_name": "default_shadow_block"
+  },
+  {
+    "id": 895,
+    "code_name": "hayfa_shadow_rushing"
+  },
+  {
+    "id": 896,
+    "code_name": "hayfaServant_die"
+  },
+  {
+    "id": 897,
+    "code_name": "hayfa_poisonTouch_release"
+  },
+  {
+    "id": 898,
+    "code_name": "hayfa_shadowServant_release"
+  },
+  {
+    "id": 899,
+    "code_name": "story_totem_laugh"
+  },
+  {
+    "id": 900,
+    "code_name": "default_scene_cutOut"
+  },
+  {
+    "id": 901,
+    "code_name": "default_unlock"
+  },
+  {
+    "id": 902,
+    "code_name": "default_unlockRope"
+  },
+  {
+    "id": 903,
+    "code_name": "default_plusMonsterDead"
+  },
+  {
+    "id": 904,
+    "code_name": "xuanshe_dmg"
+  },
+  {
+    "id": 905,
+    "code_name": "xuanshe_die"
+  },
+  {
+    "id": 906,
+    "code_name": "xuanshe_combo_shoutSmall"
+  },
+  {
+    "id": 907,
+    "code_name": "xuanshe_combo_shoutBig"
+  },
+  {
+    "id": 908,
+    "code_name": "default_needle_throw"
+  },
+  {
+    "id": 909,
+    "code_name": "xuanshe_roll"
+  },
+  {
+    "id": 910,
+    "code_name": "xuanshe_wearHeart_shout"
+  },
+  {
+    "id": 911,
+    "code_name": "xuanshe_buffBreak"
+  },
+  {
+    "id": 912,
+    "code_name": "xuanshe_jump"
+  },
+  {
+    "id": 913,
+    "code_name": "heyao_dmg"
+  },
+  {
+    "id": 914,
+    "code_name": "heyao_die"
+  },
+  {
+    "id": 915,
+    "code_name": "heyao_combo_shout"
+  },
+  {
+    "id": 916,
+    "code_name": "heyao_back_shout"
+  },
+  {
+    "id": 917,
+    "code_name": "default_airExp"
+  },
+  {
+    "id": 918,
+    "code_name": "default_rock_broken"
+  },
+  {
+    "id": 919,
+    "code_name": "heyao_shout_bigShout"
+  },
+  {
+    "id": 920,
+    "code_name": "heyao_fire_ready_shout"
+  },
+  {
+    "id": 921,
+    "code_name": "heyao_fire_release_shout"
+  },
+  {
+    "id": 922,
+    "code_name": "heyao_fire_release"
+  },
+  {
+    "id": 923,
+    "code_name": "default_earthquake"
+  },
+  {
+    "id": 924,
+    "code_name": "default_bigNeedle_throw"
+  },
+  {
+    "id": 925,
+    "code_name": "default_bigNeedle_loop"
+  },
+  {
+    "id": 926,
+    "code_name": "boss_skill_louis_appear"
+  },
+  {
+    "id": 927,
+    "code_name": "boss_skill_louis_disappear"
+  },
+  {
+    "id": 928,
+    "code_name": "aimi_dmg"
+  },
+  {
+    "id": 929,
+    "code_name": "aimi_die"
+  },
+  {
+    "id": 930,
+    "code_name": "aimi_holyDefence_song"
+  },
+  {
+    "id": 931,
+    "code_name": "aimi_holyDefence_shout"
+  },
+  {
+    "id": 932,
+    "code_name": "aimi_holyDefence_release"
+  },
+  {
+    "id": 933,
+    "code_name": "aimi_oath_shout"
+  },
+  {
+    "id": 934,
+    "code_name": "aimi_oath_release"
+  },
+  {
+    "id": 935,
+    "code_name": "aimi_backJump_shout"
+  },
+  {
+    "id": 936,
+    "code_name": "aimi_combo_shout"
+  },
+  {
+    "id": 937,
+    "code_name": "aimi_combo_shoot"
+  },
+  {
+    "id": 938,
+    "code_name": "nordic_dwarfSwordShieldPlus_releaseIceRoad"
+  },
+  {
+    "id": 939,
+    "code_name": "oli_groot_attack_chainsaw"
+  },
+  {
+    "id": 940,
+    "code_name": "oli_groot_attack_light1"
+  },
+  {
+    "id": 941,
+    "code_name": "oli_groot_attack_light2"
+  },
+  {
+    "id": 942,
+    "code_name": "oli_groot_bullet_hit"
+  },
+  {
+    "id": 943,
+    "code_name": "oli_groot_bullet_release"
+  },
+  {
+    "id": 944,
+    "code_name": "oli_groot_feiyu_turret_spawn"
+  },
+  {
+    "id": 945,
+    "code_name": "oli_groot_mech_explode"
+  },
+  {
+    "id": 946,
+    "code_name": "oli_groot_mech_move"
+  },
+  {
+    "id": 947,
+    "code_name": "oli_groot_mech_punch"
+  },
+  {
+    "id": 948,
+    "code_name": "oli_groot_mech_spawn"
+  },
+  {
+    "id": 949,
+    "code_name": "oli_groot_plant_die"
+  },
+  {
+    "id": 950,
+    "code_name": "oli_groot_rocket_release"
+  },
+  {
+    "id": 951,
+    "code_name": "oli_groot_rocket_hit"
+  },
+  {
+    "id": 952,
+    "code_name": "oli_groot_watering"
+  },
+  {
+    "id": 953,
+    "code_name": "uliana_dmg"
+  },
+  {
+    "id": 954,
+    "code_name": "uliana_die"
+  },
+  {
+    "id": 955,
+    "code_name": "uliana_combo_shout"
+  },
+  {
+    "id": 956,
+    "code_name": "uliana_backJump_shout"
+  },
+  {
+    "id": 957,
+    "code_name": "uliana_explosion_wind"
+  },
+  {
+    "id": 958,
+    "code_name": "uliana_explosion_shout"
+  },
+  {
+    "id": 959,
+    "code_name": "uliana_explosion_release"
+  },
+  {
+    "id": 960,
+    "code_name": "uliana_explosion_releaseShout"
+  },
+  {
+    "id": 961,
+    "code_name": "uliana_dance_firstSlash"
+  },
+  {
+    "id": 962,
+    "code_name": "uliana_dance_secondSlash"
+  },
+  {
+    "id": 963,
+    "code_name": "quanhuying_kungfu_fist"
+  },
+  {
+    "id": 964,
+    "code_name": "quanhuying_kungfu_hupuzi_ready"
+  },
+  {
+    "id": 965,
+    "code_name": "quanhuying_kungfu_hupuzi_release"
+  },
+  {
+    "id": 966,
+    "code_name": "quanhuying_kungfu_tieshankao_ready"
+  },
+  {
+    "id": 967,
+    "code_name": "quanhuying_kungfu_tieshankao_release"
+  },
+  {
+    "id": 968,
+    "code_name": "quanhuying_kungfu_leicha_ready"
+  },
+  {
+    "id": 969,
+    "code_name": "quanhuying_kungfu_leicha_release"
+  },
+  {
+    "id": 970,
+    "code_name": "quanhuying_kungfu_dileizhen_release"
+  },
+  {
+    "id": 971,
+    "code_name": "quanhuying_kungfu_release_turtle"
+  },
+  {
+    "id": 972,
+    "code_name": "quanhuying_kungfu_release_wolf"
+  },
+  {
+    "id": 973,
+    "code_name": "quanhuying_kungfu_release_tiger"
+  },
+  {
+    "id": 974,
+    "code_name": "quanhuying_kungfu_release_boar"
+  },
+  {
+    "id": 975,
+    "code_name": "quanhuying_kungfu_release_ram"
+  },
+  {
+    "id": 976,
+    "code_name": "quanhuying_kungfu_release_horse"
+  },
+  {
+    "id": 977,
+    "code_name": "quanhuying_kungfu_release_pheonix"
+  },
+  {
+    "id": 978,
+    "code_name": "quanhuying_kungfu_release_taotie"
+  },
+  {
+    "id": 979,
+    "code_name": "quanhuying_kungfu_release_dragon"
+  },
+  {
+    "id": 980,
+    "code_name": "penhaligon_starwar_combo_shoutLoud"
+  },
+  {
+    "id": 981,
+    "code_name": "penhaligon_starwar_combo_shout"
+  },
+  {
+    "id": 982,
+    "code_name": "penhaligon_starwar_back_shout"
+  },
+  {
+    "id": 983,
+    "code_name": "penhaligon_starwar_dmg"
+  },
+  {
+    "id": 984,
+    "code_name": "penhaligon_starwar_die"
+  },
+  {
+    "id": 985,
+    "code_name": "penhaligon_starwar_rush_shout"
+  },
+  {
+    "id": 986,
+    "code_name": "penhaligon_starwar_idle_ambient"
+  },
+  {
+    "id": 987,
+    "code_name": "penhaligon_starwar_move_ambient"
+  },
+  {
+    "id": 988,
+    "code_name": "penhaligon_starwar_roll_front"
+  },
+  {
+    "id": 989,
+    "code_name": "penhaligon_starwar_roll_back"
+  },
+  {
+    "id": 990,
+    "code_name": "penhaligon_starwar_attack"
+  },
+  {
+    "id": 991,
+    "code_name": "penhaligon_starwar_shoot_in_attack"
+  },
+  {
+    "id": 992,
+    "code_name": "penhaligon_starwar_comboBuff_activate"
+  },
+  {
+    "id": 993,
+    "code_name": "penhaligon_starwar_comboBuff_bomb_install"
+  },
+  {
+    "id": 994,
+    "code_name": "penhaligon_starwar_comboBuff_bomb_explode"
+  },
+  {
+    "id": 995,
+    "code_name": "penhaligon_starwar_comboBuff_mark"
+  },
+  {
+    "id": 996,
+    "code_name": "penhaligon_starwar_shoot"
+  },
+  {
+    "id": 997,
+    "code_name": "penhaligon_starwar_bodyHit"
+  },
+  {
+    "id": 998,
+    "code_name": "penhaligon_starwar_bodyDeath"
+  },
+  {
+    "id": 999,
+    "code_name": "penhaligon_starwar_robotTalk"
+  },
+  {
+    "id": 1000,
+    "code_name": "penhaligon_starwar_robotMerge"
+  },
+  {
+    "id": 1001,
+    "code_name": "penhaligon_starwar_steps"
+  },
+  {
+    "id": 1002,
+    "code_name": "penhaligon_starwar_signal"
+  },
+  {
+    "id": 1003,
+    "code_name": "penhaligon_starwar_soldier_create"
+  },
+  {
+    "id": 1004,
+    "code_name": "penhaligon_starwar_cannon_dialog"
+  },
+  {
+    "id": 1005,
+    "code_name": "penhaligon_starwar_cannon_charge"
+  },
+  {
+    "id": 1006,
+    "code_name": "penhaligon_starwar_cannon_release1"
+  },
+  {
+    "id": 1007,
+    "code_name": "penhaligon_starwar_cannon_release2"
+  },
+  {
+    "id": 1008,
+    "code_name": "penhaligon_starwar_charging"
+  },
+  {
+    "id": 1009,
+    "code_name": "sakari_christmas_toy_train_whistle"
+  },
+  {
+    "id": 1010,
+    "code_name": "christmas_bell_ring1"
+  },
+  {
+    "id": 1011,
+    "code_name": "christmas_bell_ring2"
+  },
+  {
+    "id": 1012,
+    "code_name": "christmas_light"
+  },
+  {
+    "id": 1013,
+    "code_name": "christmas_bell_ring3"
+  },
+  {
+    "id": 1014,
+    "code_name": "sakari_christmas_toy_train_whistle2"
+  },
+  {
+    "id": 1015,
+    "code_name": "christmas_light2"
+  },
+  {
+    "id": 1016,
+    "code_name": "christmas_tambourine"
+  },
+  {
+    "id": 1017,
+    "code_name": "sakari_christmas_punch_release"
+  },
+  {
+    "id": 1018,
+    "code_name": "ruthven_dmg"
+  },
+  {
+    "id": 1019,
+    "code_name": "ruthven_die"
+  },
+  {
+    "id": 1020,
+    "code_name": "ruthven_backJumpShout"
+  },
+  {
+    "id": 1021,
+    "code_name": "ruthven_crazyLaugh"
+  },
+  {
+    "id": 1022,
+    "code_name": "ruthven_comboShout"
+  },
+  {
+    "id": 1023,
+    "code_name": "ruthven_smallLaugh"
+  },
+  {
+    "id": 1024,
+    "code_name": "default_rapier_attack"
+  },
+  {
+    "id": 1025,
+    "code_name": "default_rapier_hit"
+  },
+  {
+    "id": 1026,
+    "code_name": "ruthven_ruthven_slash"
+  },
+  {
+    "id": 1027,
+    "code_name": "ruthven_ruthven_slashDash"
+  },
+  {
+    "id": 1028,
+    "code_name": "ruthven_torture_throw"
+  },
+  {
+    "id": 1029,
+    "code_name": "ruthven_bloodBall_drop_loop"
+  },
+  {
+    "id": 1030,
+    "code_name": "ruthven_bloodBall_waste_loop"
+  },
+  {
+    "id": 1031,
+    "code_name": "ruthven_bloodBall_release"
+  },
+  {
+    "id": 1032,
+    "code_name": "ruthven_bloodBall_levelUp"
+  },
+  {
+    "id": 1033,
+    "code_name": "ruthven_crazy_monsterShout"
+  },
+  {
+    "id": 1034,
+    "code_name": "ruthven_crazy_landslide"
+  },
+  {
+    "id": 1035,
+    "code_name": "ruthven_crazy_windLoop"
+  },
+  {
+    "id": 1036,
+    "code_name": "ruthven_crazy_landslideLoop"
+  },
+  {
+    "id": 1037,
+    "code_name": "annice_starhold_low"
+  },
+  {
+    "id": 1038,
+    "code_name": "annice_moonhold_low"
+  },
+  {
+    "id": 1039,
+    "code_name": "annice_attackStar"
+  },
+  {
+    "id": 1040,
+    "code_name": "annice_fallingStar"
+  },
+  {
+    "id": 1041,
+    "code_name": "annice_gatherStar"
+  },
+  {
+    "id": 1042,
+    "code_name": "annice_shootingstar"
+  },
+  {
+    "id": 1043,
+    "code_name": "annice_starExplosion"
+  },
+  {
+    "id": 1044,
+    "code_name": "annice_moonDrop"
+  },
+  {
+    "id": 1045,
+    "code_name": "annice_combo_shout"
+  },
+  {
+    "id": 1046,
+    "code_name": "annice_dmg"
+  },
+  {
+    "id": 1047,
+    "code_name": "annice_die"
+  },
+  {
+    "id": 1048,
+    "code_name": "annice_backJump_shout"
+  },
+  {
+    "id": 1049,
+    "code_name": "annice_skill_shout"
+  },
+  {
+    "id": 1050,
+    "code_name": "annice_moon_summon"
+  },
+  {
+    "id": 1051,
+    "code_name": "annice_moon_explode"
+  },
+  {
+    "id": 1052,
+    "code_name": "annice_starHit"
+  },
+  {
+    "id": 1053,
+    "code_name": "uliana_newYear_burn_fuse"
+  },
+  {
+    "id": 1054,
+    "code_name": "uliana_newYear_cast_coin"
+  },
+  {
+    "id": 1055,
+    "code_name": "uliana_newYear_coins_explode"
+  },
+  {
+    "id": 1056,
+    "code_name": "uliana_newYear_fireworks"
+  },
+  {
+    "id": 1057,
+    "code_name": "aimi_queen_attack_circle"
+  },
+  {
+    "id": 1058,
+    "code_name": "aimi_queen_attack_sword"
+  },
+  {
+    "id": 1059,
+    "code_name": "aimi_queen_holy_defense_bgm"
+  },
+  {
+    "id": 1060,
+    "code_name": "aimi_queen_holy_defense_release"
+  },
+  {
+    "id": 1061,
+    "code_name": "aimi_queen_holyDefence_shout"
+  },
+  {
+    "id": 1062,
+    "code_name": "aimi_queen_oath_hit_ground"
+  },
+  {
+    "id": 1063,
+    "code_name": "aimi_queen_die"
+  },
+  {
+    "id": 1064,
+    "code_name": "aimi_queen_dmg"
+  },
+  {
+    "id": 1065,
+    "code_name": "aimi_queen_backJump_shout"
+  },
+  {
+    "id": 1066,
+    "code_name": "aimi_queen_combo_shout"
+  },
+  {
+    "id": 1067,
+    "code_name": "aimi_queen_oath_shout"
+  },
+  {
+    "id": 1068,
+    "code_name": "aimi_queen_scream"
+  },
+  {
+    "id": 1069,
+    "code_name": "aimi_queen_sigh"
+  },
+  {
+    "id": 1070,
+    "code_name": "aimi_queen_laugh"
+  },
+  {
+    "id": 1071,
+    "code_name": "annice_skill_release_shout"
+  },
+  {
+    "id": 1072,
+    "code_name": "annice_star_release"
+  },
+  {
+    "id": 1073,
+    "code_name": "annice_moonDisappear"
+  },
+  {
+    "id": 1074,
+    "code_name": "seebee_asura_oneslash_laser"
+  },
+  {
+    "id": 1075,
+    "code_name": "seebee_asura_oneslash_laser_small"
+  },
+  {
+    "id": 1076,
+    "code_name": "seebee_asura_release_laser"
+  },
+  {
+    "id": 1077,
+    "code_name": "seebee_asura_release_baziniao_shout"
+  },
+  {
+    "id": 1078,
+    "code_name": "seebee_asura_release_zhaoguang_shout"
+  },
+  {
+    "id": 1079,
+    "code_name": "heyao_tech_charge"
+  },
+  {
+    "id": 1080,
+    "code_name": "heyao_tech_charge_release"
+  },
+  {
+    "id": 1081,
+    "code_name": "heyao_tech_crush"
+  },
+  {
+    "id": 1082,
+    "code_name": "xuanshe_tech_jump"
+  },
+  {
+    "id": 1083,
+    "code_name": "xuanshe_tech_shootSpin"
+  },
+  {
+    "id": 1084,
+    "code_name": "oliviaTransform_callBack"
+  },
+  {
+    "id": 1085,
+    "code_name": "anibella_dmg"
+  },
+  {
+    "id": 1086,
+    "code_name": "anibella_die"
+  },
+  {
+    "id": 1087,
+    "code_name": "anibella_roll"
+  },
+  {
+    "id": 1088,
+    "code_name": "anibella_comboSound"
+  },
+  {
+    "id": 1089,
+    "code_name": "anibella_comboShoot"
+  },
+  {
+    "id": 1090,
+    "code_name": "anibella_comboHit"
+  },
+  {
+    "id": 1091,
+    "code_name": "anibella_callShout"
+  },
+  {
+    "id": 1092,
+    "code_name": "anibella_callEffect"
+  },
+  {
+    "id": 1093,
+    "code_name": "anibella_callRelease"
+  },
+  {
+    "id": 1094,
+    "code_name": "anibella_markShout"
+  },
+  {
+    "id": 1095,
+    "code_name": "anibella_markEffect"
+  },
+  {
+    "id": 1096,
+    "code_name": "anibella_superMarkEffect"
+  },
+  {
+    "id": 1097,
+    "code_name": "pet_fatCat_wowShout"
+  },
+  {
+    "id": 1098,
+    "code_name": "pet_fatCat_fireShout"
+  },
+  {
+    "id": 1099,
+    "code_name": "pet_fatCat_dmg"
+  },
+  {
+    "id": 1100,
+    "code_name": "pet_fatCat_die"
+  },
+  {
+    "id": 1101,
+    "code_name": "pet_fatCat_wowRelease_loop"
+  },
+  {
+    "id": 1102,
+    "code_name": "pet_fireGod_comboShout"
+  },
+  {
+    "id": 1103,
+    "code_name": "pet_fireGod_die"
+  },
+  {
+    "id": 1104,
+    "code_name": "pet_fireGod_fireReleaseShout"
+  },
+  {
+    "id": 1105,
+    "code_name": "pet_fireGod_energyStorage"
+  },
+  {
+    "id": 1106,
+    "code_name": "pet_fireGod_superSlash"
+  },
+  {
+    "id": 1107,
+    "code_name": "hannah_exorcist_meleeAttack"
+  },
+  {
+    "id": 1108,
+    "code_name": "hannah_exorcist_meleeAttackEx"
+  },
+  {
+    "id": 1109,
+    "code_name": "hannah_exorcist_transform"
+  },
+  {
+    "id": 1110,
+    "code_name": "hannah_exorcist_sniperRollEx"
+  },
+  {
+    "id": 1111,
+    "code_name": "hannah_exorcist_revolverRollEx"
+  },
+  {
+    "id": 1112,
+    "code_name": "hannah_exorcist_sniperShoutEx"
+  },
+  {
+    "id": 1113,
+    "code_name": "hannah_exorcist_sniperHitEx"
+  },
+  {
+    "id": 1114,
+    "code_name": "hannah_exorcist_sniperChangeEx"
+  },
+  {
+    "id": 1115,
+    "code_name": "hannah_exorcist_sniperChangeShoutEx"
+  },
+  {
+    "id": 1116,
+    "code_name": "hannah_exorcist_sniperBeHitEx"
+  },
+  {
+    "id": 1117,
+    "code_name": "hannah_exorcist_sniperDieEx"
+  },
+  {
+    "id": 1118,
+    "code_name": "hannah_exorcist_sniperDieStopChainEx"
+  },
+  {
+    "id": 1119,
+    "code_name": "magic_jack_combo_ready"
+  },
+  {
+    "id": 1120,
+    "code_name": "magic_jack_combo"
+  },
+  {
+    "id": 1121,
+    "code_name": "magic_jack_transfer_appear"
+  },
+  {
+    "id": 1122,
+    "code_name": "magic_jack_transfer_disappear"
+  },
+  {
+    "id": 1123,
+    "code_name": "magic_jack_start_magic"
+  },
+  {
+    "id": 1124,
+    "code_name": "magic_jack_start_strong_magic"
+  },
+  {
+    "id": 1125,
+    "code_name": "magic_jack_add_buff"
+  },
+  {
+    "id": 1126,
+    "code_name": "magic_jack_release_ball_hit"
+  },
+  {
+    "id": 1127,
+    "code_name": "magic_jack_release_ball_fly"
+  },
+  {
+    "id": 1128,
+    "code_name": "magic_jack_release_huge_stone_fall"
+  },
+  {
+    "id": 1129,
+    "code_name": "magic_jack_release_huge_stone_boom"
+  },
+  {
+    "id": 1130,
+    "code_name": "magic_jack_release_call_monster_success"
+  },
+  {
+    "id": 1131,
+    "code_name": "magic_jack_hurt"
+  },
+  {
+    "id": 1132,
+    "code_name": "magic_jack_die"
+  },
+  {
+    "id": 1133,
+    "code_name": "magic_armorStatue_combo"
+  },
+  {
+    "id": 1134,
+    "code_name": "magic_armorStatue_active"
+  },
+  {
+    "id": 1135,
+    "code_name": "magic_armorStatue_hurt"
+  },
+  {
+    "id": 1136,
+    "code_name": "magic_armorStatue_die"
+  },
+  {
+    "id": 1137,
+    "code_name": "magic_witchKiller_combo"
+  },
+  {
+    "id": 1138,
+    "code_name": "magic_witchKiller_block_appear"
+  },
+  {
+    "id": 1139,
+    "code_name": "magic_witchKiller_block_disappear"
+  },
+  {
+    "id": 1140,
+    "code_name": "magic_witchKiller_transfer"
+  },
+  {
+    "id": 1141,
+    "code_name": "magic_witchKiller_hurt"
+  },
+  {
+    "id": 1142,
+    "code_name": "magic_witchKiller_die"
+  },
+  {
+    "id": 1143,
+    "code_name": "magic_broomWitch_dash"
+  },
+  {
+    "id": 1144,
+    "code_name": "magic_broomWitch_dash_hold"
+  },
+  {
+    "id": 1145,
+    "code_name": "magic_broomWitch_dash_hit_wall"
+  },
+  {
+    "id": 1146,
+    "code_name": "magic_broomWitch_fire_ring"
+  },
+  {
+    "id": 1147,
+    "code_name": "magic_broomWitch_hurt"
+  },
+  {
+    "id": 1148,
+    "code_name": "magic_broomWitch_die"
+  },
+  {
+    "id": 1149,
+    "code_name": "magic_littleDemon_trans"
+  },
+  {
+    "id": 1150,
+    "code_name": "magic_littleDemon_laugh"
+  },
+  {
+    "id": 1151,
+    "code_name": "magic_littleDemon_hurt"
+  },
+  {
+    "id": 1152,
+    "code_name": "magic_littleDemon_die"
+  },
+  {
+    "id": 1153,
+    "code_name": "magic_bigDemon_combo"
+  },
+  {
+    "id": 1154,
+    "code_name": "magic_bigDemon_hurt"
+  },
+  {
+    "id": 1155,
+    "code_name": "magic_bigDemon_die"
+  },
+  {
+    "id": 1156,
+    "code_name": "magic_ancientWitch_laser_hit"
+  },
+  {
+    "id": 1157,
+    "code_name": "magic_ancientWitch_laser_hold"
+  },
+  {
+    "id": 1158,
+    "code_name": "magic_ancientWitch_hurt"
+  },
+  {
+    "id": 1159,
+    "code_name": "magic_ancientWitch_die"
+  },
+  {
+    "id": 1160,
+    "code_name": "magic_whiteWitch_vine_grow"
+  },
+  {
+    "id": 1161,
+    "code_name": "magic_whiteWitch_vine_catch"
+  },
+  {
+    "id": 1162,
+    "code_name": "magic_whiteWitch_huge_vine"
+  },
+  {
+    "id": 1163,
+    "code_name": "magic_whiteWitch_release_magic"
+  },
+  {
+    "id": 1164,
+    "code_name": "magic_whiteWitch_hurt"
+  },
+  {
+    "id": 1165,
+    "code_name": "magic_whiteWitch_die"
+  },
+  {
+    "id": 1166,
+    "code_name": "magic_blackWitch_combo"
+  },
+  {
+    "id": 1167,
+    "code_name": "magic_blackWitch_combo_prepare"
+  },
+  {
+    "id": 1168,
+    "code_name": "magic_blackWitch_hurt"
+  },
+  {
+    "id": 1169,
+    "code_name": "magic_blackWitch_die"
+  },
+  {
+    "id": 1170,
+    "code_name": "magicBossDemonDeath"
+  },
+  {
+    "id": 1171,
+    "code_name": "magicBossDemonScream"
+  },
+  {
+    "id": 1172,
+    "code_name": "magicBossDemonAttack"
+  },
+  {
+    "id": 1173,
+    "code_name": "magicBossDemonHeavyAttack"
+  },
+  {
+    "id": 1174,
+    "code_name": "magicBossDemonCastSpellCircle"
+  },
+  {
+    "id": 1175,
+    "code_name": "magicBossDemonThrowHook"
+  },
+  {
+    "id": 1176,
+    "code_name": "magicBossDemonPullHook"
+  },
+  {
+    "id": 1177,
+    "code_name": "magicBossDemonPull"
+  },
+  {
+    "id": 1178,
+    "code_name": "magicBossDemonShortCharge"
+  },
+  {
+    "id": 1179,
+    "code_name": "magicBossDemonLongCharge"
+  },
+  {
+    "id": 1180,
+    "code_name": "magicBossDemonEliminationCast"
+  },
+  {
+    "id": 1181,
+    "code_name": "magicBossDemonEliminationSustain"
+  },
+  {
+    "id": 1182,
+    "code_name": "magicBossDemonVoidAttackCast"
+  },
+  {
+    "id": 1183,
+    "code_name": "magicBossDemonFlameArmorCast"
+  },
+  {
+    "id": 1184,
+    "code_name": "magicBossDemonFlameArmorFireball"
+  },
+  {
+    "id": 1185,
+    "code_name": "magicBossDemonSummonEyeball"
+  },
+  {
+    "id": 1186,
+    "code_name": "magicBossDemonEyeballBeams"
+  },
+  {
+    "id": 1187,
+    "code_name": "magicBossDemonTeleport"
+  },
+  {
+    "id": 1188,
+    "code_name": "magicBossDemonPullWave"
+  },
+  {
+    "id": 1189,
+    "code_name": "magicBossDemonCastSummon"
+  },
+  {
+    "id": 1190,
+    "code_name": "magicBossDemonEliminationRelease"
+  },
+  {
+    "id": 1191,
+    "code_name": "magicBossDemonVoidAttackCastShort"
+  },
+  {
+    "id": 1192,
+    "code_name": "magicBossDemonVoidAttackCastLong"
+  },
+  {
+    "id": 1193,
+    "code_name": "magicBossDemonVoidAttackCastLaserBall"
+  },
+  {
+    "id": 1194,
+    "code_name": "magicBossDemonFlameArmorFireballSpawn"
+  },
+  {
+    "id": 1195,
+    "code_name": "magicBossWitchFormHyperFreezeCast"
+  },
+  {
+    "id": 1196,
+    "code_name": "magicBossDemonMagicPolesActivated"
+  },
+  {
+    "id": 1197,
+    "code_name": "magicBossWitchFormLaugh"
+  },
+  {
+    "id": 1198,
+    "code_name": "magicBossWitchFormHyperFreezeBreak"
+  },
+  {
+    "id": 1199,
+    "code_name": "magicBossWitchFormHyperFreezeHit"
+  },
+  {
+    "id": 1200,
+    "code_name": "magicBossWitchFormTransformStart"
+  },
+  {
+    "id": 1201,
+    "code_name": "magicBossWitchFormTransformEnd"
+  },
+  {
+    "id": 1202,
+    "code_name": "magic1StatueMove"
+  },
+  {
+    "id": 1203,
+    "code_name": "magic1ElevatorStart"
+  },
+  {
+    "id": 1204,
+    "code_name": "magic1ElevatorLoop"
+  },
+  {
+    "id": 1205,
+    "code_name": "magic1ElevatorStop"
+  },
+  {
+    "id": 1206,
+    "code_name": "magic2ShootChain"
+  },
+  {
+    "id": 1207,
+    "code_name": "magic2HitChain"
+  },
+  {
+    "id": 1208,
+    "code_name": "magic2BreakChain"
+  },
+  {
+    "id": 1209,
+    "code_name": "hannah_exorcist_takeSniper"
+  },
+  {
+    "id": 1210,
+    "code_name": "hannah_exorcist_sniperShoot"
+  },
+  {
+    "id": 1211,
+    "code_name": "hannah_exorcist_revolverMeleeAttackEx"
+  },
+  {
+    "id": 1212,
+    "code_name": "hannah_exorcist_revolverShootEx"
+  },
+  {
+    "id": 1213,
+    "code_name": "hannah_exorcist_takeRevolverEx"
+  },
+  {
+    "id": 1214,
+    "code_name": "hannah_exorcist_revolverBeHitEx"
+  },
+  {
+    "id": 1215,
+    "code_name": "hannah_exorcist_revolverDieEx"
+  },
+  {
+    "id": 1216,
+    "code_name": "hannah_exorcist_takeRevolver"
+  },
+  {
+    "id": 1217,
+    "code_name": "hannah_exorcist_shotgunShoot"
+  },
+  {
+    "id": 1218,
+    "code_name": "hannah_exorcist_shotgunHit"
+  },
+  {
+    "id": 1219,
+    "code_name": "hannah_exorcist_shotgunShootEx"
+  },
+  {
+    "id": 1220,
+    "code_name": "hannah_exorcist_shotgunReload"
+  },
+  {
+    "id": 1221,
+    "code_name": "hannah_exorcist_shotgunBeHitEx"
+  },
+  {
+    "id": 1222,
+    "code_name": "hannah_exorcist_shotgunDieEx"
+  },
+  {
+    "id": 1223,
+    "code_name": "hannah_exorcist_shotgunSwingEx"
+  },
+  {
+    "id": 1224,
+    "code_name": "katherine_professor_snowWindloop"
+  },
+  {
+    "id": 1225,
+    "code_name": "katherine_professor_thunderHit"
+  },
+  {
+    "id": 1226,
+    "code_name": "katherine_professor_moonLightBgloop"
+  },
+  {
+    "id": 1227,
+    "code_name": "katherine_professor_meteoriteBgloop"
+  },
+  {
+    "id": 1228,
+    "code_name": "katherine_professor_meteoriteExplode"
+  },
+  {
+    "id": 1229,
+    "code_name": "katherine_professor_moonLightShoot"
+  },
+  {
+    "id": 1230,
+    "code_name": "hayfa_magician_drum"
+  },
+  {
+    "id": 1231,
+    "code_name": "hayfa_magician_cymbal"
+  },
+  {
+    "id": 1232,
+    "code_name": "hayfa_magician_pigeonfly"
+  },
+  {
+    "id": 1233,
+    "code_name": "hayfa_magician_cheers"
+  },
+  {
+    "id": 1234,
+    "code_name": "hayfa_magician_attack"
+  },
+  {
+    "id": 1235,
+    "code_name": "hayfa_magician_tiexianOn"
+  },
+  {
+    "id": 1236,
+    "code_name": "hayfa_magician_cardfly"
+  },
+  {
+    "id": 1237,
+    "code_name": "adira_dmg"
+  },
+  {
+    "id": 1238,
+    "code_name": "adira_die"
+  },
+  {
+    "id": 1239,
+    "code_name": "adira_backJump_shout"
+  },
+  {
+    "id": 1240,
+    "code_name": "adira_combo_shout"
+  },
+  {
+    "id": 1241,
+    "code_name": "adira_heavy_swing"
+  },
+  {
+    "id": 1242,
+    "code_name": "adira_hit_ground"
+  },
+  {
+    "id": 1243,
+    "code_name": "adira_hit_ground_hard"
+  },
+  {
+    "id": 1244,
+    "code_name": "adira_powerAttack_triggered"
+  },
+  {
+    "id": 1245,
+    "code_name": "adira_heavy_cut"
+  },
+  {
+    "id": 1246,
+    "code_name": "adira_skill_shout0"
+  },
+  {
+    "id": 1247,
+    "code_name": "adira_skill_shout1"
+  },
+  {
+    "id": 1248,
+    "code_name": "adira_skill_shout2"
+  },
+  {
+    "id": 1249,
+    "code_name": "adira_shout_windup_short"
+  },
+  {
+    "id": 1250,
+    "code_name": "adira_shout_windup0"
+  },
+  {
+    "id": 1251,
+    "code_name": "adira_shout_windup1"
+  },
+  {
+    "id": 1252,
+    "code_name": "adira_shout_windup2"
+  },
+  {
+    "id": 1253,
+    "code_name": "adira_downSlash_hit_ground"
+  },
+  {
+    "id": 1254,
+    "code_name": "adira_grind_floor"
+  },
+  {
+    "id": 1255,
+    "code_name": "adira_grind_floor_long"
+  },
+  {
+    "id": 1256,
+    "code_name": "adira_upSlash_release"
+  },
+  {
+    "id": 1257,
+    "code_name": "adira_upSlash_style1_explosion"
+  },
+  {
+    "id": 1258,
+    "code_name": "adira_upSlash_style2_light_pillar"
+  },
+  {
+    "id": 1259,
+    "code_name": "adira_upSlash_style3_light_cone"
+  },
+  {
+    "id": 1260,
+    "code_name": "adira_backstep_release_falcon"
+  },
+  {
+    "id": 1261,
+    "code_name": "adira_backstep_style1_charge"
+  },
+  {
+    "id": 1262,
+    "code_name": "adira_backstep_style1_triggered"
+  },
+  {
+    "id": 1263,
+    "code_name": "adira_energy_trigger"
+  },
+  {
+    "id": 1264,
+    "code_name": "adira_sunmark_explode"
+  },
+  {
+    "id": 1265,
+    "code_name": "fireDance_stoneEye_dmg"
+  },
+  {
+    "id": 1266,
+    "code_name": "fireDance_stoneEye_die"
+  },
+  {
+    "id": 1267,
+    "code_name": "fireDance_stoneEye_jump"
+  },
+  {
+    "id": 1268,
+    "code_name": "fireDance_stoneEye_drop"
+  },
+  {
+    "id": 1269,
+    "code_name": "fireDance_stoneEye_ready_loop"
+  },
+  {
+    "id": 1270,
+    "code_name": "fireDance_stoneEye_attack"
+  },
+  {
+    "id": 1271,
+    "code_name": "fireDance_stoneEye_look"
+  },
+  {
+    "id": 1272,
+    "code_name": "default_AlertEffectOver"
+  },
+  {
+    "id": 1273,
+    "code_name": "fireDance_stoneEye_windLoop"
+  },
+  {
+    "id": 1274,
+    "code_name": "fireDance_stoneEye_stoneLoop"
+  },
+  {
+    "id": 1275,
+    "code_name": "fireDance_stoneEye_furyRelease"
+  },
+  {
+    "id": 1276,
+    "code_name": "fireDance_stoneEye_furyReady"
+  },
+  {
+    "id": 1277,
+    "code_name": "fireDance_stoneEye_furyOpenEye"
+  },
+  {
+    "id": 1278,
+    "code_name": "fireDance_stoneEye_flash"
+  },
+  {
+    "id": 1279,
+    "code_name": "fireDance_stoneEye_break"
+  },
+  {
+    "id": 1280,
+    "code_name": "fireDance_fireSoldier_shout"
+  },
+  {
+    "id": 1281,
+    "code_name": "fireDance_fireSoldier_smash"
+  },
+  {
+    "id": 1282,
+    "code_name": "fireDance_fireSoldier_fireVortex"
+  },
+  {
+    "id": 1283,
+    "code_name": "fireDance_fireSoldier_die"
+  },
+  {
+    "id": 1284,
+    "code_name": "fireDance_fireSoldier_dmg"
+  },
+  {
+    "id": 1285,
+    "code_name": "fireDance_fireSoldier_swing"
+  },
+  {
+    "id": 1286,
+    "code_name": "fireDance_fireSoldier_changeWeapon"
+  },
+  {
+    "id": 1287,
+    "code_name": "fireDance_fireSoldier_stoneLoop"
+  },
+  {
+    "id": 1288,
+    "code_name": "fireDance_fireSoldier_ready_loop"
+  },
+  {
+    "id": 1289,
+    "code_name": "fireDance_fireSoldier_break"
+  },
+  {
+    "id": 1290,
+    "code_name": "default_landslide"
+  },
+  {
+    "id": 1291,
+    "code_name": "fireDance_meleeLong_dmg"
+  },
+  {
+    "id": 1292,
+    "code_name": "fireDance_meleeLong_die"
+  },
+  {
+    "id": 1293,
+    "code_name": "fireDance_melee_dmg"
+  },
+  {
+    "id": 1294,
+    "code_name": "fireDance_melee_die"
+  },
+  {
+    "id": 1295,
+    "code_name": "fireDance_remote_dmg"
+  },
+  {
+    "id": 1296,
+    "code_name": "fireDance_remote_die"
+  },
+  {
+    "id": 1297,
+    "code_name": "fireDance_ButterflyBoss_break"
+  },
+  {
+    "id": 1298,
+    "code_name": "fireDance_ButterflyBoss_dmg"
+  },
+  {
+    "id": 1299,
+    "code_name": "fireDance_ButterflyBoss_fireTornado"
+  },
+  {
+    "id": 1300,
+    "code_name": "fireDance_ButterflyBoss_blade"
+  },
+  {
+    "id": 1301,
+    "code_name": "fireDance_ButterflyBoss_flapWing"
+  },
+  {
+    "id": 1302,
+    "code_name": "fireDance_ButterflyBoss_windBlow"
+  },
+  {
+    "id": 1303,
+    "code_name": "fireDance_ButterflyBossWaterBall_die"
+  },
+  {
+    "id": 1304,
+    "code_name": "fireDance_ButterflyBossWaterBall_idle"
+  },
+  {
+    "id": 1305,
+    "code_name": "fireDance_waterBall_steam"
+  },
+  {
+    "id": 1306,
+    "code_name": "fireDance_fireGaro_combo_loop"
+  },
+  {
+    "id": 1307,
+    "code_name": "default_fireBall_exp"
+  },
+  {
+    "id": 1308,
+    "code_name": "default_fireBall_exp_powerUp"
+  },
+  {
+    "id": 1309,
+    "code_name": "default_fireBall_exp_powerUpMore"
+  },
+  {
+    "id": 1310,
+    "code_name": "default_fireBall_shoot"
+  },
+  {
+    "id": 1311,
+    "code_name": "default_fireSword_swing"
+  },
+  {
+    "id": 1312,
+    "code_name": "fireDance_garo_charged_shout"
+  },
+  {
+    "id": 1313,
+    "code_name": "fireDance_garo_die"
+  },
+  {
+    "id": 1314,
+    "code_name": "fireDance_garo_dmg"
+  },
+  {
+    "id": 1315,
+    "code_name": "fireDance_garo_smile"
+  },
+  {
+    "id": 1316,
+    "code_name": "fireDance_garo_smile_crazy"
+  },
+  {
+    "id": 1317,
+    "code_name": "fireDance_garo_butterflys_disappear"
+  },
+  {
+    "id": 1318,
+    "code_name": "fireDance_garo_butterflys_appear"
+  },
+  {
+    "id": 1319,
+    "code_name": "quanhuying_asura_fist"
+  },
+  {
+    "id": 1320,
+    "code_name": "quanhuying_asura_hupuzi_release"
+  },
+  {
+    "id": 1321,
+    "code_name": "quanhuying_asura_hupuzi_gather"
+  },
+  {
+    "id": 1322,
+    "code_name": "quanhuying_asura_leicha_release"
+  },
+  {
+    "id": 1323,
+    "code_name": "quanhuying_asura_leicha_dileizhen_loop"
+  },
+  {
+    "id": 1324,
+    "code_name": "quanhuying_asura_back_shout"
+  },
+  {
+    "id": 1325,
+    "code_name": "quanhuying_asura_combo_shout"
+  },
+  {
+    "id": 1326,
+    "code_name": "quanhuying_asura_die"
+  },
+  {
+    "id": 1327,
+    "code_name": "quanhuying_asura_dmg"
+  },
+  {
+    "id": 1328,
+    "code_name": "quanhuying_asura_die_effect"
+  },
+  {
+    "id": 1329,
+    "code_name": "quanhuying_asura_hupuzi_style0_shout_gather"
+  },
+  {
+    "id": 1330,
+    "code_name": "quanhuying_asura_dmg_effect"
+  },
+  {
+    "id": 1331,
+    "code_name": "quanhuying_asura_hupuzi_style0_shout_release"
+  },
+  {
+    "id": 1332,
+    "code_name": "quanhuying_asura_leicha_style0_shout_gather"
+  },
+  {
+    "id": 1333,
+    "code_name": "quanhuying_asura_leicha_style0_shout_release"
+  },
+  {
+    "id": 1334,
+    "code_name": "quanhuying_asura_leicha_style3_shout_gather"
+  },
+  {
+    "id": 1335,
+    "code_name": "quanhuying_asura_leicha_style3_shout_release"
+  },
+  {
+    "id": 1336,
+    "code_name": "quanhuying_asura_tieshankao_style0_shout"
+  },
+  {
+    "id": 1337,
+    "code_name": "quanhuying_asura_tieshankao_release"
+  },
+  {
+    "id": 1338,
+    "code_name": "quanhuying_asura_release_dragon"
+  },
+  {
+    "id": 1339,
+    "code_name": "seebee_omega_die"
+  },
+  {
+    "id": 1340,
+    "code_name": "seebee_omega_dmg"
+  },
+  {
+    "id": 1341,
+    "code_name": "seebee_omega_back_shout"
+  },
+  {
+    "id": 1342,
+    "code_name": "seebee_omega_combo_shout"
+  },
+  {
+    "id": 1343,
+    "code_name": "seebee_omega_qiefan_style0_shout"
+  },
+  {
+    "id": 1344,
+    "code_name": "seebee_omega_attack_sword"
+  },
+  {
+    "id": 1345,
+    "code_name": "seebee_omega_gather"
+  },
+  {
+    "id": 1346,
+    "code_name": "seebee_omega_dmg_effect"
+  },
+  {
+    "id": 1347,
+    "code_name": "seebee_omega_die_effect"
+  },
+  {
+    "id": 1348,
+    "code_name": "seebee_omega_thunderCombo_style0_attack"
+  },
+  {
+    "id": 1349,
+    "code_name": "seebee_omega_thunderCombo_style0_final"
+  },
+  {
+    "id": 1350,
+    "code_name": "seebee_omega_oneSlash_style0_attack"
+  },
+  {
+    "id": 1351,
+    "code_name": "seebee_omega_oneSlash_style1_attack"
+  },
+  {
+    "id": 1352,
+    "code_name": "seebee_omega_oneSlash_style2_attack"
+  },
+  {
+    "id": 1353,
+    "code_name": "seebee_omega_oneslash_erduangou0"
+  },
+  {
+    "id": 1354,
+    "code_name": "seebee_omega_oneslash_erduangou1"
+  },
+  {
+    "id": 1355,
+    "code_name": "seebee_omega_oneSlash_sec_attack"
+  },
+  {
+    "id": 1356,
+    "code_name": "seebee_omega_release_zhaoguang"
+  },
+  {
+    "id": 1357,
+    "code_name": "seebee_omega_qiefan_style0_attack"
+  },
+  {
+    "id": 1358,
+    "code_name": "seebee_omega_qiefan_style1_attack"
+  },
+  {
+    "id": 1359,
+    "code_name": "seebee_omega_qiefan_style2_attack"
+  },
+  {
+    "id": 1360,
+    "code_name": "seebee_omega_block_alarm"
+  },
+  {
+    "id": 1361,
+    "code_name": "seebee_omega_block_release0"
+  },
+  {
+    "id": 1362,
+    "code_name": "seebee_omega_block_release1"
+  },
+  {
+    "id": 1363,
+    "code_name": "seebee_omega_block_release2"
+  },
+  {
+    "id": 1364,
+    "code_name": "bird_sound"
+  },
+  {
+    "id": 1365,
+    "code_name": "frog_croak"
+  },
+  {
+    "id": 1366,
+    "code_name": "fish_swim"
+  },
+  {
+    "id": 1367,
+    "code_name": "water_flow"
+  },
+  {
+    "id": 1368,
+    "code_name": "wind_bell"
+  },
+  {
+    "id": 1369,
+    "code_name": "esrball_equip"
+  },
+  {
+    "id": 1370,
+    "code_name": "akaisha_princess_arrowRain_style0_gather"
+  },
+  {
+    "id": 1371,
+    "code_name": "akaisha_princess_arrowRain_style0_release"
+  },
+  {
+    "id": 1372,
+    "code_name": "akaisha_princess_bowHold_gatherLevelUpOne"
+  },
+  {
+    "id": 1373,
+    "code_name": "akaisha_princess_bowHold_gatherLevelUpTwo"
+  },
+  {
+    "id": 1374,
+    "code_name": "akaisha_princess_trap_style0_loop"
+  },
+  {
+    "id": 1375,
+    "code_name": "akaisha_princess_trap_style0_release"
+  },
+  {
+    "id": 1376,
+    "code_name": "akaisha_princess_trap_style0_trigger"
+  },
+  {
+    "id": 1377,
+    "code_name": "akaisha_princess_arrow_shoot"
+  },
+  {
+    "id": 1378,
+    "code_name": "akaisha_princess_attack_dagger"
+  },
+  {
+    "id": 1379,
+    "code_name": "akaisha_princess_effect_fire_exp"
+  },
+  {
+    "id": 1380,
+    "code_name": "yangkyi_dmg"
+  },
+  {
+    "id": 1381,
+    "code_name": "yangkyi_die"
+  },
+  {
+    "id": 1382,
+    "code_name": "yangkyi_back_jump_shout"
+  },
+  {
+    "id": 1383,
+    "code_name": "yangkyi_combo_shout"
+  },
+  {
+    "id": 1384,
+    "code_name": "yangkyi_stack_add"
+  },
+  {
+    "id": 1385,
+    "code_name": "yangkyi_stack_full"
+  },
+  {
+    "id": 1386,
+    "code_name": "yangkyi_combo_shoot"
+  },
+  {
+    "id": 1387,
+    "code_name": "yangkyi_combo_hit"
+  },
+  {
+    "id": 1388,
+    "code_name": "yangkyi_skill1_release_shout"
+  },
+  {
+    "id": 1389,
+    "code_name": "yangkyi_skill1_summon_mask"
+  },
+  {
+    "id": 1390,
+    "code_name": "yangkyi_skill1_mask_release"
+  },
+  {
+    "id": 1391,
+    "code_name": "yangkyi_skill2_charge_shout"
+  },
+  {
+    "id": 1392,
+    "code_name": "yangkyi_skill2_release_shout"
+  },
+  {
+    "id": 1393,
+    "code_name": "yangkyi_skill3_bounce"
+  },
+  {
+    "id": 1394,
+    "code_name": "yangkyi_skill3_heavy_shoot"
+  },
+  {
+    "id": 1395,
+    "code_name": "yangkyi_skill3_spin_loop"
+  },
+  {
+    "id": 1396,
+    "code_name": "yangkyi_full_charge_hint"
+  },
+  {
+    "id": 1397,
+    "code_name": "yangkyi_special_attack_loop"
+  },
+  {
+    "id": 1398,
+    "code_name": "yangkyi_skill3_shoot"
+  },
+  {
+    "id": 1399,
+    "code_name": "yangkyi_mark_explode_charge"
+  },
+  {
+    "id": 1400,
+    "code_name": "yangkyi_mark_explode"
+  },
+  {
+    "id": 1401,
+    "code_name": "yangkyi_take_mark"
+  },
+  {
+    "id": 1402,
+    "code_name": "yangkyi_absorb_mark"
+  },
+  {
+    "id": 1403,
+    "code_name": "youzi_dmg"
+  },
+  {
+    "id": 1404,
+    "code_name": "youzi_die"
+  },
+  {
+    "id": 1405,
+    "code_name": "youzi_backJump_shout"
+  },
+  {
+    "id": 1406,
+    "code_name": "youzi_machine_gun_draw"
+  },
+  {
+    "id": 1407,
+    "code_name": "youzi_machine_gun_withdraw"
+  },
+  {
+    "id": 1408,
+    "code_name": "youzi_machine_gun_spin_start"
+  },
+  {
+    "id": 1409,
+    "code_name": "youzi_machine_gun_shoot_loop"
+  },
+  {
+    "id": 1410,
+    "code_name": "youzi_missile_draw"
+  },
+  {
+    "id": 1411,
+    "code_name": "youzi_missile_withdraw"
+  },
+  {
+    "id": 1412,
+    "code_name": "youzi_missile_shoot"
+  },
+  {
+    "id": 1413,
+    "code_name": "youzi_pillar_draw"
+  },
+  {
+    "id": 1414,
+    "code_name": "youzi_pillar_withdraw"
+  },
+  {
+    "id": 1415,
+    "code_name": "youzi_pillar_shoot"
+  },
+  {
+    "id": 1416,
+    "code_name": "youzi_pillar_hit_ground"
+  },
+  {
+    "id": 1417,
+    "code_name": "youzi_overheat_warning_loop"
+  },
+  {
+    "id": 1418,
+    "code_name": "youzi_overheated"
+  },
+  {
+    "id": 1419,
+    "code_name": "youzi_release_heat"
+  },
+  {
+    "id": 1420,
+    "code_name": "youzi_release_heat_gas"
+  },
+  {
+    "id": 1421,
+    "code_name": "youzi_pillar_flame_ball"
+  },
+  {
+    "id": 1422,
+    "code_name": "youzi_pillar_static_field"
+  },
+  {
+    "id": 1423,
+    "code_name": "youzi_pillar_gravity_loop"
+  },
+  {
+    "id": 1424,
+    "code_name": "youzi_pillar_gravity_explosion"
+  },
+  {
+    "id": 1425,
+    "code_name": "uliana_captain_backJump_shout"
+  },
+  {
+    "id": 1426,
+    "code_name": "uliana_captain_combo_shout"
+  },
+  {
+    "id": 1427,
+    "code_name": "uliana_captain_die"
+  },
+  {
+    "id": 1428,
+    "code_name": "uliana_captain_dmg"
+  },
+  {
+    "id": 1429,
+    "code_name": "uliana_captain_explosion_releaseShout"
+  },
+  {
+    "id": 1430,
+    "code_name": "uliana_captain_explosion_shout"
+  },
+  {
+    "id": 1431,
+    "code_name": "uliana_captain_cannon_shot"
+  },
+  {
+    "id": 1432,
+    "code_name": "uliana_captain_throw_ship"
+  },
+  {
+    "id": 1433,
+    "code_name": "uliana_captain_gun_fire"
+  },
+  {
+    "id": 1434,
+    "code_name": "uliana_captain_shark_attack"
+  },
+  {
+    "id": 1435,
+    "code_name": "uliana_captain_shark_rush"
+  },
+  {
+    "id": 1436,
+    "code_name": "uliana_captain_laugh"
+  },
+  {
+    "id": 1437,
+    "code_name": "anibella_astronaut_rocket_idle"
+  },
+  {
+    "id": 1438,
+    "code_name": "anibella_astronaut_rocket_move"
+  },
+  {
+    "id": 1439,
+    "code_name": "anibella_astronaut_dmg"
+  },
+  {
+    "id": 1440,
+    "code_name": "anibella_astronaut_die"
+  },
+  {
+    "id": 1441,
+    "code_name": "anibella_astronaut_rocket_die"
+  },
+  {
+    "id": 1442,
+    "code_name": "anibella_astronaut_roll"
+  },
+  {
+    "id": 1443,
+    "code_name": "anibella_astronaut_callShout"
+  },
+  {
+    "id": 1444,
+    "code_name": "anibella_astronaut_comboSound"
+  },
+  {
+    "id": 1445,
+    "code_name": "anibella_astronaut_combo"
+  },
+  {
+    "id": 1446,
+    "code_name": "anibella_astronaut_markShout"
+  },
+  {
+    "id": 1447,
+    "code_name": "anibella_astronaut_laser"
+  },
+  {
+    "id": 1448,
+    "code_name": "anibella_astronaut_strong_laser"
+  },
+  {
+    "id": 1449,
+    "code_name": "anibella_astronaut_pet_apear"
+  },
+  {
+    "id": 1450,
+    "code_name": "anibella_astronaut_pet_dispear"
+  },
+  {
+    "id": 1451,
+    "code_name": "anibella_astronaut_cat_start_fire"
+  },
+  {
+    "id": 1452,
+    "code_name": "anibella_astronaut_cat_continue_fire"
+  },
+  {
+    "id": 1453,
+    "code_name": "anibella_astronaut_cat_wow"
+  },
+  {
+    "id": 1454,
+    "code_name": "anibella_astronaut_frog_ball"
+  },
+  {
+    "id": 1455,
+    "code_name": "anibella_astronaut_fireGod_comboShout"
+  },
+  {
+    "id": 1456,
+    "code_name": "anibella_astronaut_fireGod_slash"
+  },
+  {
+    "id": 1457,
+    "code_name": "anibella_astronaut_fireGod_skill_trigger"
+  },
+  {
+    "id": 1458,
+    "code_name": "anibella_astronaut_fireGod_skill"
+  },
+  {
+    "id": 1459,
+    "code_name": "anibella_astronaut_fireGod_fireReleaseShout"
+  },
+  {
+    "id": 1460,
+    "code_name": "anibella_astronaut_fireGod_die"
+  },
+  {
+    "id": 1461,
+    "code_name": "ruthven_god_normal_backJumpShout"
+  },
+  {
+    "id": 1462,
+    "code_name": "ruthven_god_normal_comboShout"
+  },
+  {
+    "id": 1463,
+    "code_name": "ruthven_god_normal_crazyLaugh"
+  },
+  {
+    "id": 1464,
+    "code_name": "ruthven_god_normal_die"
+  },
+  {
+    "id": 1465,
+    "code_name": "ruthven_god_normal_dmg"
+  },
+  {
+    "id": 1466,
+    "code_name": "ruthven_god_normal_smallLaugh"
+  },
+  {
+    "id": 1467,
+    "code_name": "ruthven_god_normal_special_combo"
+  },
+  {
+    "id": 1468,
+    "code_name": "ruthven_god_devil_backJumpShout"
+  },
+  {
+    "id": 1469,
+    "code_name": "ruthven_god_devil_comboShout"
+  },
+  {
+    "id": 1470,
+    "code_name": "ruthven_god_devil_crazyLaugh"
+  },
+  {
+    "id": 1471,
+    "code_name": "ruthven_god_devil_die"
+  },
+  {
+    "id": 1472,
+    "code_name": "ruthven_god_devil_dmg"
+  },
+  {
+    "id": 1473,
+    "code_name": "ruthven_god_devil_smallLaugh"
+  },
+  {
+    "id": 1474,
+    "code_name": "ruthven_god_devil_special_combo"
+  },
+  {
+    "id": 1475,
+    "code_name": "ruthven_god_into_devil"
+  },
+  {
+    "id": 1476,
+    "code_name": "ruthven_god_back_into_normal"
+  },
+  {
+    "id": 1477,
+    "code_name": "ruthven_god_ancient_piano"
+  },
+  {
+    "id": 1478,
+    "code_name": "ruthven_god_default_combo"
+  },
+  {
+    "id": 1479,
+    "code_name": "ruthven_god_renge"
+  },
+  {
+    "id": 1480,
+    "code_name": "ruthven_god_sword_slash"
+  },
+  {
+    "id": 1481,
+    "code_name": "ruthven_god_back_jump_then_combo"
+  },
+  {
+    "id": 1482,
+    "code_name": "ruthven_god_back_weird_sound"
+  },
+  {
+    "id": 1483,
+    "code_name": "ruthven_god_crazy_sound"
+  },
+  {
+    "id": 1484,
+    "code_name": "yufeng_dmg"
+  },
+  {
+    "id": 1485,
+    "code_name": "yufeng_die"
+  },
+  {
+    "id": 1486,
+    "code_name": "yufeng_back_jump_shout"
+  },
+  {
+    "id": 1487,
+    "code_name": "yufeng_combo_shout"
+  },
+  {
+    "id": 1488,
+    "code_name": "yufeng_swing_blade"
+  },
+  {
+    "id": 1489,
+    "code_name": "yufeng_blade_hit_light"
+  },
+  {
+    "id": 1490,
+    "code_name": "yufeng_blade_hit_heavy"
+  },
+  {
+    "id": 1491,
+    "code_name": "yufeng_blade_move"
+  },
+  {
+    "id": 1492,
+    "code_name": "yufeng_skill1_shout"
+  },
+  {
+    "id": 1493,
+    "code_name": "yufeng_skill1_blade_wave"
+  },
+  {
+    "id": 1494,
+    "code_name": "yufeng_skill2_blade_out"
+  },
+  {
+    "id": 1495,
+    "code_name": "yufeng_skill2_blade_slashes"
+  },
+  {
+    "id": 1496,
+    "code_name": "yufeng_skill3_blade_out"
+  },
+  {
+    "id": 1497,
+    "code_name": "yufeng_skill3_blade_hit"
+  },
+  {
+    "id": 1498,
+    "code_name": "wufei_dmg"
+  },
+  {
+    "id": 1499,
+    "code_name": "wufei_die"
+  },
+  {
+    "id": 1500,
+    "code_name": "wufei_back_jump_shout"
+  },
+  {
+    "id": 1501,
+    "code_name": "wufei_combo_shout"
+  },
+  {
+    "id": 1502,
+    "code_name": "wufei_throw_blade"
+  },
+  {
+    "id": 1503,
+    "code_name": "wufei_blade_loop_fast"
+  },
+  {
+    "id": 1504,
+    "code_name": "wufei_blade_loop_slow"
+  },
+  {
+    "id": 1505,
+    "code_name": "wufei_catch_blade"
+  },
+  {
+    "id": 1506,
+    "code_name": "wufei_drop_blade"
+  },
+  {
+    "id": 1507,
+    "code_name": "wufei_spin_kick"
+  },
+  {
+    "id": 1508,
+    "code_name": "wufei_forward_kick"
+  },
+  {
+    "id": 1509,
+    "code_name": "wufei_kick_dash"
+  },
+  {
+    "id": 1510,
+    "code_name": "wufei_kick_blade"
+  },
+  {
+    "id": 1511,
+    "code_name": "wufei_shoot_arrow"
+  },
+  {
+    "id": 1512,
+    "code_name": "wufei_arrow_hit"
+  },
+  {
+    "id": 1513,
+    "code_name": "wufei_arrow_hit_blade"
+  },
+  {
+    "id": 1514,
+    "code_name": "wufei_arrow_mechanic"
+  },
+  {
+    "id": 1515,
+    "code_name": "evilPrincess_dmg"
+  },
+  {
+    "id": 1516,
+    "code_name": "evilPrincess_die"
+  },
+  {
+    "id": 1517,
+    "code_name": "evilPrincess_combo_shout"
+  },
+  {
+    "id": 1518,
+    "code_name": "evilPrincess_heavycombo_shout"
+  },
+  {
+    "id": 1519,
+    "code_name": "evilPrincess_rage_precast"
+  },
+  {
+    "id": 1520,
+    "code_name": "evilPrincess_rage"
+  },
+  {
+    "id": 1521,
+    "code_name": "evilPrincess_laugh_short"
+  },
+  {
+    "id": 1522,
+    "code_name": "evilPrincess_laugh"
+  },
+  {
+    "id": 1523,
+    "code_name": "evilPrincess_summon_loop"
+  },
+  {
+    "id": 1524,
+    "code_name": "evilPrincess_summon_quick"
+  },
+  {
+    "id": 1525,
+    "code_name": "evilPrincess_slash"
+  },
+  {
+    "id": 1526,
+    "code_name": "evilPrincess_walk"
+  },
+  {
+    "id": 1527,
+    "code_name": "evilPrincessDragon_attack"
+  },
+  {
+    "id": 1528,
+    "code_name": "evilPrincessDragon_awake"
+  },
+  {
+    "id": 1529,
+    "code_name": "evilPrincessDragon_die"
+  },
+  {
+    "id": 1530,
+    "code_name": "evilPrincessDragon_dmg"
+  },
+  {
+    "id": 1531,
+    "code_name": "evilPrincessDragon_fire"
+  },
+  {
+    "id": 1532,
+    "code_name": "evilPrincessDragon_walk"
+  },
+  {
+    "id": 1533,
+    "code_name": "evilPrincessDragon_hit_wall"
+  },
+  {
+    "id": 1534,
+    "code_name": "crash_stone"
+  },
+  {
+    "id": 1535,
+    "code_name": "defalut_fireArrow_shoot"
+  },
+  {
+    "id": 1536,
+    "code_name": "defalut_fireArrow_hit"
+  },
+  {
+    "id": 1537,
+    "code_name": "default_energyCharge_dark"
+  },
+  {
+    "id": 1538,
+    "code_name": "default_lightDark_boom"
+  },
+  {
+    "id": 1539,
+    "code_name": "default_angel2_dark_release"
+  },
+  {
+    "id": 1540,
+    "code_name": "gangdan_dragonArmor_angel_release"
+  },
+  {
+    "id": 1541,
+    "code_name": "gangdan_dragonArmor_holyLightLoop"
+  },
+  {
+    "id": 1542,
+    "code_name": "gangdan_dragonArmor_holyLight_release"
+  },
+  {
+    "id": 1543,
+    "code_name": "gangdan_dragonArmor_heavyCombo_shout"
+  },
+  {
+    "id": 1544,
+    "code_name": "gangdan_dragonArmor_KOW_release"
+  },
+  {
+    "id": 1545,
+    "code_name": "default_flyAxe_hit"
+  },
+  {
+    "id": 1546,
+    "code_name": "gangdan_dragonArmor_heavyCombo_levelUp"
+  },
+  {
+    "id": 1547,
+    "code_name": "gangdan_dragonArmor_effect_punch_exp"
+  },
+  {
+    "id": 1548,
+    "code_name": "gangdan_dragonArmor_shieldBlock_release"
+  },
+  {
+    "id": 1549,
+    "code_name": "annice_gatherStar_springFes"
+  },
+  {
+    "id": 1550,
+    "code_name": "annice_moon_summon_springFes"
+  },
+  {
+    "id": 1551,
+    "code_name": "adira_fireKnightSkinPower_bird"
+  },
+  {
+    "id": 1552,
+    "code_name": "adira_fireKnight_fire"
+  },
+  {
+    "id": 1553,
+    "code_name": "adira_powerAttack_triggered_fireKnight"
+  },
+  {
+    "id": 1554,
+    "code_name": "adira_upSlash_style2_light_pillar_fireKnight"
+  },
+  {
+    "id": 1555,
+    "code_name": "adira_upSlash_style3_light_cone_fireKnight"
+  },
+  {
+    "id": 1556,
+    "code_name": "sakari_boss_tornado"
+  },
+  {
+    "id": 1557,
+    "code_name": "sakari_boss_dive_default"
+  },
+  {
+    "id": 1558,
+    "code_name": "sakari_boss_dive_super"
+  },
+  {
+    "id": 1559,
+    "code_name": "sakari_boss_fist_hit"
+  },
+  {
+    "id": 1560,
+    "code_name": "sakari_boss_super_fist_hit"
+  },
+  {
+    "id": 1561,
+    "code_name": "sakari_boss_bash_hit"
+  },
+  {
+    "id": 1562,
+    "code_name": "sakari_boss_super_bash_hit"
+  },
+  {
+    "id": 1563,
+    "code_name": "sakari_boss_hold_breath_start"
+  },
+  {
+    "id": 1564,
+    "code_name": "sakari_boss_hold_breath_start_shout"
+  },
+  {
+    "id": 1565,
+    "code_name": "sakari_boss_general_skill_start"
+  },
+  {
+    "id": 1566,
+    "code_name": "sakari_boss_die_normal"
+  },
+  {
+    "id": 1567,
+    "code_name": "sakari_boss_die_super"
+  },
+  {
+    "id": 1568,
+    "code_name": "sakari_boss_on_breath_dmg"
+  },
+  {
+    "id": 1569,
+    "code_name": "sakari_boss_dmg"
+  },
+  {
+    "id": 1570,
+    "code_name": "sakari_boss_one_punch_kick_shout"
+  },
+  {
+    "id": 1571,
+    "code_name": "sakari_boss_one_punch_wave_shout"
+  },
+  {
+    "id": 1572,
+    "code_name": "sakari_boss_dive_default_shout"
+  },
+  {
+    "id": 1573,
+    "code_name": "sakari_boss_dive_super_shout"
+  },
+  {
+    "id": 1574,
+    "code_name": "sakari_boss_one_punch_kick"
+  },
+  {
+    "id": 1575,
+    "code_name": "sakari_boss_one_punch_wave"
+  },
+  {
+    "id": 1576,
+    "code_name": "sakari_boss_count_punch_pull_shout_default"
+  },
+  {
+    "id": 1577,
+    "code_name": "sakari_boss_count_punch_release_shout_default"
+  },
+  {
+    "id": 1578,
+    "code_name": "sakari_boss_count_punch_pull_shout_super"
+  },
+  {
+    "id": 1579,
+    "code_name": "sakari_boss_count_punch_release_shout_super"
+  },
+  {
+    "id": 1580,
+    "code_name": "sakari_boss_combo_attack_shout_default"
+  },
+  {
+    "id": 1581,
+    "code_name": "sakari_boss_combo_attack_shout_super"
+  },
+  {
+    "id": 1582,
+    "code_name": "jpn_geisha_dmg"
+  },
+  {
+    "id": 1583,
+    "code_name": "jpn_geisha_die"
+  },
+  {
+    "id": 1584,
+    "code_name": "jpn_geisha_shout"
+  },
+  {
+    "id": 1585,
+    "code_name": "jpn_geisha_shout_long"
+  },
+  {
+    "id": 1586,
+    "code_name": "jpn_geisha_laugh"
+  },
+  {
+    "id": 1587,
+    "code_name": "jpn_geisha_laugh_long"
+  },
+  {
+    "id": 1588,
+    "code_name": "jpn_geisha_teleport"
+  },
+  {
+    "id": 1589,
+    "code_name": "jpn_geisha_dodge"
+  },
+  {
+    "id": 1590,
+    "code_name": "jpn_geisha_spin_attack"
+  },
+  {
+    "id": 1591,
+    "code_name": "jpn_geisha_fan_move"
+  },
+  {
+    "id": 1592,
+    "code_name": "jpn_geisha_summon_fan_move"
+  },
+  {
+    "id": 1593,
+    "code_name": "jpn_door_close"
+  },
+  {
+    "id": 1594,
+    "code_name": "jpn_door_open"
+  },
+  {
+    "id": 1595,
+    "code_name": "shadow_realm_open"
+  },
+  {
+    "id": 1596,
+    "code_name": "shadow_realm_end"
+  },
+  {
+    "id": 1597,
+    "code_name": "shadow_realm_end_acoustic"
+  },
+  {
+    "id": 1598,
+    "code_name": "jpn_geisha_spin_fan"
+  },
+  {
+    "id": 1599,
+    "code_name": "jpn_geisha_close_fan"
+  },
+  {
+    "id": 1600,
+    "code_name": "jpn_geisha_murmur"
+  },
+  {
+    "id": 1601,
+    "code_name": "jpn_geisha_play_melody"
+  },
+  {
+    "id": 1602,
+    "code_name": "qifeng_dmg"
+  },
+  {
+    "id": 1603,
+    "code_name": "qifeng_die"
+  },
+  {
+    "id": 1604,
+    "code_name": "qifeng_spin_rope"
+  },
+  {
+    "id": 1605,
+    "code_name": "qifeng_light_shout"
+  },
+  {
+    "id": 1606,
+    "code_name": "qifeng_heavy_shout"
+  },
+  {
+    "id": 1607,
+    "code_name": "qifeng_rush_rope"
+  },
+  {
+    "id": 1608,
+    "code_name": "qifeng_drag"
+  },
+  {
+    "id": 1609,
+    "code_name": "bunny_gun_shoot"
+  },
+  {
+    "id": 1610,
+    "code_name": "bunny_dmg"
+  },
+  {
+    "id": 1611,
+    "code_name": "bunny_die"
+  },
+  {
+    "id": 1612,
+    "code_name": "bunny_combo_shout"
+  },
+  {
+    "id": 1613,
+    "code_name": "bunny_combo_shout_ha"
+  },
+  {
+    "id": 1614,
+    "code_name": "bunny_gun_charge"
+  },
+  {
+    "id": 1615,
+    "code_name": "bunny_gun_blast"
+  },
+  {
+    "id": 1616,
+    "code_name": "bunny_air_dodge"
+  },
+  {
+    "id": 1617,
+    "code_name": "linxiao_dmg"
+  },
+  {
+    "id": 1618,
+    "code_name": "linxiao_die"
+  },
+  {
+    "id": 1619,
+    "code_name": "linxiao_combo_shout"
+  },
+  {
+    "id": 1620,
+    "code_name": "linxiao_dodge_shout"
+  },
+  {
+    "id": 1621,
+    "code_name": "linxiao_combo_shout_hei"
+  },
+  {
+    "id": 1622,
+    "code_name": "linxiao_combo_shout_ha"
+  },
+  {
+    "id": 1623,
+    "code_name": "confused_debuff_sound_effect"
+  },
+  {
+    "id": 1624,
+    "code_name": "skill_cast_wind"
+  },
+  {
+    "id": 1625,
+    "code_name": "penhaligon_wonderbrush_shoot"
+  },
+  {
+    "id": 1626,
+    "code_name": "penhaligon_wonderbrush_casting"
+  },
+  {
+    "id": 1627,
+    "code_name": "penhaligon_wonderbrush_powerup_explosion"
+  },
+  {
+    "id": 1628,
+    "code_name": "penhaligon_wonderbrush_shoot_me_casting"
+  },
+  {
+    "id": 1629,
+    "code_name": "penhaligon_wonderbrush_shoot_me_explode"
+  },
+  {
+    "id": 1630,
+    "code_name": "jpn_geisha_play_melody_short"
+  },
+  {
+    "id": 1631,
+    "code_name": "asura_rendao_blink"
+  },
+  {
+    "id": 1632,
+    "code_name": "asura_rendao_accumulate_shout"
+  },
+  {
+    "id": 1633,
+    "code_name": "asura_rendao_block_shout"
+  },
+  {
+    "id": 1634,
+    "code_name": "asura_rendao_laugh"
+  },
+  {
+    "id": 1635,
+    "code_name": "asura_rendao_release_shout"
+  },
+  {
+    "id": 1636,
+    "code_name": "asura_rendao_release_shout_quick"
+  },
+  {
+    "id": 1637,
+    "code_name": "asura_rendao_combo_release_shout"
+  },
+  {
+    "id": 1638,
+    "code_name": "asura_rendao_death_shout"
+  },
+  {
+    "id": 1639,
+    "code_name": "west_cow_dmg"
+  },
+  {
+    "id": 1640,
+    "code_name": "asura_shoudao_prepare_shout"
+  },
+  {
+    "id": 1641,
+    "code_name": "asura_shoudao_short_shout"
+  },
+  {
+    "id": 1642,
+    "code_name": "asura_shoudao_strong_shout"
+  },
+  {
+    "id": 1643,
+    "code_name": "asura_shoudao_continue_shout"
+  },
+  {
+    "id": 1644,
+    "code_name": "asura_shoudao_smash_ground_shout"
+  },
+  {
+    "id": 1645,
+    "code_name": "asura_shoudao_breath"
+  },
+  {
+    "id": 1646,
+    "code_name": "asura_shoudao_jump_shout"
+  },
+  {
+    "id": 1647,
+    "code_name": "asura_shoudao_die"
+  },
+  {
+    "id": 1648,
+    "code_name": "asura_shoudao_knock_chest"
+  },
+  {
+    "id": 1649,
+    "code_name": "asura_shoudao_smash_ground_effect"
+  },
+  {
+    "id": 1650,
+    "code_name": "asura_shoudao_wind_blade_loop_effect"
+  },
+  {
+    "id": 1651,
+    "code_name": "youzi_pillar_shoot_swimsuits"
+  },
+  {
+    "id": 1652,
+    "code_name": "youzi_overheated_swimsuits"
+  },
+  {
+    "id": 1653,
+    "code_name": "youzi_missile_duck_sound"
+  },
+  {
+    "id": 1654,
+    "code_name": "youzi_missile_shoot_swimsuits"
+  },
+  {
+    "id": 1655,
+    "code_name": "youzi_machine_gun_shoot_loop_swimsuits"
+  },
+  {
+    "id": 1656,
+    "code_name": "youzi_combo_gunShoot_swimsuits"
+  },
+  {
+    "id": 1657,
+    "code_name": "feiyu_dmg"
+  },
+  {
+    "id": 1658,
+    "code_name": "feiyu_die"
+  },
+  {
+    "id": 1659,
+    "code_name": "feiyu_combo_shout"
+  },
+  {
+    "id": 1660,
+    "code_name": "feiyu_skill2_wave_splash"
+  },
+  {
+    "id": 1661,
+    "code_name": "feiyu_skill3_vine_grow"
+  },
+  {
+    "id": 1662,
+    "code_name": "feiyu_charge_merge"
+  },
+  {
+    "id": 1663,
+    "code_name": "feiyu_dodge_effect"
+  },
+  {
+    "id": 1664,
+    "code_name": "wufei_mili_shoot"
+  },
+  {
+    "id": 1665,
+    "code_name": "wufei_mili_crazy_laugh"
+  },
+  {
+    "id": 1666,
+    "code_name": "wufei_mili_weird_laugh"
+  },
+  {
+    "id": 1667,
+    "code_name": "wufei_mili_angry_shout"
+  },
+  {
+    "id": 1668,
+    "code_name": "asura_guidao_accumulate_short"
+  },
+  {
+    "id": 1669,
+    "code_name": "asura_guidao_accumulate_long"
+  },
+  {
+    "id": 1670,
+    "code_name": "asura_guidao_damaged_shout"
+  },
+  {
+    "id": 1671,
+    "code_name": "asura_guidao_death_shout"
+  },
+  {
+    "id": 1672,
+    "code_name": "asura_guidao_laugh_short"
+  },
+  {
+    "id": 1673,
+    "code_name": "asura_guidao_laugh_long"
+  },
+  {
+    "id": 1674,
+    "code_name": "asura_guidao_grab"
+  },
+  {
+    "id": 1675,
+    "code_name": "asura_guidao_explosion_accumulate"
+  },
+  {
+    "id": 1676,
+    "code_name": "asura_guidao_laser_loop"
+  },
+  {
+    "id": 1677,
+    "code_name": "asura_guidao_laser_preheat"
+  },
+  {
+    "id": 1678,
+    "code_name": "asura_guidao_jumpcharge_shout"
+  },
+  {
+    "id": 1679,
+    "code_name": "asura_guidao_release_ball"
+  },
+  {
+    "id": 1680,
+    "code_name": "asura_guidao_release_ball_quick"
+  },
+  {
+    "id": 1681,
+    "code_name": "wufei_mili_finger"
+  },
+  {
+    "id": 1682,
+    "code_name": "fourthYearOctopusGetHit"
+  },
+  {
+    "id": 1683,
+    "code_name": "yufeng_yinyang_precast"
+  },
+  {
+    "id": 1684,
+    "code_name": "yufeng_yinyang_blade_dance"
+  },
+  {
+    "id": 1685,
+    "code_name": "yufeng_yinyang_circle_damage"
+  },
+  {
+    "id": 1686,
+    "code_name": "yufeng_yinyang_circle_loop"
+  },
+  {
+    "id": 1687,
+    "code_name": "yufeng_yinyang_fish"
+  },
+  {
+    "id": 1688,
+    "code_name": "uliana_rock_jump"
+  },
+  {
+    "id": 1689,
+    "code_name": "uliana_rock_combo"
+  },
+  {
+    "id": 1690,
+    "code_name": "uliana_rock_throw_note"
+  },
+  {
+    "id": 1691,
+    "code_name": "uliana_rock_note_fly"
+  },
+  {
+    "id": 1692,
+    "code_name": "uliana_rock_note_hit"
+  },
+  {
+    "id": 1693,
+    "code_name": "uliana_rock_skinpower"
+  },
+  {
+    "id": 1694,
+    "code_name": "uliana_rock_dance_slash"
+  },
+  {
+    "id": 1695,
+    "code_name": "uliana_rock_dance_dash"
+  },
+  {
+    "id": 1696,
+    "code_name": "uliana_rock_explosion_slash"
+  },
+  {
+    "id": 1697,
+    "code_name": "uliana_rock_explosion_release"
+  },
+  {
+    "id": 1698,
+    "code_name": "uliana_rock_explosion_release_extra"
+  },
+  {
+    "id": 1699,
+    "code_name": "uliana_rock_explosion_boom"
+  },
+  {
+    "id": 1700,
+    "code_name": "uliana_rock_debuff_explosion_hit"
+  },
+  {
+    "id": 1701,
+    "code_name": "uliana_rock_debuff_explosion_drum_loop"
+  },
+  {
+    "id": 1702,
+    "code_name": "uliana_rock_hand_carry_debuff"
+  },
+  {
+    "id": 1703,
+    "code_name": "uliana_rock_skinpower_song"
+  },
+  {
+    "id": 1704,
+    "code_name": "hualing_backJump_shout"
+  },
+  {
+    "id": 1705,
+    "code_name": "hualing_skillShout_s"
+  },
+  {
+    "id": 1706,
+    "code_name": "hualing_skillShout"
+  },
+  {
+    "id": 1707,
+    "code_name": "hualing_skillShout_l"
+  },
+  {
+    "id": 1708,
+    "code_name": "hualing_dmg"
+  },
+  {
+    "id": 1709,
+    "code_name": "hualing_die"
+  },
+  {
+    "id": 1710,
+    "code_name": "default_energyStorage"
+  },
+  {
+    "id": 1711,
+    "code_name": "default_energyGet"
+  },
+  {
+    "id": 1712,
+    "code_name": "default_energyStorage_h"
+  },
+  {
+    "id": 1713,
+    "code_name": "asura_yudao_accumulate_short"
+  },
+  {
+    "id": 1714,
+    "code_name": "asura_yudao_beHit"
+  },
+  {
+    "id": 1715,
+    "code_name": "asura_yudao_bone_crack_big"
+  },
+  {
+    "id": 1716,
+    "code_name": "asura_yudao_bone_crack_short"
+  },
+  {
+    "id": 1717,
+    "code_name": "asura_yudao_bone_emerge"
+  },
+  {
+    "id": 1718,
+    "code_name": "asura_yudao_death"
+  },
+  {
+    "id": 1719,
+    "code_name": "asura_yudao_hook_move_loop"
+  },
+  {
+    "id": 1720,
+    "code_name": "asura_yudao_release_shout_quick"
+  },
+  {
+    "id": 1721,
+    "code_name": "asura_yudao_ult_precast"
+  },
+  {
+    "id": 1722,
+    "code_name": "asura_yudao_ult_shout_loop"
+  },
+  {
+    "id": 1723,
+    "code_name": "asura_yudao_vomit_loop"
+  },
+  {
+    "id": 1724,
+    "code_name": "liquid_absorb"
+  },
+  {
+    "id": 1725,
+    "code_name": "poison_fog_slow"
+  },
+  {
+    "id": 1726,
+    "code_name": "yudao_zombie_short_long"
+  },
+  {
+    "id": 1727,
+    "code_name": "asura_yudao_move"
+  },
+  {
+    "id": 1728,
+    "code_name": "yudao_zombie_vomit_exp"
+  },
+  {
+    "id": 1729,
+    "code_name": "asura_yudao_laugh"
+  },
+  {
+    "id": 1730,
+    "code_name": "asura_yudao_rage_shout"
+  },
+  {
+    "id": 1731,
+    "code_name": "blood_burst"
+  },
+  {
+    "id": 1732,
+    "code_name": "bone_withdraw"
+  },
+  {
+    "id": 1733,
+    "code_name": "bunny_gun_blast_nun"
+  },
+  {
+    "id": 1734,
+    "code_name": "bunny_gun_shoot_nun"
+  },
+  {
+    "id": 1735,
+    "code_name": "bunny_smash_ground_nun"
+  },
+  {
+    "id": 1736,
+    "code_name": "bunny_gun_load_nun"
+  },
+  {
+    "id": 1737,
+    "code_name": "feiyu_zombie_dmg"
+  },
+  {
+    "id": 1738,
+    "code_name": "feiyu_zombie_die"
+  },
+  {
+    "id": 1739,
+    "code_name": "feiyu_zombie_combo"
+  },
+  {
+    "id": 1740,
+    "code_name": "feiyu_zombie_combo_hit"
+  },
+  {
+    "id": 1741,
+    "code_name": "feiyu_zombie_throw_fire"
+  },
+  {
+    "id": 1742,
+    "code_name": "feiyu_zombie_fire_merge"
+  },
+  {
+    "id": 1743,
+    "code_name": "feiyu_zombie_ground_talisman_shock_wave"
+  },
+  {
+    "id": 1744,
+    "code_name": "feiyu_zombie_ground_talisman_blessing"
+  },
+  {
+    "id": 1745,
+    "code_name": "feiyu_zombie_ground_talisman"
+  },
+  {
+    "id": 1746,
+    "code_name": "feiyu_zombie_ice_talisman"
+  },
+  {
+    "id": 1747,
+    "code_name": "feiyu_zombie_water_talisman"
+  },
+  {
+    "id": 1748,
+    "code_name": "feiyu_zombie_thunder_talisman"
+  },
+  {
+    "id": 1749,
+    "code_name": "feiyu_zombie_wood_talisman"
+  },
+  {
+    "id": 1750,
+    "code_name": "feiyu_zombie_fire_talisman"
+  },
+  {
+    "id": 1751,
+    "code_name": "feiyu_zombie_ice_talisman_ice_crash"
+  },
+  {
+    "id": 1752,
+    "code_name": "feiyu_zombie_water_talisman_start"
+  },
+  {
+    "id": 1753,
+    "code_name": "feiyu_zombie_fire_talisman_attack"
+  },
+  {
+    "id": 1754,
+    "code_name": "feiyu_zombie_thunder_talisman_attack"
+  },
+  {
+    "id": 1755,
+    "code_name": "rana_dodge_shout"
+  },
+  {
+    "id": 1756,
+    "code_name": "rana_dmg"
+  },
+  {
+    "id": 1757,
+    "code_name": "rana_die"
+  },
+  {
+    "id": 1758,
+    "code_name": "rana_combo_shout"
+  },
+  {
+    "id": 1759,
+    "code_name": "rana_blade_hit"
+  },
+  {
+    "id": 1760,
+    "code_name": "rana_cast_shout"
+  },
+  {
+    "id": 1761,
+    "code_name": "asura_xiuluodao_attack_shout_quick"
+  },
+  {
+    "id": 1762,
+    "code_name": "asura_xiuluodao_accumulate_shout"
+  },
+  {
+    "id": 1763,
+    "code_name": "asura_xiuluodao_accumulate_shout_quick"
+  },
+  {
+    "id": 1764,
+    "code_name": "asura_xiuluodao_casting_shout"
+  },
+  {
+    "id": 1765,
+    "code_name": "asura_xiuluodao_knockdown_shout"
+  },
+  {
+    "id": 1766,
+    "code_name": "asura_xiuluodao_death_shout"
+  },
+  {
+    "id": 1767,
+    "code_name": "asura_xiuluodao_dash"
+  },
+  {
+    "id": 1768,
+    "code_name": "stone_crack_boom"
+  },
+  {
+    "id": 1769,
+    "code_name": "stone_crack_boom_big"
+  },
+  {
+    "id": 1770,
+    "code_name": "asura_xiuluodao_max_attack_shout_quick"
+  },
+  {
+    "id": 1771,
+    "code_name": "asura_xiuluodao_max_accumulate_shout"
+  },
+  {
+    "id": 1772,
+    "code_name": "asura_xiuluodao_max_accumulate_shout_quick"
+  },
+  {
+    "id": 1773,
+    "code_name": "asura_xiuluodao_max_casting_shout"
+  },
+  {
+    "id": 1774,
+    "code_name": "erdene_dmg"
+  },
+  {
+    "id": 1775,
+    "code_name": "erdene_die"
+  },
+  {
+    "id": 1776,
+    "code_name": "erdene_arrow_shoot"
+  },
+  {
+    "id": 1777,
+    "code_name": "erdene_arrow_shoot_multiple"
+  },
+  {
+    "id": 1778,
+    "code_name": "erdene_combo_shout"
+  },
+  {
+    "id": 1779,
+    "code_name": "erdene_dodge"
+  },
+  {
+    "id": 1780,
+    "code_name": "erdene_eagle_combo"
+  },
+  {
+    "id": 1781,
+    "code_name": "erdene_eagle_dive"
+  },
+  {
+    "id": 1782,
+    "code_name": "erdene_eagle_idle"
+  },
+  {
+    "id": 1783,
+    "code_name": "erdene_eagle_squeak"
+  },
+  {
+    "id": 1784,
+    "code_name": "erdene_skill_whistle"
+  },
+  {
+    "id": 1785,
+    "code_name": "erdene_skill1_ready"
+  },
+  {
+    "id": 1786,
+    "code_name": "erdene_skill1_release"
+  },
+  {
+    "id": 1787,
+    "code_name": "erdene_skill2_feather_rain"
+  },
+  {
+    "id": 1788,
+    "code_name": "yangkyi_queen_doge"
+  },
+  {
+    "id": 1789,
+    "code_name": "yangkyi_queen_ring"
+  },
+  {
+    "id": 1790,
+    "code_name": "yangkyi_queen_smash"
+  },
+  {
+    "id": 1791,
+    "code_name": "yangkyi_queen_skill3"
+  },
+  {
+    "id": 1792,
+    "code_name": "olivia_christmas_blowhorn"
+  },
+  {
+    "id": 1793,
+    "code_name": "olivia_machine_born_christmas"
+  },
+  {
+    "id": 1794,
+    "code_name": "olivia_call_machine_christmas"
+  },
+  {
+    "id": 1795,
+    "code_name": "olivia_bunker_shot_bgm_christmas"
+  },
+  {
+    "id": 1796,
+    "code_name": "olivia_aerobat_launch_gift_christmas"
+  },
+  {
+    "id": 1797,
+    "code_name": "olivia_transform_moveforward_christmas"
+  },
+  {
+    "id": 1798,
+    "code_name": "olivia_transform_movebackward_christmas"
+  },
+  {
+    "id": 1799,
+    "code_name": "olivia_transform_idlebgm_christmas"
+  },
+  {
+    "id": 1800,
+    "code_name": "olivia_transform_callBack_christmas"
+  },
+  {
+    "id": 1801,
+    "code_name": "olivia_transform_born_christmas"
+  },
+  {
+    "id": 1802,
+    "code_name": "olivia_transform_punch_christmas"
+  },
+  {
+    "id": 1803,
+    "code_name": "olivia_transform_handup_christmas"
+  },
+  {
+    "id": 1804,
+    "code_name": "olivia_transform_handdown_christmas"
+  },
+  {
+    "id": 1805,
+    "code_name": "olivia_transform_gatlinstart_christmas"
+  },
+  {
+    "id": 1806,
+    "code_name": "olivia_transform_gatlinstop_christmas"
+  },
+  {
+    "id": 1807,
+    "code_name": "dragon_dmg"
+  },
+  {
+    "id": 1808,
+    "code_name": "dragon_die"
+  },
+  {
+    "id": 1809,
+    "code_name": "dragon_combo_shout"
+  },
+  {
+    "id": 1810,
+    "code_name": "dragon_dodge_shout"
+  },
+  {
+    "id": 1811,
+    "code_name": "dragon_water_jump"
+  },
+  {
+    "id": 1812,
+    "code_name": "dragon_water_dive"
+  },
+  {
+    "id": 1813,
+    "code_name": "dragon_swim_loop"
+  },
+  {
+    "id": 1814,
+    "code_name": "dragon_skill1_wave"
+  },
+  {
+    "id": 1815,
+    "code_name": "dragon_skill2_wave"
+  },
+  {
+    "id": 1816,
+    "code_name": "dragon_water_hit"
+  },
+  {
+    "id": 1817,
+    "code_name": "dragon_wave_boom"
+  },
+  {
+    "id": 1818,
+    "code_name": "qifeng_cowboy_snake_bite"
+  },
+  {
+    "id": 1819,
+    "code_name": "qifeng_cowboy_snake_bite_powerful"
+  },
+  {
+    "id": 1820,
+    "code_name": "qifeng_cowboy_snake_tail"
+  },
+  {
+    "id": 1821,
+    "code_name": "dailyBox_show"
+  },
+  {
+    "id": 1822,
+    "code_name": "dailyBox_levelUp_white2green"
+  },
+  {
+    "id": 1823,
+    "code_name": "dailyBox_levelUp_green2blue"
+  },
+  {
+    "id": 1824,
+    "code_name": "dailyBox_levelUp_blue2purple"
+  },
+  {
+    "id": 1825,
+    "code_name": "dailyBox_levelUp_purple2golden"
+  },
+  {
+    "id": 1826,
+    "code_name": "dailyBox_open"
+  },
+  {
+    "id": 1827,
+    "code_name": "asura_tianrendao_cast_laugh"
+  },
+  {
+    "id": 1828,
+    "code_name": "asura_tianrendao_cast_accumulate_shout"
+  },
+  {
+    "id": 1829,
+    "code_name": "asura_tianrendao_cast_shout_long"
+  },
+  {
+    "id": 1830,
+    "code_name": "asura_tianrendao_cast_shout_short"
+  },
+  {
+    "id": 1831,
+    "code_name": "asura_tianrendao_death_shout"
+  },
+  {
+    "id": 1832,
+    "code_name": "asura_tianrendao_cast_shout_medium"
+  },
+  {
+    "id": 1833,
+    "code_name": "asura_tianrendao_nebula_ambient"
+  },
+  {
+    "id": 1834,
+    "code_name": "asura_tianrendao_planet_ambient"
+  },
+  {
+    "id": 1835,
+    "code_name": "asura_tianrendao_blackhole_ambient"
+  },
+  {
+    "id": 1836,
+    "code_name": "asura_tianrendao_blackhole_exp"
+  },
+  {
+    "id": 1837,
+    "code_name": "asura_tianrendao_laser_loop"
+  },
+  {
+    "id": 1838,
+    "code_name": "asura_tianrendao_teleport_out"
+  },
+  {
+    "id": 1839,
+    "code_name": "asura_tianrendao_teleport_in"
+  },
+  {
+    "id": 1840,
+    "code_name": "asura_tianrendao_superNova_accumulate_short"
+  },
+  {
+    "id": 1841,
+    "code_name": "asura_tianrendao_earthRift_Exp"
+  },
+  {
+    "id": 1842,
+    "code_name": "bigNeedle_loop_snake"
+  },
+  {
+    "id": 1843,
+    "code_name": "bigNeedle_throw_snake"
+  },
+  {
+    "id": 1844,
+    "code_name": "needle_hit_snake"
+  },
+  {
+    "id": 1845,
+    "code_name": "needle_throw_snake"
+  },
+  {
+    "id": 1846,
+    "code_name": "linxiao_combo_effect_springFestival"
+  },
+  {
+    "id": 1847,
+    "code_name": "linxiao_combo_hit_springFestival"
+  },
+  {
+    "id": 1848,
+    "code_name": "linxiao_die_springFestival"
+  },
+  {
+    "id": 1849,
+    "code_name": "linxiao_attack_light_springFestival"
+  },
+  {
+    "id": 1850,
+    "code_name": "linxiao_laugh_springFestival"
+  },
+  {
+    "id": 1851,
+    "code_name": "linxiao_skill1_smash_ground_spring_festival"
+  },
+  {
+    "id": 1852,
+    "code_name": "linxiao_skill1_huge_lighting"
+  },
+  {
+    "id": 1853,
+    "code_name": "linxiao_skill1_style2_fireworks"
+  },
+  {
+    "id": 1854,
+    "code_name": "linxiao_skill2_style1_spring_festival"
+  },
+  {
+    "id": 1855,
+    "code_name": "linxiao_skill3_style1_springFestival"
+  }
+]

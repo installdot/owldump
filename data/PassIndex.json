@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "code_name": "RayTraceStep"
+  },
+  {
+    "id": 1,
+    "code_name": "CompositeFinal"
+  },
+  {
+    "id": 2,
+    "code_name": "Blur"
+  },
+  {
+    "id": 3,
+    "code_name": "CompositeSSR"
+  },
+  {
+    "id": 4,
+    "code_name": "MinMipGeneration"
+  },
+  {
+    "id": 5,
+    "code_name": "HitPointToReflections"
+  },
+  {
+    "id": 6,
+    "code_name": "BilateralKeyPack"
+  },
+  {
+    "id": 7,
+    "code_name": "BlitDepthAsCSZ"
+  },
+  {
+    "id": 8,
+    "code_name": "PoissonBlur"
+  }
+]

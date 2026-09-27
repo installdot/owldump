@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Fire"
+  },
+  {
+    "id": 1,
+    "code_name": "Ice"
+  },
+  {
+    "id": 2,
+    "code_name": "Lightning"
+  },
+  {
+    "id": 3,
+    "code_name": "TotalNumber"
+  }
+]

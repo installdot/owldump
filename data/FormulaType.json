@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "code_name": "RedWine"
+  },
+  {
+    "id": 2,
+    "code_name": "Martini"
+  },
+  {
+    "id": 3,
+    "code_name": "Champagne"
+  },
+  {
+    "id": 4,
+    "code_name": "Bullet"
+  },
+  {
+    "id": 5,
+    "code_name": "Whiskey"
+  },
+  {
+    "id": 6,
+    "code_name": "Sake"
+  }
+]

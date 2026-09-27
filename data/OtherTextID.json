@@ -1,0 +1,1650 @@
+[
+  {
+    "id": 0,
+    "code_name": "other_confirm"
+  },
+  {
+    "id": 1,
+    "code_name": "other_cancle"
+  },
+  {
+    "id": 2,
+    "code_name": "other_unlock"
+  },
+  {
+    "id": 3,
+    "code_name": "other_notUnlocked"
+  },
+  {
+    "id": 4,
+    "code_name": "other_back"
+  },
+  {
+    "id": 5,
+    "code_name": "other_unknown"
+  },
+  {
+    "id": 6,
+    "code_name": "other_empty"
+  },
+  {
+    "id": 7,
+    "code_name": "other_level"
+  },
+  {
+    "id": 8,
+    "code_name": "other_backpack"
+  },
+  {
+    "id": 9,
+    "code_name": "other_skill"
+  },
+  {
+    "id": 10,
+    "code_name": "other_equip"
+  },
+  {
+    "id": 11,
+    "code_name": "other_properties"
+  },
+  {
+    "id": 12,
+    "code_name": "other_cocktail"
+  },
+  {
+    "id": 13,
+    "code_name": "other_config"
+  },
+  {
+    "id": 14,
+    "code_name": "other_summary"
+  },
+  {
+    "id": 15,
+    "code_name": "other_learn"
+  },
+  {
+    "id": 16,
+    "code_name": "other_hasLearned"
+  },
+  {
+    "id": 17,
+    "code_name": "other_doubleCheckMsg"
+  },
+  {
+    "id": 18,
+    "code_name": "other_waitForSkillCountdown"
+  },
+  {
+    "id": 19,
+    "code_name": "other_dogeSkillButton"
+  },
+  {
+    "id": 20,
+    "code_name": "other_pause"
+  },
+  {
+    "id": 21,
+    "code_name": "other_quitGame"
+  },
+  {
+    "id": 22,
+    "code_name": "other_resume"
+  },
+  {
+    "id": 23,
+    "code_name": "other_difficultEasy"
+  },
+  {
+    "id": 24,
+    "code_name": "other_difficultNormal"
+  },
+  {
+    "id": 25,
+    "code_name": "other_difficultHard"
+  },
+  {
+    "id": 26,
+    "code_name": "other_defaultWeapon"
+  },
+  {
+    "id": 27,
+    "code_name": "other_somethingNotEnough"
+  },
+  {
+    "id": 28,
+    "code_name": "other_renderScaleDescription"
+  },
+  {
+    "id": 29,
+    "code_name": "other_bloomTitle"
+  },
+  {
+    "id": 30,
+    "code_name": "other_bloomDescription"
+  },
+  {
+    "id": 31,
+    "code_name": "other_dexterityTitle"
+  },
+  {
+    "id": 32,
+    "code_name": "other_dexterityDescription"
+  },
+  {
+    "id": 33,
+    "code_name": "other_taaTitle"
+  },
+  {
+    "id": 34,
+    "code_name": "other_taaDescription"
+  },
+  {
+    "id": 35,
+    "code_name": "other_equipStuff"
+  },
+  {
+    "id": 36,
+    "code_name": "other_hasEquipStuff"
+  },
+  {
+    "id": 37,
+    "code_name": "other_exSkillUnlockInfo"
+  },
+  {
+    "id": 38,
+    "code_name": "other_unlockSkill"
+  },
+  {
+    "id": 39,
+    "code_name": "other_needItem"
+  },
+  {
+    "id": 40,
+    "code_name": "other_selectableStyle"
+  },
+  {
+    "id": 41,
+    "code_name": "other_merge"
+  },
+  {
+    "id": 42,
+    "code_name": "other_jumpToPurchaseStore"
+  },
+  {
+    "id": 43,
+    "code_name": "other_tooMuch"
+  },
+  {
+    "id": 44,
+    "code_name": "other_unableOperate"
+  },
+  {
+    "id": 45,
+    "code_name": "other_character"
+  },
+  {
+    "id": 46,
+    "code_name": "other_gemstone"
+  },
+  {
+    "id": 47,
+    "code_name": "other_purchasesPack"
+  },
+  {
+    "id": 48,
+    "code_name": "properties_hp"
+  },
+  {
+    "id": 49,
+    "code_name": "properties_shield"
+  },
+  {
+    "id": 50,
+    "code_name": "properties_moveSpeed"
+  },
+  {
+    "id": 51,
+    "code_name": "properties_damage"
+  },
+  {
+    "id": 52,
+    "code_name": "properties_crit"
+  },
+  {
+    "id": 53,
+    "code_name": "properties_attackSpeed"
+  },
+  {
+    "id": 54,
+    "code_name": "controller_description_0"
+  },
+  {
+    "id": 55,
+    "code_name": "controller_description_1"
+  },
+  {
+    "id": 56,
+    "code_name": "controller_description_2"
+  },
+  {
+    "id": 57,
+    "code_name": "controller_description_3"
+  },
+  {
+    "id": 58,
+    "code_name": "billPlease_difficult"
+  },
+  {
+    "id": 59,
+    "code_name": "billPlease_timeSpent"
+  },
+  {
+    "id": 60,
+    "code_name": "billPlease_killCount"
+  },
+  {
+    "id": 61,
+    "code_name": "billPlease_rebornCount"
+  },
+  {
+    "id": 62,
+    "code_name": "billPlease_completeScenes"
+  },
+  {
+    "id": 63,
+    "code_name": "at_general"
+  },
+  {
+    "id": 64,
+    "code_name": "at_combat"
+  },
+  {
+    "id": 65,
+    "code_name": "at_explore"
+  },
+  {
+    "id": 66,
+    "code_name": "other_get"
+  },
+  {
+    "id": 67,
+    "code_name": "other_achievementComplete"
+  },
+  {
+    "id": 68,
+    "code_name": "other_currentWeapon"
+  },
+  {
+    "id": 69,
+    "code_name": "other_achievementCompleteAlready"
+  },
+  {
+    "id": 70,
+    "code_name": "other_achievementPoint"
+  },
+  {
+    "id": 71,
+    "code_name": "other_achievementPointShort"
+  },
+  {
+    "id": 72,
+    "code_name": "difficultMsg_easy"
+  },
+  {
+    "id": 73,
+    "code_name": "difficultMsg_normal"
+  },
+  {
+    "id": 74,
+    "code_name": "difficultMsg_hard"
+  },
+  {
+    "id": 75,
+    "code_name": "loading"
+  },
+  {
+    "id": 76,
+    "code_name": "mergeFormulaTitle"
+  },
+  {
+    "id": 77,
+    "code_name": "newMergeFormulaFound"
+  },
+  {
+    "id": 78,
+    "code_name": "waiting"
+  },
+  {
+    "id": 79,
+    "code_name": "overTime"
+  },
+  {
+    "id": 80,
+    "code_name": "details"
+  },
+  {
+    "id": 81,
+    "code_name": "nothingHere"
+  },
+  {
+    "id": 82,
+    "code_name": "announcement"
+  },
+  {
+    "id": 83,
+    "code_name": "customerService"
+  },
+  {
+    "id": 84,
+    "code_name": "inputGiftCode"
+  },
+  {
+    "id": 85,
+    "code_name": "receive"
+  },
+  {
+    "id": 86,
+    "code_name": "networkNotReachable"
+  },
+  {
+    "id": 87,
+    "code_name": "canNotEmpty"
+  },
+  {
+    "id": 88,
+    "code_name": "minestCharacterCount"
+  },
+  {
+    "id": 89,
+    "code_name": "maxestCharacterCount"
+  },
+  {
+    "id": 90,
+    "code_name": "inputYourNamePlease"
+  },
+  {
+    "id": 91,
+    "code_name": "networkPanel"
+  },
+  {
+    "id": 92,
+    "code_name": "createRoom"
+  },
+  {
+    "id": 93,
+    "code_name": "joinRoom"
+  },
+  {
+    "id": 94,
+    "code_name": "leaveRoom"
+  },
+  {
+    "id": 95,
+    "code_name": "closeRoom"
+  },
+  {
+    "id": 96,
+    "code_name": "refresh"
+  },
+  {
+    "id": 97,
+    "code_name": "asuraPower"
+  },
+  {
+    "id": 98,
+    "code_name": "confirmInvestPoint"
+  },
+  {
+    "id": 99,
+    "code_name": "investSoulStoneInfo"
+  },
+  {
+    "id": 100,
+    "code_name": "resetAPPConfirmInfo"
+  },
+  {
+    "id": 101,
+    "code_name": "resetSucceeded"
+  },
+  {
+    "id": 102,
+    "code_name": "continueGameInfo"
+  },
+  {
+    "id": 103,
+    "code_name": "continueGameConfirm"
+  },
+  {
+    "id": 104,
+    "code_name": "continueGameCancle"
+  },
+  {
+    "id": 105,
+    "code_name": "menuSkin_Default"
+  },
+  {
+    "id": 106,
+    "code_name": "menuSkin_TapTap"
+  },
+  {
+    "id": 107,
+    "code_name": "menuSkin_BiliBili"
+  },
+  {
+    "id": 108,
+    "code_name": "storeBossLetter"
+  },
+  {
+    "id": 109,
+    "code_name": "clickAgainExit"
+  },
+  {
+    "id": 110,
+    "code_name": "unlockAtLevel"
+  },
+  {
+    "id": 111,
+    "code_name": "dontHaveAd"
+  },
+  {
+    "id": 112,
+    "code_name": "youCouldEarn"
+  },
+  {
+    "id": 113,
+    "code_name": "watchAd"
+  },
+  {
+    "id": 114,
+    "code_name": "totalScore"
+  },
+  {
+    "id": 115,
+    "code_name": "weaponHasUpgrade"
+  },
+  {
+    "id": 116,
+    "code_name": "adRebornDoubleConfirmDescription"
+  },
+  {
+    "id": 117,
+    "code_name": "youReceived"
+  },
+  {
+    "id": 118,
+    "code_name": "emailBox"
+  },
+  {
+    "id": 119,
+    "code_name": "emailContentTitle"
+  },
+  {
+    "id": 120,
+    "code_name": "emailContentSender"
+  },
+  {
+    "id": 121,
+    "code_name": "delete"
+  },
+  {
+    "id": 122,
+    "code_name": "versionWarning"
+  },
+  {
+    "id": 123,
+    "code_name": "getPreorderReward"
+  },
+  {
+    "id": 124,
+    "code_name": "restorePurchases"
+  },
+  {
+    "id": 125,
+    "code_name": "uid"
+  },
+  {
+    "id": 126,
+    "code_name": "deviceId"
+  },
+  {
+    "id": 127,
+    "code_name": "appVersion"
+  },
+  {
+    "id": 128,
+    "code_name": "plantformId"
+  },
+  {
+    "id": 129,
+    "code_name": "realNameMsg"
+  },
+  {
+    "id": 130,
+    "code_name": "userAgreement"
+  },
+  {
+    "id": 131,
+    "code_name": "childPrivacy"
+  },
+  {
+    "id": 132,
+    "code_name": "privacyPolicy"
+  },
+  {
+    "id": 133,
+    "code_name": "basicInfo"
+  },
+  {
+    "id": 134,
+    "code_name": "contactInfo"
+  },
+  {
+    "id": 135,
+    "code_name": "menuSkin_Appstore"
+  },
+  {
+    "id": 136,
+    "code_name": "menuSkin_VIVO"
+  },
+  {
+    "id": 137,
+    "code_name": "menuSkin_OPPO"
+  },
+  {
+    "id": 138,
+    "code_name": "menuSkin_HuaWei"
+  },
+  {
+    "id": 139,
+    "code_name": "menuSkin_MeiZu"
+  },
+  {
+    "id": 140,
+    "code_name": "menuSkin_GamePop"
+  },
+  {
+    "id": 141,
+    "code_name": "menuSkin_t4399hezi"
+  },
+  {
+    "id": 142,
+    "code_name": "total"
+  },
+  {
+    "id": 143,
+    "code_name": "compensation"
+  },
+  {
+    "id": 144,
+    "code_name": "buyWeapon"
+  },
+  {
+    "id": 145,
+    "code_name": "sellWeapon"
+  },
+  {
+    "id": 146,
+    "code_name": "buy"
+  },
+  {
+    "id": 147,
+    "code_name": "weaponSales"
+  },
+  {
+    "id": 148,
+    "code_name": "attention"
+  },
+  {
+    "id": 149,
+    "code_name": "sellWeaponAndReport"
+  },
+  {
+    "id": 150,
+    "code_name": "probationTicket"
+  },
+  {
+    "id": 151,
+    "code_name": "probationHint"
+  },
+  {
+    "id": 152,
+    "code_name": "probation"
+  },
+  {
+    "id": 153,
+    "code_name": "roleProbation"
+  },
+  {
+    "id": 154,
+    "code_name": "probationBackHint"
+  },
+  {
+    "id": 155,
+    "code_name": "vipDiscount"
+  },
+  {
+    "id": 156,
+    "code_name": "menuSkin_Christmas2020"
+  },
+  {
+    "id": 157,
+    "code_name": "unlockChristmasSkinQuestMsg"
+  },
+  {
+    "id": 158,
+    "code_name": "decomposeLimit"
+  },
+  {
+    "id": 159,
+    "code_name": "other_heroSkin"
+  },
+  {
+    "id": 160,
+    "code_name": "menuSkin_SpringFestival"
+  },
+  {
+    "id": 161,
+    "code_name": "other_sharedExSkillUnlockInfo"
+  },
+  {
+    "id": 162,
+    "code_name": "unlockSpringSkinQuestMsg"
+  },
+  {
+    "id": 163,
+    "code_name": "common_default"
+  },
+  {
+    "id": 164,
+    "code_name": "heroSkin_skinName"
+  },
+  {
+    "id": 165,
+    "code_name": "other_mustInOrigin"
+  },
+  {
+    "id": 166,
+    "code_name": "melTrailCondition_BattleRoom"
+  },
+  {
+    "id": 167,
+    "code_name": "localcoop_waitRevive"
+  },
+  {
+    "id": 168,
+    "code_name": "localcoop_minPlayer"
+  },
+  {
+    "id": 169,
+    "code_name": "localcoop_dropItem"
+  },
+  {
+    "id": 170,
+    "code_name": "localcoop_cannotPickup"
+  },
+  {
+    "id": 171,
+    "code_name": "localcoop_nextLevelRevive"
+  },
+  {
+    "id": 172,
+    "code_name": "localcoop_shareQuestTips"
+  },
+  {
+    "id": 173,
+    "code_name": "localcoop_receivedSharedQuest"
+  },
+  {
+    "id": 174,
+    "code_name": "localcoop_LCModeCannotUse"
+  },
+  {
+    "id": 175,
+    "code_name": "localcoop_shareQuest"
+  },
+  {
+    "id": 176,
+    "code_name": "localcoop_cm2020Quest"
+  },
+  {
+    "id": 177,
+    "code_name": "localcoop_sf2021Quest"
+  },
+  {
+    "id": 178,
+    "code_name": "localcoop_roomHasBattle"
+  },
+  {
+    "id": 179,
+    "code_name": "localcoop_versionDiff"
+  },
+  {
+    "id": 180,
+    "code_name": "localcoop_maxPlayer"
+  },
+  {
+    "id": 181,
+    "code_name": "other_difficultHell"
+  },
+  {
+    "id": 182,
+    "code_name": "difficultMsg_hell01"
+  },
+  {
+    "id": 183,
+    "code_name": "difficultMsg_hell02"
+  },
+  {
+    "id": 184,
+    "code_name": "difficultMsg_hell03"
+  },
+  {
+    "id": 185,
+    "code_name": "difficultMsg_mel"
+  },
+  {
+    "id": 186,
+    "code_name": "localcoop_4gHotPointWarnning"
+  },
+  {
+    "id": 187,
+    "code_name": "localcoop_noRoom"
+  },
+  {
+    "id": 188,
+    "code_name": "localcoop_otherPlayerConversation"
+  },
+  {
+    "id": 189,
+    "code_name": "localcoop_switchView"
+  },
+  {
+    "id": 190,
+    "code_name": "other_materialNotEnough"
+  },
+  {
+    "id": 191,
+    "code_name": "other_materialExchange"
+  },
+  {
+    "id": 192,
+    "code_name": "other_inventory"
+  },
+  {
+    "id": 193,
+    "code_name": "other_sharedSkillIsUnlock"
+  },
+  {
+    "id": 194,
+    "code_name": "other_sharedSkillMaterialIsFull"
+  },
+  {
+    "id": 195,
+    "code_name": "other_sharedSkillMaterialIsEmpty"
+  },
+  {
+    "id": 196,
+    "code_name": "other_selectHandOverMaterial"
+  },
+  {
+    "id": 197,
+    "code_name": "other_selectTargetMaterial"
+  },
+  {
+    "id": 198,
+    "code_name": "other_HandOverAndTargetMaterialSame"
+  },
+  {
+    "id": 199,
+    "code_name": "other_confirmExchange"
+  },
+  {
+    "id": 200,
+    "code_name": "localcoop_systemDif"
+  },
+  {
+    "id": 201,
+    "code_name": "custom_enter"
+  },
+  {
+    "id": 202,
+    "code_name": "custom_use"
+  },
+  {
+    "id": 203,
+    "code_name": "custom_back"
+  },
+  {
+    "id": 204,
+    "code_name": "custom_default"
+  },
+  {
+    "id": 205,
+    "code_name": "title_graphic"
+  },
+  {
+    "id": 206,
+    "code_name": "title_controller"
+  },
+  {
+    "id": 207,
+    "code_name": "title_language"
+  },
+  {
+    "id": 208,
+    "code_name": "title_sound"
+  },
+  {
+    "id": 209,
+    "code_name": "config_dexMode_title"
+  },
+  {
+    "id": 210,
+    "code_name": "config_dexMode_description"
+  },
+  {
+    "id": 211,
+    "code_name": "config_critShake_title"
+  },
+  {
+    "id": 212,
+    "code_name": "config_critShake_description"
+  },
+  {
+    "id": 213,
+    "code_name": "config_screenShake_title"
+  },
+  {
+    "id": 214,
+    "code_name": "config_screenShake_description"
+  },
+  {
+    "id": 215,
+    "code_name": "help_unmoved"
+  },
+  {
+    "id": 216,
+    "code_name": "help_unmoved_reconfirm"
+  },
+  {
+    "id": 217,
+    "code_name": "help_unmoved_btn"
+  },
+  {
+    "id": 232,
+    "code_name": "title_characterFind"
+  },
+  {
+    "id": 233,
+    "code_name": "other_monsterIllustratedRetrievalTitle"
+  },
+  {
+    "id": 234,
+    "code_name": "other_levelRetrievalTitle"
+  },
+  {
+    "id": 235,
+    "code_name": "other_typeRetrievalTitle"
+  },
+  {
+    "id": 236,
+    "code_name": "other_waitingForCollectName"
+  },
+  {
+    "id": 237,
+    "code_name": "other_writer"
+  },
+  {
+    "id": 238,
+    "code_name": "other_waitingForCollectInformation"
+  },
+  {
+    "id": 239,
+    "code_name": "crystallUI_tips"
+  },
+  {
+    "id": 240,
+    "code_name": "crystallLeftTitle"
+  },
+  {
+    "id": 243,
+    "code_name": "crystall_rightPopup_crystall"
+  },
+  {
+    "id": 244,
+    "code_name": "crystall_rightPopup_start"
+  },
+  {
+    "id": 245,
+    "code_name": "crystall_rightPopup_again"
+  },
+  {
+    "id": 246,
+    "code_name": "DailyActivity_KillNormalEnemy"
+  },
+  {
+    "id": 247,
+    "code_name": "DailyActivity_KillHiddenEnemy"
+  },
+  {
+    "id": 248,
+    "code_name": "DailyActivity_KillBossEnemy"
+  },
+  {
+    "id": 249,
+    "code_name": "DailyActivity_MergeItem"
+  },
+  {
+    "id": 250,
+    "code_name": "DailyActivity_WeaponUpdate"
+  },
+  {
+    "id": 251,
+    "code_name": "DailyActivity_Clearance"
+  },
+  {
+    "id": 252,
+    "code_name": "DailyActivity_HaveDrink"
+  },
+  {
+    "id": 253,
+    "code_name": "DailyActivity_CompleteMel"
+  },
+  {
+    "id": 254,
+    "code_name": "crystall_leftPopup_title"
+  },
+  {
+    "id": 255,
+    "code_name": "HeroPieces_HeroNameListFail"
+  },
+  {
+    "id": 256,
+    "code_name": "DailyActivity_RequireActivity"
+  },
+  {
+    "id": 257,
+    "code_name": "NetworkDisconnectErrorInfo"
+  },
+  {
+    "id": 258,
+    "code_name": "DailyActivity_FightClubChallenge"
+  },
+  {
+    "id": 259,
+    "code_name": "HasUnlock"
+  },
+  {
+    "id": 260,
+    "code_name": "RetrievePieces"
+  },
+  {
+    "id": 261,
+    "code_name": "DAP_Title0"
+  },
+  {
+    "id": 262,
+    "code_name": "DAP_Title1"
+  },
+  {
+    "id": 263,
+    "code_name": "DAP_Title2"
+  },
+  {
+    "id": 264,
+    "code_name": "DAP_Title3"
+  },
+  {
+    "id": 265,
+    "code_name": "DailyActivity_Activity"
+  },
+  {
+    "id": 266,
+    "code_name": "DailyActivity_ActivityPerEvent"
+  },
+  {
+    "id": 267,
+    "code_name": "achievement_title"
+  },
+  {
+    "id": 268,
+    "code_name": "achievement_require"
+  },
+  {
+    "id": 269,
+    "code_name": "achievement_source"
+  },
+  {
+    "id": 270,
+    "code_name": "DAP_DailyActivityRewardTitle"
+  },
+  {
+    "id": 271,
+    "code_name": "DAP_CommonPiecesCount"
+  },
+  {
+    "id": 272,
+    "code_name": "DAP_HeroPieceMerge"
+  },
+  {
+    "id": 273,
+    "code_name": "DAP_DailyPieceRewardPage"
+  },
+  {
+    "id": 274,
+    "code_name": "DAP_CollectInfo"
+  },
+  {
+    "id": 275,
+    "code_name": "DAP_CollectButtonText"
+  },
+  {
+    "id": 276,
+    "code_name": "DAP_HasCollect"
+  },
+  {
+    "id": 277,
+    "code_name": "DAP_NextRefreshTime"
+  },
+  {
+    "id": 278,
+    "code_name": "DAP_NextSeasionPreview"
+  },
+  {
+    "id": 281,
+    "code_name": "Item_HeroCommonPiece"
+  },
+  {
+    "id": 282,
+    "code_name": "Item_SkinCommonPiece"
+  },
+  {
+    "id": 283,
+    "code_name": "Item_PetFood"
+  },
+  {
+    "id": 284,
+    "code_name": "DAP_ExclusiveHeroPieceName"
+  },
+  {
+    "id": 285,
+    "code_name": "DAP_NotEnoughActivity"
+  },
+  {
+    "id": 286,
+    "code_name": "DAP_HasEnough"
+  },
+  {
+    "id": 287,
+    "code_name": "DAP_ReturnPieces"
+  },
+  {
+    "id": 288,
+    "code_name": "DAP_ReturnPiecesInfo"
+  },
+  {
+    "id": 289,
+    "code_name": "DAP_YouWillReceive"
+  },
+  {
+    "id": 290,
+    "code_name": "DAP_PrepareExchangeHero"
+  },
+  {
+    "id": 291,
+    "code_name": "DAP_PrepareExchangeHero_1"
+  },
+  {
+    "id": 292,
+    "code_name": "DAP_NotEnoughPieces"
+  },
+  {
+    "id": 293,
+    "code_name": "DAP_PassLevelValue"
+  },
+  {
+    "id": 294,
+    "code_name": "DAP_PassLevelName"
+  },
+  {
+    "id": 295,
+    "code_name": "DAP_NormalRewardName"
+  },
+  {
+    "id": 296,
+    "code_name": "DAP_HighRewardName"
+  },
+  {
+    "id": 297,
+    "code_name": "DAP_PassDeadLine"
+  },
+  {
+    "id": 298,
+    "code_name": "DAP_PassLevelNotEnough"
+  },
+  {
+    "id": 299,
+    "code_name": "PET_Full"
+  },
+  {
+    "id": 300,
+    "code_name": "PET_Fight"
+  },
+  {
+    "id": 301,
+    "code_name": "PET_Satiety"
+  },
+  {
+    "id": 302,
+    "code_name": "PET_Friendliness"
+  },
+  {
+    "id": 303,
+    "code_name": "PET_Feeding"
+  },
+  {
+    "id": 304,
+    "code_name": "BP_HighRewardInfo_0"
+  },
+  {
+    "id": 305,
+    "code_name": "BP_HighRewardInfo_1"
+  },
+  {
+    "id": 306,
+    "code_name": "BP_HighRewardInfo_2"
+  },
+  {
+    "id": 307,
+    "code_name": "other_purchasesSuccess"
+  },
+  {
+    "id": 308,
+    "code_name": "DAP_HasUnlockCollect"
+  },
+  {
+    "id": 309,
+    "code_name": "BP_BPHasClose"
+  },
+  {
+    "id": 310,
+    "code_name": "BP_HighRewardPurchasesClosed"
+  },
+  {
+    "id": 311,
+    "code_name": "crystallBall_talk_hi"
+  },
+  {
+    "id": 312,
+    "code_name": "crystallBall_talk_comeOn"
+  },
+  {
+    "id": 313,
+    "code_name": "crystallBall_talk_goodBye"
+  },
+  {
+    "id": 314,
+    "code_name": "crystallBall_talk_23_1"
+  },
+  {
+    "id": 315,
+    "code_name": "crystallBall_talk_1_3"
+  },
+  {
+    "id": 316,
+    "code_name": "crystallBall_talk_3_5"
+  },
+  {
+    "id": 317,
+    "code_name": "crystallBall_talk_5_7"
+  },
+  {
+    "id": 318,
+    "code_name": "crystallBall_talk_7_9"
+  },
+  {
+    "id": 319,
+    "code_name": "crystallBall_talk_9_11"
+  },
+  {
+    "id": 320,
+    "code_name": "crystallBall_talk_11_13"
+  },
+  {
+    "id": 321,
+    "code_name": "crystallBall_talk_13_15"
+  },
+  {
+    "id": 322,
+    "code_name": "crystallBall_talk_15_17"
+  },
+  {
+    "id": 323,
+    "code_name": "crystallBall_talk_17_19"
+  },
+  {
+    "id": 324,
+    "code_name": "crystallBall_talk_19_21"
+  },
+  {
+    "id": 325,
+    "code_name": "crystallBall_talk_21_23"
+  },
+  {
+    "id": 326,
+    "code_name": "crystallBall_talk_random_0"
+  },
+  {
+    "id": 327,
+    "code_name": "other_builderUITitle"
+  },
+  {
+    "id": 328,
+    "code_name": "notEnoughPetFood"
+  },
+  {
+    "id": 329,
+    "code_name": "PP_PetHungry"
+  },
+  {
+    "id": 330,
+    "code_name": "PP_LowFriendliness"
+  },
+  {
+    "id": 331,
+    "code_name": "skinPiecesMerge"
+  },
+  {
+    "id": 332,
+    "code_name": "notEnoughSkinPiece"
+  },
+  {
+    "id": 333,
+    "code_name": "PetParadiesInfo_0"
+  },
+  {
+    "id": 334,
+    "code_name": "PetParadiesInfo_1"
+  },
+  {
+    "id": 335,
+    "code_name": "needUnlockFromCat"
+  },
+  {
+    "id": 336,
+    "code_name": "switchToMergePage"
+  },
+  {
+    "id": 337,
+    "code_name": "todayHasCollect"
+  },
+  {
+    "id": 338,
+    "code_name": "youWillReceiveRandomReward"
+  },
+  {
+    "id": 339,
+    "code_name": "jumpToPurchaseStore_directTrans"
+  },
+  {
+    "id": 340,
+    "code_name": "pieceUnlock"
+  },
+  {
+    "id": 341,
+    "code_name": "petFollowable"
+  },
+  {
+    "id": 342,
+    "code_name": "petFollowing"
+  },
+  {
+    "id": 343,
+    "code_name": "petAutoPickTitle"
+  },
+  {
+    "id": 344,
+    "code_name": "petAutoPick_0"
+  },
+  {
+    "id": 345,
+    "code_name": "petAutoPick_1"
+  },
+  {
+    "id": 346,
+    "code_name": "petAutoPick_2"
+  },
+  {
+    "id": 347,
+    "code_name": "petAutoPick_3"
+  },
+  {
+    "id": 348,
+    "code_name": "petAutoPick_4"
+  },
+  {
+    "id": 349,
+    "code_name": "continueCollectPieces"
+  },
+  {
+    "id": 350,
+    "code_name": "crystallUI_noCristal"
+  },
+  {
+    "id": 351,
+    "code_name": "closeForNow"
+  },
+  {
+    "id": 352,
+    "code_name": "other_damageBlockTitle"
+  },
+  {
+    "id": 353,
+    "code_name": "other_damageBlockDescription"
+  },
+  {
+    "id": 354,
+    "code_name": "other_allDamageBlockTitle"
+  },
+  {
+    "id": 355,
+    "code_name": "other_allDamageBlockDescription"
+  },
+  {
+    "id": 356,
+    "code_name": "dspTitle"
+  },
+  {
+    "id": 357,
+    "code_name": "dspDescription"
+  },
+  {
+    "id": 358,
+    "code_name": "bank_menuSceneLimit"
+  },
+  {
+    "id": 359,
+    "code_name": "bank_savingMoneyFull"
+  },
+  {
+    "id": 360,
+    "code_name": "bank_noMoney"
+  },
+  {
+    "id": 375,
+    "code_name": "menuSkin_FirstYear"
+  },
+  {
+    "id": 376,
+    "code_name": "unlockFirstYearSkinQuestMsg"
+  },
+  {
+    "id": 377,
+    "code_name": "unlockFirstYearStatueQuestMsg"
+  },
+  {
+    "id": 378,
+    "code_name": "menuSkin_GooglePlay"
+  },
+  {
+    "id": 379,
+    "code_name": "christmasGift"
+  },
+  {
+    "id": 380,
+    "code_name": "Item_PetToy"
+  },
+  {
+    "id": 381,
+    "code_name": "notEnoughPetToy"
+  },
+  {
+    "id": 382,
+    "code_name": "PET_GiveToy"
+  },
+  {
+    "id": 383,
+    "code_name": "PET_FullFriendliness"
+  },
+  {
+    "id": 384,
+    "code_name": "unlock_characterEffect"
+  },
+  {
+    "id": 385,
+    "code_name": "unlock_conditions"
+  },
+  {
+    "id": 386,
+    "code_name": "other_legenditem"
+  },
+  {
+    "id": 387,
+    "code_name": "other_legenditem_upgrade"
+  },
+  {
+    "id": 388,
+    "code_name": "other_legenditem_get"
+  },
+  {
+    "id": 389,
+    "code_name": "other_legenditem_notopen"
+  },
+  {
+    "id": 390,
+    "code_name": "battlepass_skinbox"
+  },
+  {
+    "id": 391,
+    "code_name": "asurapower_schemecost"
+  },
+  {
+    "id": 392,
+    "code_name": "asurapower_in_use"
+  },
+  {
+    "id": 393,
+    "code_name": "asurapower_active_scheme"
+  },
+  {
+    "id": 394,
+    "code_name": "asurapower_reset"
+  },
+  {
+    "id": 395,
+    "code_name": "login_fail"
+  },
+  {
+    "id": 396,
+    "code_name": "login_success"
+  },
+  {
+    "id": 397,
+    "code_name": "login_try"
+  },
+  {
+    "id": 398,
+    "code_name": "login_sync_success"
+  },
+  {
+    "id": 399,
+    "code_name": "login_sync_fail"
+  },
+  {
+    "id": 400,
+    "code_name": "login_sync_diff"
+  },
+  {
+    "id": 401,
+    "code_name": "cloud_sync"
+  },
+  {
+    "id": 402,
+    "code_name": "cloud_different"
+  },
+  {
+    "id": 403,
+    "code_name": "config_autoTarget_title"
+  },
+  {
+    "id": 404,
+    "code_name": "config_autoTarget_description"
+  },
+  {
+    "id": 405,
+    "code_name": "login_fail_timeout"
+  },
+  {
+    "id": 406,
+    "code_name": "account_log_out"
+  },
+  {
+    "id": 407,
+    "code_name": "apply_log_out"
+  },
+  {
+    "id": 408,
+    "code_name": "apply_log_out_title"
+  },
+  {
+    "id": 409,
+    "code_name": "apply_log_out_content"
+  },
+  {
+    "id": 410,
+    "code_name": "other_forceupdate"
+  },
+  {
+    "id": 411,
+    "code_name": "other_quitgame"
+  },
+  {
+    "id": 412,
+    "code_name": "other_updategame"
+  },
+  {
+    "id": 413,
+    "code_name": "other_remote_tip"
+  },
+  {
+    "id": 414,
+    "code_name": "menuSkin_SecondYear"
+  },
+  {
+    "id": 415,
+    "code_name": "other_author"
+  },
+  {
+    "id": 416,
+    "code_name": "author_neil"
+  },
+  {
+    "id": 417,
+    "code_name": "author_yizi"
+  },
+  {
+    "id": 418,
+    "code_name": "author_quang"
+  },
+  {
+    "id": 419,
+    "code_name": "author_wuhua"
+  },
+  {
+    "id": 420,
+    "code_name": "author_zhy"
+  },
+  {
+    "id": 421,
+    "code_name": "author_feng"
+  },
+  {
+    "id": 422,
+    "code_name": "author_saiwen"
+  },
+  {
+    "id": 423,
+    "code_name": "other_affixType_growing"
+  },
+  {
+    "id": 424,
+    "code_name": "other_affixType_mutation"
+  },
+  {
+    "id": 425,
+    "code_name": "other_affixType_synergy"
+  },
+  {
+    "id": 426,
+    "code_name": "other_affixType_special"
+  },
+  {
+    "id": 427,
+    "code_name": "skinPiecesMergePet"
+  },
+  {
+    "id": 428,
+    "code_name": "other_ExchangeStoneIntoPowerDesc"
+  },
+  {
+    "id": 429,
+    "code_name": "other_SurvivalModeWaveInfoDesc"
+  },
+  {
+    "id": 430,
+    "code_name": "Item_BattlePassLevel"
+  },
+  {
+    "id": 431,
+    "code_name": "Item_BattlePassLevelDesc"
+  },
+  {
+    "id": 432,
+    "code_name": "skinPower_turn_on"
+  },
+  {
+    "id": 433,
+    "code_name": "skinPower_turn_off"
+  },
+  {
+    "id": 434,
+    "code_name": "menuSkin_ThirdYear"
+  },
+  {
+    "id": 435,
+    "code_name": "menuSkin_FourthYear"
+  },
+  {
+    "id": 436,
+    "code_name": "attackAlertMark_title"
+  },
+  {
+    "id": 437,
+    "code_name": "attackAlertMark_description"
+  },
+  {
+    "id": 438,
+    "code_name": "other_affixType_levelup1"
+  },
+  {
+    "id": 439,
+    "code_name": "other_affixType_levelup2"
+  },
+  {
+    "id": 440,
+    "code_name": "other_level_up"
+  },
+  {
+    "id": 441,
+    "code_name": "other_reforge"
+  },
+  {
+    "id": 442,
+    "code_name": "other_affixType_reforge"
+  },
+  {
+    "id": 443,
+    "code_name": "DailyActivity_Login"
+  }
+]

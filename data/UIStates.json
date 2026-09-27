@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "UIFading"
+  },
+  {
+    "id": 1,
+    "code_name": "CardFadeIn"
+  },
+  {
+    "id": 2,
+    "code_name": "Idle"
+  },
+  {
+    "id": 3,
+    "code_name": "ShowPickedPerk"
+  },
+  {
+    "id": 4,
+    "code_name": "CardFadeOut"
+  },
+  {
+    "id": 5,
+    "code_name": "Closed"
+  }
+]

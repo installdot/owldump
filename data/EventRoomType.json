@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "code_name": "surpriseBox"
+  },
+  {
+    "id": 1,
+    "code_name": "story_eu_guBao_1_1"
+  },
+  {
+    "id": 2,
+    "code_name": "colosseum"
+  },
+  {
+    "id": 3,
+    "code_name": "story_eu_guBao_1_2"
+  },
+  {
+    "id": 4,
+    "code_name": "story_eu_guBao_1_3"
+  },
+  {
+    "id": 5,
+    "code_name": "story_eu_guBao_1_4"
+  },
+  {
+    "id": 6,
+    "code_name": "story_eu_guBao_1_5"
+  },
+  {
+    "id": 7,
+    "code_name": "story_jpn_mianju_1_1"
+  },
+  {
+    "id": 8,
+    "code_name": "story_jpn_mianju_1_2"
+  },
+  {
+    "id": 9,
+    "code_name": "story_jpn_mianju_1_3"
+  },
+  {
+    "id": 10,
+    "code_name": "story_forest_xiandaozhilv_1_1"
+  },
+  {
+    "id": 11,
+    "code_name": "story_forest_xiandaozhilv_1_2"
+  },
+  {
+    "id": 12,
+    "code_name": "story_forest_xiandaozhilv_1_3"
+  },
+  {
+    "id": 13,
+    "code_name": "story_forest_xiandaozhilv_1_4_0"
+  },
+  {
+    "id": 14,
+    "code_name": "story_forest_xiandaozhilv_1_4_1"
+  },
+  {
+    "id": 15,
+    "code_name": "story_special_catGod_1"
+  },
+  {
+    "id": 16,
+    "code_name": "story_special_catGod_2"
+  },
+  {
+    "id": 17,
+    "code_name": "story_special_catGod_3"
+  },
+  {
+    "id": 18,
+    "code_name": "story_special_catGod_4"
+  },
+  {
+    "id": 19,
+    "code_name": "mercenaryCage"
+  },
+  {
+    "id": 20,
+    "code_name": "bodyTransform"
+  },
+  {
+    "id": 21,
+    "code_name": "rewardsAndCurses"
+  },
+  {
+    "id": 22,
+    "code_name": "monsterDungeon"
+  },
+  {
+    "id": 23,
+    "code_name": "wishingWell"
+  }
+]

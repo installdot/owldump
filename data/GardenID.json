@@ -1,0 +1,114 @@
+[
+  {
+    "id": 0,
+    "code_name": "grdn_removeDoubleConfirm"
+  },
+  {
+    "id": 1,
+    "code_name": "grdn_plantUITitle"
+  },
+  {
+    "id": 2,
+    "code_name": "grdn_plant"
+  },
+  {
+    "id": 3,
+    "code_name": "grdn_seed_SoulStone"
+  },
+  {
+    "id": 4,
+    "code_name": "grdn_seed_special"
+  },
+  {
+    "id": 5,
+    "code_name": "grdn_seed_summon"
+  },
+  {
+    "id": 6,
+    "code_name": "grdn_seed_recover"
+  },
+  {
+    "id": 7,
+    "code_name": "grdn_seed_wealth"
+  },
+  {
+    "id": 8,
+    "code_name": "grdn_seed_specialAtk"
+  },
+  {
+    "id": 9,
+    "code_name": "grdn_seed_tactics"
+  },
+  {
+    "id": 10,
+    "code_name": "grdn_seed_atkTrigger"
+  },
+  {
+    "id": 11,
+    "code_name": "grdn_seed_buff"
+  },
+  {
+    "id": 12,
+    "code_name": "grdn_seed_defense"
+  },
+  {
+    "id": 13,
+    "code_name": "grdn_seed_property"
+  },
+  {
+    "id": 14,
+    "code_name": "grdn_seed_damage"
+  },
+  {
+    "id": 15,
+    "code_name": "grdn_seed_selfDebuff"
+  },
+  {
+    "id": 16,
+    "code_name": "grdn_selectSeedMsg"
+  },
+  {
+    "id": 17,
+    "code_name": "grdn_itemSeed_msg"
+  },
+  {
+    "id": 18,
+    "code_name": "grdn_stoneSeed_msg"
+  },
+  {
+    "id": 19,
+    "code_name": "grdn_cache_title"
+  },
+  {
+    "id": 20,
+    "code_name": "grdn_cache_msg0"
+  },
+  {
+    "id": 21,
+    "code_name": "grdn_cache_msg1"
+  },
+  {
+    "id": 22,
+    "code_name": "grdn_cache_msg2"
+  },
+  {
+    "id": 23,
+    "code_name": "grdn_cache_msg3"
+  },
+  {
+    "id": 24,
+    "code_name": "grdn_takeOut_msg"
+  },
+  {
+    "id": 25,
+    "code_name": "do_not_remind_again"
+  },
+  {
+    "id": 26,
+    "code_name": "grdn_unlockFlowerbed"
+  },
+  {
+    "id": 27,
+    "code_name": "default_alreadyOwned"
+  }
+]

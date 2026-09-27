@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "Item"
+  },
+  {
+    "id": 2,
+    "code_name": "SkillAffix"
+  },
+  {
+    "id": 3,
+    "code_name": "MoreItems"
+  },
+  {
+    "id": 4,
+    "code_name": "BestItem"
+  },
+  {
+    "id": 5,
+    "code_name": "ChangeExSkill"
+  },
+  {
+    "id": 6,
+    "code_name": "Buff"
+  },
+  {
+    "id": 7,
+    "code_name": "EquipGrid"
+  }
+]

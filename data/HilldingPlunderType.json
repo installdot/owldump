@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "Coin"
+  },
+  {
+    "id": 2,
+    "code_name": "Anger"
+  },
+  {
+    "id": 3,
+    "code_name": "HP"
+  },
+  {
+    "id": 4,
+    "code_name": "AD"
+  },
+  {
+    "id": 5,
+    "code_name": "AttackSpeed"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "Locked"
+  },
+  {
+    "id": 1,
+    "code_name": "CanUnlock"
+  },
+  {
+    "id": 2,
+    "code_name": "Unlocked"
+  }
+]

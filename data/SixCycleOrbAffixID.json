@@ -1,0 +1,206 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "RenDaoStartWithMoreGold"
+  },
+  {
+    "id": 2,
+    "code_name": "RenDaoCheapFirstItemAndWeapon"
+  },
+  {
+    "id": 3,
+    "code_name": "RenDaoExtraGoldOnKillBoss"
+  },
+  {
+    "id": 4,
+    "code_name": "RenDaoGoldSpentDmgUp"
+  },
+  {
+    "id": 5,
+    "code_name": "RenDaoUseGoldToRespawn"
+  },
+  {
+    "id": 6,
+    "code_name": "RenDaoDropGoldOnKillStatusEffect"
+  },
+  {
+    "id": 7,
+    "code_name": "RenDaoGainGoldMaxHealthInc"
+  },
+  {
+    "id": 8,
+    "code_name": "ShouDaoGreyWolfCompanion"
+  },
+  {
+    "id": 9,
+    "code_name": "ShouDaoPetTaunt"
+  },
+  {
+    "id": 10,
+    "code_name": "ShouDaoHeroHealthToPetDmg"
+  },
+  {
+    "id": 11,
+    "code_name": "ShouDaoPreventDeathWithBuff"
+  },
+  {
+    "id": 12,
+    "code_name": "ShouDaoPetApplyDebuff"
+  },
+  {
+    "id": 13,
+    "code_name": "ShouDaoPetStiffRes"
+  },
+  {
+    "id": 14,
+    "code_name": "ShouDaoPetHealMasterOnKill"
+  },
+  {
+    "id": 15,
+    "code_name": "GuiDaoPerfectDodgeInvisible"
+  },
+  {
+    "id": 16,
+    "code_name": "GuiDaoBreakStealthDmgUp"
+  },
+  {
+    "id": 17,
+    "code_name": "GuiDaoBreakStealthCrit"
+  },
+  {
+    "id": 18,
+    "code_name": "GuiDaoPerfectDodgeEndCooldown"
+  },
+  {
+    "id": 19,
+    "code_name": "GuiDaoEasierPerfectDodge"
+  },
+  {
+    "id": 20,
+    "code_name": "GuiDaoPerfectDodgeExplode"
+  },
+  {
+    "id": 21,
+    "code_name": "GuiDaoPerfectDodgeAfterKill"
+  },
+  {
+    "id": 22,
+    "code_name": "YuDaoApplyEffectOnAttack"
+  },
+  {
+    "id": 23,
+    "code_name": "YuDaoApplyEffectOnTouchingOthers"
+  },
+  {
+    "id": 24,
+    "code_name": "YuDaoApplyToOthersOnAttack"
+  },
+  {
+    "id": 25,
+    "code_name": "YuDaoExtraEffectStack"
+  },
+  {
+    "id": 26,
+    "code_name": "YuDaoExtraCritApplyEffect"
+  },
+  {
+    "id": 27,
+    "code_name": "YuDaoApplyEffectOnEnterRoom"
+  },
+  {
+    "id": 28,
+    "code_name": "YuDaoAttackOnEffectedExtraDmg"
+  },
+  {
+    "id": 29,
+    "code_name": "XiuLuoDaoLowerHealthDmgUp"
+  },
+  {
+    "id": 30,
+    "code_name": "XiuLuoDaoBattleGhost"
+  },
+  {
+    "id": 31,
+    "code_name": "XiuLuoDaoHalfHealthTyrant"
+  },
+  {
+    "id": 32,
+    "code_name": "XiuLuoDaoLowerHealthAttackSpeedUp"
+  },
+  {
+    "id": 33,
+    "code_name": "XiuLuoDaoLowerHealthCritChanceUp"
+  },
+  {
+    "id": 34,
+    "code_name": "XiuLuoDaoRespawnGetEnrage"
+  },
+  {
+    "id": 35,
+    "code_name": "XiuLuoDaoLostHealthExtraDmg"
+  },
+  {
+    "id": 36,
+    "code_name": "TianRenDaoExtraLife"
+  },
+  {
+    "id": 37,
+    "code_name": "TianRenDaoDeductHealthFirst"
+  },
+  {
+    "id": 38,
+    "code_name": "TianRenDaoRespawnGetStronger"
+  },
+  {
+    "id": 39,
+    "code_name": "TianRenDaoPullEnemyAfterHit"
+  },
+  {
+    "id": 40,
+    "code_name": "TianRenDaoPlayerTauntOnSkillHit"
+  },
+  {
+    "id": 41,
+    "code_name": "TianRenDaoMoreDmgReduceMoreDmg"
+  },
+  {
+    "id": 42,
+    "code_name": "TianRenDaoOnKillRegenHealthShield"
+  },
+  {
+    "id": 43,
+    "code_name": "YeFillerMainAffix"
+  },
+  {
+    "id": 44,
+    "code_name": "GenericDmgUp"
+  },
+  {
+    "id": 45,
+    "code_name": "GenericHealthUp"
+  },
+  {
+    "id": 46,
+    "code_name": "GenericShieldUp"
+  },
+  {
+    "id": 47,
+    "code_name": "GenericMoveSpeedUp"
+  },
+  {
+    "id": 48,
+    "code_name": "GenericCritDmgUp"
+  },
+  {
+    "id": 49,
+    "code_name": "GenericMoreSoulGem"
+  },
+  {
+    "id": 50,
+    "code_name": "GenericDmgUpToEliteAndBoss"
+  }
+]

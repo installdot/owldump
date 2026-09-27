@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "code_name": "Magic0_GenerateHallwayRoom"
+  },
+  {
+    "id": 1,
+    "code_name": "Magic0_GenerateClassRoom"
+  },
+  {
+    "id": 2,
+    "code_name": "Magic0_GenerateGardenRoom"
+  },
+  {
+    "id": 3,
+    "code_name": "Magic1_GenerateElevatorUpperLevelRoom"
+  },
+  {
+    "id": 4,
+    "code_name": "Magic1_GenerateElevatorLowerFloorRoom"
+  },
+  {
+    "id": 5,
+    "code_name": "Magic1_GenerateElevatorEntranceRoom"
+  },
+  {
+    "id": 6,
+    "code_name": "Magic1_GenerateElevatorEndRoom"
+  },
+  {
+    "id": 7,
+    "code_name": "Magic2_GenerateGeneralRoomScene"
+  },
+  {
+    "id": 8,
+    "code_name": "Magic2_GenerateBossRoom"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "Rise"
+  },
+  {
+    "id": 1,
+    "code_name": "Hover"
+  },
+  {
+    "id": 2,
+    "code_name": "Drop"
+  },
+  {
+    "id": 3,
+    "code_name": "Explode"
+  },
+  {
+    "id": 4,
+    "code_name": "Expired"
+  }
+]

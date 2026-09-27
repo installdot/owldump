@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "code_name": "eg_description"
+  },
+  {
+    "id": 1,
+    "code_name": "eg_openMethod"
+  },
+  {
+    "id": 2,
+    "code_name": "eg_buttonView"
+  },
+  {
+    "id": 3,
+    "code_name": "eg_localcoopDisable"
+  },
+  {
+    "id": 4,
+    "code_name": "survivalMode_title"
+  },
+  {
+    "id": 5,
+    "code_name": "survivalMode_enable"
+  },
+  {
+    "id": 6,
+    "code_name": "survivalMode_description"
+  },
+  {
+    "id": 7,
+    "code_name": "imba_title"
+  },
+  {
+    "id": 8,
+    "code_name": "imba_enableImba"
+  },
+  {
+    "id": 9,
+    "code_name": "imba_description"
+  },
+  {
+    "id": 10,
+    "code_name": "skillStone_shadowSkill"
+  },
+  {
+    "id": 11,
+    "code_name": "skillStone_castOnAttack"
+  },
+  {
+    "id": 12,
+    "code_name": "skillStone_castOnAttackDescription"
+  },
+  {
+    "id": 13,
+    "code_name": "skillStone_castOnCrit"
+  },
+  {
+    "id": 14,
+    "code_name": "skillStone_castOnCritDescription"
+  },
+  {
+    "id": 15,
+    "code_name": "skillStone_castOnTakenDamage"
+  },
+  {
+    "id": 16,
+    "code_name": "skillStone_castOnTakenDamageDescription"
+  },
+  {
+    "id": 17,
+    "code_name": "imba_HeroNeverDie"
+  },
+  {
+    "id": 18,
+    "code_name": "imba_TooMuchStuff"
+  },
+  {
+    "id": 19,
+    "code_name": "spring_title"
+  },
+  {
+    "id": 20,
+    "code_name": "spring_enable"
+  },
+  {
+    "id": 21,
+    "code_name": "spring_description"
+  },
+  {
+    "id": 22,
+    "code_name": "skillStone_castOnKill"
+  },
+  {
+    "id": 23,
+    "code_name": "skillStone_castOnKillDescription"
+  },
+  {
+    "id": 24,
+    "code_name": "skillStone_castOnDodge"
+  },
+  {
+    "id": 25,
+    "code_name": "skillStone_castOnDodgeDescription"
+  },
+  {
+    "id": 26,
+    "code_name": "spring_event_title"
+  },
+  {
+    "id": 27,
+    "code_name": "battleBuffMode_name"
+  },
+  {
+    "id": 28,
+    "code_name": "battleBuffMode_des"
+  },
+  {
+    "id": 29,
+    "code_name": "battleBuffMode_mode_today"
+  },
+  {
+    "id": 30,
+    "code_name": "battleBuffMode_mode_tmr"
+  },
+  {
+    "id": 31,
+    "code_name": "battleBuffMode_name_bet"
+  },
+  {
+    "id": 32,
+    "code_name": "battleBuffMode_des_bet"
+  },
+  {
+    "id": 33,
+    "code_name": "battleBuffMode_name_fire"
+  },
+  {
+    "id": 34,
+    "code_name": "battleBuffMode_des_fire"
+  },
+  {
+    "id": 35,
+    "code_name": "battleBuffMode_name_ce"
+  },
+  {
+    "id": 36,
+    "code_name": "battleBuffMode_des_ce"
+  },
+  {
+    "id": 37,
+    "code_name": "battleBuffMode_name_soul"
+  },
+  {
+    "id": 38,
+    "code_name": "battleBuffMode_des_soul"
+  },
+  {
+    "id": 39,
+    "code_name": "battleBuffMode_name_cat"
+  },
+  {
+    "id": 40,
+    "code_name": "battleBuffMode_des_cat"
+  },
+  {
+    "id": 41,
+    "code_name": "battleBuffMode_name_small"
+  },
+  {
+    "id": 42,
+    "code_name": "battleBuffMode_des_small"
+  },
+  {
+    "id": 43,
+    "code_name": "battleBuffMode_name_gold"
+  },
+  {
+    "id": 44,
+    "code_name": "battleBuffMode_des_gold"
+  }
+]

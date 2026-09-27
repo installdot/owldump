@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "code_name": "notFilled"
+  },
+  {
+    "id": 1,
+    "code_name": "oneWall"
+  },
+  {
+    "id": 2,
+    "code_name": "twoWall"
+  },
+  {
+    "id": 3,
+    "code_name": "threeWall"
+  },
+  {
+    "id": 4,
+    "code_name": "fourWall"
+  },
+  {
+    "id": 5,
+    "code_name": "pillar"
+  },
+  {
+    "id": 6,
+    "code_name": "bigDrawing"
+  },
+  {
+    "id": 7,
+    "code_name": "smallDrawing"
+  },
+  {
+    "id": 8,
+    "code_name": "flag"
+  },
+  {
+    "id": 9,
+    "code_name": "oneWindow"
+  },
+  {
+    "id": 10,
+    "code_name": "twoWindow"
+  },
+  {
+    "id": 11,
+    "code_name": "threeWindow"
+  },
+  {
+    "id": 12,
+    "code_name": "bigDrawingSun"
+  },
+  {
+    "id": 13,
+    "code_name": "bigDrawingMoon"
+  },
+  {
+    "id": 14,
+    "code_name": "bigDrawingStar"
+  },
+  {
+    "id": 15,
+    "code_name": "smallDrawingSun"
+  },
+  {
+    "id": 16,
+    "code_name": "smallDrawingMoon"
+  },
+  {
+    "id": 17,
+    "code_name": "smallDrawingStar"
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": 0,
+    "code_name": "FloorAO"
+  },
+  {
+    "id": 1,
+    "code_name": "heroCampFlag"
+  },
+  {
+    "id": 2,
+    "code_name": "SpriteGhost"
+  },
+  {
+    "id": 3,
+    "code_name": "SpriteOneOne"
+  },
+  {
+    "id": 4,
+    "code_name": "SpriteCutout"
+  },
+  {
+    "id": 5,
+    "code_name": "SpritePureColorWithAlpha"
+  },
+  {
+    "id": 6,
+    "code_name": "SpritePureColorWithAlphaDefault"
+  },
+  {
+    "id": 7,
+    "code_name": "SpritePureColorCutout"
+  },
+  {
+    "id": 8,
+    "code_name": "SpriteCutoutWithAmbientColor"
+  },
+  {
+    "id": 9,
+    "code_name": "SpriteCutoutWithAmbientColorAndReplaceColor"
+  },
+  {
+    "id": 10,
+    "code_name": "SpriteCutoutWithAmbientColorForFinalBattleFloor"
+  },
+  {
+    "id": 11,
+    "code_name": "SpriteCutoutWithAmbientColorAndOverheatEffect"
+  },
+  {
+    "id": 12,
+    "code_name": "SpriteCutoutWithAmbientColorForBamboo"
+  },
+  {
+    "id": 13,
+    "code_name": "SpriteCutoutWithAmbientColorAndNormal"
+  },
+  {
+    "id": 14,
+    "code_name": "SpriteCutoutWithAmbientColorAndNormalForWall"
+  },
+  {
+    "id": 15,
+    "code_name": "SpriteCutoutWithAmbientColorAndNormalForWall_arab2"
+  },
+  {
+    "id": 16,
+    "code_name": "SpriteCutoutWithAmbientColorAndNormalForEave"
+  },
+  {
+    "id": 17,
+    "code_name": "SpriteCutoutWithAmbientColorForHero"
+  },
+  {
+    "id": 18,
+    "code_name": "HeroLight"
+  },
+  {
+    "id": 19,
+    "code_name": "HeroBlinding"
+  },
+  {
+    "id": 20,
+    "code_name": "SpriteDefaultWithAmbientColor"
+  },
+  {
+    "id": 21,
+    "code_name": "spriteFlashAndReplaceColor"
+  },
+  {
+    "id": 22,
+    "code_name": "endPortal"
+  },
+  {
+    "id": 23,
+    "code_name": "bossPortal"
+  },
+  {
+    "id": 24,
+    "code_name": "IceSprite"
+  },
+  {
+    "id": 25,
+    "code_name": "ThunderLine"
+  },
+  {
+    "id": 26,
+    "code_name": "ThunderLine_marry"
+  },
+  {
+    "id": 27,
+    "code_name": "ThunderLine_magician"
+  },
+  {
+    "id": 28,
+    "code_name": "ThunderLine_pusa"
+  },
+  {
+    "id": 29,
+    "code_name": "ThunderLine_purple"
+  },
+  {
+    "id": 30,
+    "code_name": "YellowThunderLine"
+  },
+  {
+    "id": 31,
+    "code_name": "ConductionLine"
+  },
+  {
+    "id": 32,
+    "code_name": "blastingFuseLine"
+  },
+  {
+    "id": 33,
+    "code_name": "FogSprite"
+  },
+  {
+    "id": 34,
+    "code_name": "SpriteInsideLine"
+  },
+  {
+    "id": 35,
+    "code_name": "AddMat"
+  },
+  {
+    "id": 36,
+    "code_name": "AddMat_Oneone"
+  },
+  {
+    "id": 37,
+    "code_name": "addMat_buqu"
+  },
+  {
+    "id": 38,
+    "code_name": "SpriteDefaultWithHSV"
+  },
+  {
+    "id": 39,
+    "code_name": "SpriteHighlightOutline"
+  },
+  {
+    "id": 40,
+    "code_name": "UIDefaultPureColor"
+  },
+  {
+    "id": 41,
+    "code_name": "spriteOverlayTexture_star_material_d3"
+  },
+  {
+    "id": 42,
+    "code_name": "SpriteDefaultEnergyGrowDisappear"
+  },
+  {
+    "id": 43,
+    "code_name": "SpriteDefaultEnergyGrowDisappearWithColor"
+  },
+  {
+    "id": 44,
+    "code_name": "SpriteDistortionFadeOutEffect"
+  },
+  {
+    "id": 45,
+    "code_name": "SpriteCutoutWithAmbientColorAndSpeedLine"
+  },
+  {
+    "id": 46,
+    "code_name": "SpriteCutoutWithAmbientColorAndSpeedLine_hor"
+  },
+  {
+    "id": 47,
+    "code_name": "SpriteCutoutWithAmbientColorWithShadowCaster"
+  },
+  {
+    "id": 48,
+    "code_name": "SpriteDefaultWithAmbientColorAndReplaceColor"
+  },
+  {
+    "id": 49,
+    "code_name": "myBunkerTag"
+  },
+  {
+    "id": 50,
+    "code_name": "hero_penhaligon_starwar_character_glitchEffect"
+  },
+  {
+    "id": 51,
+    "code_name": "hero_penhaligon_starwar_character_separation_glitchEffect"
+  },
+  {
+    "id": 52,
+    "code_name": "spriteScanLineEffect_xuanshe_technology"
+  },
+  {
+    "id": 53,
+    "code_name": "spriteScanLineEffect_heyao_technology"
+  },
+  {
+    "id": 54,
+    "code_name": "hero_seebee_asura_avoid_effect"
+  },
+  {
+    "id": 55,
+    "code_name": "lavaWithRocksEffect"
+  },
+  {
+    "id": 56,
+    "code_name": "AdvancedSpriteDissolveEffect_up"
+  },
+  {
+    "id": 57,
+    "code_name": "SpriteCutoutWithAmbientColorForMagic2Floor"
+  },
+  {
+    "id": 58,
+    "code_name": "Magic2FakePlatformFloorMaterial"
+  },
+  {
+    "id": 59,
+    "code_name": "Transfer"
+  },
+  {
+    "id": 60,
+    "code_name": "Transfer_horizontal"
+  },
+  {
+    "id": 61,
+    "code_name": "Transfer_vertical"
+  },
+  {
+    "id": 62,
+    "code_name": "AdvancedSpriteDistortWithMask_up"
+  },
+  {
+    "id": 63,
+    "code_name": "SpriteWithDirectionalEdgeEffect_up"
+  },
+  {
+    "id": 64,
+    "code_name": "TyrantsEffect"
+  },
+  {
+    "id": 65,
+    "code_name": "TyrantsEffectTransparent"
+  },
+  {
+    "id": 66,
+    "code_name": "fireGroundEffect"
+  },
+  {
+    "id": 67,
+    "code_name": "fireGroundEffectInverseMask"
+  },
+  {
+    "id": 68,
+    "code_name": "DissolveImageEffect"
+  },
+  {
+    "id": 69,
+    "code_name": "BlackAndWhiteImageEffect"
+  },
+  {
+    "id": 70,
+    "code_name": "AdvancedVegetationDissolveEffect_down"
+  },
+  {
+    "id": 71,
+    "code_name": "quanhuying_asura_shadow_skill"
+  },
+  {
+    "id": 72,
+    "code_name": "hero_seebee_omega_shadow_effect"
+  },
+  {
+    "id": 73,
+    "code_name": "hero_seebee_ashloo_attack_replaceColor01"
+  },
+  {
+    "id": 74,
+    "code_name": "hero_seebee_ashloo_attack_replaceColor02"
+  },
+  {
+    "id": 75,
+    "code_name": "greyImageEffect"
+  },
+  {
+    "id": 76,
+    "code_name": "plasmaGroundEffect"
+  },
+  {
+    "id": 77,
+    "code_name": "cameraHeightEffect"
+  },
+  {
+    "id": 78,
+    "code_name": "defaultBlendEffect"
+  },
+  {
+    "id": 79,
+    "code_name": "skillStoneShadowEffect"
+  },
+  {
+    "id": 80,
+    "code_name": "runtimeHeroStandingOnWaterStains"
+  },
+  {
+    "id": 81,
+    "code_name": "meteorBackgroundEffect"
+  },
+  {
+    "id": 82,
+    "code_name": "SpriteHighlightOutlineWithZTest"
+  },
+  {
+    "id": 83,
+    "code_name": "DistortScreenEffectForJpnBoss"
+  },
+  {
+    "id": 84,
+    "code_name": "spriteOnlyVerticalDepthEffect"
+  },
+  {
+    "id": 85,
+    "code_name": "shadowRealmEffectForJpnBoss"
+  },
+  {
+    "id": 86,
+    "code_name": "hero_penhaligon_wonderbrush_soldier_replaceColor"
+  },
+  {
+    "id": 87,
+    "code_name": "hero_penhaligon_wonderbrush_buffed_soldier_replaceColor"
+  },
+  {
+    "id": 88,
+    "code_name": "skillStoneShadowTransparentEffect"
+  },
+  {
+    "id": 89,
+    "code_name": "flipBookUVEffect_thunder_line"
+  },
+  {
+    "id": 90,
+    "code_name": "flipBookUVEffect_linxiao_horizontal_thunder"
+  },
+  {
+    "id": 91,
+    "code_name": "flipBookUVEffect_linxiao_springFestival_horizontal_thunder"
+  },
+  {
+    "id": 92,
+    "code_name": "voidFloorEffect"
+  },
+  {
+    "id": 93,
+    "code_name": "flipBookUVEffect_feiyu_water_flow"
+  },
+  {
+    "id": 94,
+    "code_name": "Sprites_ChillyRoom_Holographical2D"
+  },
+  {
+    "id": 95,
+    "code_name": "SpriteGhostWithFade"
+  },
+  {
+    "id": 96,
+    "code_name": "FeiyuZombieSkinComboEffect"
+  },
+  {
+    "id": 97,
+    "code_name": "dailyBoxBackgroundEffect"
+  }
+]

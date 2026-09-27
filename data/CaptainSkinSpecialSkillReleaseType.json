@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "Default"
+  },
+  {
+    "id": 1,
+    "code_name": "GunAndCannon"
+  },
+  {
+    "id": 2,
+    "code_name": "CallShark"
+  },
+  {
+    "id": 3,
+    "code_name": "CallShip"
+  },
+  {
+    "id": 4,
+    "code_name": "Max"
+  }
+]

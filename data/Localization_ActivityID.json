@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "code_name": "ChristmasGift_name"
+  },
+  {
+    "id": 1,
+    "code_name": "ChristmasGift_description"
+  },
+  {
+    "id": 2,
+    "code_name": "ChristmasSign_name"
+  },
+  {
+    "id": 3,
+    "code_name": "ChristmasSign_description"
+  },
+  {
+    "id": 4,
+    "code_name": "newHero_name"
+  },
+  {
+    "id": 5,
+    "code_name": "newHero_description"
+  },
+  {
+    "id": 6,
+    "code_name": "newSkin_name"
+  },
+  {
+    "id": 7,
+    "code_name": "newSkin_description"
+  },
+  {
+    "id": 8,
+    "code_name": "newBattlePass_name"
+  },
+  {
+    "id": 9,
+    "code_name": "newBattlePass_description"
+  },
+  {
+    "id": 10,
+    "code_name": "SpringExchange202501_name"
+  },
+  {
+    "id": 11,
+    "code_name": "SpringExchange202501_description"
+  },
+  {
+    "id": 12,
+    "code_name": "newHero202501_name"
+  },
+  {
+    "id": 13,
+    "code_name": "newHero202501_description"
+  },
+  {
+    "id": 14,
+    "code_name": "newBattlePass202501_name"
+  },
+  {
+    "id": 15,
+    "code_name": "newBattlePass202501_description"
+  },
+  {
+    "id": 16,
+    "code_name": "newSkin202501_name"
+  },
+  {
+    "id": 17,
+    "code_name": "newSkin202501_description"
+  },
+  {
+    "id": 18,
+    "code_name": "SpringSign202501_name"
+  },
+  {
+    "id": 19,
+    "code_name": "SpringSign202501_description"
+  },
+  {
+    "id": 20,
+    "code_name": "SpringBattlePassSkinBuy202501_name"
+  },
+  {
+    "id": 21,
+    "code_name": "SpringBattlePassSkinBuy202501_description"
+  }
+]

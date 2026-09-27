@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Direct"
+  },
+  {
+    "id": 1,
+    "code_name": "BezierCurved"
+  },
+  {
+    "id": 2,
+    "code_name": "Wave"
+  },
+  {
+    "id": 3,
+    "code_name": "Boomerang"
+  }
+]

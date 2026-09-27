@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "Idle"
+  },
+  {
+    "id": 1,
+    "code_name": "Run"
+  },
+  {
+    "id": 2,
+    "code_name": "NormalAttack"
+  },
+  {
+    "id": 3,
+    "code_name": "Special"
+  },
+  {
+    "id": 4,
+    "code_name": "Stiff"
+  },
+  {
+    "id": 5,
+    "code_name": "Death"
+  }
+]

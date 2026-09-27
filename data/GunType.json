@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "normal"
+  },
+  {
+    "id": 1,
+    "code_name": "shotgun"
+  },
+  {
+    "id": 2,
+    "code_name": "sniper"
+  },
+  {
+    "id": 3,
+    "code_name": "revolver"
+  }
+]

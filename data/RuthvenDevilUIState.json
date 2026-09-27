@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "NormalMode"
+  },
+  {
+    "id": 1,
+    "code_name": "DevilMode"
+  },
+  {
+    "id": 2,
+    "code_name": "CrazyMode"
+  }
+]

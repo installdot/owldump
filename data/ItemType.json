@@ -1,0 +1,554 @@
+[
+  {
+    "id": 0,
+    "code_name": "SoulStone"
+  },
+  {
+    "id": 1,
+    "code_name": "BlueStone"
+  },
+  {
+    "id": 2,
+    "code_name": "RedStone"
+  },
+  {
+    "id": 3,
+    "code_name": "WeaponTicket"
+  },
+  {
+    "id": 4,
+    "code_name": "RebornCard"
+  },
+  {
+    "id": 5,
+    "code_name": "HeroCommonPiece"
+  },
+  {
+    "id": 6,
+    "code_name": "SkinCommonPiece"
+  },
+  {
+    "id": 7,
+    "code_name": "PetFood"
+  },
+  {
+    "id": 8,
+    "code_name": "PetToy"
+  },
+  {
+    "id": 9,
+    "code_name": "BattlePassLevel"
+  },
+  {
+    "id": 10,
+    "code_name": "ESRIdentifyTicket"
+  },
+  {
+    "id": 11,
+    "code_name": "BarVIPCard"
+  },
+  {
+    "id": 12,
+    "code_name": "hero_quanhuying"
+  },
+  {
+    "id": 13,
+    "code_name": "quanhuyingHupuzi"
+  },
+  {
+    "id": 14,
+    "code_name": "quanhuyingHuanyingzhen"
+  },
+  {
+    "id": 15,
+    "code_name": "quanhuyingTieshankao"
+  },
+  {
+    "id": 16,
+    "code_name": "quanhuyingLeicha"
+  },
+  {
+    "id": 17,
+    "code_name": "hero_seebee"
+  },
+  {
+    "id": 18,
+    "code_name": "seebeeOneSlash"
+  },
+  {
+    "id": 19,
+    "code_name": "seebeeQiefan"
+  },
+  {
+    "id": 20,
+    "code_name": "seebeeThunderCombo"
+  },
+  {
+    "id": 21,
+    "code_name": "hero_akaisha"
+  },
+  {
+    "id": 22,
+    "code_name": "akaishaArrowRain"
+  },
+  {
+    "id": 23,
+    "code_name": "akaishaTrap"
+  },
+  {
+    "id": 24,
+    "code_name": "akaishaThunderCombo"
+  },
+  {
+    "id": 25,
+    "code_name": "hero_sakari"
+  },
+  {
+    "id": 26,
+    "code_name": "sakariHoldBreath"
+  },
+  {
+    "id": 27,
+    "code_name": "sakariCounterPunch"
+  },
+  {
+    "id": 28,
+    "code_name": "sakariWashingCombo"
+  },
+  {
+    "id": 29,
+    "code_name": "hero_olivia"
+  },
+  {
+    "id": 30,
+    "code_name": "oliviaCallBunker"
+  },
+  {
+    "id": 31,
+    "code_name": "oliviaCallAerobat"
+  },
+  {
+    "id": 32,
+    "code_name": "oliviaCallTransform"
+  },
+  {
+    "id": 33,
+    "code_name": "hero_gangdan"
+  },
+  {
+    "id": 34,
+    "code_name": "gangdanHolyLight"
+  },
+  {
+    "id": 35,
+    "code_name": "gangdanKingOfWar"
+  },
+  {
+    "id": 36,
+    "code_name": "gangdanShieldAttack"
+  },
+  {
+    "id": 37,
+    "code_name": "gangdanAngel"
+  },
+  {
+    "id": 38,
+    "code_name": "hero_katherine"
+  },
+  {
+    "id": 39,
+    "code_name": "katherineFireBall"
+  },
+  {
+    "id": 40,
+    "code_name": "katherineSnowStorm"
+  },
+  {
+    "id": 41,
+    "code_name": "katherineThunderStorm"
+  },
+  {
+    "id": 42,
+    "code_name": "hero_hannah"
+  },
+  {
+    "id": 43,
+    "code_name": "hannahRapidFire"
+  },
+  {
+    "id": 44,
+    "code_name": "hannahChangeSniper"
+  },
+  {
+    "id": 45,
+    "code_name": "hannahChangeShotgun"
+  },
+  {
+    "id": 46,
+    "code_name": "hannahChangeRevolver"
+  },
+  {
+    "id": 47,
+    "code_name": "hero_hillding"
+  },
+  {
+    "id": 48,
+    "code_name": "hilldingKick"
+  },
+  {
+    "id": 49,
+    "code_name": "hilldingEat"
+  },
+  {
+    "id": 50,
+    "code_name": "hilldingPlunder"
+  },
+  {
+    "id": 51,
+    "code_name": "hilldingGyro"
+  },
+  {
+    "id": 52,
+    "code_name": "hero_penhaligon"
+  },
+  {
+    "id": 53,
+    "code_name": "penhaligonAddComboBuff"
+  },
+  {
+    "id": 54,
+    "code_name": "penhaligonChargeSpikes"
+  },
+  {
+    "id": 55,
+    "code_name": "penhaligonArtilleryStrike"
+  },
+  {
+    "id": 56,
+    "code_name": "penhaligonCallComrade"
+  },
+  {
+    "id": 57,
+    "code_name": "hero_hayfa"
+  },
+  {
+    "id": 58,
+    "code_name": "hayfaShadowServant"
+  },
+  {
+    "id": 59,
+    "code_name": "hayfaTieXianZhan"
+  },
+  {
+    "id": 60,
+    "code_name": "hayfaTuDu"
+  },
+  {
+    "id": 61,
+    "code_name": "hayfaJumpShadowAttack"
+  },
+  {
+    "id": 62,
+    "code_name": "hero_anibella"
+  },
+  {
+    "id": 63,
+    "code_name": "anibellaMark"
+  },
+  {
+    "id": 64,
+    "code_name": "anibellaCallCat"
+  },
+  {
+    "id": 65,
+    "code_name": "anibellaCallFrog"
+  },
+  {
+    "id": 66,
+    "code_name": "anibellaCallGod"
+  },
+  {
+    "id": 67,
+    "code_name": "hero_adira"
+  },
+  {
+    "id": 68,
+    "code_name": "adiraDownSlash"
+  },
+  {
+    "id": 69,
+    "code_name": "adiraUpSlash"
+  },
+  {
+    "id": 70,
+    "code_name": "adiraWhirlwindSlash"
+  },
+  {
+    "id": 71,
+    "code_name": "adiraBackStepSlash"
+  },
+  {
+    "id": 72,
+    "code_name": "hero_yangkyi"
+  },
+  {
+    "id": 73,
+    "code_name": "yangkyiSkill1"
+  },
+  {
+    "id": 74,
+    "code_name": "yangkyiSkill2"
+  },
+  {
+    "id": 75,
+    "code_name": "yangkyiSkill3"
+  },
+  {
+    "id": 76,
+    "code_name": "hero_youzi"
+  },
+  {
+    "id": 77,
+    "code_name": "youziSkill1"
+  },
+  {
+    "id": 78,
+    "code_name": "youziSkill2"
+  },
+  {
+    "id": 79,
+    "code_name": "youziSkill3"
+  },
+  {
+    "id": 80,
+    "code_name": "hero_yufeng"
+  },
+  {
+    "id": 81,
+    "code_name": "yufengSkill1"
+  },
+  {
+    "id": 82,
+    "code_name": "yufengSkill2"
+  },
+  {
+    "id": 83,
+    "code_name": "yufengSkill3"
+  },
+  {
+    "id": 84,
+    "code_name": "hero_wufei"
+  },
+  {
+    "id": 85,
+    "code_name": "wufeiSkill1"
+  },
+  {
+    "id": 86,
+    "code_name": "wufeiSkill2"
+  },
+  {
+    "id": 87,
+    "code_name": "wufeiSkill3"
+  },
+  {
+    "id": 88,
+    "code_name": "hero_bunny"
+  },
+  {
+    "id": 89,
+    "code_name": "bunnySkill1"
+  },
+  {
+    "id": 90,
+    "code_name": "bunnySkill2"
+  },
+  {
+    "id": 91,
+    "code_name": "bunnySkill3"
+  },
+  {
+    "id": 92,
+    "code_name": "hero_qifeng"
+  },
+  {
+    "id": 93,
+    "code_name": "qifengSkill1"
+  },
+  {
+    "id": 94,
+    "code_name": "qifengSkill2"
+  },
+  {
+    "id": 95,
+    "code_name": "qifengSkill3"
+  },
+  {
+    "id": 96,
+    "code_name": "qifengSkill4"
+  },
+  {
+    "id": 97,
+    "code_name": "hero_linxiao"
+  },
+  {
+    "id": 98,
+    "code_name": "linxiaoSkill1"
+  },
+  {
+    "id": 99,
+    "code_name": "linxiaoSkill2"
+  },
+  {
+    "id": 100,
+    "code_name": "linxiaoSkill3"
+  },
+  {
+    "id": 101,
+    "code_name": "hero_feiyu"
+  },
+  {
+    "id": 102,
+    "code_name": "feiyuSkill1"
+  },
+  {
+    "id": 103,
+    "code_name": "feiyuSkill2"
+  },
+  {
+    "id": 104,
+    "code_name": "feiyuSkill3"
+  },
+  {
+    "id": 105,
+    "code_name": "hero_hualing"
+  },
+  {
+    "id": 106,
+    "code_name": "hualingSkill1"
+  },
+  {
+    "id": 107,
+    "code_name": "hualingSkill2"
+  },
+  {
+    "id": 108,
+    "code_name": "hualingSkill3"
+  },
+  {
+    "id": 109,
+    "code_name": "hero_rana"
+  },
+  {
+    "id": 110,
+    "code_name": "ranaSkill1"
+  },
+  {
+    "id": 111,
+    "code_name": "ranaSkill2"
+  },
+  {
+    "id": 112,
+    "code_name": "ranaSkill3"
+  },
+  {
+    "id": 113,
+    "code_name": "hero_dragon"
+  },
+  {
+    "id": 114,
+    "code_name": "dragonSkill1"
+  },
+  {
+    "id": 115,
+    "code_name": "dragonSkill2"
+  },
+  {
+    "id": 116,
+    "code_name": "dragonSkill3"
+  },
+  {
+    "id": 117,
+    "code_name": "hero_xuanshe"
+  },
+  {
+    "id": 118,
+    "code_name": "hero_heyao"
+  },
+  {
+    "id": 119,
+    "code_name": "hero_uliana"
+  },
+  {
+    "id": 120,
+    "code_name": "hero_aimi"
+  },
+  {
+    "id": 121,
+    "code_name": "hero_annice"
+  },
+  {
+    "id": 122,
+    "code_name": "hero_ruthven"
+  },
+  {
+    "id": 123,
+    "code_name": "hero_erdene"
+  },
+  {
+    "id": 124,
+    "code_name": "LivingRoomSkin"
+  },
+  {
+    "id": 125,
+    "code_name": "HeroSkin"
+  },
+  {
+    "id": 126,
+    "code_name": "PlayerPet"
+  },
+  {
+    "id": 127,
+    "code_name": "BossSkill"
+  },
+  {
+    "id": 128,
+    "code_name": "AchievementPoint"
+  },
+  {
+    "id": 129,
+    "code_name": "AsuraPowerPoint"
+  },
+  {
+    "id": 130,
+    "code_name": "ItemCollect"
+  },
+  {
+    "id": 131,
+    "code_name": "MonsterCollect"
+  },
+  {
+    "id": 132,
+    "code_name": "TapeCollcet"
+  },
+  {
+    "id": 133,
+    "code_name": "CyclePower"
+  },
+  {
+    "id": 134,
+    "code_name": "ExclusiveSixRealm"
+  },
+  {
+    "id": 135,
+    "code_name": "AchievementRoomLevel"
+  },
+  {
+    "id": 136,
+    "code_name": "ClubMaterial"
+  },
+  {
+    "id": 137,
+    "code_name": "Max"
+  }
+]

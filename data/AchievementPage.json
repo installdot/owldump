@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Floor"
+  },
+  {
+    "id": 1,
+    "code_name": "Statue"
+  },
+  {
+    "id": 2,
+    "code_name": "Monster"
+  },
+  {
+    "id": 3,
+    "code_name": "Special"
+  }
+]

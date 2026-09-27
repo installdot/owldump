@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Level1"
+  },
+  {
+    "id": 1,
+    "code_name": "Level2"
+  },
+  {
+    "id": 2,
+    "code_name": "Level3"
+  },
+  {
+    "id": 3,
+    "code_name": "Level4"
+  }
+]

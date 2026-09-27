@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "HP"
+  },
+  {
+    "id": 1,
+    "code_name": "Coin"
+  },
+  {
+    "id": 2,
+    "code_name": "SoulStone"
+  },
+  {
+    "id": 3,
+    "code_name": "WineMaterial"
+  },
+  {
+    "id": 4,
+    "code_name": "ChristmasTree"
+  },
+  {
+    "id": 5,
+    "code_name": "HiddenBoss"
+  }
+]

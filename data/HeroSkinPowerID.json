@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "SuperLightning"
+  },
+  {
+    "id": 1,
+    "code_name": "PoisonCard"
+  },
+  {
+    "id": 2,
+    "code_name": "HeroSkinPowerName"
+  },
+  {
+    "id": 3,
+    "code_name": "Ruthven_GodSkinPower"
+  },
+  {
+    "id": 4,
+    "code_name": "Anibella_AstronautPowerSkin"
+  },
+  {
+    "id": 5,
+    "code_name": "Adira_FireKnightSkinPower"
+  },
+  {
+    "id": 6,
+    "code_name": "Gangdan_DragonArmorSkinPower"
+  },
+  {
+    "id": 7,
+    "code_name": "Wufei_MiliSkinPower"
+  },
+  {
+    "id": 8,
+    "code_name": "Yufeng_YinyangSkinPower"
+  },
+  {
+    "id": 9,
+    "code_name": "Uliana_RockSkinPower"
+  },
+  {
+    "id": 10,
+    "code_name": "Feiyu_ZombieSkinPower"
+  },
+  {
+    "id": 11,
+    "code_name": "Xuanshe_SnakeSkinPower"
+  }
+]

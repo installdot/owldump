@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Disable"
+  },
+  {
+    "id": 1,
+    "code_name": "Escalating"
+  },
+  {
+    "id": 2,
+    "code_name": "Peak"
+  },
+  {
+    "id": 3,
+    "code_name": "Declining"
+  }
+]

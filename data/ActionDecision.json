@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "move"
+  },
+  {
+    "id": 1,
+    "code_name": "dodge"
+  },
+  {
+    "id": 2,
+    "code_name": "attack"
+  },
+  {
+    "id": 3,
+    "code_name": "skill1"
+  },
+  {
+    "id": 4,
+    "code_name": "skill2"
+  },
+  {
+    "id": 5,
+    "code_name": "skill3"
+  },
+  {
+    "id": 6,
+    "code_name": "releaseHeat"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Seedling"
+  },
+  {
+    "id": 1,
+    "code_name": "Growing"
+  },
+  {
+    "id": 2,
+    "code_name": "HalfMature"
+  },
+  {
+    "id": 3,
+    "code_name": "Mature"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "calmness"
+  },
+  {
+    "id": 1,
+    "code_name": "selfRaging"
+  },
+  {
+    "id": 2,
+    "code_name": "campRaging"
+  },
+  {
+    "id": 3,
+    "code_name": "selfSacrifice"
+  },
+  {
+    "id": 4,
+    "code_name": "releaseAllPower"
+  },
+  {
+    "id": 5,
+    "code_name": "releaseSelfPower"
+  }
+]

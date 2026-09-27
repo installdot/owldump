@@ -1,0 +1,70 @@
+[
+  {
+    "id": 0,
+    "code_name": "akaisha_default_trap"
+  },
+  {
+    "id": 1,
+    "code_name": "akaisha_hunter_trap_style0"
+  },
+  {
+    "id": 2,
+    "code_name": "akaisha_hunter_trap_style1"
+  },
+  {
+    "id": 3,
+    "code_name": "akaisha_hunter_trap_style2"
+  },
+  {
+    "id": 4,
+    "code_name": "akaisha_robin_trap_style0"
+  },
+  {
+    "id": 5,
+    "code_name": "akaisha_robin_trap_style1"
+  },
+  {
+    "id": 6,
+    "code_name": "akaisha_robin_trap_style2"
+  },
+  {
+    "id": 7,
+    "code_name": "akaisha_christmas_trap_style0"
+  },
+  {
+    "id": 8,
+    "code_name": "akaisha_christmas_trap_style1"
+  },
+  {
+    "id": 9,
+    "code_name": "akaisha_christmas_trap_style2"
+  },
+  {
+    "id": 10,
+    "code_name": "akaisha_red_trap_style0"
+  },
+  {
+    "id": 11,
+    "code_name": "akaisha_red_trap_style1"
+  },
+  {
+    "id": 12,
+    "code_name": "akaisha_red_trap_style2"
+  },
+  {
+    "id": 13,
+    "code_name": "akaisha_princess_trap_style0"
+  },
+  {
+    "id": 14,
+    "code_name": "akaisha_princess_trap_style1"
+  },
+  {
+    "id": 15,
+    "code_name": "akaisha_princess_trap_style2"
+  },
+  {
+    "id": 16,
+    "code_name": "akaisha_princess_trap_style3"
+  }
+]

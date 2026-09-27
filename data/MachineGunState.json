@@ -1,0 +1,26 @@
+[
+  {
+    "id": -1,
+    "code_name": "Inactive"
+  },
+  {
+    "id": 0,
+    "code_name": "Draw"
+  },
+  {
+    "id": 1,
+    "code_name": "LoopStart"
+  },
+  {
+    "id": 2,
+    "code_name": "ShootLoop"
+  },
+  {
+    "id": 3,
+    "code_name": "LoopEnd"
+  },
+  {
+    "id": 4,
+    "code_name": "Withdraw"
+  }
+]

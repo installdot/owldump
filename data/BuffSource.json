@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "NormalAttack"
+  },
+  {
+    "id": 2,
+    "code_name": "SkillAttack"
+  },
+  {
+    "id": 3,
+    "code_name": "PoisonFog"
+  },
+  {
+    "id": 4,
+    "code_name": "FireFloor"
+  }
+]

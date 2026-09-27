@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "RenDao"
+  },
+  {
+    "id": 1,
+    "code_name": "ShouDao"
+  },
+  {
+    "id": 2,
+    "code_name": "GuiDao"
+  },
+  {
+    "id": 3,
+    "code_name": "YuDao"
+  },
+  {
+    "id": 4,
+    "code_name": "XiuLuoDao"
+  },
+  {
+    "id": 5,
+    "code_name": "TianRenDao"
+  },
+  {
+    "id": 6,
+    "code_name": "Level1"
+  },
+  {
+    "id": 7,
+    "code_name": "Level2"
+  },
+  {
+    "id": 8,
+    "code_name": "Level3"
+  },
+  {
+    "id": 9,
+    "code_name": "Level4"
+  },
+  {
+    "id": 10,
+    "code_name": "Marked"
+  },
+  {
+    "id": 11,
+    "code_name": "UnRead"
+  }
+]

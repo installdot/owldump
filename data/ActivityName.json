@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "ChristmasGift"
+  },
+  {
+    "id": 2,
+    "code_name": "SpringExchange202501"
+  },
+  {
+    "id": 3,
+    "code_name": "ChristmasSign"
+  },
+  {
+    "id": 4,
+    "code_name": "SpringSign202501"
+  },
+  {
+    "id": 5,
+    "code_name": "newHero"
+  },
+  {
+    "id": 6,
+    "code_name": "newHero202501"
+  },
+  {
+    "id": 7,
+    "code_name": "newSkin"
+  },
+  {
+    "id": 8,
+    "code_name": "newSkin202501"
+  },
+  {
+    "id": 9,
+    "code_name": "newBattlePass"
+  },
+  {
+    "id": 10,
+    "code_name": "newBattlePass202501"
+  },
+  {
+    "id": 11,
+    "code_name": "SpringBattlePassSkinBuy202501"
+  }
+]

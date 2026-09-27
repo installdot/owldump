@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "WallMulti"
+  },
+  {
+    "id": 2,
+    "code_name": "WallOnlyOne"
+  },
+  {
+    "id": 3,
+    "code_name": "FloorMulti"
+  },
+  {
+    "id": 4,
+    "code_name": "FloorOnlyOne"
+  },
+  {
+    "id": 5,
+    "code_name": "WholeFloor"
+  },
+  {
+    "id": 6,
+    "code_name": "WholeRoom"
+  },
+  {
+    "id": 7,
+    "code_name": "WallConnection"
+  }
+]

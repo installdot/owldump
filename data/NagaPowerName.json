@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "xuansheWearHeartPlus"
+  },
+  {
+    "id": 2,
+    "code_name": "xuansheHeavyRainPlus"
+  },
+  {
+    "id": 3,
+    "code_name": "xuanshePlumBlossomPlus"
+  },
+  {
+    "id": 4,
+    "code_name": "xuansheAttackPlus"
+  },
+  {
+    "id": 5,
+    "code_name": "xuansheSurvivalPlus"
+  },
+  {
+    "id": 6,
+    "code_name": "heyaoShoutPlus"
+  },
+  {
+    "id": 7,
+    "code_name": "heyaoHeavyComboPlus"
+  },
+  {
+    "id": 8,
+    "code_name": "heyaoComboPlusPlus"
+  },
+  {
+    "id": 9,
+    "code_name": "heyaoAttackPlus"
+  },
+  {
+    "id": 10,
+    "code_name": "heyaoSurvivalPlus"
+  },
+  {
+    "id": 11,
+    "code_name": "aimiHolyDefencePlus"
+  },
+  {
+    "id": 12,
+    "code_name": "aimiOathPlus"
+  },
+  {
+    "id": 13,
+    "code_name": "aimiFaithPlus"
+  },
+  {
+    "id": 14,
+    "code_name": "aimiAttackPlus"
+  },
+  {
+    "id": 15,
+    "code_name": "aimiSurvivalPlus"
+  },
+  {
+    "id": 16,
+    "code_name": "ulianaExplosionPlus"
+  },
+  {
+    "id": 17,
+    "code_name": "ulianaDancePlus"
+  },
+  {
+    "id": 18,
+    "code_name": "ulianaSnowPlus"
+  },
+  {
+    "id": 19,
+    "code_name": "ulianaAttackPlus"
+  },
+  {
+    "id": 20,
+    "code_name": "ulianaSurvivalPlus"
+  },
+  {
+    "id": 21,
+    "code_name": "anniceSummonStarPlus"
+  },
+  {
+    "id": 22,
+    "code_name": "anniceSummonMoonPlus"
+  },
+  {
+    "id": 23,
+    "code_name": "anniceNightWeaponPlus"
+  },
+  {
+    "id": 24,
+    "code_name": "anniceAttackPlus"
+  },
+  {
+    "id": 25,
+    "code_name": "anniceSurvivalPlus"
+  },
+  {
+    "id": 26,
+    "code_name": "ruthvenRengePlus"
+  },
+  {
+    "id": 27,
+    "code_name": "ruthvenTorturePlus"
+  },
+  {
+    "id": 28,
+    "code_name": "ruthvenDevilPlus"
+  },
+  {
+    "id": 29,
+    "code_name": "ruthvenAttackPlus"
+  },
+  {
+    "id": 30,
+    "code_name": "ruthvenSurvivalPlus"
+  },
+  {
+    "id": 31,
+    "code_name": "erdeneSkill1Plus"
+  },
+  {
+    "id": 32,
+    "code_name": "erdeneSkill2Plus"
+  },
+  {
+    "id": 33,
+    "code_name": "erdeneSkill3Plus"
+  },
+  {
+    "id": 34,
+    "code_name": "erdeneAttackPlus"
+  },
+  {
+    "id": 35,
+    "code_name": "erdeneSurvivalPlus"
+  }
+]

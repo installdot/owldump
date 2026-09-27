@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "code_name": "EnterDungeon"
+  },
+  {
+    "id": 1,
+    "code_name": "PortalToNextLevel"
+  },
+  {
+    "id": 2,
+    "code_name": "BackToMenu"
+  },
+  {
+    "id": 3,
+    "code_name": "HeroDeath"
+  },
+  {
+    "id": 4,
+    "code_name": "ChangeSkill"
+  },
+  {
+    "id": 5,
+    "code_name": "ChangeStyle"
+  },
+  {
+    "id": 6,
+    "code_name": "ChangeCharacterEffect"
+  },
+  {
+    "id": 7,
+    "code_name": "ChangeMelTrailEffect"
+  },
+  {
+    "id": 8,
+    "code_name": "ChangeCharacterEffectInBackpack"
+  },
+  {
+    "id": 9,
+    "code_name": "ChangCurse"
+  },
+  {
+    "id": 10,
+    "code_name": "ChangeMercenary"
+  },
+  {
+    "id": 11,
+    "code_name": "CreatHero"
+  },
+  {
+    "id": 12,
+    "code_name": "ChangeBodyStylesLevel"
+  },
+  {
+    "id": 13,
+    "code_name": "SurvivalModePassWave"
+  },
+  {
+    "id": 14,
+    "code_name": "FireDanceChangeWave"
+  }
+]

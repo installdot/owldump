@@ -1,0 +1,514 @@
+[
+  {
+    "id": 0,
+    "code_name": "ChessInHandIsFull"
+  },
+  {
+    "id": 1,
+    "code_name": "ItemInHandIsFull"
+  },
+  {
+    "id": 2,
+    "code_name": "ItemInChessIsFull"
+  },
+  {
+    "id": 3,
+    "code_name": "ChessSelfWithItem"
+  },
+  {
+    "id": 4,
+    "code_name": "ChangeEnemyGroup"
+  },
+  {
+    "id": 5,
+    "code_name": "Group"
+  },
+  {
+    "id": 6,
+    "code_name": "Victory"
+  },
+  {
+    "id": 7,
+    "code_name": "Defeated"
+  },
+  {
+    "id": 8,
+    "code_name": "ReadyToNextLevel"
+  },
+  {
+    "id": 9,
+    "code_name": "RestOfDefeat"
+  },
+  {
+    "id": 10,
+    "code_name": "BattleStart"
+  },
+  {
+    "id": 11,
+    "code_name": "MoreChessInBoard"
+  },
+  {
+    "id": 12,
+    "code_name": "AllVictory"
+  },
+  {
+    "id": 13,
+    "code_name": "AllDefeated"
+  },
+  {
+    "id": 14,
+    "code_name": "RestOfDefeatIsEmpty"
+  },
+  {
+    "id": 15,
+    "code_name": "Assassin"
+  },
+  {
+    "id": 16,
+    "code_name": "GoldGrabber"
+  },
+  {
+    "id": 17,
+    "code_name": "HappyGuy"
+  },
+  {
+    "id": 18,
+    "code_name": "Elf"
+  },
+  {
+    "id": 19,
+    "code_name": "UnusualPerson"
+  },
+  {
+    "id": 20,
+    "code_name": "Lethargist"
+  },
+  {
+    "id": 21,
+    "code_name": "Warrior"
+  },
+  {
+    "id": 22,
+    "code_name": "Pugilist"
+  },
+  {
+    "id": 23,
+    "code_name": "Wizard"
+  },
+  {
+    "id": 24,
+    "code_name": "Zoologist"
+  },
+  {
+    "id": 25,
+    "code_name": "LightningKing"
+  },
+  {
+    "id": 26,
+    "code_name": "Weird"
+  },
+  {
+    "id": 27,
+    "code_name": "HumanCloning"
+  },
+  {
+    "id": 28,
+    "code_name": "EvilWizard"
+  },
+  {
+    "id": 29,
+    "code_name": "Ghost"
+  },
+  {
+    "id": 30,
+    "code_name": "RaceTips"
+  },
+  {
+    "id": 31,
+    "code_name": "Assassin_1"
+  },
+  {
+    "id": 32,
+    "code_name": "Assassin_2"
+  },
+  {
+    "id": 33,
+    "code_name": "Assassin_3"
+  },
+  {
+    "id": 34,
+    "code_name": "Assassin_4"
+  },
+  {
+    "id": 35,
+    "code_name": "GoldGrabber_1"
+  },
+  {
+    "id": 36,
+    "code_name": "GoldGrabber_2"
+  },
+  {
+    "id": 37,
+    "code_name": "HappyGuy_1"
+  },
+  {
+    "id": 38,
+    "code_name": "HappyGuy_2"
+  },
+  {
+    "id": 39,
+    "code_name": "HappyGuy_3"
+  },
+  {
+    "id": 40,
+    "code_name": "Elf_1"
+  },
+  {
+    "id": 41,
+    "code_name": "Elf_2"
+  },
+  {
+    "id": 42,
+    "code_name": "Elf_3"
+  },
+  {
+    "id": 43,
+    "code_name": "UnusualPerson_1"
+  },
+  {
+    "id": 44,
+    "code_name": "UnusualPerson_2"
+  },
+  {
+    "id": 45,
+    "code_name": "UnusualPerson_3"
+  },
+  {
+    "id": 46,
+    "code_name": "Lethargist_1"
+  },
+  {
+    "id": 47,
+    "code_name": "Lethargist_2"
+  },
+  {
+    "id": 48,
+    "code_name": "Lethargist_3"
+  },
+  {
+    "id": 49,
+    "code_name": "Warrior_1"
+  },
+  {
+    "id": 50,
+    "code_name": "Warrior_2"
+  },
+  {
+    "id": 51,
+    "code_name": "Warrior_3"
+  },
+  {
+    "id": 52,
+    "code_name": "Pugilist_1"
+  },
+  {
+    "id": 53,
+    "code_name": "Pugilist_2"
+  },
+  {
+    "id": 54,
+    "code_name": "Pugilist_3"
+  },
+  {
+    "id": 55,
+    "code_name": "Wizard_1"
+  },
+  {
+    "id": 56,
+    "code_name": "Wizard_2"
+  },
+  {
+    "id": 57,
+    "code_name": "Wizard_3"
+  },
+  {
+    "id": 58,
+    "code_name": "Zoologist_1"
+  },
+  {
+    "id": 59,
+    "code_name": "Zoologist_2"
+  },
+  {
+    "id": 60,
+    "code_name": "Zoologist_3"
+  },
+  {
+    "id": 61,
+    "code_name": "LightningKing_1"
+  },
+  {
+    "id": 62,
+    "code_name": "Weird_1"
+  },
+  {
+    "id": 63,
+    "code_name": "Weird_2"
+  },
+  {
+    "id": 64,
+    "code_name": "Weird_3"
+  },
+  {
+    "id": 65,
+    "code_name": "Weird_4"
+  },
+  {
+    "id": 66,
+    "code_name": "HumanCloning_1"
+  },
+  {
+    "id": 67,
+    "code_name": "HumanCloning_2"
+  },
+  {
+    "id": 68,
+    "code_name": "EvilWizard_1"
+  },
+  {
+    "id": 69,
+    "code_name": "Ghost_1"
+  },
+  {
+    "id": 70,
+    "code_name": "Ghost_2"
+  },
+  {
+    "id": 71,
+    "code_name": "HappyGuySuccessful"
+  },
+  {
+    "id": 72,
+    "code_name": "ItemUnlock"
+  },
+  {
+    "id": 73,
+    "code_name": "RaceUnlock"
+  },
+  {
+    "id": 74,
+    "code_name": "GetRace"
+  },
+  {
+    "id": 75,
+    "code_name": "PowerfulEnemy"
+  },
+  {
+    "id": 76,
+    "code_name": "BattleArrayExpansion"
+  },
+  {
+    "id": 77,
+    "code_name": "Buy"
+  },
+  {
+    "id": 78,
+    "code_name": "Item"
+  },
+  {
+    "id": 79,
+    "code_name": "Race"
+  },
+  {
+    "id": 80,
+    "code_name": "WaveReward"
+  },
+  {
+    "id": 81,
+    "code_name": "RefreshShop"
+  },
+  {
+    "id": 82,
+    "code_name": "StarLevel"
+  },
+  {
+    "id": 83,
+    "code_name": "BaseProperty"
+  },
+  {
+    "id": 84,
+    "code_name": "RaceType"
+  },
+  {
+    "id": 85,
+    "code_name": "ItemSlot"
+  },
+  {
+    "id": 86,
+    "code_name": "SpringModeIntro"
+  },
+  {
+    "id": 87,
+    "code_name": "RaceTrigger"
+  },
+  {
+    "id": 88,
+    "code_name": "pact_SaveMoney_name"
+  },
+  {
+    "id": 89,
+    "code_name": "pact_SaveMoney_des"
+  },
+  {
+    "id": 90,
+    "code_name": "pact_FreePay_name"
+  },
+  {
+    "id": 91,
+    "code_name": "pact_FreePay_des"
+  },
+  {
+    "id": 92,
+    "code_name": "pact_RaceMaster_name"
+  },
+  {
+    "id": 93,
+    "code_name": "pact_RaceMaster_des"
+  },
+  {
+    "id": 94,
+    "code_name": "pact_IHuman_name"
+  },
+  {
+    "id": 95,
+    "code_name": "pact_IHuman_des"
+  },
+  {
+    "id": 96,
+    "code_name": "pact_EHuman_name"
+  },
+  {
+    "id": 97,
+    "code_name": "pact_EHuman_des"
+  },
+  {
+    "id": 98,
+    "code_name": "pact_ItemMaster_name"
+  },
+  {
+    "id": 99,
+    "code_name": "pact_ItemMaster_des"
+  },
+  {
+    "id": 100,
+    "code_name": "pact_CopyItem_name"
+  },
+  {
+    "id": 101,
+    "code_name": "pact_CopyItem_des"
+  },
+  {
+    "id": 102,
+    "code_name": "pact_MVP_name"
+  },
+  {
+    "id": 103,
+    "code_name": "pact_MVP_des"
+  },
+  {
+    "id": 104,
+    "code_name": "pact_RefreshShop_name"
+  },
+  {
+    "id": 105,
+    "code_name": "pact_RefreshShop_des"
+  },
+  {
+    "id": 106,
+    "code_name": "pact_SameChess_name"
+  },
+  {
+    "id": 107,
+    "code_name": "pact_SameChess_des"
+  },
+  {
+    "id": 108,
+    "code_name": "pact_LowChessPower_name"
+  },
+  {
+    "id": 109,
+    "code_name": "pact_LowChessPower_des"
+  },
+  {
+    "id": 110,
+    "code_name": "pact_SoloChess_name"
+  },
+  {
+    "id": 111,
+    "code_name": "pact_SoloChess_des"
+  },
+  {
+    "id": 112,
+    "code_name": "pact_SameRace_name"
+  },
+  {
+    "id": 113,
+    "code_name": "pact_SameRace_des"
+  },
+  {
+    "id": 114,
+    "code_name": "CheckPact"
+  },
+  {
+    "id": 115,
+    "code_name": "YourPact"
+  },
+  {
+    "id": 116,
+    "code_name": "LockShop"
+  },
+  {
+    "id": 117,
+    "code_name": "UnlockShop"
+  },
+  {
+    "id": 118,
+    "code_name": "PickPact"
+  },
+  {
+    "id": 119,
+    "code_name": "MvpTriggerTips"
+  },
+  {
+    "id": 120,
+    "code_name": "CopyItemTips"
+  },
+  {
+    "id": 121,
+    "code_name": "FreePayTriggerTips"
+  },
+  {
+    "id": 122,
+    "code_name": "ItemMasterTriggerTips"
+  },
+  {
+    "id": 123,
+    "code_name": "PickItem"
+  },
+  {
+    "id": 124,
+    "code_name": "IsContinueAsk"
+  },
+  {
+    "id": 125,
+    "code_name": "ShouldDeploy"
+  },
+  {
+    "id": 126,
+    "code_name": "ChessModeTitle"
+  },
+  {
+    "id": 127,
+    "code_name": "ModeTitleNumber"
+  }
+]

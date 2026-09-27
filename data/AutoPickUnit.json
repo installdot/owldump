@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "Coin"
+  },
+  {
+    "id": 2,
+    "code_name": "Drink"
+  },
+  {
+    "id": 3,
+    "code_name": "Jew"
+  },
+  {
+    "id": 4,
+    "code_name": "QuestItem"
+  },
+  {
+    "id": 5,
+    "code_name": "BossExSkill"
+  },
+  {
+    "id": 6,
+    "code_name": "SixCycle"
+  },
+  {
+    "id": 7,
+    "code_name": "Tape"
+  },
+  {
+    "id": 8,
+    "code_name": "AchievementRoom"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "Normal"
+  },
+  {
+    "id": 1,
+    "code_name": "Lock"
+  },
+  {
+    "id": 2,
+    "code_name": "DoNotShow"
+  }
+]

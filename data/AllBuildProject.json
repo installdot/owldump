@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "CrystallBall"
+  },
+  {
+    "id": 2,
+    "code_name": "AchievementRoomBuild"
+  },
+  {
+    "id": 3,
+    "code_name": "PetParadies"
+  },
+  {
+    "id": 4,
+    "code_name": "FightClub"
+  },
+  {
+    "id": 5,
+    "code_name": "BankATM"
+  },
+  {
+    "id": 6,
+    "code_name": "LevelPortal"
+  },
+  {
+    "id": 8,
+    "code_name": "WeaponSell"
+  },
+  {
+    "id": 9,
+    "code_name": "DecompositionMachine"
+  },
+  {
+    "id": 10,
+    "code_name": "WalkMan"
+  },
+  {
+    "id": 11,
+    "code_name": "Garden"
+  },
+  {
+    "id": 12,
+    "code_name": "ItemSell"
+  }
+]

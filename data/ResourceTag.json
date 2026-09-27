@@ -1,0 +1,218 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "HeroSkin"
+  },
+  {
+    "id": 2,
+    "code_name": "Album"
+  },
+  {
+    "id": 3,
+    "code_name": "illustrated_characterEffect"
+  },
+  {
+    "id": 4,
+    "code_name": "illustrated_monster"
+  },
+  {
+    "id": 5,
+    "code_name": "illustrated_weapon"
+  },
+  {
+    "id": 6,
+    "code_name": "ChristmasQuest"
+  },
+  {
+    "id": 7,
+    "code_name": "SharedSkillMaterial"
+  },
+  {
+    "id": 8,
+    "code_name": "LivingRoomSkinQuestMaterial"
+  },
+  {
+    "id": 9,
+    "code_name": "SharedSkill"
+  },
+  {
+    "id": 10,
+    "code_name": "SixCyclePower"
+  },
+  {
+    "id": 11,
+    "code_name": "menuSkinUnlockQuestShare"
+  },
+  {
+    "id": 12,
+    "code_name": "ceAffixArchive"
+  },
+  {
+    "id": 13,
+    "code_name": "AchievementRoomStatue"
+  },
+  {
+    "id": 14,
+    "code_name": "exchangeablePieces"
+  },
+  {
+    "id": 15,
+    "code_name": "dailyActivity"
+  },
+  {
+    "id": 16,
+    "code_name": "battlePass"
+  },
+  {
+    "id": 17,
+    "code_name": "petParadise"
+  },
+  {
+    "id": 18,
+    "code_name": "FloorSkin"
+  },
+  {
+    "id": 19,
+    "code_name": "FloorSkinPiece"
+  },
+  {
+    "id": 20,
+    "code_name": "Compensate"
+  },
+  {
+    "id": 21,
+    "code_name": "Bank"
+  },
+  {
+    "id": 22,
+    "code_name": "itemPack"
+  },
+  {
+    "id": 23,
+    "code_name": "storyChapter"
+  },
+  {
+    "id": 24,
+    "code_name": "storyChapterPlaying"
+  },
+  {
+    "id": 25,
+    "code_name": "LevelPortal"
+  },
+  {
+    "id": 26,
+    "code_name": "LegendItem"
+  },
+  {
+    "id": 27,
+    "code_name": "LegendItemEntry"
+  },
+  {
+    "id": 28,
+    "code_name": "BanCharacterEffectSlot"
+  },
+  {
+    "id": 29,
+    "code_name": "Config"
+  },
+  {
+    "id": 30,
+    "code_name": "Novice"
+  },
+  {
+    "id": 31,
+    "code_name": "Travel"
+  },
+  {
+    "id": 32,
+    "code_name": "GameData"
+  },
+  {
+    "id": 33,
+    "code_name": "BuildCat"
+  },
+  {
+    "id": 34,
+    "code_name": "AsuraPowerConfig"
+  },
+  {
+    "id": 35,
+    "code_name": "EventRoom"
+  },
+  {
+    "id": 36,
+    "code_name": "NagaPower"
+  },
+  {
+    "id": 37,
+    "code_name": "Kanban"
+  },
+  {
+    "id": 38,
+    "code_name": "Garden"
+  },
+  {
+    "id": 39,
+    "code_name": "Halloween"
+  },
+  {
+    "id": 40,
+    "code_name": "WarmUp"
+  },
+  {
+    "id": 41,
+    "code_name": "NPCSkin"
+  },
+  {
+    "id": 42,
+    "code_name": "HeroSkinPower"
+  },
+  {
+    "id": 43,
+    "code_name": "LimitedTimeMall"
+  },
+  {
+    "id": 44,
+    "code_name": "NewProgressiveItemUnlock"
+  },
+  {
+    "id": 45,
+    "code_name": "HeroSelectMark"
+  },
+  {
+    "id": 46,
+    "code_name": "DefeatTrainingRoomMonster"
+  },
+  {
+    "id": 47,
+    "code_name": "SixCycleOrb"
+  },
+  {
+    "id": 48,
+    "code_name": "LocatableBanSlotUnlockState"
+  },
+  {
+    "id": 49,
+    "code_name": "AdventureLevel"
+  },
+  {
+    "id": 50,
+    "code_name": "ActivityIntegration"
+  },
+  {
+    "id": 51,
+    "code_name": "DailyBox"
+  },
+  {
+    "id": 52,
+    "code_name": "DailyBoxMissionProgress"
+  },
+  {
+    "id": 53,
+    "code_name": "DailyBoxTimeLimitBoxRecord"
+  }
+]

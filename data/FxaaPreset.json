@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "ExtremePerformance"
+  },
+  {
+    "id": 1,
+    "code_name": "Performance"
+  },
+  {
+    "id": 2,
+    "code_name": "Default"
+  },
+  {
+    "id": 3,
+    "code_name": "Quality"
+  },
+  {
+    "id": 4,
+    "code_name": "ExtremeQuality"
+  }
+]

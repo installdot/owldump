@@ -1,0 +1,990 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "lianhuanzhang"
+  },
+  {
+    "id": 2,
+    "code_name": "menghuyingpashan"
+  },
+  {
+    "id": 3,
+    "code_name": "huwangsandianzhao"
+  },
+  {
+    "id": 4,
+    "code_name": "canxiangquan"
+  },
+  {
+    "id": 5,
+    "code_name": "yingzhenchi"
+  },
+  {
+    "id": 6,
+    "code_name": "yingcunquan"
+  },
+  {
+    "id": 7,
+    "code_name": "dileizhen"
+  },
+  {
+    "id": 8,
+    "code_name": "dantianlianqi"
+  },
+  {
+    "id": 9,
+    "code_name": "yanhuangpomoquan"
+  },
+  {
+    "id": 10,
+    "code_name": "shentoujin"
+  },
+  {
+    "id": 11,
+    "code_name": "chebuchoushen"
+  },
+  {
+    "id": 12,
+    "code_name": "gongshentanying"
+  },
+  {
+    "id": 13,
+    "code_name": "yongxinbang"
+  },
+  {
+    "id": 14,
+    "code_name": "lihe"
+  },
+  {
+    "id": 15,
+    "code_name": "juhe"
+  },
+  {
+    "id": 16,
+    "code_name": "yitaidao"
+  },
+  {
+    "id": 17,
+    "code_name": "daoshou"
+  },
+  {
+    "id": 18,
+    "code_name": "erduangou"
+  },
+  {
+    "id": 19,
+    "code_name": "bazhiniao"
+  },
+  {
+    "id": 20,
+    "code_name": "wanzizhan"
+  },
+  {
+    "id": 21,
+    "code_name": "huzhen"
+  },
+  {
+    "id": 22,
+    "code_name": "malasong"
+  },
+  {
+    "id": 23,
+    "code_name": "baimichongci"
+  },
+  {
+    "id": 24,
+    "code_name": "jizouluanbu"
+  },
+  {
+    "id": 25,
+    "code_name": "huixuanciquan"
+  },
+  {
+    "id": 26,
+    "code_name": "huixuanjufeng"
+  },
+  {
+    "id": 27,
+    "code_name": "jujinghuishen"
+  },
+  {
+    "id": 28,
+    "code_name": "siwangyaobai"
+  },
+  {
+    "id": 29,
+    "code_name": "yiqiankgyaobai"
+  },
+  {
+    "id": 30,
+    "code_name": "sanbeiyaobai"
+  },
+  {
+    "id": 31,
+    "code_name": "zhaomen"
+  },
+  {
+    "id": 32,
+    "code_name": "baopojian"
+  },
+  {
+    "id": 33,
+    "code_name": "xinshenningju"
+  },
+  {
+    "id": 34,
+    "code_name": "shengpatelikezhiwu"
+  },
+  {
+    "id": 35,
+    "code_name": "siniangweishiji"
+  },
+  {
+    "id": 36,
+    "code_name": "mofaxianling"
+  },
+  {
+    "id": 37,
+    "code_name": "guanchuanxian"
+  },
+  {
+    "id": 38,
+    "code_name": "sushe"
+  },
+  {
+    "id": 39,
+    "code_name": "sanyujian"
+  },
+  {
+    "id": 40,
+    "code_name": "yuanxingji"
+  },
+  {
+    "id": 41,
+    "code_name": "qiangdangaizao"
+  },
+  {
+    "id": 42,
+    "code_name": "liangchanhua"
+  },
+  {
+    "id": 43,
+    "code_name": "zibaopingpang"
+  },
+  {
+    "id": 44,
+    "code_name": "qianghuagongcheng"
+  },
+  {
+    "id": 45,
+    "code_name": "bianxiejishu"
+  },
+  {
+    "id": 46,
+    "code_name": "shuangyuxitong"
+  },
+  {
+    "id": 47,
+    "code_name": "yuzijiangdanyaoxiang"
+  },
+  {
+    "id": 48,
+    "code_name": "aoligongxiangji"
+  },
+  {
+    "id": 49,
+    "code_name": "shengcan"
+  },
+  {
+    "id": 50,
+    "code_name": "qumo"
+  },
+  {
+    "id": 51,
+    "code_name": "enhui"
+  },
+  {
+    "id": 52,
+    "code_name": "aoman"
+  },
+  {
+    "id": 53,
+    "code_name": "xisheng"
+  },
+  {
+    "id": 54,
+    "code_name": "baonu"
+  },
+  {
+    "id": 55,
+    "code_name": "zhongji"
+  },
+  {
+    "id": 56,
+    "code_name": "chongfeng"
+  },
+  {
+    "id": 57,
+    "code_name": "rennai"
+  },
+  {
+    "id": 58,
+    "code_name": "litianshi"
+  },
+  {
+    "id": 59,
+    "code_name": "zhitianshi"
+  },
+  {
+    "id": 60,
+    "code_name": "aishen"
+  },
+  {
+    "id": 61,
+    "code_name": "liaoyuan"
+  },
+  {
+    "id": 62,
+    "code_name": "zhuanzhu"
+  },
+  {
+    "id": 63,
+    "code_name": "tianfa"
+  },
+  {
+    "id": 64,
+    "code_name": "bingbao"
+  },
+  {
+    "id": 65,
+    "code_name": "zhihuizhongxin"
+  },
+  {
+    "id": 66,
+    "code_name": "yuwen"
+  },
+  {
+    "id": 67,
+    "code_name": "lianliankan"
+  },
+  {
+    "id": 68,
+    "code_name": "qingtianbili"
+  },
+  {
+    "id": 69,
+    "code_name": "lianhuanpili"
+  },
+  {
+    "id": 70,
+    "code_name": "hannahRapidFireStyle1"
+  },
+  {
+    "id": 71,
+    "code_name": "hannahRapidFireStyle2"
+  },
+  {
+    "id": 72,
+    "code_name": "hannahRapidFireStyle3"
+  },
+  {
+    "id": 73,
+    "code_name": "hannahChangeShotgunStyle1"
+  },
+  {
+    "id": 74,
+    "code_name": "hannahChangeShotgunStyle2"
+  },
+  {
+    "id": 75,
+    "code_name": "hannahChangeShotgunStyle3"
+  },
+  {
+    "id": 76,
+    "code_name": "hannahChangeSniperStyle1"
+  },
+  {
+    "id": 77,
+    "code_name": "hannahChangeSniperStyle2"
+  },
+  {
+    "id": 78,
+    "code_name": "hannahChangeSniperStyle3"
+  },
+  {
+    "id": 79,
+    "code_name": "hannahChangeRevolverStyle1"
+  },
+  {
+    "id": 80,
+    "code_name": "hannahChangeRevolverStyle2"
+  },
+  {
+    "id": 81,
+    "code_name": "hannahChangeRevolverStyle3"
+  },
+  {
+    "id": 82,
+    "code_name": "hilldingKickStyle1"
+  },
+  {
+    "id": 83,
+    "code_name": "hilldingKickStyle2"
+  },
+  {
+    "id": 84,
+    "code_name": "hilldingKickStyle3"
+  },
+  {
+    "id": 85,
+    "code_name": "hilldingEatStyle1"
+  },
+  {
+    "id": 86,
+    "code_name": "hilldingEatStyle2"
+  },
+  {
+    "id": 87,
+    "code_name": "hilldingEatStyle3"
+  },
+  {
+    "id": 88,
+    "code_name": "hilldingPlunderStyle1"
+  },
+  {
+    "id": 89,
+    "code_name": "hilldingPlunderStyle2"
+  },
+  {
+    "id": 90,
+    "code_name": "hilldingPlunderStyle3"
+  },
+  {
+    "id": 91,
+    "code_name": "hilldingGyroStyle1"
+  },
+  {
+    "id": 92,
+    "code_name": "hilldingGyroStyle2"
+  },
+  {
+    "id": 93,
+    "code_name": "hilldingGyroStyle3"
+  },
+  {
+    "id": 94,
+    "code_name": "penhaligonFinalShootPowerUp"
+  },
+  {
+    "id": 95,
+    "code_name": "penhaligonMoreComrade"
+  },
+  {
+    "id": 96,
+    "code_name": "penhaligonComradePowerUp"
+  },
+  {
+    "id": 97,
+    "code_name": "penhaligonShootMe"
+  },
+  {
+    "id": 98,
+    "code_name": "penhaligonShootLine"
+  },
+  {
+    "id": 99,
+    "code_name": "penhaligonShootPowerUp"
+  },
+  {
+    "id": 100,
+    "code_name": "penhaligonMoreHumanMorePower"
+  },
+  {
+    "id": 101,
+    "code_name": "penhaligonChargeWithShoot"
+  },
+  {
+    "id": 102,
+    "code_name": "penhaligonCountdownReduce"
+  },
+  {
+    "id": 103,
+    "code_name": "penhaligonDizzinessBuff"
+  },
+  {
+    "id": 104,
+    "code_name": "penhaligonHandGrenadesBuff"
+  },
+  {
+    "id": 105,
+    "code_name": "penhaligonComboWithShoot"
+  },
+  {
+    "id": 106,
+    "code_name": "hayfaShadowServantDagger"
+  },
+  {
+    "id": 107,
+    "code_name": "hayfaShadowServantHealth"
+  },
+  {
+    "id": 108,
+    "code_name": "hayfaShadowServantCD"
+  },
+  {
+    "id": 109,
+    "code_name": "hayfaTieXianZhanComboCanTrigger"
+  },
+  {
+    "id": 110,
+    "code_name": "hayfaTieXianZhanPathDamage"
+  },
+  {
+    "id": 111,
+    "code_name": "hayfaTieXianZhanHide"
+  },
+  {
+    "id": 112,
+    "code_name": "hayfaTuDuFire"
+  },
+  {
+    "id": 113,
+    "code_name": "hayfaTuDuPoison"
+  },
+  {
+    "id": 114,
+    "code_name": "hayfaTuDuFirePoison"
+  },
+  {
+    "id": 115,
+    "code_name": "hayfaJumpShadowAttackAddBuff"
+  },
+  {
+    "id": 116,
+    "code_name": "hayfaJumpShadowAttackAddDagger"
+  },
+  {
+    "id": 117,
+    "code_name": "hayfaJumpShadowAttackBackAttack"
+  },
+  {
+    "id": 118,
+    "code_name": "anibellaCallCatStyle1"
+  },
+  {
+    "id": 119,
+    "code_name": "anibellaCallCatStyle2"
+  },
+  {
+    "id": 120,
+    "code_name": "anibellaCallCatStyle3"
+  },
+  {
+    "id": 121,
+    "code_name": "anibellaCallFrogStyle1"
+  },
+  {
+    "id": 122,
+    "code_name": "anibellaCallFrogStyle2"
+  },
+  {
+    "id": 123,
+    "code_name": "anibellaCallFrogStyle3"
+  },
+  {
+    "id": 124,
+    "code_name": "anibellaCallGodStyle1"
+  },
+  {
+    "id": 125,
+    "code_name": "anibellaCallGodStyle2"
+  },
+  {
+    "id": 126,
+    "code_name": "anibellaCallGodStyle3"
+  },
+  {
+    "id": 127,
+    "code_name": "anibellaMarkStyle1"
+  },
+  {
+    "id": 128,
+    "code_name": "anibellaMarkStyle2"
+  },
+  {
+    "id": 129,
+    "code_name": "anibellaMarkStyle3"
+  },
+  {
+    "id": 130,
+    "code_name": "adiraDownSlashStyle1"
+  },
+  {
+    "id": 131,
+    "code_name": "adiraDownSlashStyle2"
+  },
+  {
+    "id": 132,
+    "code_name": "adiraDownSlashStyle3"
+  },
+  {
+    "id": 133,
+    "code_name": "adiraUpSlashStyle1"
+  },
+  {
+    "id": 134,
+    "code_name": "adiraUpSlashStyle2"
+  },
+  {
+    "id": 135,
+    "code_name": "adiraUpSlashStyle3"
+  },
+  {
+    "id": 136,
+    "code_name": "adiraWhirlwindSlashStyle1"
+  },
+  {
+    "id": 137,
+    "code_name": "adiraWhirlwindSlashStyle2"
+  },
+  {
+    "id": 138,
+    "code_name": "adiraWhirlwindSlashStyle3"
+  },
+  {
+    "id": 139,
+    "code_name": "adiraBackStepSlashStyle1"
+  },
+  {
+    "id": 140,
+    "code_name": "adiraBackStepSlashStyle2"
+  },
+  {
+    "id": 141,
+    "code_name": "adiraBackStepSlashStyle3"
+  },
+  {
+    "id": 142,
+    "code_name": "yangkyiSkill1Style1"
+  },
+  {
+    "id": 143,
+    "code_name": "yangkyiSkill1Style2"
+  },
+  {
+    "id": 144,
+    "code_name": "yangkyiSkill1Style3"
+  },
+  {
+    "id": 145,
+    "code_name": "yangkyiSkill2Style1"
+  },
+  {
+    "id": 146,
+    "code_name": "yangkyiSkill2Style2"
+  },
+  {
+    "id": 147,
+    "code_name": "yangkyiSkill2Style3"
+  },
+  {
+    "id": 148,
+    "code_name": "yangkyiSkill3Style1"
+  },
+  {
+    "id": 149,
+    "code_name": "yangkyiSkill3Style2"
+  },
+  {
+    "id": 150,
+    "code_name": "yangkyiSkill3Style3"
+  },
+  {
+    "id": 151,
+    "code_name": "yangkyiSkill4Style1"
+  },
+  {
+    "id": 152,
+    "code_name": "yangkyiSkill4Style2"
+  },
+  {
+    "id": 153,
+    "code_name": "yangkyiSkill4Style3"
+  },
+  {
+    "id": 154,
+    "code_name": "youziSkill1Style1"
+  },
+  {
+    "id": 155,
+    "code_name": "youziSkill1Style2"
+  },
+  {
+    "id": 156,
+    "code_name": "youziSkill1Style3"
+  },
+  {
+    "id": 157,
+    "code_name": "youziSkill2Style1"
+  },
+  {
+    "id": 158,
+    "code_name": "youziSkill2Style2"
+  },
+  {
+    "id": 159,
+    "code_name": "youziSkill2Style3"
+  },
+  {
+    "id": 160,
+    "code_name": "youziSkill3Style1"
+  },
+  {
+    "id": 161,
+    "code_name": "youziSkill3Style2"
+  },
+  {
+    "id": 162,
+    "code_name": "youziSkill3Style3"
+  },
+  {
+    "id": 163,
+    "code_name": "yufengSkill1Style1"
+  },
+  {
+    "id": 164,
+    "code_name": "yufengSkill1Style2"
+  },
+  {
+    "id": 165,
+    "code_name": "yufengSkill1Style3"
+  },
+  {
+    "id": 166,
+    "code_name": "yufengSkill2Style1"
+  },
+  {
+    "id": 167,
+    "code_name": "yufengSkill2Style2"
+  },
+  {
+    "id": 168,
+    "code_name": "yufengSkill2Style3"
+  },
+  {
+    "id": 169,
+    "code_name": "yufengSkill3Style1"
+  },
+  {
+    "id": 170,
+    "code_name": "yufengSkill3Style2"
+  },
+  {
+    "id": 171,
+    "code_name": "yufengSkill3Style3"
+  },
+  {
+    "id": 172,
+    "code_name": "wufeiSkill1Style1"
+  },
+  {
+    "id": 173,
+    "code_name": "wufeiSkill1Style2"
+  },
+  {
+    "id": 174,
+    "code_name": "wufeiSkill1Style3"
+  },
+  {
+    "id": 175,
+    "code_name": "wufeiSkill2Style1"
+  },
+  {
+    "id": 176,
+    "code_name": "wufeiSkill2Style2"
+  },
+  {
+    "id": 177,
+    "code_name": "wufeiSkill2Style3"
+  },
+  {
+    "id": 178,
+    "code_name": "wufeiSkill3Style1"
+  },
+  {
+    "id": 179,
+    "code_name": "wufeiSkill3Style2"
+  },
+  {
+    "id": 180,
+    "code_name": "wufeiSkill3Style3"
+  },
+  {
+    "id": 181,
+    "code_name": "bunnySkill1Style1"
+  },
+  {
+    "id": 182,
+    "code_name": "bunnySkill1Style2"
+  },
+  {
+    "id": 183,
+    "code_name": "bunnySkill1Style3"
+  },
+  {
+    "id": 184,
+    "code_name": "bunnySkill2Style1"
+  },
+  {
+    "id": 185,
+    "code_name": "bunnySkill2Style2"
+  },
+  {
+    "id": 186,
+    "code_name": "bunnySkill2Style3"
+  },
+  {
+    "id": 187,
+    "code_name": "bunnySkill3Style1"
+  },
+  {
+    "id": 188,
+    "code_name": "bunnySkill3Style2"
+  },
+  {
+    "id": 189,
+    "code_name": "bunnySkill3Style3"
+  },
+  {
+    "id": 190,
+    "code_name": "qifengSkill1Style1"
+  },
+  {
+    "id": 191,
+    "code_name": "qifengSkill1Style2"
+  },
+  {
+    "id": 192,
+    "code_name": "qifengSkill1Style3"
+  },
+  {
+    "id": 193,
+    "code_name": "qifengSkill2Style1"
+  },
+  {
+    "id": 194,
+    "code_name": "qifengSkill2Style2"
+  },
+  {
+    "id": 195,
+    "code_name": "qifengSkill2Style3"
+  },
+  {
+    "id": 196,
+    "code_name": "qifengSkill3Style1"
+  },
+  {
+    "id": 197,
+    "code_name": "qifengSkill3Style2"
+  },
+  {
+    "id": 198,
+    "code_name": "qifengSkill3Style3"
+  },
+  {
+    "id": 199,
+    "code_name": "qifengSkill4Style1"
+  },
+  {
+    "id": 200,
+    "code_name": "qifengSkill4Style2"
+  },
+  {
+    "id": 201,
+    "code_name": "qifengSkill4Style3"
+  },
+  {
+    "id": 202,
+    "code_name": "linxiaoSkill1Style1"
+  },
+  {
+    "id": 203,
+    "code_name": "linxiaoSkill1Style2"
+  },
+  {
+    "id": 204,
+    "code_name": "linxiaoSkill1Style3"
+  },
+  {
+    "id": 205,
+    "code_name": "linxiaoSkill2Style1"
+  },
+  {
+    "id": 206,
+    "code_name": "linxiaoSkill2Style2"
+  },
+  {
+    "id": 207,
+    "code_name": "linxiaoSkill2Style3"
+  },
+  {
+    "id": 208,
+    "code_name": "linxiaoSkill3Style1"
+  },
+  {
+    "id": 209,
+    "code_name": "linxiaoSkill3Style2"
+  },
+  {
+    "id": 210,
+    "code_name": "linxiaoSkill3Style3"
+  },
+  {
+    "id": 211,
+    "code_name": "feiyuSkill1Style1"
+  },
+  {
+    "id": 212,
+    "code_name": "feiyuSkill1Style2"
+  },
+  {
+    "id": 213,
+    "code_name": "feiyuSkill1Style3"
+  },
+  {
+    "id": 214,
+    "code_name": "feiyuSkill2Style1"
+  },
+  {
+    "id": 215,
+    "code_name": "feiyuSkill2Style2"
+  },
+  {
+    "id": 216,
+    "code_name": "feiyuSkill2Style3"
+  },
+  {
+    "id": 217,
+    "code_name": "feiyuSkill3Style1"
+  },
+  {
+    "id": 218,
+    "code_name": "feiyuSkill3Style2"
+  },
+  {
+    "id": 219,
+    "code_name": "feiyuSkill3Style3"
+  },
+  {
+    "id": 220,
+    "code_name": "hualingSkill1Style1"
+  },
+  {
+    "id": 221,
+    "code_name": "hualingSkill1Style2"
+  },
+  {
+    "id": 222,
+    "code_name": "hualingSkill1Style3"
+  },
+  {
+    "id": 223,
+    "code_name": "hualingSkill2Style1"
+  },
+  {
+    "id": 224,
+    "code_name": "hualingSkill2Style2"
+  },
+  {
+    "id": 225,
+    "code_name": "hualingSkill2Style3"
+  },
+  {
+    "id": 226,
+    "code_name": "hualingSkill3Style1"
+  },
+  {
+    "id": 227,
+    "code_name": "hualingSkill3Style2"
+  },
+  {
+    "id": 228,
+    "code_name": "hualingSkill3Style3"
+  },
+  {
+    "id": 229,
+    "code_name": "ranaSkill1Style1"
+  },
+  {
+    "id": 230,
+    "code_name": "ranaSkill1Style2"
+  },
+  {
+    "id": 231,
+    "code_name": "ranaSkill1Style3"
+  },
+  {
+    "id": 232,
+    "code_name": "ranaSkill2Style1"
+  },
+  {
+    "id": 233,
+    "code_name": "ranaSkill2Style2"
+  },
+  {
+    "id": 234,
+    "code_name": "ranaSkill2Style3"
+  },
+  {
+    "id": 235,
+    "code_name": "ranaSkill3Style1"
+  },
+  {
+    "id": 236,
+    "code_name": "ranaSkill3Style2"
+  },
+  {
+    "id": 237,
+    "code_name": "ranaSkill3Style3"
+  },
+  {
+    "id": 238,
+    "code_name": "dragonSkill1Style1"
+  },
+  {
+    "id": 239,
+    "code_name": "dragonSkill1Style2"
+  },
+  {
+    "id": 240,
+    "code_name": "dragonSkill1Style3"
+  },
+  {
+    "id": 241,
+    "code_name": "dragonSkill2Style1"
+  },
+  {
+    "id": 242,
+    "code_name": "dragonSkill2Style2"
+  },
+  {
+    "id": 243,
+    "code_name": "dragonSkill2Style3"
+  },
+  {
+    "id": 244,
+    "code_name": "dragonSkill3Style1"
+  },
+  {
+    "id": 245,
+    "code_name": "dragonSkill3Style2"
+  },
+  {
+    "id": 246,
+    "code_name": "dragonSkill3Style3"
+  }
+]

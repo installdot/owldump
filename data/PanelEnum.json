@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "code_name": "SelectSkinBoxUI"
+  },
+  {
+    "id": 1,
+    "code_name": "HeroPortraitUI"
+  },
+  {
+    "id": 2,
+    "code_name": "CyclePowerUI"
+  },
+  {
+    "id": 3,
+    "code_name": "BartendingTable"
+  },
+  {
+    "id": 4,
+    "code_name": "EmojiTableUI"
+  },
+  {
+    "id": 5,
+    "code_name": "TeamBillPleaseUI"
+  },
+  {
+    "id": 6,
+    "code_name": "NpcSkinCanvasUI"
+  },
+  {
+    "id": 7,
+    "code_name": "DailyActivityAndPiecesView"
+  },
+  {
+    "id": 8,
+    "code_name": "OmniscienceBallUI"
+  },
+  {
+    "id": 9,
+    "code_name": "BattlePassViewManager"
+  },
+  {
+    "id": 10,
+    "code_name": "ExclusiveSixRealmBallIdentifyUI"
+  },
+  {
+    "id": 11,
+    "code_name": "ExclusiveSixRealmBallAutoClaimBallUI"
+  },
+  {
+    "id": 12,
+    "code_name": "ChangeSeatTutorialUI"
+  },
+  {
+    "id": 13,
+    "code_name": "AllHeroSelectUI"
+  },
+  {
+    "id": 14,
+    "code_name": "DeviceInformationUI"
+  },
+  {
+    "id": 15,
+    "code_name": "AchievementStatueInfoPopupUI"
+  },
+  {
+    "id": 16,
+    "code_name": "CommonDoubleConfirmUI"
+  },
+  {
+    "id": 17,
+    "code_name": "TrainingRoomMonsterHintUI"
+  },
+  {
+    "id": 18,
+    "code_name": "NewHeroAddedUI"
+  },
+  {
+    "id": 19,
+    "code_name": "AdventureLevelRewardUI"
+  },
+  {
+    "id": 20,
+    "code_name": "WineFormulaPackTips"
+  },
+  {
+    "id": 21,
+    "code_name": "ActivityIntegrationView"
+  },
+  {
+    "id": 22,
+    "code_name": "DailyBoxCanvasView"
+  },
+  {
+    "id": 23,
+    "code_name": "DailyBoxChooseCanvasView"
+  },
+  {
+    "id": 24,
+    "code_name": "DailyBoxCurrentChosenRewardCanvasView"
+  },
+  {
+    "id": 25,
+    "code_name": "DailyBoxRewardDetailCanvasView"
+  },
+  {
+    "id": 26,
+    "code_name": "CommonGuidanceView"
+  },
+  {
+    "id": 27,
+    "code_name": "NewPetParadiseCanvasView"
+  },
+  {
+    "id": 28,
+    "code_name": "SelectGameModeUI"
+  },
+  {
+    "id": 29,
+    "code_name": "BattlePassSkinShopView"
+  }
+]

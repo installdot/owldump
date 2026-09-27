@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "Show"
+  },
+  {
+    "id": 2,
+    "code_name": "Hide"
+  }
+]

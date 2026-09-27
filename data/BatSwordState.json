@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "idle"
+  },
+  {
+    "id": 1,
+    "code_name": "move"
+  },
+  {
+    "id": 2,
+    "code_name": "rotate"
+  },
+  {
+    "id": 3,
+    "code_name": "dead"
+  }
+]

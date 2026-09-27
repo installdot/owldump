@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "code_name": "Idle"
+  },
+  {
+    "id": 1,
+    "code_name": "NormalAttack"
+  },
+  {
+    "id": 2,
+    "code_name": "Skill1SpinReady"
+  },
+  {
+    "id": 3,
+    "code_name": "Skill1SpinAttack"
+  },
+  {
+    "id": 4,
+    "code_name": "Skill2FeatherRain"
+  },
+  {
+    "id": 5,
+    "code_name": "Skill2ShootFeather"
+  },
+  {
+    "id": 6,
+    "code_name": "Skill2Dive"
+  },
+  {
+    "id": 7,
+    "code_name": "BackFlip"
+  },
+  {
+    "id": 8,
+    "code_name": "Move"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "code_name": "Default"
+  },
+  {
+    "id": 1,
+    "code_name": "Nordic1Wild"
+  },
+  {
+    "id": 2,
+    "code_name": "NwSuperSizeRoom"
+  },
+  {
+    "id": 3,
+    "code_name": "Magic0Garden"
+  },
+  {
+    "id": 4,
+    "code_name": "Magic0ClassRoom"
+  },
+  {
+    "id": 5,
+    "code_name": "Magic0HallWay"
+  },
+  {
+    "id": 6,
+    "code_name": "Magic1ElevatorUpperRoom"
+  },
+  {
+    "id": 7,
+    "code_name": "Magic1ElevatorLowerRoom"
+  },
+  {
+    "id": 8,
+    "code_name": "Magic1ElevatorEntranceRoom"
+  },
+  {
+    "id": 9,
+    "code_name": "Magic1ElevatorEndRoom"
+  }
+]

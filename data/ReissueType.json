@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Daily"
+  },
+  {
+    "id": 1,
+    "code_name": "Pieces"
+  },
+  {
+    "id": 2,
+    "code_name": "BattlePass"
+  },
+  {
+    "id": 3,
+    "code_name": "DailyActivityPoint"
+  }
+]

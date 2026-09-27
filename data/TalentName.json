@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "TianRenDao"
+  },
+  {
+    "id": 2,
+    "code_name": "XiuLuoDao"
+  },
+  {
+    "id": 3,
+    "code_name": "RenDao"
+  },
+  {
+    "id": 4,
+    "code_name": "ShouDao"
+  },
+  {
+    "id": 5,
+    "code_name": "GuiDao"
+  },
+  {
+    "id": 6,
+    "code_name": "YuDao"
+  }
+]

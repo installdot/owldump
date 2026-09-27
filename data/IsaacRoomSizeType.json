@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "Small"
+  },
+  {
+    "id": 1,
+    "code_name": "Middle"
+  },
+  {
+    "id": 2,
+    "code_name": "Huge"
+  },
+  {
+    "id": 3,
+    "code_name": "None"
+  },
+  {
+    "id": 4,
+    "code_name": "Custom"
+  }
+]

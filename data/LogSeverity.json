@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "Log"
+  },
+  {
+    "id": 1,
+    "code_name": "LogDebug"
+  },
+  {
+    "id": 2,
+    "code_name": "LogInfo"
+  },
+  {
+    "id": 3,
+    "code_name": "LogWarning"
+  },
+  {
+    "id": 4,
+    "code_name": "LogAssert"
+  },
+  {
+    "id": 5,
+    "code_name": "LogError"
+  },
+  {
+    "id": 6,
+    "code_name": "LogException"
+  }
+]

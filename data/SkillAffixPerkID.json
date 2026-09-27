@@ -1,0 +1,810 @@
+[
+  {
+    "id": 0,
+    "code_name": "SimpleStatChange"
+  },
+  {
+    "id": 1,
+    "code_name": "QuanHupuziCombo"
+  },
+  {
+    "id": 2,
+    "code_name": "QuanHeavyHupuzi"
+  },
+  {
+    "id": 3,
+    "code_name": "QuanShadowDodge"
+  },
+  {
+    "id": 4,
+    "code_name": "QuanExtraShadow"
+  },
+  {
+    "id": 5,
+    "code_name": "QuanSuckLeicha"
+  },
+  {
+    "id": 6,
+    "code_name": "QuanExtraPoMo"
+  },
+  {
+    "id": 7,
+    "code_name": "QuanBreakGround"
+  },
+  {
+    "id": 8,
+    "code_name": "QuanShadowKao"
+  },
+  {
+    "id": 9,
+    "code_name": "SeebeeSakuraSlash"
+  },
+  {
+    "id": 10,
+    "code_name": "SeebeeMoreOneSlash"
+  },
+  {
+    "id": 11,
+    "code_name": "SeebeeBleedOneSlash"
+  },
+  {
+    "id": 12,
+    "code_name": "SeebeeCounterAirSlash"
+  },
+  {
+    "id": 13,
+    "code_name": "SeebeeAutoCounter"
+  },
+  {
+    "id": 14,
+    "code_name": "SeebeeStrongerCounter"
+  },
+  {
+    "id": 15,
+    "code_name": "SeebeeBigAirSlash"
+  },
+  {
+    "id": 16,
+    "code_name": "AkaishaMoveRain"
+  },
+  {
+    "id": 17,
+    "code_name": "AkaishaSpeedy"
+  },
+  {
+    "id": 18,
+    "code_name": "AkaishaHeavyRain"
+  },
+  {
+    "id": 19,
+    "code_name": "AkaishaWindArrow"
+  },
+  {
+    "id": 20,
+    "code_name": "AkaishaStrongerExplode"
+  },
+  {
+    "id": 21,
+    "code_name": "AkaishaJumpingElf"
+  },
+  {
+    "id": 22,
+    "code_name": "AkaishaElfMark"
+  },
+  {
+    "id": 23,
+    "code_name": "AkaishaBuffingElf"
+  },
+  {
+    "id": 24,
+    "code_name": "AkaishaBarrage"
+  },
+  {
+    "id": 25,
+    "code_name": "SakariWind"
+  },
+  {
+    "id": 26,
+    "code_name": "SakariBreathe"
+  },
+  {
+    "id": 27,
+    "code_name": "SakariSelfHurt"
+  },
+  {
+    "id": 28,
+    "code_name": "SakariHurricane"
+  },
+  {
+    "id": 29,
+    "code_name": "SakariSwing"
+  },
+  {
+    "id": 30,
+    "code_name": "SakariCombination"
+  },
+  {
+    "id": 31,
+    "code_name": "OliMoreTurret"
+  },
+  {
+    "id": 32,
+    "code_name": "OliMoreAeroBat"
+  },
+  {
+    "id": 33,
+    "code_name": "OliMechMoreMissle"
+  },
+  {
+    "id": 34,
+    "code_name": "OliMechPierceBullet"
+  },
+  {
+    "id": 35,
+    "code_name": "OliCrazyAeroBat"
+  },
+  {
+    "id": 36,
+    "code_name": "OliRefillTurret"
+  },
+  {
+    "id": 37,
+    "code_name": "GangdanShieldStun"
+  },
+  {
+    "id": 38,
+    "code_name": "GangdanShieldChargePower"
+  },
+  {
+    "id": 39,
+    "code_name": "GangdanCombatShield"
+  },
+  {
+    "id": 40,
+    "code_name": "GangdanStrongerZone"
+  },
+  {
+    "id": 41,
+    "code_name": "GangdanLightBlessing"
+  },
+  {
+    "id": 42,
+    "code_name": "GangdanLevelUpHammer"
+  },
+  {
+    "id": 43,
+    "code_name": "GangdanRechargeHammer"
+  },
+  {
+    "id": 44,
+    "code_name": "GangdanLightDamageUp"
+  },
+  {
+    "id": 45,
+    "code_name": "GangdanDoubleAngel"
+  },
+  {
+    "id": 46,
+    "code_name": "GangdanAngelAttackSpeed"
+  },
+  {
+    "id": 47,
+    "code_name": "KatherineLastingFireBall"
+  },
+  {
+    "id": 48,
+    "code_name": "KatherineCritIce"
+  },
+  {
+    "id": 49,
+    "code_name": "KatherineMoreLightning"
+  },
+  {
+    "id": 50,
+    "code_name": "KatherineSuperFire"
+  },
+  {
+    "id": 51,
+    "code_name": "KatherineMoreFire"
+  },
+  {
+    "id": 52,
+    "code_name": "KatherineMoreIce"
+  },
+  {
+    "id": 53,
+    "code_name": "KatherineFastIce"
+  },
+  {
+    "id": 54,
+    "code_name": "KatherineFireLightning"
+  },
+  {
+    "id": 55,
+    "code_name": "KatherineSmallLightning"
+  },
+  {
+    "id": 56,
+    "code_name": "HannahInstantShot"
+  },
+  {
+    "id": 57,
+    "code_name": "HannahMoreAmmo"
+  },
+  {
+    "id": 58,
+    "code_name": "HannahCalculatedBounce"
+  },
+  {
+    "id": 59,
+    "code_name": "HannahSharpenedAmmo"
+  },
+  {
+    "id": 60,
+    "code_name": "HilldingMoreFood"
+  },
+  {
+    "id": 61,
+    "code_name": "HilldingPhantomFood"
+  },
+  {
+    "id": 62,
+    "code_name": "HilldingEasyAnger"
+  },
+  {
+    "id": 63,
+    "code_name": "HilldingRecoverRage"
+  },
+  {
+    "id": 64,
+    "code_name": "HilldingHeavyComboFree"
+  },
+  {
+    "id": 65,
+    "code_name": "HilldingHurricane"
+  },
+  {
+    "id": 66,
+    "code_name": "HilldingHitWall"
+  },
+  {
+    "id": 67,
+    "code_name": "HilldingSuperAnger"
+  },
+  {
+    "id": 68,
+    "code_name": "PenhaligonMoreSoldier"
+  },
+  {
+    "id": 69,
+    "code_name": "PenhaligonMoreCannon"
+  },
+  {
+    "id": 70,
+    "code_name": "PenhaligonStrongRush"
+  },
+  {
+    "id": 71,
+    "code_name": "PenhaligonAddShell"
+  },
+  {
+    "id": 72,
+    "code_name": "PenhaligonMoreBullet"
+  },
+  {
+    "id": 73,
+    "code_name": "PenhaligonFastShell"
+  },
+  {
+    "id": 74,
+    "code_name": "PenhaligonFlashCD"
+  },
+  {
+    "id": 75,
+    "code_name": "PenhaligonPowerRush"
+  },
+  {
+    "id": 76,
+    "code_name": "PenhaligonCopy"
+  },
+  {
+    "id": 77,
+    "code_name": "HayfaMarkedDagger"
+  },
+  {
+    "id": 78,
+    "code_name": "HayfaRefinedPoison"
+  },
+  {
+    "id": 79,
+    "code_name": "HayfaRecoverDagger"
+  },
+  {
+    "id": 80,
+    "code_name": "HayfaExtraKick"
+  },
+  {
+    "id": 81,
+    "code_name": "HannahSuperMarlene"
+  },
+  {
+    "id": 82,
+    "code_name": "HannahFineBullet"
+  },
+  {
+    "id": 83,
+    "code_name": "HannahContinuousFire"
+  },
+  {
+    "id": 84,
+    "code_name": "HayfaFailInShadow"
+  },
+  {
+    "id": 85,
+    "code_name": "HayfaGunmen"
+  },
+  {
+    "id": 86,
+    "code_name": "HayfaShiv"
+  },
+  {
+    "id": 87,
+    "code_name": "HayfaDeathHarvest"
+  },
+  {
+    "id": 88,
+    "code_name": "HayfaWindFollows"
+  },
+  {
+    "id": 89,
+    "code_name": "AnibellaShared"
+  },
+  {
+    "id": 90,
+    "code_name": "AnibellaPetMoreHp"
+  },
+  {
+    "id": 91,
+    "code_name": "AnibellaCatAttackSpeed"
+  },
+  {
+    "id": 92,
+    "code_name": "AnibellaGodAttackSpeed"
+  },
+  {
+    "id": 93,
+    "code_name": "AnibellaMarkWind"
+  },
+  {
+    "id": 94,
+    "code_name": "AnibellaPetGetHp"
+  },
+  {
+    "id": 95,
+    "code_name": "AnibellaFrogMoreBall"
+  },
+  {
+    "id": 96,
+    "code_name": "AnibellaFrogHotLava"
+  },
+  {
+    "id": 97,
+    "code_name": "AnibellaCatLongTime"
+  },
+  {
+    "id": 98,
+    "code_name": "AnibellaGodBlink"
+  },
+  {
+    "id": 99,
+    "code_name": "AnibellaGodAnger"
+  },
+  {
+    "id": 100,
+    "code_name": "AdiraPowerAttackCrit"
+  },
+  {
+    "id": 101,
+    "code_name": "AdiraKillHeal"
+  },
+  {
+    "id": 102,
+    "code_name": "AdiraAtkSpdToDmgUp"
+  },
+  {
+    "id": 103,
+    "code_name": "AdiraPowerAttackDmgUp"
+  },
+  {
+    "id": 104,
+    "code_name": "AdiraDmgReducedSkillCast"
+  },
+  {
+    "id": 105,
+    "code_name": "AdiraSunMark"
+  },
+  {
+    "id": 106,
+    "code_name": "AdiraPowerAttackToSkill"
+  },
+  {
+    "id": 107,
+    "code_name": "AdiraDownStrikeAddShockWave"
+  },
+  {
+    "id": 108,
+    "code_name": "AdiraFasterWhirlwind"
+  },
+  {
+    "id": 109,
+    "code_name": "AdiraUpSlashGivePowerAttack"
+  },
+  {
+    "id": 110,
+    "code_name": "AdiraBackStepToOtherSkill"
+  },
+  {
+    "id": 111,
+    "code_name": "YangkyiReduceNeedStack"
+  },
+  {
+    "id": 112,
+    "code_name": "YangkyiExplosiveMark"
+  },
+  {
+    "id": 113,
+    "code_name": "YangkyiBuffSpecialAttack"
+  },
+  {
+    "id": 114,
+    "code_name": "YangkyiMarkAddSkill1Damage"
+  },
+  {
+    "id": 115,
+    "code_name": "YangkyiSkill2Refresh"
+  },
+  {
+    "id": 116,
+    "code_name": "YangkyiSkill3RefreshOnKill"
+  },
+  {
+    "id": 117,
+    "code_name": "YangkyiSkill3Enchance"
+  },
+  {
+    "id": 118,
+    "code_name": "YangkyiSkill1Curse"
+  },
+  {
+    "id": 119,
+    "code_name": "YangkyiSkill2TornadoSuck"
+  },
+  {
+    "id": 120,
+    "code_name": "YouziQuickerReleaseHeat"
+  },
+  {
+    "id": 121,
+    "code_name": "YouziMoreOverHeatBar"
+  },
+  {
+    "id": 122,
+    "code_name": "YouziExtraWeapon"
+  },
+  {
+    "id": 123,
+    "code_name": "YouziSetFireOnMachineGunHit"
+  },
+  {
+    "id": 124,
+    "code_name": "YouziTurboMachineGun"
+  },
+  {
+    "id": 125,
+    "code_name": "YouziMissileAddDamageToOnFire"
+  },
+  {
+    "id": 126,
+    "code_name": "YouziMissileOverHeatSpreadFire"
+  },
+  {
+    "id": 127,
+    "code_name": "YouziMissileTriggerPillarEffect"
+  },
+  {
+    "id": 128,
+    "code_name": "YouziPillarBundleShot"
+  },
+  {
+    "id": 129,
+    "code_name": "YufengSkillToNormalAttack"
+  },
+  {
+    "id": 130,
+    "code_name": "YufengNormalAttackAirWave"
+  },
+  {
+    "id": 131,
+    "code_name": "YufengSkill1BackSlash"
+  },
+  {
+    "id": 132,
+    "code_name": "YufengNormalAttackAirSlashes"
+  },
+  {
+    "id": 133,
+    "code_name": "YufengSkill2Bleed"
+  },
+  {
+    "id": 134,
+    "code_name": "YufengSkill3CutWindUp"
+  },
+  {
+    "id": 135,
+    "code_name": "YufengSkill3BreakShield"
+  },
+  {
+    "id": 136,
+    "code_name": "WufeiMultiKickBlade"
+  },
+  {
+    "id": 137,
+    "code_name": "WufeiAddCritChanceToDmg"
+  },
+  {
+    "id": 138,
+    "code_name": "WufeiMoreArrowChip"
+  },
+  {
+    "id": 139,
+    "code_name": "WufeiBladeBleedOnMark"
+  },
+  {
+    "id": 140,
+    "code_name": "WufeiVulnerableOnMark"
+  },
+  {
+    "id": 141,
+    "code_name": "WufeiChipDmgUp"
+  },
+  {
+    "id": 142,
+    "code_name": "WufeiDodgeArrowSameEffect"
+  },
+  {
+    "id": 143,
+    "code_name": "WufeiAimmedBoomerang"
+  },
+  {
+    "id": 144,
+    "code_name": "BunnyAirAtkToBlast"
+  },
+  {
+    "id": 145,
+    "code_name": "BunnySkillChargeEnergy"
+  },
+  {
+    "id": 146,
+    "code_name": "BunnyHammerBlast"
+  },
+  {
+    "id": 147,
+    "code_name": "BunnyHammerEnhance"
+  },
+  {
+    "id": 148,
+    "code_name": "BunnyFasterSkill2"
+  },
+  {
+    "id": 149,
+    "code_name": "BunnyResetSkill2"
+  },
+  {
+    "id": 150,
+    "code_name": "BunnyBlastBurn"
+  },
+  {
+    "id": 151,
+    "code_name": "BunnyBlastTwice"
+  },
+  {
+    "id": 152,
+    "code_name": "QifengSkillPerkID1"
+  },
+  {
+    "id": 153,
+    "code_name": "QifengSkillPerkID2"
+  },
+  {
+    "id": 154,
+    "code_name": "QifengSkillPerkID3"
+  },
+  {
+    "id": 155,
+    "code_name": "QifengSkillPerkID4"
+  },
+  {
+    "id": 156,
+    "code_name": "QifengSkillPerkID5"
+  },
+  {
+    "id": 157,
+    "code_name": "QifengSkillPerkID6"
+  },
+  {
+    "id": 158,
+    "code_name": "QifengSkillPerkID7"
+  },
+  {
+    "id": 159,
+    "code_name": "QifengSkillPerkID8"
+  },
+  {
+    "id": 160,
+    "code_name": "LinxiaoSkill1DmgBuff"
+  },
+  {
+    "id": 161,
+    "code_name": "LinxiaoSkill2DmgBuff"
+  },
+  {
+    "id": 162,
+    "code_name": "LinxiaoSkill3DmgBuff"
+  },
+  {
+    "id": 163,
+    "code_name": "LinxiaoSkill1ExtraSpear"
+  },
+  {
+    "id": 164,
+    "code_name": "LinxiaoSkill2ExtraCast"
+  },
+  {
+    "id": 165,
+    "code_name": "LinxiaoSkill3ExtraGroundSpear"
+  },
+  {
+    "id": 166,
+    "code_name": "LinxiaoSkill1SpawnGroundSpear"
+  },
+  {
+    "id": 167,
+    "code_name": "LinxiaoSkill2HitSpawnLightning"
+  },
+  {
+    "id": 168,
+    "code_name": "LinxiaoSkill3SpawnOnSkill2"
+  },
+  {
+    "id": 169,
+    "code_name": "FeiyuExtraComboEffect"
+  },
+  {
+    "id": 170,
+    "code_name": "FeiyuWaterIceDmgUp"
+  },
+  {
+    "id": 171,
+    "code_name": "FeiyuGroundThunderDmgUp"
+  },
+  {
+    "id": 172,
+    "code_name": "FeiyuWoodFireDmgUp"
+  },
+  {
+    "id": 173,
+    "code_name": "FeiyuGroundExtraCharge"
+  },
+  {
+    "id": 174,
+    "code_name": "FeiyuWoodExtraRelease"
+  },
+  {
+    "id": 175,
+    "code_name": "FeiyuWaterCDReduction"
+  },
+  {
+    "id": 176,
+    "code_name": "HualingLastComboAfterSkill"
+  },
+  {
+    "id": 177,
+    "code_name": "HualingSkill1ExtraCharge"
+  },
+  {
+    "id": 178,
+    "code_name": "HualingSkill1ExtraRange"
+  },
+  {
+    "id": 179,
+    "code_name": "HualingSkill2BlockProjectile"
+  },
+  {
+    "id": 180,
+    "code_name": "HualingSkill3ExtraHit"
+  },
+  {
+    "id": 181,
+    "code_name": "HualingSkill3ExtraMomentum"
+  },
+  {
+    "id": 182,
+    "code_name": "HualingChargedSkillGainBuff"
+  },
+  {
+    "id": 183,
+    "code_name": "HualingBrittledGetMoreDmg"
+  },
+  {
+    "id": 184,
+    "code_name": "HualingSkill2AddShield"
+  },
+  {
+    "id": 185,
+    "code_name": "RanaPhantomAddDamage"
+  },
+  {
+    "id": 186,
+    "code_name": "RanaPhantomAddLifetime"
+  },
+  {
+    "id": 187,
+    "code_name": "RanaSkillAdvanceNextAttack"
+  },
+  {
+    "id": 188,
+    "code_name": "RanaAddPhantomReleaseCount"
+  },
+  {
+    "id": 189,
+    "code_name": "RanaPhantomExtraDashOnVanish"
+  },
+  {
+    "id": 190,
+    "code_name": "RanaHealOnPhantomHitEnemy"
+  },
+  {
+    "id": 191,
+    "code_name": "RanaSpeedUpCountdownOnPhantomHit"
+  },
+  {
+    "id": 192,
+    "code_name": "RanaSkill1DamageModifyByDistance"
+  },
+  {
+    "id": 193,
+    "code_name": "DragonSwimmingGainShield"
+  },
+  {
+    "id": 194,
+    "code_name": "DragonSkillShortCDIfNotBuffed"
+  },
+  {
+    "id": 195,
+    "code_name": "DragonExitSwimWaveAttack"
+  },
+  {
+    "id": 196,
+    "code_name": "DragonSkill1ExtraCharge"
+  },
+  {
+    "id": 197,
+    "code_name": "DragonSkill1ChaseTarget"
+  },
+  {
+    "id": 198,
+    "code_name": "DragonSkill2ExtraSpin"
+  },
+  {
+    "id": 199,
+    "code_name": "DragonSkill2SpawnBlade"
+  },
+  {
+    "id": 200,
+    "code_name": "DragonSkill3ExtraWaveAttack"
+  },
+  {
+    "id": 201,
+    "code_name": "DragonSkill3RefreshCDOnKill"
+  }
+]

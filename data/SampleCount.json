@@ -1,0 +1,18 @@
+[
+  {
+    "id": 3,
+    "code_name": "Lowest"
+  },
+  {
+    "id": 6,
+    "code_name": "Low"
+  },
+  {
+    "id": 10,
+    "code_name": "Medium"
+  },
+  {
+    "id": 16,
+    "code_name": "High"
+  }
+]

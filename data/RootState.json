@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "Patrol_Stand"
+  },
+  {
+    "id": 1,
+    "code_name": "Patrol_Move"
+  },
+  {
+    "id": 2,
+    "code_name": "Following"
+  },
+  {
+    "id": 3,
+    "code_name": "Boom"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "none"
+  },
+  {
+    "id": 1,
+    "code_name": "freedom"
+  },
+  {
+    "id": 2,
+    "code_name": "moveToTarget"
+  },
+  {
+    "id": 3,
+    "code_name": "waitClusterAttack"
+  },
+  {
+    "id": 4,
+    "code_name": "attack"
+  }
+]

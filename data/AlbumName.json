@@ -1,0 +1,158 @@
+[
+  {
+    "id": 0,
+    "code_name": "album_arab"
+  },
+  {
+    "id": 1,
+    "code_name": "album_cn"
+  },
+  {
+    "id": 2,
+    "code_name": "album_eu"
+  },
+  {
+    "id": 3,
+    "code_name": "album_jpn"
+  },
+  {
+    "id": 4,
+    "code_name": "album_us"
+  },
+  {
+    "id": 5,
+    "code_name": "album_forest"
+  },
+  {
+    "id": 6,
+    "code_name": "album_ger"
+  },
+  {
+    "id": 7,
+    "code_name": "album_nordic"
+  },
+  {
+    "id": 8,
+    "code_name": "album_nw"
+  },
+  {
+    "id": 9,
+    "code_name": "album_magic"
+  },
+  {
+    "id": 10,
+    "code_name": "album_magic2"
+  },
+  {
+    "id": 11,
+    "code_name": "album_fireDance"
+  },
+  {
+    "id": 12,
+    "code_name": "album_arab_boss"
+  },
+  {
+    "id": 13,
+    "code_name": "album_cn_boss"
+  },
+  {
+    "id": 14,
+    "code_name": "album_eu_boss"
+  },
+  {
+    "id": 15,
+    "code_name": "album_eu_boss2_1"
+  },
+  {
+    "id": 16,
+    "code_name": "album_eu_boss2_2"
+  },
+  {
+    "id": 17,
+    "code_name": "album_jpn_boss"
+  },
+  {
+    "id": 18,
+    "code_name": "album_us_boss"
+  },
+  {
+    "id": 19,
+    "code_name": "album_forest_boss"
+  },
+  {
+    "id": 20,
+    "code_name": "album_ger_boss"
+  },
+  {
+    "id": 21,
+    "code_name": "album_nordic_boss"
+  },
+  {
+    "id": 22,
+    "code_name": "album_nw_boss"
+  },
+  {
+    "id": 23,
+    "code_name": "album_magic_boss"
+  },
+  {
+    "id": 24,
+    "code_name": "album_final_boss_1"
+  },
+  {
+    "id": 25,
+    "code_name": "album_final_boss_2"
+  },
+  {
+    "id": 26,
+    "code_name": "album_fireDance_boss_1"
+  },
+  {
+    "id": 27,
+    "code_name": "album_fireDance_boss_2"
+  },
+  {
+    "id": 28,
+    "code_name": "album_ending"
+  },
+  {
+    "id": 29,
+    "code_name": "album_vaporwave"
+  },
+  {
+    "id": 30,
+    "code_name": "album_jpn_boss2"
+  },
+  {
+    "id": 31,
+    "code_name": "album_asura_rendao"
+  },
+  {
+    "id": 32,
+    "code_name": "album_asura_shoudao"
+  },
+  {
+    "id": 33,
+    "code_name": "album_asura_guidao"
+  },
+  {
+    "id": 34,
+    "code_name": "album_asura_yudao"
+  },
+  {
+    "id": 35,
+    "code_name": "album_asura_xiuluodao_1"
+  },
+  {
+    "id": 36,
+    "code_name": "album_asura_xiuluodao_2"
+  },
+  {
+    "id": 37,
+    "code_name": "album_asura_tianrendao_1"
+  },
+  {
+    "id": 38,
+    "code_name": "album_asura_tianrendao_2"
+  }
+]

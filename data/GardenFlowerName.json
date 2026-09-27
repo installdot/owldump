@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "SoulStone"
+  },
+  {
+    "id": 2,
+    "code_name": "special"
+  },
+  {
+    "id": 3,
+    "code_name": "summon"
+  },
+  {
+    "id": 4,
+    "code_name": "recover"
+  },
+  {
+    "id": 5,
+    "code_name": "wealth"
+  },
+  {
+    "id": 6,
+    "code_name": "specialAtk"
+  },
+  {
+    "id": 7,
+    "code_name": "tactics"
+  },
+  {
+    "id": 8,
+    "code_name": "atkTrigger"
+  },
+  {
+    "id": 9,
+    "code_name": "buff"
+  },
+  {
+    "id": 10,
+    "code_name": "defense"
+  },
+  {
+    "id": 11,
+    "code_name": "property"
+  },
+  {
+    "id": 12,
+    "code_name": "damage"
+  },
+  {
+    "id": 13,
+    "code_name": "selfDebuff"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "CannotUpgrade"
+  },
+  {
+    "id": 1,
+    "code_name": "CanUpgrade"
+  },
+  {
+    "id": 2,
+    "code_name": "AlreadyMaxLevel"
+  }
+]

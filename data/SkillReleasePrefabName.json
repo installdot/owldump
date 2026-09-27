@@ -1,0 +1,1614 @@
+[
+  {
+    "id": 0,
+    "code_name": "customSkillRelease"
+  },
+  {
+    "id": 1,
+    "code_name": "defaultSkillRelease"
+  },
+  {
+    "id": 2,
+    "code_name": "defaultKnockBackSkillRelease"
+  },
+  {
+    "id": 3,
+    "code_name": "defaultArrowRelease"
+  },
+  {
+    "id": 4,
+    "code_name": "defaultBulletRelease"
+  },
+  {
+    "id": 5,
+    "code_name": "knifeRelease"
+  },
+  {
+    "id": 6,
+    "code_name": "iassoRelease"
+  },
+  {
+    "id": 7,
+    "code_name": "kappaRelease"
+  },
+  {
+    "id": 8,
+    "code_name": "sunWineBoom"
+  },
+  {
+    "id": 9,
+    "code_name": "sunWineBoomTrace"
+  },
+  {
+    "id": 10,
+    "code_name": "quanhuying_hupuzi"
+  },
+  {
+    "id": 11,
+    "code_name": "quanhuying_leicha"
+  },
+  {
+    "id": 12,
+    "code_name": "quanhuying_leicha2"
+  },
+  {
+    "id": 13,
+    "code_name": "quanhuying_tieshankao_effect"
+  },
+  {
+    "id": 14,
+    "code_name": "quanhuying_dileizhen"
+  },
+  {
+    "id": 15,
+    "code_name": "seebee_oneSlash"
+  },
+  {
+    "id": 16,
+    "code_name": "witchCheap_calls"
+  },
+  {
+    "id": 17,
+    "code_name": "lightArrowRelease"
+  },
+  {
+    "id": 18,
+    "code_name": "arrowRainEmitter"
+  },
+  {
+    "id": 19,
+    "code_name": "sacrificeMagicBall"
+  },
+  {
+    "id": 20,
+    "code_name": "thunderBallRelease"
+  },
+  {
+    "id": 21,
+    "code_name": "conductionRelease"
+  },
+  {
+    "id": 22,
+    "code_name": "tykeSoulRelease"
+  },
+  {
+    "id": 23,
+    "code_name": "drillingMonkeyRelease"
+  },
+  {
+    "id": 24,
+    "code_name": "tinybotRocketRelease"
+  },
+  {
+    "id": 25,
+    "code_name": "akaishaPowerMaxArrowRelease"
+  },
+  {
+    "id": 26,
+    "code_name": "akaishaTrapRelease"
+  },
+  {
+    "id": 27,
+    "code_name": "earthPowerRelease"
+  },
+  {
+    "id": 28,
+    "code_name": "jpnToudSalivaRelease"
+  },
+  {
+    "id": 29,
+    "code_name": "poisonLiquid"
+  },
+  {
+    "id": 30,
+    "code_name": "jpnShinobiShurikenRelease"
+  },
+  {
+    "id": 31,
+    "code_name": "jpnTengo1HeavyComboStoneFireRelease"
+  },
+  {
+    "id": 32,
+    "code_name": "tanZhiRelease"
+  },
+  {
+    "id": 33,
+    "code_name": "westBoomFatBombRelease"
+  },
+  {
+    "id": 34,
+    "code_name": "westSwordsManRockRelease"
+  },
+  {
+    "id": 35,
+    "code_name": "westFireWomanBottleRelease"
+  },
+  {
+    "id": 36,
+    "code_name": "westShotGunManBulletRelease"
+  },
+  {
+    "id": 37,
+    "code_name": "westMorganTrainRelease"
+  },
+  {
+    "id": 38,
+    "code_name": "westTrainRelease"
+  },
+  {
+    "id": 39,
+    "code_name": "asura_mirror"
+  },
+  {
+    "id": 40,
+    "code_name": "asura_shieldBoom"
+  },
+  {
+    "id": 41,
+    "code_name": "arab_whiteRobeBubble"
+  },
+  {
+    "id": 42,
+    "code_name": "ParalysisBoomRelease"
+  },
+  {
+    "id": 43,
+    "code_name": "finalSacrificeRelease"
+  },
+  {
+    "id": 44,
+    "code_name": "fireSupportRelease"
+  },
+  {
+    "id": 45,
+    "code_name": "bigFlameBallRelease"
+  },
+  {
+    "id": 46,
+    "code_name": "darkHumorRelease"
+  },
+  {
+    "id": 47,
+    "code_name": "KatherineFireBallRelease"
+  },
+  {
+    "id": 48,
+    "code_name": "KatherineFireBallRelease_1"
+  },
+  {
+    "id": 49,
+    "code_name": "Empty"
+  },
+  {
+    "id": 50,
+    "code_name": "hannahSniperBulletRelease"
+  },
+  {
+    "id": 51,
+    "code_name": "hannahRevolverBulletRelease"
+  },
+  {
+    "id": 52,
+    "code_name": "nightMareRelease"
+  },
+  {
+    "id": 53,
+    "code_name": "superDarkArrowRelease"
+  },
+  {
+    "id": 54,
+    "code_name": "unicornComboRelease"
+  },
+  {
+    "id": 55,
+    "code_name": "rabbitFatherCarrotRelease"
+  },
+  {
+    "id": 56,
+    "code_name": "whiteCentaurSpearRelease"
+  },
+  {
+    "id": 57,
+    "code_name": "darkElvesSacificeAddBuffRelease"
+  },
+  {
+    "id": 58,
+    "code_name": "darkCentaurSpearRelease"
+  },
+  {
+    "id": 59,
+    "code_name": "darkUnicornComboRelease"
+  },
+  {
+    "id": 60,
+    "code_name": "flowerManSporeRelease"
+  },
+  {
+    "id": 61,
+    "code_name": "elvesSacificeCallRelease"
+  },
+  {
+    "id": 62,
+    "code_name": "forestSwordsBearFruitRelease"
+  },
+  {
+    "id": 63,
+    "code_name": "CEFruitsRelease"
+  },
+  {
+    "id": 64,
+    "code_name": "sharedSkillTengo0CallRockRelease"
+  },
+  {
+    "id": 65,
+    "code_name": "sharedSkillAxasheirGuardianRelease"
+  },
+  {
+    "id": 66,
+    "code_name": "sharedSkillChenFenShenRelease"
+  },
+  {
+    "id": 67,
+    "code_name": "sharedSkillFatWishLampRelease"
+  },
+  {
+    "id": 68,
+    "code_name": "sharedSkillMorgaSuctionRelease"
+  },
+  {
+    "id": 69,
+    "code_name": "seebee_oneSlash_warrior"
+  },
+  {
+    "id": 70,
+    "code_name": "vineRelease"
+  },
+  {
+    "id": 71,
+    "code_name": "forestMandolinBubble"
+  },
+  {
+    "id": 72,
+    "code_name": "forestMandolinBubbleLiquid"
+  },
+  {
+    "id": 73,
+    "code_name": "hellAxasheirMeleeArenaRelease"
+  },
+  {
+    "id": 74,
+    "code_name": "hellAxasheirMeleeArenaChargeRelease"
+  },
+  {
+    "id": 75,
+    "code_name": "cowRelease"
+  },
+  {
+    "id": 76,
+    "code_name": "hpBottleRelease"
+  },
+  {
+    "id": 77,
+    "code_name": "chagamaRelease"
+  },
+  {
+    "id": 78,
+    "code_name": "gerArmorBulletRelease"
+  },
+  {
+    "id": 79,
+    "code_name": "laserBulletRelease"
+  },
+  {
+    "id": 80,
+    "code_name": "mortarRelease"
+  },
+  {
+    "id": 81,
+    "code_name": "missilesRelease"
+  },
+  {
+    "id": 82,
+    "code_name": "floorRollingBoom"
+  },
+  {
+    "id": 83,
+    "code_name": "superMissilesRelease"
+  },
+  {
+    "id": 84,
+    "code_name": "sailorBulletRelease"
+  },
+  {
+    "id": 85,
+    "code_name": "drillingMonkeyRelease_sailor"
+  },
+  {
+    "id": 86,
+    "code_name": "surfaceBombingMortarRelease"
+  },
+  {
+    "id": 87,
+    "code_name": "hilldingKickDetermine"
+  },
+  {
+    "id": 88,
+    "code_name": "hilldingFoodRelease"
+  },
+  {
+    "id": 89,
+    "code_name": "hilldingShadowRelease"
+  },
+  {
+    "id": 90,
+    "code_name": "hilldingPlunderRelease"
+  },
+  {
+    "id": 91,
+    "code_name": "gasolineCanRelease"
+  },
+  {
+    "id": 92,
+    "code_name": "gasolineLiquid"
+  },
+  {
+    "id": 93,
+    "code_name": "fishTankRelease"
+  },
+  {
+    "id": 94,
+    "code_name": "shurikanRelease"
+  },
+  {
+    "id": 95,
+    "code_name": "blackhatBulletRelease"
+  },
+  {
+    "id": 96,
+    "code_name": "blackhatRevolverBulletRelease"
+  },
+  {
+    "id": 97,
+    "code_name": "assistantKatherineFireBallRelease"
+  },
+  {
+    "id": 98,
+    "code_name": "assistantKatherineFireBallRelease_1"
+  },
+  {
+    "id": 99,
+    "code_name": "officerOliviaBulletRelease"
+  },
+  {
+    "id": 100,
+    "code_name": "officerDrillingMonkeyRelease"
+  },
+  {
+    "id": 101,
+    "code_name": "robinDefaultArrowRelease"
+  },
+  {
+    "id": 102,
+    "code_name": "seebee_oneSlash_ghostface"
+  },
+  {
+    "id": 103,
+    "code_name": "BlastingFuseRelease"
+  },
+  {
+    "id": 104,
+    "code_name": "laser25BulletRelease"
+  },
+  {
+    "id": 105,
+    "code_name": "iceFireGunRelease"
+  },
+  {
+    "id": 106,
+    "code_name": "defaultLanceRelease"
+  },
+  {
+    "id": 107,
+    "code_name": "octopusVineRelease"
+  },
+  {
+    "id": 108,
+    "code_name": "octopusBubbleRelease"
+  },
+  {
+    "id": 109,
+    "code_name": "nordicOctopusShipRelease"
+  },
+  {
+    "id": 110,
+    "code_name": "defaultBulletRelease_police"
+  },
+  {
+    "id": 112,
+    "code_name": "hannahRevolverBulletRelease_police"
+  },
+  {
+    "id": 113,
+    "code_name": "timewalker_defaultBulletRelease"
+  },
+  {
+    "id": 114,
+    "code_name": "drillingMonkeyRelease_timewalker"
+  },
+  {
+    "id": 115,
+    "code_name": "KatherineFireBallRelease_marry"
+  },
+  {
+    "id": 116,
+    "code_name": "KatherineFireBallRelease_1_marry"
+  },
+  {
+    "id": 117,
+    "code_name": "hilldingShadowReleaseFlowerman"
+  },
+  {
+    "id": 118,
+    "code_name": "christmasDefaultArrowRelease"
+  },
+  {
+    "id": 119,
+    "code_name": "blackThunderBallRelease"
+  },
+  {
+    "id": 120,
+    "code_name": "rifleBulletRelease"
+  },
+  {
+    "id": 121,
+    "code_name": "arcaneExplosion"
+  },
+  {
+    "id": 122,
+    "code_name": "arsonistMolotovRelease"
+  },
+  {
+    "id": 123,
+    "code_name": "arsonistFireRelease"
+  },
+  {
+    "id": 124,
+    "code_name": "plasmaExplosion"
+  },
+  {
+    "id": 125,
+    "code_name": "pointBombRelease"
+  },
+  {
+    "id": 126,
+    "code_name": "artilleryBombRelease"
+  },
+  {
+    "id": 127,
+    "code_name": "penhaligonChargeRelease"
+  },
+  {
+    "id": 128,
+    "code_name": "grenadesRelease"
+  },
+  {
+    "id": 129,
+    "code_name": "pointLightBombRelease"
+  },
+  {
+    "id": 130,
+    "code_name": "mortarBombRelease"
+  },
+  {
+    "id": 131,
+    "code_name": "sapperMineRelease"
+  },
+  {
+    "id": 132,
+    "code_name": "dropShotBulletRelease"
+  },
+  {
+    "id": 133,
+    "code_name": "reboundShotBulletRelease"
+  },
+  {
+    "id": 134,
+    "code_name": "KatherineFireBallRelease_magician"
+  },
+  {
+    "id": 135,
+    "code_name": "KatherineFireBallRelease_1_magician"
+  },
+  {
+    "id": 136,
+    "code_name": "defaultBulletRelease_detective"
+  },
+  {
+    "id": 137,
+    "code_name": "hannahRevolverBulletRelease_detective"
+  },
+  {
+    "id": 138,
+    "code_name": "rifleBulletRelease_infantry"
+  },
+  {
+    "id": 139,
+    "code_name": "grenadesRelease_infantry"
+  },
+  {
+    "id": 140,
+    "code_name": "quanhuying_dileizhen_bartender"
+  },
+  {
+    "id": 141,
+    "code_name": "quanhuying_dileizhen_chinadoll"
+  },
+  {
+    "id": 142,
+    "code_name": "quanhuying_leicha_chinadoll"
+  },
+  {
+    "id": 143,
+    "code_name": "quanhuying_leicha2_chinadoll"
+  },
+  {
+    "id": 144,
+    "code_name": "ancientRelicWindRelease"
+  },
+  {
+    "id": 145,
+    "code_name": "ancientRelicRainRelease"
+  },
+  {
+    "id": 146,
+    "code_name": "trapFreezeEffectRelease"
+  },
+  {
+    "id": 147,
+    "code_name": "akaishaArrowRelease_red"
+  },
+  {
+    "id": 148,
+    "code_name": "hayfaTuduFirePoisonBall"
+  },
+  {
+    "id": 149,
+    "code_name": "hayfaDaggerRelease"
+  },
+  {
+    "id": 150,
+    "code_name": "trapFlameEffectRelease"
+  },
+  {
+    "id": 151,
+    "code_name": "trapToxicEffectRelease"
+  },
+  {
+    "id": 152,
+    "code_name": "ghostFireRelease"
+  },
+  {
+    "id": 153,
+    "code_name": "slashRelease"
+  },
+  {
+    "id": 154,
+    "code_name": "slimeStickyTrail"
+  },
+  {
+    "id": 155,
+    "code_name": "fighterPlusCombo1IcePitonRelease"
+  },
+  {
+    "id": 156,
+    "code_name": "fighterPlusComboFreezeEffectRelease"
+  },
+  {
+    "id": 157,
+    "code_name": "nwCommandoShipRelease"
+  },
+  {
+    "id": 158,
+    "code_name": "superFireArrowRelease"
+  },
+  {
+    "id": 159,
+    "code_name": "nordicWerwolfRelease"
+  },
+  {
+    "id": 160,
+    "code_name": "flyVolcanoRelease"
+  },
+  {
+    "id": 161,
+    "code_name": "nwInfantryPlusGhostRelease"
+  },
+  {
+    "id": 162,
+    "code_name": "arabPurpleRobePlusLightningBallRelease"
+  },
+  {
+    "id": 163,
+    "code_name": "superPoisonArrowRelease"
+  },
+  {
+    "id": 164,
+    "code_name": "blueStoneArrowRelease"
+  },
+  {
+    "id": 165,
+    "code_name": "leafArrowRelease"
+  },
+  {
+    "id": 166,
+    "code_name": "akaishaPowerMaxLeafArrowRelease"
+  },
+  {
+    "id": 167,
+    "code_name": "akaishaTornadoArrowWrapper"
+  },
+  {
+    "id": 168,
+    "code_name": "needleRelease"
+  },
+  {
+    "id": 169,
+    "code_name": "KatherineFireBallRelease_pusa"
+  },
+  {
+    "id": 170,
+    "code_name": "KatherineFireBallRelease_1_pusa"
+  },
+  {
+    "id": 171,
+    "code_name": "bigNeedleRelease"
+  },
+  {
+    "id": 172,
+    "code_name": "hilldingShadowReleaseWarrior"
+  },
+  {
+    "id": 173,
+    "code_name": "drillingMonkeySuperRelease"
+  },
+  {
+    "id": 174,
+    "code_name": "hayfaDaggerRelease_protector"
+  },
+  {
+    "id": 175,
+    "code_name": "SharedSkillLouisCallRelease"
+  },
+  {
+    "id": 176,
+    "code_name": "hedgeHogneedleRelease"
+  },
+  {
+    "id": 177,
+    "code_name": "aerobatRockRelease"
+  },
+  {
+    "id": 178,
+    "code_name": "nightmareDollAttackRelease"
+  },
+  {
+    "id": 179,
+    "code_name": "aimiMagicMissileRelease"
+  },
+  {
+    "id": 180,
+    "code_name": "aimiOathRelease"
+  },
+  {
+    "id": 181,
+    "code_name": "aimiSunWineBoomRelease"
+  },
+  {
+    "id": 182,
+    "code_name": "aimiHolyDefenceRelease"
+  },
+  {
+    "id": 183,
+    "code_name": "bingXueHuFuSnowRelease"
+  },
+  {
+    "id": 184,
+    "code_name": "sawRelease"
+  },
+  {
+    "id": 185,
+    "code_name": "holyGrailDeathIceSun"
+  },
+  {
+    "id": 186,
+    "code_name": "artilleryBombRelease_starwar"
+  },
+  {
+    "id": 187,
+    "code_name": "grenadesRelease_starwar"
+  },
+  {
+    "id": 188,
+    "code_name": "grootbunkerBulletRelease"
+  },
+  {
+    "id": 189,
+    "code_name": "grootbunkerSuperBulletRelease"
+  },
+  {
+    "id": 190,
+    "code_name": "grootAerobatBulletRelease"
+  },
+  {
+    "id": 191,
+    "code_name": "grootAerobatRockRelease"
+  },
+  {
+    "id": 192,
+    "code_name": "grootTranformedBulletRelease"
+  },
+  {
+    "id": 193,
+    "code_name": "drillingMonkeyRelease_groot"
+  },
+  {
+    "id": 194,
+    "code_name": "halloweenSkeletonsRelease"
+  },
+  {
+    "id": 195,
+    "code_name": "quanhuying_leicha2_kongfumaster"
+  },
+  {
+    "id": 196,
+    "code_name": "anniceStarRelease"
+  },
+  {
+    "id": 197,
+    "code_name": "anniceMoonRelease"
+  },
+  {
+    "id": 198,
+    "code_name": "ruthvenTortureBallRelease"
+  },
+  {
+    "id": 199,
+    "code_name": "bloodSputterBallRelease"
+  },
+  {
+    "id": 200,
+    "code_name": "christmas_arrowRelease"
+  },
+  {
+    "id": 201,
+    "code_name": "heart_arrowRelease"
+  },
+  {
+    "id": 202,
+    "code_name": "needleRelease_technology"
+  },
+  {
+    "id": 203,
+    "code_name": "bigNeedleRelease_technology"
+  },
+  {
+    "id": 204,
+    "code_name": "aimiMagicMissileRelease_queen"
+  },
+  {
+    "id": 205,
+    "code_name": "aimiHolyDefenceRelease_queen"
+  },
+  {
+    "id": 206,
+    "code_name": "aimiOathRelease_queen"
+  },
+  {
+    "id": 207,
+    "code_name": "aimiSunWineBoomRelease_queen"
+  },
+  {
+    "id": 208,
+    "code_name": "sawRelease_springfes"
+  },
+  {
+    "id": 209,
+    "code_name": "seebee_oneSlash_asura"
+  },
+  {
+    "id": 210,
+    "code_name": "lavaBallRelease"
+  },
+  {
+    "id": 211,
+    "code_name": "lavaFloorRelease"
+  },
+  {
+    "id": 212,
+    "code_name": "anibellaFireBallRelease"
+  },
+  {
+    "id": 213,
+    "code_name": "fatCatFireRelease"
+  },
+  {
+    "id": 214,
+    "code_name": "fatCatWowRelease"
+  },
+  {
+    "id": 215,
+    "code_name": "fireGodFireBallRelease"
+  },
+  {
+    "id": 216,
+    "code_name": "magicJackReleaseFlyBall"
+  },
+  {
+    "id": 217,
+    "code_name": "magicJack_calls"
+  },
+  {
+    "id": 218,
+    "code_name": "magicBossDemonEliminationRelease"
+  },
+  {
+    "id": 219,
+    "code_name": "magicBossDemonFlameArmorFireballRelease"
+  },
+  {
+    "id": 220,
+    "code_name": "magicWhiteWitchVineRelease"
+  },
+  {
+    "id": 221,
+    "code_name": "magicWhiteWitchHugeVineRelease"
+  },
+  {
+    "id": 222,
+    "code_name": "magicBossDemonVoidAttackLaserRelease"
+  },
+  {
+    "id": 223,
+    "code_name": "hayfaDaggerRelease_magician"
+  },
+  {
+    "id": 224,
+    "code_name": "defaultBulletRelease_exorcist"
+  },
+  {
+    "id": 225,
+    "code_name": "hannahSniperBulletRelease_exorcist"
+  },
+  {
+    "id": 226,
+    "code_name": "hannahSniperBulletRelease_exorcist_ex"
+  },
+  {
+    "id": 227,
+    "code_name": "magicAncientWitchLaser"
+  },
+  {
+    "id": 228,
+    "code_name": "magicArmorStatueGhost"
+  },
+  {
+    "id": 229,
+    "code_name": "devilPlus_calls"
+  },
+  {
+    "id": 230,
+    "code_name": "shotGunBulletRelease_exorcist"
+  },
+  {
+    "id": 231,
+    "code_name": "shotGunBulletRelease_exorcist_ex"
+  },
+  {
+    "id": 232,
+    "code_name": "hannahRevolverBulletRelease_exorcist"
+  },
+  {
+    "id": 233,
+    "code_name": "hannahRevolverBulletRelease_exorcist_ex"
+  },
+  {
+    "id": 234,
+    "code_name": "devilPlus_slash"
+  },
+  {
+    "id": 235,
+    "code_name": "magicDevilReleaseFlyBall"
+  },
+  {
+    "id": 236,
+    "code_name": "magicBroomWitchFireRing"
+  },
+  {
+    "id": 237,
+    "code_name": "hayfaTuduFirePoisonBall_magician"
+  },
+  {
+    "id": 238,
+    "code_name": "hayfaDaggerRelease_purple_magician"
+  },
+  {
+    "id": 239,
+    "code_name": "KatherineFireBallRelease_professor"
+  },
+  {
+    "id": 240,
+    "code_name": "KatherineFireBallRelease_1_professor"
+  },
+  {
+    "id": 241,
+    "code_name": "AdiraUpSlashStyle3StoneProjectile"
+  },
+  {
+    "id": 242,
+    "code_name": "sharedSkillMagicDemonFormEyeRayRelease"
+  },
+  {
+    "id": 243,
+    "code_name": "fireDanceStoneEyeMoonArrayRelease"
+  },
+  {
+    "id": 244,
+    "code_name": "fireDanceFireSoldierFuryRelease"
+  },
+  {
+    "id": 245,
+    "code_name": "fireDanceButterflyTornadoRelease"
+  },
+  {
+    "id": 246,
+    "code_name": "fireDanceButterflyWindBladeRelease"
+  },
+  {
+    "id": 247,
+    "code_name": "fireDanceButterflyBossFlowerExpandLavaRelease"
+  },
+  {
+    "id": 248,
+    "code_name": "fireDanceButterflyBossFlowerLavaSkillRelease"
+  },
+  {
+    "id": 249,
+    "code_name": "fireDanceButterflyBossFlowerRecoverLava"
+  },
+  {
+    "id": 250,
+    "code_name": "fireDanceGaroIceCirRelease"
+  },
+  {
+    "id": 251,
+    "code_name": "quanhuying_leicha_asura"
+  },
+  {
+    "id": 252,
+    "code_name": "quanhuying_leicha2_asura"
+  },
+  {
+    "id": 253,
+    "code_name": "quanhuying_leicha2_small_asura"
+  },
+  {
+    "id": 254,
+    "code_name": "LightMissile"
+  },
+  {
+    "id": 255,
+    "code_name": "seebee_oneSlash_omega"
+  },
+  {
+    "id": 256,
+    "code_name": "akaishaArrowRelease_princess"
+  },
+  {
+    "id": 257,
+    "code_name": "akaishaArrowRelease2_princess"
+  },
+  {
+    "id": 258,
+    "code_name": "yangkyiBead"
+  },
+  {
+    "id": 259,
+    "code_name": "yangkyiAutoTornado"
+  },
+  {
+    "id": 260,
+    "code_name": "yangkyiFullScreenFeather"
+  },
+  {
+    "id": 261,
+    "code_name": "yangkyiComboMissileRelease"
+  },
+  {
+    "id": 262,
+    "code_name": "quanhuyingScowl"
+  },
+  {
+    "id": 263,
+    "code_name": "youziMachineGunBulletRelease"
+  },
+  {
+    "id": 264,
+    "code_name": "youziMissileRelease"
+  },
+  {
+    "id": 265,
+    "code_name": "youziPillarRelease"
+  },
+  {
+    "id": 266,
+    "code_name": "youziMissileBombRelease"
+  },
+  {
+    "id": 267,
+    "code_name": "youziComboBullet"
+  },
+  {
+    "id": 268,
+    "code_name": "bloodSputterBallRelease_god"
+  },
+  {
+    "id": 269,
+    "code_name": "sawRelease_captain"
+  },
+  {
+    "id": 270,
+    "code_name": "yamatoDefaultArrowRelease"
+  },
+  {
+    "id": 271,
+    "code_name": "needleRelease_christmas"
+  },
+  {
+    "id": 272,
+    "code_name": "needleRelease_christmas_lite"
+  },
+  {
+    "id": 273,
+    "code_name": "bigNeedleRelease_christmas"
+  },
+  {
+    "id": 274,
+    "code_name": "yamatoLightArrowRelease"
+  },
+  {
+    "id": 275,
+    "code_name": "jpnToadSalivaBombRelease"
+  },
+  {
+    "id": 276,
+    "code_name": "jpnKappaWaterRelease"
+  },
+  {
+    "id": 277,
+    "code_name": "wufeiArrowRelease"
+  },
+  {
+    "id": 278,
+    "code_name": "wufeiArrowChipRelease"
+  },
+  {
+    "id": 279,
+    "code_name": "wufeiSpinningBladeRelease"
+  },
+  {
+    "id": 280,
+    "code_name": "wufeiKickTornadoRelease"
+  },
+  {
+    "id": 281,
+    "code_name": "AdiraUpSlashStyle3StoneProjectile_fireKnight"
+  },
+  {
+    "id": 282,
+    "code_name": "anniceStarRelease_springFestival"
+  },
+  {
+    "id": 283,
+    "code_name": "anniceMoonRelease_springFestival"
+  },
+  {
+    "id": 284,
+    "code_name": "toudToxicEffectRelease"
+  },
+  {
+    "id": 285,
+    "code_name": "adira_fireKnightFireBird"
+  },
+  {
+    "id": 286,
+    "code_name": "dragonArmor_angle3_defaultArrow"
+  },
+  {
+    "id": 287,
+    "code_name": "dragonArmor_angle3_laserArrow"
+  },
+  {
+    "id": 288,
+    "code_name": "dragonArmor_angle3_fireArrow"
+  },
+  {
+    "id": 289,
+    "code_name": "dragonArmor_angle3_DemonArrow"
+  },
+  {
+    "id": 290,
+    "code_name": "slimeTerrainRelease"
+  },
+  {
+    "id": 291,
+    "code_name": "homingEarthPowerRelease"
+  },
+  {
+    "id": 292,
+    "code_name": "witchCheapMissileRelease"
+  },
+  {
+    "id": 293,
+    "code_name": "blindingBlackFogRelease"
+  },
+  {
+    "id": 294,
+    "code_name": "slimePlusTerrainRelease"
+  },
+  {
+    "id": 295,
+    "code_name": "princessDragonDashRelease"
+  },
+  {
+    "id": 296,
+    "code_name": "vampireDraculaBloodRelease"
+  },
+  {
+    "id": 297,
+    "code_name": "raycastBulletRelease"
+  },
+  {
+    "id": 298,
+    "code_name": "qifeng_Skill2FireWaveRelease"
+  },
+  {
+    "id": 299,
+    "code_name": "qifeng_Skill3RotatingRopeRelease"
+  },
+  {
+    "id": 300,
+    "code_name": "qifeng_Skill3AttachingRopeRelease"
+  },
+  {
+    "id": 301,
+    "code_name": "JpnGeishaFanRelease"
+  },
+  {
+    "id": 302,
+    "code_name": "sakuraRazor"
+  },
+  {
+    "id": 303,
+    "code_name": "qifeng_Skill4FireTrailRelease"
+  },
+  {
+    "id": 304,
+    "code_name": "qifeng_Skill1FireDartRelease"
+  },
+  {
+    "id": 305,
+    "code_name": "floorGasGrenade"
+  },
+  {
+    "id": 306,
+    "code_name": "gasGrenadePhysicsSimulation"
+  },
+  {
+    "id": 307,
+    "code_name": "rifleBulletRelease_Penhaligon_Wonderbrush"
+  },
+  {
+    "id": 308,
+    "code_name": "wufeiSpinningBladeRelease_mili"
+  },
+  {
+    "id": 309,
+    "code_name": "wufeiArrowRelease_mili"
+  },
+  {
+    "id": 310,
+    "code_name": "grenadesRelease_wonderBrush"
+  },
+  {
+    "id": 311,
+    "code_name": "artilleryBombRelease_wonderBrush"
+  },
+  {
+    "id": 312,
+    "code_name": "summonGeishaPlayMusicRelease"
+  },
+  {
+    "id": 313,
+    "code_name": "lavaBallRelease_astronaut"
+  },
+  {
+    "id": 314,
+    "code_name": "anibellaFireBallRelease_astronaut"
+  },
+  {
+    "id": 315,
+    "code_name": "fireGodFireBallRelease_astronaut"
+  },
+  {
+    "id": 316,
+    "code_name": "fatCatWowRelease_astronaut"
+  },
+  {
+    "id": 317,
+    "code_name": "fatCatFireRelease_astronaut"
+  },
+  {
+    "id": 318,
+    "code_name": "ruthvenTortureBallRelease_god"
+  },
+  {
+    "id": 319,
+    "code_name": "frozenLaserRelease"
+  },
+  {
+    "id": 320,
+    "code_name": "summonGeishaThrowingRelease"
+  },
+  {
+    "id": 321,
+    "code_name": "geishaWindAttackRelease"
+  },
+  {
+    "id": 322,
+    "code_name": "wholeRoomSnowRelease"
+  },
+  {
+    "id": 323,
+    "code_name": "asuraRendaoShockwaveRelease"
+  },
+  {
+    "id": 324,
+    "code_name": "asuraRendaoFireRelease"
+  },
+  {
+    "id": 325,
+    "code_name": "linxiaoHorizontalSpearRelease"
+  },
+  {
+    "id": 326,
+    "code_name": "asuraShoudaoWindBladeRelease"
+  },
+  {
+    "id": 327,
+    "code_name": "asuraShoudaoBullRelease"
+  },
+  {
+    "id": 328,
+    "code_name": "linxiaoDropSpearRelease"
+  },
+  {
+    "id": 329,
+    "code_name": "linxiaoVerticalSpearRelease"
+  },
+  {
+    "id": 330,
+    "code_name": "linxiaoGroundSpearRelease"
+  },
+  {
+    "id": 331,
+    "code_name": "lightningConductor"
+  },
+  {
+    "id": 332,
+    "code_name": "defaultLightningBallRelease"
+  },
+  {
+    "id": 333,
+    "code_name": "asuraShoudaoGiantWindBladeRelease"
+  },
+  {
+    "id": 334,
+    "code_name": "plasmaBombRelease"
+  },
+  {
+    "id": 335,
+    "code_name": "youziMachineGunBulletRelease_swimsuits"
+  },
+  {
+    "id": 336,
+    "code_name": "youziMissileRelease_swimsuits"
+  },
+  {
+    "id": 337,
+    "code_name": "youziPillarRelease_swimsuits"
+  },
+  {
+    "id": 338,
+    "code_name": "youziMissileBombRelease_swimsuits"
+  },
+  {
+    "id": 339,
+    "code_name": "youziComboBullet_swimsuits"
+  },
+  {
+    "id": 340,
+    "code_name": "forestLightArrowRelease"
+  },
+  {
+    "id": 341,
+    "code_name": "forestBattlemageFireball"
+  },
+  {
+    "id": 342,
+    "code_name": "swordsBearOneSlashRelease"
+  },
+  {
+    "id": 343,
+    "code_name": "forestFlowermanSporeBombRelease"
+  },
+  {
+    "id": 344,
+    "code_name": "forestDarkBattlemageFireball"
+  },
+  {
+    "id": 345,
+    "code_name": "rabbitFatherCarrotBulletRelease"
+  },
+  {
+    "id": 346,
+    "code_name": "seebee_oneSlash_evilslash"
+  },
+  {
+    "id": 347,
+    "code_name": "ufo25ShortFrozenLaser"
+  },
+  {
+    "id": 348,
+    "code_name": "AsuraGuidaoSummonHand"
+  },
+  {
+    "id": 349,
+    "code_name": "asuraGuidaoLaser"
+  },
+  {
+    "id": 350,
+    "code_name": "AsuraGuidaoHomingMagicBallRelease"
+  },
+  {
+    "id": 351,
+    "code_name": "AsuraGuidaoDirectMagicBallRelease"
+  },
+  {
+    "id": 352,
+    "code_name": "asuraGuidaoSpear"
+  },
+  {
+    "id": 353,
+    "code_name": "AsuraGuidaoSummonFist"
+  },
+  {
+    "id": 354,
+    "code_name": "AsuraGuidaoGrab"
+  },
+  {
+    "id": 355,
+    "code_name": "youziPillarReleaseStyle2_swimsuits"
+  },
+  {
+    "id": 356,
+    "code_name": "AsuraGuidaoClusterMagicBallRelease"
+  },
+  {
+    "id": 357,
+    "code_name": "WufeiArrowChipRelease_mili"
+  },
+  {
+    "id": 358,
+    "code_name": "nordicSwordShieldPlusSlashLight"
+  },
+  {
+    "id": 359,
+    "code_name": "defaultSlashLightRelease"
+  },
+  {
+    "id": 360,
+    "code_name": "samuraiSlashLight"
+  },
+  {
+    "id": 361,
+    "code_name": "sawRelease_rock"
+  },
+  {
+    "id": 362,
+    "code_name": "KatherineFireBallRelease_purple"
+  },
+  {
+    "id": 363,
+    "code_name": "KatherineFireBallRelease_1_purple"
+  },
+  {
+    "id": 364,
+    "code_name": "hualingSkill1SpinningBladeRelease"
+  },
+  {
+    "id": 365,
+    "code_name": "hualingSkill2SwirlRelease"
+  },
+  {
+    "id": 366,
+    "code_name": "asuraYudaoLavaBall"
+  },
+  {
+    "id": 367,
+    "code_name": "asuraYudaoHook"
+  },
+  {
+    "id": 368,
+    "code_name": "asuraYudaoPoisonSmoke"
+  },
+  {
+    "id": 369,
+    "code_name": "CommonSkillReleaseWithSpriteFrameAnim"
+  },
+  {
+    "id": 370,
+    "code_name": "YudaoBoneSpikeRelease"
+  },
+  {
+    "id": 371,
+    "code_name": "asuraYudaoLavaFloor"
+  },
+  {
+    "id": 372,
+    "code_name": "feiyuZombieSkinMagicBallRelease"
+  },
+  {
+    "id": 373,
+    "code_name": "asuraXiuluodaoSmallCrackRelease"
+  },
+  {
+    "id": 374,
+    "code_name": "asuraXiuluodaoFloatingSpear"
+  },
+  {
+    "id": 375,
+    "code_name": "ranaPhantomRelease"
+  },
+  {
+    "id": 376,
+    "code_name": "christmasOliviaBulletRelease"
+  },
+  {
+    "id": 377,
+    "code_name": "christmasAerobatBulletRelease"
+  },
+  {
+    "id": 378,
+    "code_name": "christmasAerobatRockRelease"
+  },
+  {
+    "id": 379,
+    "code_name": "christmasAerobatSuperBulletRelease"
+  },
+  {
+    "id": 380,
+    "code_name": "drillingMonkeyRelease_christmas"
+  },
+  {
+    "id": 381,
+    "code_name": "erdeneSpinningArrow"
+  },
+  {
+    "id": 382,
+    "code_name": "erdeneArrowRelease"
+  },
+  {
+    "id": 383,
+    "code_name": "erdeneEagleFeatherRelease"
+  },
+  {
+    "id": 384,
+    "code_name": "westManicMinerDynamiteRelease"
+  },
+  {
+    "id": 385,
+    "code_name": "yangkyiComboMissileRelease_queen"
+  },
+  {
+    "id": 386,
+    "code_name": "yangkyiBead_queen"
+  },
+  {
+    "id": 387,
+    "code_name": "qifeng_Skill2FireWaveRelease_cowboy"
+  },
+  {
+    "id": 388,
+    "code_name": "qifeng_Skill3RotatingRopeRelease_cowboy"
+  },
+  {
+    "id": 389,
+    "code_name": "qifeng_Skill3AttachingRopeRelease_cowboy"
+  },
+  {
+    "id": 390,
+    "code_name": "qifeng_Skill1FireDartRelease_cowboy"
+  },
+  {
+    "id": 391,
+    "code_name": "LinxiaoHorizontalSpearRelease_springFestival"
+  },
+  {
+    "id": 392,
+    "code_name": "erdeneSpinningArrow_wild"
+  },
+  {
+    "id": 393,
+    "code_name": "erdeneArrowRelease_wild"
+  },
+  {
+    "id": 394,
+    "code_name": "erdeneEagleFeatherRelease_wild"
+  },
+  {
+    "id": 395,
+    "code_name": "needleRelease_snake"
+  },
+  {
+    "id": 396,
+    "code_name": "bigNeedleRelease_snake"
+  },
+  {
+    "id": 397,
+    "code_name": "xuansheSnakeSpecialNeedleRelease"
+  },
+  {
+    "id": 398,
+    "code_name": "asuraTianrendaoNebula"
+  },
+  {
+    "id": 399,
+    "code_name": "asuraTianrendaoBlackHole"
+  },
+  {
+    "id": 400,
+    "code_name": "asuraTIanrendaoConstellationRelease"
+  },
+  {
+    "id": 401,
+    "code_name": "asuraTianrendaoShockwaveRelease"
+  },
+  {
+    "id": 402,
+    "code_name": "erdeneEagleFeatherReleaseBodyStyle4_wild"
+  },
+  {
+    "id": 403,
+    "code_name": "LinxiaoHorizontalSpearRelease_springFestival_style1"
+  }
+]

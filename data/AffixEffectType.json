@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "growing"
+  },
+  {
+    "id": 1,
+    "code_name": "mutation"
+  },
+  {
+    "id": 2,
+    "code_name": "mutation_lot_conditions"
+  },
+  {
+    "id": 3,
+    "code_name": "special"
+  },
+  {
+    "id": 4,
+    "code_name": "level_up"
+  },
+  {
+    "id": 5,
+    "code_name": "reforge"
+  },
+  {
+    "id": 6,
+    "code_name": "upgrade_reforge"
+  }
+]

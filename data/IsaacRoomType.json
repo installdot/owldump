@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "code_name": "EMPTY"
+  },
+  {
+    "id": 1,
+    "code_name": "START"
+  },
+  {
+    "id": 2,
+    "code_name": "NORMAL"
+  },
+  {
+    "id": 3,
+    "code_name": "REWARD"
+  },
+  {
+    "id": 4,
+    "code_name": "STORE"
+  },
+  {
+    "id": 5,
+    "code_name": "END"
+  },
+  {
+    "id": 6,
+    "code_name": "BOSS"
+  },
+  {
+    "id": 7,
+    "code_name": "HIDDEN"
+  },
+  {
+    "id": 8,
+    "code_name": "SPECIAL_EFFECT_MERGE"
+  },
+  {
+    "id": 9,
+    "code_name": "SPECIAL_WEAPON_UPDATE"
+  },
+  {
+    "id": 10,
+    "code_name": "SPECIAL_WEAPON_MERGE"
+  },
+  {
+    "id": 11,
+    "code_name": "Mel"
+  },
+  {
+    "id": 12,
+    "code_name": "CHRISTMAS_HIDDEN"
+  },
+  {
+    "id": 13,
+    "code_name": "Event"
+  },
+  {
+    "id": 14,
+    "code_name": "SPECIAL_Event"
+  },
+  {
+    "id": 15,
+    "code_name": "Custom"
+  }
+]

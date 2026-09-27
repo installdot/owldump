@@ -1,0 +1,222 @@
+[
+  {
+    "id": 0,
+    "code_name": "Asura"
+  },
+  {
+    "id": 1,
+    "code_name": "Mirage"
+  },
+  {
+    "id": 2,
+    "code_name": "Sea"
+  },
+  {
+    "id": 3,
+    "code_name": "HowToReturn"
+  },
+  {
+    "id": 4,
+    "code_name": "Shou_Mel_0"
+  },
+  {
+    "id": 5,
+    "code_name": "Shou_Mel_1"
+  },
+  {
+    "id": 6,
+    "code_name": "Shou_Mel_2"
+  },
+  {
+    "id": 7,
+    "code_name": "Shou_Mel_3"
+  },
+  {
+    "id": 8,
+    "code_name": "Shou_Mel_4"
+  },
+  {
+    "id": 9,
+    "code_name": "Shou_Mel_5"
+  },
+  {
+    "id": 10,
+    "code_name": "Shou_Mel_Random_0"
+  },
+  {
+    "id": 11,
+    "code_name": "Shou_Mel_Random_1"
+  },
+  {
+    "id": 12,
+    "code_name": "Shou_Mel_Random_2"
+  },
+  {
+    "id": 13,
+    "code_name": "Shou_Mel_Random_3"
+  },
+  {
+    "id": 14,
+    "code_name": "Shou_Mel_Random_4"
+  },
+  {
+    "id": 15,
+    "code_name": "Gui_Mel_0"
+  },
+  {
+    "id": 16,
+    "code_name": "Gui_Mel_1"
+  },
+  {
+    "id": 17,
+    "code_name": "Gui_Mel_2"
+  },
+  {
+    "id": 18,
+    "code_name": "Gui_Mel_3"
+  },
+  {
+    "id": 19,
+    "code_name": "Gui_Mel_4"
+  },
+  {
+    "id": 20,
+    "code_name": "Gui_Mel_Random_0"
+  },
+  {
+    "id": 21,
+    "code_name": "Gui_Mel_Random_1"
+  },
+  {
+    "id": 22,
+    "code_name": "Gui_Mel_Random_2"
+  },
+  {
+    "id": 23,
+    "code_name": "Gui_Mel_Random_3"
+  },
+  {
+    "id": 24,
+    "code_name": "Gui_Mel_Random_4"
+  },
+  {
+    "id": 25,
+    "code_name": "Yu_Mel_0"
+  },
+  {
+    "id": 26,
+    "code_name": "Yu_Mel_1"
+  },
+  {
+    "id": 27,
+    "code_name": "Yu_Mel_2"
+  },
+  {
+    "id": 28,
+    "code_name": "Yu_Mel_3"
+  },
+  {
+    "id": 29,
+    "code_name": "Yu_Mel_Random_0"
+  },
+  {
+    "id": 30,
+    "code_name": "Yu_Mel_Random_1"
+  },
+  {
+    "id": 31,
+    "code_name": "Yu_Mel_Random_2"
+  },
+  {
+    "id": 32,
+    "code_name": "Yu_Mel_Random_3"
+  },
+  {
+    "id": 33,
+    "code_name": "Yu_Mel_Random_4"
+  },
+  {
+    "id": 34,
+    "code_name": "Yu_Mel_Random_5"
+  },
+  {
+    "id": 35,
+    "code_name": "Xiuluo_Mel_0"
+  },
+  {
+    "id": 36,
+    "code_name": "Xiuluo_Mel_1"
+  },
+  {
+    "id": 37,
+    "code_name": "Xiuluo_Mel_2"
+  },
+  {
+    "id": 38,
+    "code_name": "Xiuluo_Mel_3"
+  },
+  {
+    "id": 39,
+    "code_name": "Xiuluo_Mel_Random_0"
+  },
+  {
+    "id": 40,
+    "code_name": "Xiuluo_Mel_Random_1"
+  },
+  {
+    "id": 41,
+    "code_name": "Xiuluo_Mel_Random_2"
+  },
+  {
+    "id": 42,
+    "code_name": "Xiuluo_Mel_Random_3"
+  },
+  {
+    "id": 43,
+    "code_name": "Xiuluo_Mel_Random_4"
+  },
+  {
+    "id": 44,
+    "code_name": "Xiuluo_Mel_Random_5"
+  },
+  {
+    "id": 45,
+    "code_name": "Tianren_Mel_0"
+  },
+  {
+    "id": 46,
+    "code_name": "Tianren_Mel_1"
+  },
+  {
+    "id": 47,
+    "code_name": "Tianren_Mel_2"
+  },
+  {
+    "id": 48,
+    "code_name": "Tianren_Mel_Random_0"
+  },
+  {
+    "id": 49,
+    "code_name": "Tianren_Mel_Random_1"
+  },
+  {
+    "id": 50,
+    "code_name": "Tianren_Mel_Random_2"
+  },
+  {
+    "id": 51,
+    "code_name": "Tianren_Mel_Random_3"
+  },
+  {
+    "id": 52,
+    "code_name": "Tianren_Mel_Random_4"
+  },
+  {
+    "id": 53,
+    "code_name": "Tianren_Mel_Random_5"
+  },
+  {
+    "id": 54,
+    "code_name": "Tianren_Mel_Random_6"
+  }
+]

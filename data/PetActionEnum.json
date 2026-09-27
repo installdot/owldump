@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "idle"
+  },
+  {
+    "id": 1,
+    "code_name": "run"
+  },
+  {
+    "id": 2,
+    "code_name": "idle_UI"
+  },
+  {
+    "id": 3,
+    "code_name": "adorable1"
+  },
+  {
+    "id": 4,
+    "code_name": "adorable2"
+  },
+  {
+    "id": 5,
+    "code_name": "adorable3"
+  },
+  {
+    "id": 6,
+    "code_name": "adorable4"
+  }
+]

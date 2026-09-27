@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 1,
+    "code_name": "SaveMoney"
+  },
+  {
+    "id": 2,
+    "code_name": "FreePay"
+  },
+  {
+    "id": 3,
+    "code_name": "RaceMaster"
+  },
+  {
+    "id": 4,
+    "code_name": "IHuman"
+  },
+  {
+    "id": 5,
+    "code_name": "EHuman"
+  },
+  {
+    "id": 6,
+    "code_name": "ItemMaster"
+  },
+  {
+    "id": 7,
+    "code_name": "CopyItem"
+  },
+  {
+    "id": 8,
+    "code_name": "MVP"
+  },
+  {
+    "id": 9,
+    "code_name": "RefreshShop"
+  },
+  {
+    "id": 10,
+    "code_name": "SameChess"
+  },
+  {
+    "id": 11,
+    "code_name": "LowChessPower"
+  },
+  {
+    "id": 12,
+    "code_name": "SoloChess"
+  },
+  {
+    "id": 13,
+    "code_name": "SameRace"
+  }
+]

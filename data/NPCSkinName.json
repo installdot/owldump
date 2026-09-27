@@ -1,0 +1,114 @@
+[
+  {
+    "id": 0,
+    "code_name": "npc_zhao"
+  },
+  {
+    "id": 1,
+    "code_name": "npc_zhao_christmas"
+  },
+  {
+    "id": 2,
+    "code_name": "npc_zhao_spring"
+  },
+  {
+    "id": 3,
+    "code_name": "npc_zhao_spring2023"
+  },
+  {
+    "id": 4,
+    "code_name": "npc_zhao_zombie"
+  },
+  {
+    "id": 5,
+    "code_name": "npc_ken"
+  },
+  {
+    "id": 6,
+    "code_name": "npc_ken_meizu"
+  },
+  {
+    "id": 7,
+    "code_name": "npc_ken_4399"
+  },
+  {
+    "id": 8,
+    "code_name": "npc_ken_hykb"
+  },
+  {
+    "id": 9,
+    "code_name": "npc_ken_christmas"
+  },
+  {
+    "id": 10,
+    "code_name": "npc_ken_spring"
+  },
+  {
+    "id": 11,
+    "code_name": "npc_ken_spring2023"
+  },
+  {
+    "id": 12,
+    "code_name": "npc_ken_asura"
+  },
+  {
+    "id": 13,
+    "code_name": "npc_mari"
+  },
+  {
+    "id": 14,
+    "code_name": "npc_mari_christmas"
+  },
+  {
+    "id": 15,
+    "code_name": "npc_mari_spring"
+  },
+  {
+    "id": 16,
+    "code_name": "npc_mari_spring2023"
+  },
+  {
+    "id": 17,
+    "code_name": "npc_mari_angel"
+  },
+  {
+    "id": 18,
+    "code_name": "npc_mari_spring2024"
+  },
+  {
+    "id": 19,
+    "code_name": "npc_zhimei"
+  },
+  {
+    "id": 20,
+    "code_name": "npc_zhimei_christmas"
+  },
+  {
+    "id": 21,
+    "code_name": "npc_zhimei_spring2023"
+  },
+  {
+    "id": 22,
+    "code_name": "npc_zhimei_bare"
+  },
+  {
+    "id": 23,
+    "code_name": "npc_asura"
+  },
+  {
+    "id": 24,
+    "code_name": "npc_asura_christmas"
+  },
+  {
+    "id": 25,
+    "code_name": "npc_asura_spring"
+  },
+  {
+    "id": 26,
+    "code_name": "npc_asura_spring2023"
+  },
+  {
+    "id": 27,
+    "code_name": "npc_asura_master"
+  }
+]

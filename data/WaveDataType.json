@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "Circle"
+  },
+  {
+    "id": 1,
+    "code_name": "HalfAntiCircle_Left"
+  },
+  {
+    "id": 2,
+    "code_name": "HalfAntiCircle_Right"
+  },
+  {
+    "id": 3,
+    "code_name": "Circle_Diminishing"
+  },
+  {
+    "id": 4,
+    "code_name": "OnlyDownLine"
+  }
+]

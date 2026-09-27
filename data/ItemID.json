@@ -1,0 +1,1086 @@
+[
+  {
+    "id": 0,
+    "code_name": "coin_base"
+  },
+  {
+    "id": 1,
+    "code_name": "coin_0"
+  },
+  {
+    "id": 2,
+    "code_name": "coin_1"
+  },
+  {
+    "id": 3,
+    "code_name": "coin_2"
+  },
+  {
+    "id": 4,
+    "code_name": "coin_3"
+  },
+  {
+    "id": 5,
+    "code_name": "coin_4"
+  },
+  {
+    "id": 6,
+    "code_name": "soulStone"
+  },
+  {
+    "id": 7,
+    "code_name": "blueStone"
+  },
+  {
+    "id": 8,
+    "code_name": "redStone"
+  },
+  {
+    "id": 9,
+    "code_name": "hpBottle"
+  },
+  {
+    "id": 10,
+    "code_name": "energy_qi"
+  },
+  {
+    "id": 11,
+    "code_name": "olivia_gear"
+  },
+  {
+    "id": 12,
+    "code_name": "coin_auto_boom"
+  },
+  {
+    "id": 154,
+    "code_name": "baolian_auto"
+  },
+  {
+    "id": 13,
+    "code_name": "randomCharacterEffect"
+  },
+  {
+    "id": 14,
+    "code_name": "halfHealthRage"
+  },
+  {
+    "id": 15,
+    "code_name": "critHeal"
+  },
+  {
+    "id": 16,
+    "code_name": "shadowMan"
+  },
+  {
+    "id": 17,
+    "code_name": "chargingJar"
+  },
+  {
+    "id": 18,
+    "code_name": "vampire"
+  },
+  {
+    "id": 19,
+    "code_name": "sunWine"
+  },
+  {
+    "id": 20,
+    "code_name": "crowbar"
+  },
+  {
+    "id": 21,
+    "code_name": "sacrificeKnife"
+  },
+  {
+    "id": 22,
+    "code_name": "poisonTouch"
+  },
+  {
+    "id": 23,
+    "code_name": "burnTouch"
+  },
+  {
+    "id": 24,
+    "code_name": "frozenTouch"
+  },
+  {
+    "id": 25,
+    "code_name": "thunderBall"
+  },
+  {
+    "id": 26,
+    "code_name": "sickMan"
+  },
+  {
+    "id": 27,
+    "code_name": "suckerPunch"
+  },
+  {
+    "id": 28,
+    "code_name": "muscleFeedback"
+  },
+  {
+    "id": 29,
+    "code_name": "rolling"
+  },
+  {
+    "id": 30,
+    "code_name": "moneyIsPower"
+  },
+  {
+    "id": 31,
+    "code_name": "critChain"
+  },
+  {
+    "id": 32,
+    "code_name": "fightingFrenzy"
+  },
+  {
+    "id": 33,
+    "code_name": "conduction"
+  },
+  {
+    "id": 34,
+    "code_name": "tykeSoul"
+  },
+  {
+    "id": 35,
+    "code_name": "drillingMonkey"
+  },
+  {
+    "id": 36,
+    "code_name": "vampireSeed"
+  },
+  {
+    "id": 37,
+    "code_name": "petDogeTyke"
+  },
+  {
+    "id": 38,
+    "code_name": "petLibeluece"
+  },
+  {
+    "id": 39,
+    "code_name": "petBatPoison"
+  },
+  {
+    "id": 40,
+    "code_name": "base_Damage"
+  },
+  {
+    "id": 41,
+    "code_name": "base_AttackSpeed"
+  },
+  {
+    "id": 42,
+    "code_name": "base_CritRate"
+  },
+  {
+    "id": 43,
+    "code_name": "base_CritDamageRate"
+  },
+  {
+    "id": 44,
+    "code_name": "base_EnergyShield"
+  },
+  {
+    "id": 45,
+    "code_name": "base_Health"
+  },
+  {
+    "id": 46,
+    "code_name": "base_MoveSpeed"
+  },
+  {
+    "id": 47,
+    "code_name": "base_Lucky"
+  },
+  {
+    "id": 48,
+    "code_name": "chance_Damage"
+  },
+  {
+    "id": 49,
+    "code_name": "chance_AttackSpeed"
+  },
+  {
+    "id": 50,
+    "code_name": "chance_CritRate"
+  },
+  {
+    "id": 51,
+    "code_name": "chance_CritDamageRate"
+  },
+  {
+    "id": 52,
+    "code_name": "chance_EnergyShield"
+  },
+  {
+    "id": 53,
+    "code_name": "chance_Health"
+  },
+  {
+    "id": 54,
+    "code_name": "chance_MoveSpeed"
+  },
+  {
+    "id": 55,
+    "code_name": "chance_Lucky"
+  },
+  {
+    "id": 56,
+    "code_name": "revenge"
+  },
+  {
+    "id": 57,
+    "code_name": "firstAidKit"
+  },
+  {
+    "id": 58,
+    "code_name": "pocketMoney"
+  },
+  {
+    "id": 59,
+    "code_name": "VIPCard"
+  },
+  {
+    "id": 60,
+    "code_name": "tengoStone"
+  },
+  {
+    "id": 61,
+    "code_name": "holyFestival"
+  },
+  {
+    "id": 62,
+    "code_name": "fear"
+  },
+  {
+    "id": 63,
+    "code_name": "marathon"
+  },
+  {
+    "id": 64,
+    "code_name": "financial"
+  },
+  {
+    "id": 65,
+    "code_name": "boxing"
+  },
+  {
+    "id": 66,
+    "code_name": "gene"
+  },
+  {
+    "id": 67,
+    "code_name": "watch"
+  },
+  {
+    "id": 68,
+    "code_name": "redMushroom"
+  },
+  {
+    "id": 69,
+    "code_name": "flameFlower"
+  },
+  {
+    "id": 70,
+    "code_name": "omniscience"
+  },
+  {
+    "id": 71,
+    "code_name": "soulEcho"
+  },
+  {
+    "id": 72,
+    "code_name": "worldReducer"
+  },
+  {
+    "id": 73,
+    "code_name": "drumbling"
+  },
+  {
+    "id": 74,
+    "code_name": "pursuit"
+  },
+  {
+    "id": 75,
+    "code_name": "greenMushroom"
+  },
+  {
+    "id": 76,
+    "code_name": "lifeConversion"
+  },
+  {
+    "id": 77,
+    "code_name": "shieldConversion"
+  },
+  {
+    "id": 78,
+    "code_name": "porkBelly"
+  },
+  {
+    "id": 79,
+    "code_name": "shamanTotem"
+  },
+  {
+    "id": 80,
+    "code_name": "critRing"
+  },
+  {
+    "id": 81,
+    "code_name": "basicHealth"
+  },
+  {
+    "id": 82,
+    "code_name": "basicAttackSpeed"
+  },
+  {
+    "id": 83,
+    "code_name": "basicShield"
+  },
+  {
+    "id": 84,
+    "code_name": "adrenaline"
+  },
+  {
+    "id": 85,
+    "code_name": "critHourglass"
+  },
+  {
+    "id": 86,
+    "code_name": "turban"
+  },
+  {
+    "id": 87,
+    "code_name": "spurRing"
+  },
+  {
+    "id": 88,
+    "code_name": "opticalCamouflage"
+  },
+  {
+    "id": 89,
+    "code_name": "attributePrism"
+  },
+  {
+    "id": 90,
+    "code_name": "sharedMachine"
+  },
+  {
+    "id": 91,
+    "code_name": "weakPointLens"
+  },
+  {
+    "id": 92,
+    "code_name": "jack"
+  },
+  {
+    "id": 93,
+    "code_name": "threeWishes"
+  },
+  {
+    "id": 94,
+    "code_name": "succubusMask"
+  },
+  {
+    "id": 95,
+    "code_name": "angryPufferFish"
+  },
+  {
+    "id": 96,
+    "code_name": "commandoArmband"
+  },
+  {
+    "id": 97,
+    "code_name": "wmr55"
+  },
+  {
+    "id": 98,
+    "code_name": "chewingGum"
+  },
+  {
+    "id": 99,
+    "code_name": "buttonBoom"
+  },
+  {
+    "id": 100,
+    "code_name": "paralysisBoom"
+  },
+  {
+    "id": 101,
+    "code_name": "goldenFinger"
+  },
+  {
+    "id": 102,
+    "code_name": "worldIncrementer"
+  },
+  {
+    "id": 103,
+    "code_name": "robotNurse"
+  },
+  {
+    "id": 104,
+    "code_name": "cat"
+  },
+  {
+    "id": 105,
+    "code_name": "hotWheel"
+  },
+  {
+    "id": 106,
+    "code_name": "soulTyke"
+  },
+  {
+    "id": 107,
+    "code_name": "flashBat"
+  },
+  {
+    "id": 108,
+    "code_name": "saintLibeluece"
+  },
+  {
+    "id": 109,
+    "code_name": "elfKing"
+  },
+  {
+    "id": 110,
+    "code_name": "sourceFortune"
+  },
+  {
+    "id": 111,
+    "code_name": "finalSacrifice"
+  },
+  {
+    "id": 112,
+    "code_name": "holyGrail"
+  },
+  {
+    "id": 113,
+    "code_name": "flameGlove"
+  },
+  {
+    "id": 114,
+    "code_name": "imperialEngine"
+  },
+  {
+    "id": 115,
+    "code_name": "fireSupport"
+  },
+  {
+    "id": 116,
+    "code_name": "shadowDancer"
+  },
+  {
+    "id": 117,
+    "code_name": "bigFlameBall"
+  },
+  {
+    "id": 118,
+    "code_name": "stoicCarapace"
+  },
+  {
+    "id": 119,
+    "code_name": "fightingSoul"
+  },
+  {
+    "id": 120,
+    "code_name": "coldDrink"
+  },
+  {
+    "id": 121,
+    "code_name": "darkHumor"
+  },
+  {
+    "id": 122,
+    "code_name": "microPlanet"
+  },
+  {
+    "id": 123,
+    "code_name": "tacticalArmor"
+  },
+  {
+    "id": 124,
+    "code_name": "coinBoom"
+  },
+  {
+    "id": 125,
+    "code_name": "amber"
+  },
+  {
+    "id": 126,
+    "code_name": "bionicShield"
+  },
+  {
+    "id": 127,
+    "code_name": "brokenBoneKnife"
+  },
+  {
+    "id": 129,
+    "code_name": "ninjaCloak"
+  },
+  {
+    "id": 130,
+    "code_name": "shadowLife"
+  },
+  {
+    "id": 131,
+    "code_name": "braveShield"
+  },
+  {
+    "id": 132,
+    "code_name": "livingCat"
+  },
+  {
+    "id": 133,
+    "code_name": "zeroElement"
+  },
+  {
+    "id": 134,
+    "code_name": "nightmareDoll"
+  },
+  {
+    "id": 135,
+    "code_name": "demonCharm"
+  },
+  {
+    "id": 136,
+    "code_name": "toreDagger"
+  },
+  {
+    "id": 137,
+    "code_name": "yamatoJade"
+  },
+  {
+    "id": 138,
+    "code_name": "rockCore"
+  },
+  {
+    "id": 139,
+    "code_name": "tricksRason"
+  },
+  {
+    "id": 140,
+    "code_name": "judoHelmet"
+  },
+  {
+    "id": 141,
+    "code_name": "fruits"
+  },
+  {
+    "id": 142,
+    "code_name": "trail_Venom"
+  },
+  {
+    "id": 143,
+    "code_name": "trail_Offering"
+  },
+  {
+    "id": 144,
+    "code_name": "trail_Gold"
+  },
+  {
+    "id": 145,
+    "code_name": "trail_Dwarf"
+  },
+  {
+    "id": 146,
+    "code_name": "trail_Happiness"
+  },
+  {
+    "id": 147,
+    "code_name": "trail_Ties"
+  },
+  {
+    "id": 148,
+    "code_name": "trailce_Venom"
+  },
+  {
+    "id": 149,
+    "code_name": "trailce_Offering"
+  },
+  {
+    "id": 150,
+    "code_name": "trailce_Gold"
+  },
+  {
+    "id": 151,
+    "code_name": "trailce_Dwarf"
+  },
+  {
+    "id": 152,
+    "code_name": "trailce_Happiness"
+  },
+  {
+    "id": 153,
+    "code_name": "trailce_Ties"
+  },
+  {
+    "id": 155,
+    "code_name": "medicareCard"
+  },
+  {
+    "id": 156,
+    "code_name": "robotHagaren"
+  },
+  {
+    "id": 157,
+    "code_name": "hedgehog"
+  },
+  {
+    "id": 158,
+    "code_name": "flask"
+  },
+  {
+    "id": 159,
+    "code_name": "chagama"
+  },
+  {
+    "id": 160,
+    "code_name": "radicalHeart"
+  },
+  {
+    "id": 161,
+    "code_name": "monsterCollect"
+  },
+  {
+    "id": 162,
+    "code_name": "characterEffectCollect"
+  },
+  {
+    "id": 163,
+    "code_name": "huoluoyou"
+  },
+  {
+    "id": 164,
+    "code_name": "powerBank"
+  },
+  {
+    "id": 165,
+    "code_name": "lion"
+  },
+  {
+    "id": 166,
+    "code_name": "iceSkates"
+  },
+  {
+    "id": 167,
+    "code_name": "iceBag"
+  },
+  {
+    "id": 168,
+    "code_name": "gasolineCan"
+  },
+  {
+    "id": 169,
+    "code_name": "wolf"
+  },
+  {
+    "id": 170,
+    "code_name": "shrimp"
+  },
+  {
+    "id": 171,
+    "code_name": "fishTank"
+  },
+  {
+    "id": 172,
+    "code_name": "fishingNet"
+  },
+  {
+    "id": 173,
+    "code_name": "flowerSword"
+  },
+  {
+    "id": 174,
+    "code_name": "brick"
+  },
+  {
+    "id": 175,
+    "code_name": "metalStick"
+  },
+  {
+    "id": 176,
+    "code_name": "glove"
+  },
+  {
+    "id": 177,
+    "code_name": "battleax"
+  },
+  {
+    "id": 178,
+    "code_name": "damagedDirk"
+  },
+  {
+    "id": 179,
+    "code_name": "shuriken"
+  },
+  {
+    "id": 180,
+    "code_name": "grenade"
+  },
+  {
+    "id": 181,
+    "code_name": "shoes"
+  },
+  {
+    "id": 182,
+    "code_name": "leicha"
+  },
+  {
+    "id": 183,
+    "code_name": "gloves"
+  },
+  {
+    "id": 184,
+    "code_name": "crystall"
+  },
+  {
+    "id": 185,
+    "code_name": "paper"
+  },
+  {
+    "id": 186,
+    "code_name": "shouhuan"
+  },
+  {
+    "id": 187,
+    "code_name": "xau"
+  },
+  {
+    "id": 188,
+    "code_name": "noFaceMask"
+  },
+  {
+    "id": 189,
+    "code_name": "giveMeFive"
+  },
+  {
+    "id": 190,
+    "code_name": "blackPearl"
+  },
+  {
+    "id": 191,
+    "code_name": "rocker"
+  },
+  {
+    "id": 192,
+    "code_name": "huju"
+  },
+  {
+    "id": 193,
+    "code_name": "belt"
+  },
+  {
+    "id": 194,
+    "code_name": "trail_titan"
+  },
+  {
+    "id": 195,
+    "code_name": "trailce_titan"
+  },
+  {
+    "id": 196,
+    "code_name": "trail_rage"
+  },
+  {
+    "id": 197,
+    "code_name": "trailce_rage"
+  },
+  {
+    "id": 198,
+    "code_name": "trail_fireIce"
+  },
+  {
+    "id": 199,
+    "code_name": "trailce_fireIce"
+  },
+  {
+    "id": 200,
+    "code_name": "trail_disciple"
+  },
+  {
+    "id": 201,
+    "code_name": "trailce_disciple"
+  },
+  {
+    "id": 202,
+    "code_name": "blackTea"
+  },
+  {
+    "id": 203,
+    "code_name": "yuchang"
+  },
+  {
+    "id": 204,
+    "code_name": "blastingFuse"
+  },
+  {
+    "id": 205,
+    "code_name": "sea25"
+  },
+  {
+    "id": 206,
+    "code_name": "urien"
+  },
+  {
+    "id": 207,
+    "code_name": "jujijing"
+  },
+  {
+    "id": 208,
+    "code_name": "kongqidun"
+  },
+  {
+    "id": 209,
+    "code_name": "jiudade"
+  },
+  {
+    "id": 210,
+    "code_name": "yaling"
+  },
+  {
+    "id": 211,
+    "code_name": "shirenmaozhua"
+  },
+  {
+    "id": 212,
+    "code_name": "damokelisi"
+  },
+  {
+    "id": 213,
+    "code_name": "jiazigu"
+  },
+  {
+    "id": 214,
+    "code_name": "biandang"
+  },
+  {
+    "id": 215,
+    "code_name": "curseScourge"
+  },
+  {
+    "id": 216,
+    "code_name": "curseHeartthrob"
+  },
+  {
+    "id": 217,
+    "code_name": "curseVulnerability"
+  },
+  {
+    "id": 218,
+    "code_name": "monocle"
+  },
+  {
+    "id": 219,
+    "code_name": "goldenPinata"
+  },
+  {
+    "id": 220,
+    "code_name": "bankPassbook"
+  },
+  {
+    "id": 221,
+    "code_name": "arcaneSledgeHammer"
+  },
+  {
+    "id": 222,
+    "code_name": "goldenBellBarrier"
+  },
+  {
+    "id": 223,
+    "code_name": "liquidNitrogenTank"
+  },
+  {
+    "id": 224,
+    "code_name": "vampiricBlade"
+  },
+  {
+    "id": 225,
+    "code_name": "arsonistMask"
+  },
+  {
+    "id": 226,
+    "code_name": "plasmaReactor"
+  },
+  {
+    "id": 227,
+    "code_name": "layeredArmor"
+  },
+  {
+    "id": 228,
+    "code_name": "runicRootArmor"
+  },
+  {
+    "id": 229,
+    "code_name": "buyOneGetOneFree"
+  },
+  {
+    "id": 230,
+    "code_name": "sacrificialBackpack"
+  },
+  {
+    "id": 231,
+    "code_name": "ancientNecklace"
+  },
+  {
+    "id": 232,
+    "code_name": "ancientCuisse"
+  },
+  {
+    "id": 233,
+    "code_name": "ancientArmband"
+  },
+  {
+    "id": 234,
+    "code_name": "ancientSpiritStone"
+  },
+  {
+    "id": 235,
+    "code_name": "ancientRelic"
+  },
+  {
+    "id": 236,
+    "code_name": "blackElf"
+  },
+  {
+    "id": 237,
+    "code_name": "nagaPowerInPack"
+  },
+  {
+    "id": 238,
+    "code_name": "curseTransform"
+  },
+  {
+    "id": 239,
+    "code_name": "curseBlind"
+  },
+  {
+    "id": 240,
+    "code_name": "curseTimeAcceleration"
+  },
+  {
+    "id": 241,
+    "code_name": "zenfuzhuangzhi"
+  },
+  {
+    "id": 242,
+    "code_name": "hufu"
+  },
+  {
+    "id": 243,
+    "code_name": "anquanmao"
+  },
+  {
+    "id": 244,
+    "code_name": "huabanxie"
+  },
+  {
+    "id": 245,
+    "code_name": "duanbingzhanfu"
+  },
+  {
+    "id": 246,
+    "code_name": "wuhun"
+  },
+  {
+    "id": 247,
+    "code_name": "petUFO"
+  },
+  {
+    "id": 248,
+    "code_name": "swordNeedBlood"
+  },
+  {
+    "id": 249,
+    "code_name": "rotateBumper"
+  },
+  {
+    "id": 250,
+    "code_name": "giveMeMoney"
+  },
+  {
+    "id": 251,
+    "code_name": "fireworks"
+  },
+  {
+    "id": 252,
+    "code_name": "molotovCocktail"
+  },
+  {
+    "id": 253,
+    "code_name": "lighter"
+  },
+  {
+    "id": 254,
+    "code_name": "delayPoison"
+  },
+  {
+    "id": 255,
+    "code_name": "fireGun"
+  },
+  {
+    "id": 256,
+    "code_name": "diseaseWand"
+  },
+  {
+    "id": 257,
+    "code_name": "venomMask"
+  },
+  {
+    "id": 258,
+    "code_name": "diluteToxin"
+  },
+  {
+    "id": 259,
+    "code_name": "flammableToxin"
+  },
+  {
+    "id": 260,
+    "code_name": "biogasBottle"
+  },
+  {
+    "id": 261,
+    "code_name": "blazingSoulPill"
+  },
+  {
+    "id": 262,
+    "code_name": "iceSheild"
+  },
+  {
+    "id": 263,
+    "code_name": "iceWand"
+  },
+  {
+    "id": 264,
+    "code_name": "voltageChanger"
+  },
+  {
+    "id": 265,
+    "code_name": "superconductingCoil"
+  },
+  {
+    "id": 266,
+    "code_name": "magneticRod"
+  },
+  {
+    "id": 267,
+    "code_name": "iceFireRing"
+  },
+  {
+    "id": 268,
+    "code_name": "iceFireGrease"
+  },
+  {
+    "id": 269,
+    "code_name": "flammableIce"
+  },
+  {
+    "id": 270,
+    "code_name": "flammableFragments"
+  },
+  {
+    "id": 128,
+    "code_name": "Empty"
+  }
+]

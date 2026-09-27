@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "white"
+  },
+  {
+    "id": 1,
+    "code_name": "green"
+  },
+  {
+    "id": 2,
+    "code_name": "blue"
+  },
+  {
+    "id": 3,
+    "code_name": "purple"
+  },
+  {
+    "id": 4,
+    "code_name": "orange"
+  },
+  {
+    "id": 5,
+    "code_name": "red"
+  }
+]

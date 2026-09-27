@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "BoomerangForward"
+  },
+  {
+    "id": 1,
+    "code_name": "BoomerangBackward"
+  },
+  {
+    "id": 2,
+    "code_name": "HitPause"
+  },
+  {
+    "id": 3,
+    "code_name": "Drop"
+  }
+]

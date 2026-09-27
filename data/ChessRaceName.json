@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "code_name": "Assassin"
+  },
+  {
+    "id": 1,
+    "code_name": "GoldGrabber"
+  },
+  {
+    "id": 2,
+    "code_name": "HappyGuy"
+  },
+  {
+    "id": 3,
+    "code_name": "Elf"
+  },
+  {
+    "id": 4,
+    "code_name": "UnusualPerson"
+  },
+  {
+    "id": 5,
+    "code_name": "Lethargist"
+  },
+  {
+    "id": 6,
+    "code_name": "Warrior"
+  },
+  {
+    "id": 7,
+    "code_name": "Pugilist"
+  },
+  {
+    "id": 8,
+    "code_name": "Wizard"
+  },
+  {
+    "id": 9,
+    "code_name": "Zoologist"
+  },
+  {
+    "id": 10,
+    "code_name": "LightningKing"
+  },
+  {
+    "id": 11,
+    "code_name": "Weird"
+  },
+  {
+    "id": 12,
+    "code_name": "EvilWizard"
+  },
+  {
+    "id": 13,
+    "code_name": "Ghost"
+  }
+]

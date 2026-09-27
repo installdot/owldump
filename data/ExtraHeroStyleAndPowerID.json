@@ -1,0 +1,582 @@
+[
+  {
+    "id": 0,
+    "code_name": "skillCountDownLevelUp"
+  },
+  {
+    "id": 1,
+    "code_name": "skillDamageLevelUp"
+  },
+  {
+    "id": 2,
+    "code_name": "skillUseableCountLevelUp"
+  },
+  {
+    "id": 3,
+    "code_name": "propertyAttackSpeedUp"
+  },
+  {
+    "id": 4,
+    "code_name": "propertyCritDamageUp"
+  },
+  {
+    "id": 5,
+    "code_name": "propertyMaxHealthUp"
+  },
+  {
+    "id": 6,
+    "code_name": "propertyShieldUp"
+  },
+  {
+    "id": 7,
+    "code_name": "propertyDamageUp"
+  },
+  {
+    "id": 8,
+    "code_name": "propertyMoveSpeedUp"
+  },
+  {
+    "id": 9,
+    "code_name": "xuansheWearHeartLevelUp_1"
+  },
+  {
+    "id": 10,
+    "code_name": "xuansheWearHeartLevelUp_2"
+  },
+  {
+    "id": 11,
+    "code_name": "xuansheWearHeartLevelUp_3"
+  },
+  {
+    "id": 12,
+    "code_name": "xuansheHeavyRainLevelUp_1"
+  },
+  {
+    "id": 13,
+    "code_name": "xuansheHeavyRainLevelUp_2"
+  },
+  {
+    "id": 14,
+    "code_name": "xuanshePlumBlossomLevelUp_1"
+  },
+  {
+    "id": 15,
+    "code_name": "xuanshePlumBlossomLevelUp_2"
+  },
+  {
+    "id": 16,
+    "code_name": "xuanshePlumBlossomLevelUp_3"
+  },
+  {
+    "id": 17,
+    "code_name": "xuansheSplitLevelUp_1"
+  },
+  {
+    "id": 18,
+    "code_name": "xuansheContinuousLevelUp_1"
+  },
+  {
+    "id": 19,
+    "code_name": "xuansheExtraLevelUp_1"
+  },
+  {
+    "id": 20,
+    "code_name": "xuansheDeathSpeak_1"
+  },
+  {
+    "id": 21,
+    "code_name": "heyaoDefenseLevelUp_1"
+  },
+  {
+    "id": 22,
+    "code_name": "heyaoRevengeLevelUp_1"
+  },
+  {
+    "id": 23,
+    "code_name": "heyaoFireLevelUp_1"
+  },
+  {
+    "id": 24,
+    "code_name": "heyaoBiggerLevelUp_1"
+  },
+  {
+    "id": 25,
+    "code_name": "heyaoShoutLevel_1"
+  },
+  {
+    "id": 26,
+    "code_name": "heyaoShoutLevel_2"
+  },
+  {
+    "id": 27,
+    "code_name": "heyaoShoutLevel_3"
+  },
+  {
+    "id": 28,
+    "code_name": "heyaoHeavyCombo_1"
+  },
+  {
+    "id": 29,
+    "code_name": "heyaoHeavyCombo_2"
+  },
+  {
+    "id": 30,
+    "code_name": "heyaoHeavyCombo_3"
+  },
+  {
+    "id": 31,
+    "code_name": "heyaoComboPlus_1"
+  },
+  {
+    "id": 32,
+    "code_name": "heyaoComboPlus_2"
+  },
+  {
+    "id": 33,
+    "code_name": "heyaoComboPlus_3"
+  },
+  {
+    "id": 34,
+    "code_name": "aimiFocus_1"
+  },
+  {
+    "id": 35,
+    "code_name": "aimiCaritas_1"
+  },
+  {
+    "id": 36,
+    "code_name": "aimiHeroic_1"
+  },
+  {
+    "id": 37,
+    "code_name": "aimiDedication_1"
+  },
+  {
+    "id": 38,
+    "code_name": "aimiHolyDefencePlus_1"
+  },
+  {
+    "id": 39,
+    "code_name": "aimiHolyDefencePlus_2"
+  },
+  {
+    "id": 40,
+    "code_name": "aimiHolyDefencePlus_3"
+  },
+  {
+    "id": 41,
+    "code_name": "aimiHolyDefencePlus_4"
+  },
+  {
+    "id": 42,
+    "code_name": "aimiHolyDefencePlus_5"
+  },
+  {
+    "id": 43,
+    "code_name": "aimiOathPlus_1"
+  },
+  {
+    "id": 44,
+    "code_name": "aimiOathPlus_2"
+  },
+  {
+    "id": 45,
+    "code_name": "aimiOathPlus_3"
+  },
+  {
+    "id": 46,
+    "code_name": "aimiOathPlus_4"
+  },
+  {
+    "id": 47,
+    "code_name": "aimiOathPlus_5"
+  },
+  {
+    "id": 48,
+    "code_name": "aimiFaithPlus_1"
+  },
+  {
+    "id": 49,
+    "code_name": "aimiFaithPlus_2"
+  },
+  {
+    "id": 50,
+    "code_name": "aimiFaithPlus_3"
+  },
+  {
+    "id": 51,
+    "code_name": "aimiAttackPlus_1"
+  },
+  {
+    "id": 52,
+    "code_name": "aimiSurvivalPlus_1"
+  },
+  {
+    "id": 53,
+    "code_name": "ulianaCold_1"
+  },
+  {
+    "id": 54,
+    "code_name": "ulianaSaw_1"
+  },
+  {
+    "id": 55,
+    "code_name": "ulianaSoft_1"
+  },
+  {
+    "id": 56,
+    "code_name": "ulianaOutbreak_1"
+  },
+  {
+    "id": 57,
+    "code_name": "ulianaExplosionPlus_1"
+  },
+  {
+    "id": 58,
+    "code_name": "ulianaExplosionPlus_2"
+  },
+  {
+    "id": 59,
+    "code_name": "ulianaExplosionPlus_3"
+  },
+  {
+    "id": 60,
+    "code_name": "ulianaExplosionPlus_4"
+  },
+  {
+    "id": 61,
+    "code_name": "ulianaExplosionPlus_5"
+  },
+  {
+    "id": 62,
+    "code_name": "ulianaDancePlus_1"
+  },
+  {
+    "id": 63,
+    "code_name": "ulianaDancePlus_2"
+  },
+  {
+    "id": 64,
+    "code_name": "ulianaDancePlus_3"
+  },
+  {
+    "id": 65,
+    "code_name": "ulianaDancePlus_4"
+  },
+  {
+    "id": 66,
+    "code_name": "ulianaSnowPlus_1"
+  },
+  {
+    "id": 67,
+    "code_name": "ulianaSnowPlus_2"
+  },
+  {
+    "id": 68,
+    "code_name": "ulianaSnowPlus_3"
+  },
+  {
+    "id": 69,
+    "code_name": "ulianaSnowPlus_4"
+  },
+  {
+    "id": 70,
+    "code_name": "ulianaSnowPlus_5"
+  },
+  {
+    "id": 71,
+    "code_name": "ulianaAttackPlus_0"
+  },
+  {
+    "id": 72,
+    "code_name": "ulianaAttackPlus_1"
+  },
+  {
+    "id": 73,
+    "code_name": "ulianaSurvivalPlus_0"
+  },
+  {
+    "id": 74,
+    "code_name": "ulianaSurvivalPlus_1"
+  },
+  {
+    "id": 75,
+    "code_name": "ruthvenGreed_1"
+  },
+  {
+    "id": 76,
+    "code_name": "ruthvenGluttony_1"
+  },
+  {
+    "id": 77,
+    "code_name": "ruthvenRage_1"
+  },
+  {
+    "id": 78,
+    "code_name": "ruthvenArrogance_1"
+  },
+  {
+    "id": 79,
+    "code_name": "ruthvenRengePlus_1"
+  },
+  {
+    "id": 80,
+    "code_name": "ruthvenRengePlus_2"
+  },
+  {
+    "id": 81,
+    "code_name": "ruthvenRengePlus_3"
+  },
+  {
+    "id": 82,
+    "code_name": "ruthvenRengePlus_4"
+  },
+  {
+    "id": 83,
+    "code_name": "ruthvenTorturePlus_1"
+  },
+  {
+    "id": 84,
+    "code_name": "ruthvenTorturePlus_2"
+  },
+  {
+    "id": 85,
+    "code_name": "ruthvenTorturePlus_3"
+  },
+  {
+    "id": 86,
+    "code_name": "ruthvenTorturePlus_4"
+  },
+  {
+    "id": 87,
+    "code_name": "ruthvenDevilPlus_1"
+  },
+  {
+    "id": 88,
+    "code_name": "ruthvenDevilPlus_2"
+  },
+  {
+    "id": 89,
+    "code_name": "ruthvenDevilPlus_3"
+  },
+  {
+    "id": 90,
+    "code_name": "ruthvenDevilPlus_4"
+  },
+  {
+    "id": 91,
+    "code_name": "ruthvenDevilPlus_5"
+  },
+  {
+    "id": 92,
+    "code_name": "ruthvenAttackPlus_0"
+  },
+  {
+    "id": 93,
+    "code_name": "ruthvenSurvivalPlus_0"
+  },
+  {
+    "id": 94,
+    "code_name": "anniceStarDmgUp_1_2_3"
+  },
+  {
+    "id": 95,
+    "code_name": "anniceMoonCenterDmgUp_1_2_3"
+  },
+  {
+    "id": 96,
+    "code_name": "anniceMoonProtection_1_2_3"
+  },
+  {
+    "id": 97,
+    "code_name": "anniceWeaponGainShield_1_2_3"
+  },
+  {
+    "id": 98,
+    "code_name": "anniceSummonStarPlus_1"
+  },
+  {
+    "id": 99,
+    "code_name": "anniceSummonStarPlus_2"
+  },
+  {
+    "id": 100,
+    "code_name": "anniceSummonStarPlus_3"
+  },
+  {
+    "id": 101,
+    "code_name": "anniceSummonStarPlus_4"
+  },
+  {
+    "id": 102,
+    "code_name": "anniceSummonStarPlus_5"
+  },
+  {
+    "id": 103,
+    "code_name": "anniceSummonMoonPlus_1"
+  },
+  {
+    "id": 104,
+    "code_name": "anniceSummonMoonPlus_2"
+  },
+  {
+    "id": 105,
+    "code_name": "anniceSummonMoonPlus_3"
+  },
+  {
+    "id": 106,
+    "code_name": "anniceSummonMoonPlus_4"
+  },
+  {
+    "id": 107,
+    "code_name": "anniceSummonMoonPlus_5"
+  },
+  {
+    "id": 108,
+    "code_name": "anniceNightWeaponPlus_1"
+  },
+  {
+    "id": 109,
+    "code_name": "anniceNightWeaponPlus_2"
+  },
+  {
+    "id": 110,
+    "code_name": "anniceNightWeaponPlus_3"
+  },
+  {
+    "id": 111,
+    "code_name": "anniceNightWeaponPlus_4"
+  },
+  {
+    "id": 112,
+    "code_name": "anniceNightWeaponPlus_5"
+  },
+  {
+    "id": 113,
+    "code_name": "anniceAttackPlus_5"
+  },
+  {
+    "id": 114,
+    "code_name": "anniceSurvivalPlus_5"
+  },
+  {
+    "id": 115,
+    "code_name": "anniceNightWeaponName_Hammer"
+  },
+  {
+    "id": 116,
+    "code_name": "anniceNightWeaponDescription_Hammer"
+  },
+  {
+    "id": 117,
+    "code_name": "anniceNightWeaponName_Sword"
+  },
+  {
+    "id": 118,
+    "code_name": "anniceNightWeaponDescription_Sword"
+  },
+  {
+    "id": 119,
+    "code_name": "anniceNightWeaponName_Scythe"
+  },
+  {
+    "id": 120,
+    "code_name": "anniceNightWeaponDescription_Scythe"
+  },
+  {
+    "id": 121,
+    "code_name": "erdeneBodyStyle1_1_2"
+  },
+  {
+    "id": 122,
+    "code_name": "erdeneBodyStyle1_3"
+  },
+  {
+    "id": 123,
+    "code_name": "erdeneBodyStyle2_1_2"
+  },
+  {
+    "id": 124,
+    "code_name": "erdeneBodyStyle2_3"
+  },
+  {
+    "id": 125,
+    "code_name": "erdeneBodyStyle3_1_2"
+  },
+  {
+    "id": 126,
+    "code_name": "erdeneBodyStyle3_3"
+  },
+  {
+    "id": 127,
+    "code_name": "erdeneBodyStyle4_1_2_3"
+  },
+  {
+    "id": 128,
+    "code_name": "erdeneSkill1Plus_1"
+  },
+  {
+    "id": 129,
+    "code_name": "erdeneSkill1Plus_2"
+  },
+  {
+    "id": 130,
+    "code_name": "erdeneSkill1Plus_3"
+  },
+  {
+    "id": 131,
+    "code_name": "erdeneSkill1Plus_4"
+  },
+  {
+    "id": 132,
+    "code_name": "erdeneSkill1Plus_5"
+  },
+  {
+    "id": 133,
+    "code_name": "erdeneSkill2Plus_1"
+  },
+  {
+    "id": 134,
+    "code_name": "erdeneSkill2Plus_2"
+  },
+  {
+    "id": 135,
+    "code_name": "erdeneSkill2Plus_3"
+  },
+  {
+    "id": 136,
+    "code_name": "erdeneSkill2Plus_4"
+  },
+  {
+    "id": 137,
+    "code_name": "erdeneSkill2Plus_5"
+  },
+  {
+    "id": 138,
+    "code_name": "erdeneSkill3Plus_1"
+  },
+  {
+    "id": 139,
+    "code_name": "erdeneSkill3Plus_2"
+  },
+  {
+    "id": 140,
+    "code_name": "erdeneSkill3Plus_3"
+  },
+  {
+    "id": 141,
+    "code_name": "erdeneSkill3Plus_4"
+  },
+  {
+    "id": 142,
+    "code_name": "erdeneSkill3Plus_5"
+  },
+  {
+    "id": 143,
+    "code_name": "erdeneAttackPlus_5"
+  },
+  {
+    "id": 144,
+    "code_name": "erdeneSurvivalPlus_5"
+  }
+]

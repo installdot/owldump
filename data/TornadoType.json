@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "Stationary"
+  },
+  {
+    "id": 1,
+    "code_name": "AutoChase"
+  },
+  {
+    "id": 2,
+    "code_name": "RandomMove"
+  },
+  {
+    "id": 3,
+    "code_name": "Straight"
+  },
+  {
+    "id": 4,
+    "code_name": "Curved"
+  },
+  {
+    "id": 5,
+    "code_name": "RevCurved"
+  }
+]

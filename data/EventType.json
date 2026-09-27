@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "GetEvent"
+  },
+  {
+    "id": 1,
+    "code_name": "UpdateTaskEvent"
+  },
+  {
+    "id": 2,
+    "code_name": "FinishEvent"
+  },
+  {
+    "id": 3,
+    "code_name": "RewardEvent"
+  },
+  {
+    "id": 4,
+    "code_name": "CancelEvent"
+  }
+]

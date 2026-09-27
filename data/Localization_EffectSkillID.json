@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "fireBall_name"
+  },
+  {
+    "id": 1,
+    "code_name": "fireBall_description"
+  },
+  {
+    "id": 2,
+    "code_name": "bigFireBall_name"
+  },
+  {
+    "id": 3,
+    "code_name": "bigFireBall_description"
+  },
+  {
+    "id": 4,
+    "code_name": "hotExplosion_name"
+  },
+  {
+    "id": 5,
+    "code_name": "hotExplosion_description"
+  },
+  {
+    "id": 6,
+    "code_name": "gasGrenade_name"
+  },
+  {
+    "id": 7,
+    "code_name": "gasGrenade_description"
+  },
+  {
+    "id": 8,
+    "code_name": "lightningConductor_name"
+  },
+  {
+    "id": 9,
+    "code_name": "lightningConductor_description"
+  },
+  {
+    "id": 10,
+    "code_name": "plasmaBomb_name"
+  },
+  {
+    "id": 11,
+    "code_name": "plasmaBomb_description"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "Fire"
+  },
+  {
+    "id": 1,
+    "code_name": "Poison"
+  },
+  {
+    "id": 2,
+    "code_name": "Ice"
+  }
+]

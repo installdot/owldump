@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "Cooling"
+  },
+  {
+    "id": 1,
+    "code_name": "ReadyRelease"
+  },
+  {
+    "id": 2,
+    "code_name": "Releasing_Start"
+  },
+  {
+    "id": 3,
+    "code_name": "Releasing_Continue"
+  },
+  {
+    "id": 4,
+    "code_name": "Combining_Continue"
+  },
+  {
+    "id": 5,
+    "code_name": "Combining_End"
+  }
+]

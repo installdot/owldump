@@ -1,0 +1,198 @@
+[
+  {
+    "id": 0,
+    "code_name": "use_heroskin"
+  },
+  {
+    "id": 1,
+    "code_name": "use_heroskin_1"
+  },
+  {
+    "id": 2,
+    "code_name": "use_heroskin_2"
+  },
+  {
+    "id": 3,
+    "code_name": "use_heroskin_3"
+  },
+  {
+    "id": 4,
+    "code_name": "use_heroskin_4"
+  },
+  {
+    "id": 5,
+    "code_name": "use_hero_1"
+  },
+  {
+    "id": 6,
+    "code_name": "use_hero_2"
+  },
+  {
+    "id": 7,
+    "code_name": "use_hero_3"
+  },
+  {
+    "id": 8,
+    "code_name": "use_hero_4"
+  },
+  {
+    "id": 9,
+    "code_name": "open_item_formula"
+  },
+  {
+    "id": 10,
+    "code_name": "pass_normal"
+  },
+  {
+    "id": 11,
+    "code_name": "pass_normal_chaos_1"
+  },
+  {
+    "id": 12,
+    "code_name": "pass_normal_chaos_2"
+  },
+  {
+    "id": 13,
+    "code_name": "pass_hard"
+  },
+  {
+    "id": 14,
+    "code_name": "pass_hard_chaos_1"
+  },
+  {
+    "id": 15,
+    "code_name": "pass_hard_chaos_2"
+  },
+  {
+    "id": 16,
+    "code_name": "pass_legend"
+  },
+  {
+    "id": 17,
+    "code_name": "pass_legend_chaos_1"
+  },
+  {
+    "id": 18,
+    "code_name": "pass_legend_chaos_2"
+  },
+  {
+    "id": 19,
+    "code_name": "pass_real"
+  },
+  {
+    "id": 20,
+    "code_name": "pass_real_chaos_1"
+  },
+  {
+    "id": 21,
+    "code_name": "pass_real_chaos_2"
+  },
+  {
+    "id": 22,
+    "code_name": "invest_soulstone"
+  },
+  {
+    "id": 23,
+    "code_name": "click_battlepass_levelup"
+  },
+  {
+    "id": 24,
+    "code_name": "shop_coincost_1"
+  },
+  {
+    "id": 25,
+    "code_name": "drink_sake_1"
+  },
+  {
+    "id": 26,
+    "code_name": "drink_sake_2"
+  },
+  {
+    "id": 27,
+    "code_name": "drink_sake_3"
+  },
+  {
+    "id": 28,
+    "code_name": "drink_sake_4"
+  },
+  {
+    "id": 29,
+    "code_name": "drink_whiskey_1"
+  },
+  {
+    "id": 30,
+    "code_name": "drink_whiskey_2"
+  },
+  {
+    "id": 31,
+    "code_name": "drink_whiskey_3"
+  },
+  {
+    "id": 32,
+    "code_name": "drink_whiskey_4"
+  },
+  {
+    "id": 33,
+    "code_name": "drink_champagne_1"
+  },
+  {
+    "id": 34,
+    "code_name": "drink_champagne_2"
+  },
+  {
+    "id": 35,
+    "code_name": "drink_champagne_3"
+  },
+  {
+    "id": 36,
+    "code_name": "drink_champagne_4"
+  },
+  {
+    "id": 37,
+    "code_name": "drink_martini_1"
+  },
+  {
+    "id": 38,
+    "code_name": "drink_martini_2"
+  },
+  {
+    "id": 39,
+    "code_name": "drink_martini_3"
+  },
+  {
+    "id": 40,
+    "code_name": "drink_martini_4"
+  },
+  {
+    "id": 41,
+    "code_name": "drink_redwine_1"
+  },
+  {
+    "id": 42,
+    "code_name": "drink_redwine_2"
+  },
+  {
+    "id": 43,
+    "code_name": "drink_redwine_3"
+  },
+  {
+    "id": 44,
+    "code_name": "drink_redwine_4"
+  },
+  {
+    "id": 45,
+    "code_name": "drink_bullet_1"
+  },
+  {
+    "id": 46,
+    "code_name": "drink_bullet_2"
+  },
+  {
+    "id": 47,
+    "code_name": "drink_bullet_3"
+  },
+  {
+    "id": 48,
+    "code_name": "drink_bullet_4"
+  }
+]

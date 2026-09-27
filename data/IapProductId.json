@@ -1,0 +1,738 @@
+[
+  {
+    "id": 0,
+    "code_name": "zhmr_hero_akaisha"
+  },
+  {
+    "id": 1,
+    "code_name": "zhmr_hero_sakari"
+  },
+  {
+    "id": 2,
+    "code_name": "zhmr_hero_olivia"
+  },
+  {
+    "id": 3,
+    "code_name": "zhmr_hero_gangdan"
+  },
+  {
+    "id": 4,
+    "code_name": "zhmr_hero_katherine"
+  },
+  {
+    "id": 5,
+    "code_name": "zhmr_hero_hannah"
+  },
+  {
+    "id": 6,
+    "code_name": "zhmr_hero_hillding"
+  },
+  {
+    "id": 7,
+    "code_name": "zhmr_hero_penhaligon"
+  },
+  {
+    "id": 8,
+    "code_name": "zhmr_hero_hayfa"
+  },
+  {
+    "id": 9,
+    "code_name": "zhmr_hero_xuanshe"
+  },
+  {
+    "id": 10,
+    "code_name": "zhmr_hero_heyao"
+  },
+  {
+    "id": 11,
+    "code_name": "zhmr_hero_aimi"
+  },
+  {
+    "id": 12,
+    "code_name": "zhmr_hero_uliana"
+  },
+  {
+    "id": 13,
+    "code_name": "zhmr_hero_annice"
+  },
+  {
+    "id": 14,
+    "code_name": "zhmr_hero_ruthven"
+  },
+  {
+    "id": 15,
+    "code_name": "zhmr_hero_anibella"
+  },
+  {
+    "id": 16,
+    "code_name": "zhmr_hero_adira"
+  },
+  {
+    "id": 17,
+    "code_name": "zhmr_hero_yangkyi"
+  },
+  {
+    "id": 18,
+    "code_name": "zhmr_hero_youzi"
+  },
+  {
+    "id": 19,
+    "code_name": "zhmr_hero_yufeng"
+  },
+  {
+    "id": 20,
+    "code_name": "zhmr_hero_wufei"
+  },
+  {
+    "id": 21,
+    "code_name": "zhmr_hero_bunny"
+  },
+  {
+    "id": 22,
+    "code_name": "zhmr_hero_qifeng"
+  },
+  {
+    "id": 23,
+    "code_name": "zhmr_hero_linxiao"
+  },
+  {
+    "id": 24,
+    "code_name": "zhmr_hero_feiyu"
+  },
+  {
+    "id": 25,
+    "code_name": "zhmr_hero_hualing"
+  },
+  {
+    "id": 26,
+    "code_name": "zhmr_hero_rana"
+  },
+  {
+    "id": 27,
+    "code_name": "zhmr_hero_erdene"
+  },
+  {
+    "id": 28,
+    "code_name": "zhmr_hero_dragon"
+  },
+  {
+    "id": 29,
+    "code_name": "zhmr_heroskill_quanhuying_3"
+  },
+  {
+    "id": 30,
+    "code_name": "zhmr_heroskill_seebee_1"
+  },
+  {
+    "id": 31,
+    "code_name": "zhmr_heroskill_seebee_2"
+  },
+  {
+    "id": 32,
+    "code_name": "zhmr_heroskill_akaisha_1"
+  },
+  {
+    "id": 33,
+    "code_name": "zhmr_heroskill_akaisha_2"
+  },
+  {
+    "id": 34,
+    "code_name": "zhmr_heroskill_sakari_2"
+  },
+  {
+    "id": 35,
+    "code_name": "zhmr_heroskill_olivia_2"
+  },
+  {
+    "id": 36,
+    "code_name": "zhmr_heroskill_gangdan_2"
+  },
+  {
+    "id": 37,
+    "code_name": "zhmr_heroskill_gangdan_3"
+  },
+  {
+    "id": 38,
+    "code_name": "zhmr_heroskill_katherine_1"
+  },
+  {
+    "id": 39,
+    "code_name": "zhmr_heroskill_katherine_2"
+  },
+  {
+    "id": 40,
+    "code_name": "zhmr_heroskill_hannah_2"
+  },
+  {
+    "id": 41,
+    "code_name": "zhmr_heroskill_hannah_3"
+  },
+  {
+    "id": 42,
+    "code_name": "zhmr_heroskill_hillding_2"
+  },
+  {
+    "id": 43,
+    "code_name": "zhmr_heroskill_hillding_3"
+  },
+  {
+    "id": 44,
+    "code_name": "zhmr_heroskill_penhaligon_2"
+  },
+  {
+    "id": 45,
+    "code_name": "zhmr_heroskill_penhaligon_3"
+  },
+  {
+    "id": 46,
+    "code_name": "zhmr_heroskill_hayfa_2"
+  },
+  {
+    "id": 47,
+    "code_name": "zhmr_heroskill_hayfa_3"
+  },
+  {
+    "id": 48,
+    "code_name": "zhmr_heroskill_anibella_2"
+  },
+  {
+    "id": 49,
+    "code_name": "zhmr_heroskill_anibella_3"
+  },
+  {
+    "id": 50,
+    "code_name": "zhmr_heroskill_adira_2"
+  },
+  {
+    "id": 51,
+    "code_name": "zhmr_heroskill_adira_3"
+  },
+  {
+    "id": 52,
+    "code_name": "zhmr_heroskill_yangkyi_1"
+  },
+  {
+    "id": 53,
+    "code_name": "zhmr_heroskill_yangkyi_2"
+  },
+  {
+    "id": 54,
+    "code_name": "zhmr_heroskill_youzi_1"
+  },
+  {
+    "id": 55,
+    "code_name": "zhmr_heroskill_youzi_2"
+  },
+  {
+    "id": 56,
+    "code_name": "zhmr_jew_bluestone_40"
+  },
+  {
+    "id": 57,
+    "code_name": "zhmr_jew_bluestone_90"
+  },
+  {
+    "id": 58,
+    "code_name": "zhmr_jew_soulstone_428"
+  },
+  {
+    "id": 59,
+    "code_name": "zhmr_jew_soulstone_988"
+  },
+  {
+    "id": 60,
+    "code_name": "zhmr_giftpack_barvipcard"
+  },
+  {
+    "id": 61,
+    "code_name": "zhmr_giftpack_novicepack"
+  },
+  {
+    "id": 62,
+    "code_name": "zhmr_giftpack_novicepack_20211203"
+  },
+  {
+    "id": 63,
+    "code_name": "zhmr_giftpack_weaponticket_50"
+  },
+  {
+    "id": 64,
+    "code_name": "zhmr_giftpack_weaponticket_120"
+  },
+  {
+    "id": 65,
+    "code_name": "zhmr_giftpack_reborncard_10"
+  },
+  {
+    "id": 66,
+    "code_name": "zhmr_giftpack_reborncard_25"
+  },
+  {
+    "id": 67,
+    "code_name": "zhmr_giftpack_reborncard_60"
+  },
+  {
+    "id": 68,
+    "code_name": "zhmr_heroskin_seebee_warrior"
+  },
+  {
+    "id": 69,
+    "code_name": "zhmr_heroskin_akaisha_hunter"
+  },
+  {
+    "id": 70,
+    "code_name": "zhmr_heroskin_gangdan_gladiatus"
+  },
+  {
+    "id": 71,
+    "code_name": "zhmr_heroskin_katherine_assistant"
+  },
+  {
+    "id": 72,
+    "code_name": "zhmr_heroskin_hannah_blackhat"
+  },
+  {
+    "id": 73,
+    "code_name": "zhmr_heroskin_sakari_blackhat"
+  },
+  {
+    "id": 74,
+    "code_name": "zhmr_heroskin_seebee_ghostface"
+  },
+  {
+    "id": 75,
+    "code_name": "zhmr_heroskin_akaisha_robin"
+  },
+  {
+    "id": 76,
+    "code_name": "zhmr_heroskin_gangdan_skeleton"
+  },
+  {
+    "id": 77,
+    "code_name": "zhmr_heroskin_olivia_timewalker"
+  },
+  {
+    "id": 78,
+    "code_name": "zhmr_heroskin_katherine_bloodymary"
+  },
+  {
+    "id": 79,
+    "code_name": "zhmr_heroskin_hannah_police"
+  },
+  {
+    "id": 80,
+    "code_name": "zhmr_heroskin_hillding_flowerman"
+  },
+  {
+    "id": 81,
+    "code_name": "zhmr_heroskin_gangdan_soldier"
+  },
+  {
+    "id": 82,
+    "code_name": "zhmr_heroskin_katherine_magician"
+  },
+  {
+    "id": 83,
+    "code_name": "zhmr_heroskin_hannah_detective"
+  },
+  {
+    "id": 84,
+    "code_name": "zhmr_heroskin_quanhuying_chinadoll"
+  },
+  {
+    "id": 85,
+    "code_name": "zhmr_heroskin_sakari_taisyou"
+  },
+  {
+    "id": 86,
+    "code_name": "zhmr_heroskin_akaisha_red"
+  },
+  {
+    "id": 87,
+    "code_name": "zhmr_heroskin_sakari_wolfman"
+  },
+  {
+    "id": 88,
+    "code_name": "zhmr_heroskin_hillding_warrior"
+  },
+  {
+    "id": 89,
+    "code_name": "zhmr_heroskin_hayfa_protector"
+  },
+  {
+    "id": 90,
+    "code_name": "zhmr_heroskin_penhaligon_starwar"
+  },
+  {
+    "id": 91,
+    "code_name": "zhmr_heroskin_olivia_groot"
+  },
+  {
+    "id": 92,
+    "code_name": "zhmr_heroskin_sakari_christmas"
+  },
+  {
+    "id": 93,
+    "code_name": "zhmr_heroskin_xuanshe_technology"
+  },
+  {
+    "id": 94,
+    "code_name": "zhmr_heroskin_heyao_technology"
+  },
+  {
+    "id": 95,
+    "code_name": "zhmr_heroskin_seebee_asura"
+  },
+  {
+    "id": 96,
+    "code_name": "zhmr_heroskin_hayfa_magician"
+  },
+  {
+    "id": 97,
+    "code_name": "zhmr_heroskin_katherine_professor"
+  },
+  {
+    "id": 98,
+    "code_name": "zhmr_heroskin_quanhuying_asura"
+  },
+  {
+    "id": 99,
+    "code_name": "zhmr_heroskin_seebee_omega"
+  },
+  {
+    "id": 100,
+    "code_name": "zhmr_heroskin_ruthven_god"
+  },
+  {
+    "id": 101,
+    "code_name": "zhmr_heroskin_anibella_astronaut"
+  },
+  {
+    "id": 102,
+    "code_name": "zhmr_heroskin_heyao_christmas"
+  },
+  {
+    "id": 103,
+    "code_name": "zhmr_heroskin_adira_fireknight"
+  },
+  {
+    "id": 104,
+    "code_name": "zhmr_heroskin_gangdan_dragonarmor"
+  },
+  {
+    "id": 105,
+    "code_name": "zhmr_heroskin_wufei_mili"
+  },
+  {
+    "id": 106,
+    "code_name": "zhmr_heroskin_yufeng_yinyang"
+  },
+  {
+    "id": 107,
+    "code_name": "zhmr_heroskin_feiyu_zombie"
+  },
+  {
+    "id": 108,
+    "code_name": "zhmr_heroskin_uliana_rock"
+  },
+  {
+    "id": 109,
+    "code_name": "zhmr_heroskin_olivia_christmas"
+  },
+  {
+    "id": 110,
+    "code_name": "zhmr_heroskin_xuanshe_snake"
+  },
+  {
+    "id": 111,
+    "code_name": "zhmr_heroskin_quanhuying_kongfumaster"
+  },
+  {
+    "id": 112,
+    "code_name": "zhmr_heroskin_akaisha_princess"
+  },
+  {
+    "id": 113,
+    "code_name": "zhmr_heroskin_seebee_ashloo"
+  },
+  {
+    "id": 114,
+    "code_name": "zhmr_heroskin_sakari_boss"
+  },
+  {
+    "id": 115,
+    "code_name": "zhmr_heroskin_katherine_pusa"
+  },
+  {
+    "id": 116,
+    "code_name": "zhmr_heroskin_hannah_exorcist"
+  },
+  {
+    "id": 117,
+    "code_name": "zhmr_heroskin_penhaligon_wonderbrush"
+  },
+  {
+    "id": 118,
+    "code_name": "zhmr_heroskin_aimi_queen"
+  },
+  {
+    "id": 119,
+    "code_name": "zhmr_heroskin_uliana_captain"
+  },
+  {
+    "id": 120,
+    "code_name": "zhmr_heroskin_youzi_swimsuits"
+  },
+  {
+    "id": 121,
+    "code_name": "zhmr_piece_hero_common_6"
+  },
+  {
+    "id": 122,
+    "code_name": "zhmr_piece_hero_common_12"
+  },
+  {
+    "id": 123,
+    "code_name": "zhmr_piece_hero_common_24"
+  },
+  {
+    "id": 124,
+    "code_name": "zhmr_piece_heroskin_common_6"
+  },
+  {
+    "id": 125,
+    "code_name": "zhmr_piece_heroskin_common_12"
+  },
+  {
+    "id": 126,
+    "code_name": "zhmr_piece_heroskin_common_24"
+  },
+  {
+    "id": 127,
+    "code_name": "zhmr_promotions_battlepass_highreward"
+  },
+  {
+    "id": 128,
+    "code_name": "zhmr_promotions_battlepass_highreward_2"
+  },
+  {
+    "id": 129,
+    "code_name": "zhmr_promotions_battlepass_highreward_3"
+  },
+  {
+    "id": 130,
+    "code_name": "zhmr_promotions_battlepass_highreward_4"
+  },
+  {
+    "id": 131,
+    "code_name": "zhmr_promotions_battlepass_highreward_5"
+  },
+  {
+    "id": 132,
+    "code_name": "zhmr_promotions_battlepass_highreward_6"
+  },
+  {
+    "id": 133,
+    "code_name": "zhmr_promotions_battlepass_highreward_7"
+  },
+  {
+    "id": 134,
+    "code_name": "zhmr_promotions_battlepass_highreward_8"
+  },
+  {
+    "id": 135,
+    "code_name": "zhmr_promotions_battlepass_highreward_9"
+  },
+  {
+    "id": 136,
+    "code_name": "zhmr_promotions_battlepass_highreward_10"
+  },
+  {
+    "id": 137,
+    "code_name": "zhmr_promotions_battlepass_highreward_11"
+  },
+  {
+    "id": 138,
+    "code_name": "zhmr_promotions_battlepass_highreward_12"
+  },
+  {
+    "id": 139,
+    "code_name": "zhmr_promotions_battlepass_highreward_13"
+  },
+  {
+    "id": 140,
+    "code_name": "zhmr_promotions_battlepass_highreward_14"
+  },
+  {
+    "id": 141,
+    "code_name": "zhmr_promotions_battlepass_highreward_15"
+  },
+  {
+    "id": 142,
+    "code_name": "zhmr_promotions_battlepass_highreward_16"
+  },
+  {
+    "id": 143,
+    "code_name": "zhmr_promotions_battlepass_highreward_17"
+  },
+  {
+    "id": 144,
+    "code_name": "zhmr_promotions_battlepass_highreward_18"
+  },
+  {
+    "id": 145,
+    "code_name": "zhmr_promotions_battlepass_highreward_19"
+  },
+  {
+    "id": 146,
+    "code_name": "zhmr_promotions_battlepass_highreward_20"
+  },
+  {
+    "id": 147,
+    "code_name": "zhmr_promotions_battlepass_highreward_21"
+  },
+  {
+    "id": 148,
+    "code_name": "zhmr_promotions_battlepass_highreward_22"
+  },
+  {
+    "id": 149,
+    "code_name": "zhmr_promotions_battlepass_highreward_23"
+  },
+  {
+    "id": 150,
+    "code_name": "zhmr_promotions_battlepass_highreward_24"
+  },
+  {
+    "id": 151,
+    "code_name": "zhmr_promotions_battlepass_highreward_25"
+  },
+  {
+    "id": 152,
+    "code_name": "zhmr_promotions_battlepass_highreward_26"
+  },
+  {
+    "id": 153,
+    "code_name": "zhmr_promotions_battlepass_highreward_27"
+  },
+  {
+    "id": 154,
+    "code_name": "zhmr_promotions_battlepass_highreward_28"
+  },
+  {
+    "id": 155,
+    "code_name": "zhmr_promotions_battlepass_highreward_29"
+  },
+  {
+    "id": 156,
+    "code_name": "zhmr_promotions_battlepass_highreward_30"
+  },
+  {
+    "id": 157,
+    "code_name": "zhmr_promotions_battlepass_highreward_31"
+  },
+  {
+    "id": 158,
+    "code_name": "zhmr_promotions_battlepass_highreward_32"
+  },
+  {
+    "id": 159,
+    "code_name": "zhmr_promotions_battlepass_highreward_33"
+  },
+  {
+    "id": 160,
+    "code_name": "zhmr_promotions_battlepass_highreward_34"
+  },
+  {
+    "id": 161,
+    "code_name": "zhmr_promotions_battlepass_highreward_35"
+  },
+  {
+    "id": 162,
+    "code_name": "zhmr_promotions_battlepass_highreward_36"
+  },
+  {
+    "id": 163,
+    "code_name": "zhmr_promotions_battlepass_highreward_37"
+  },
+  {
+    "id": 164,
+    "code_name": "zhmr_promotions_battlepass_highreward_38"
+  },
+  {
+    "id": 165,
+    "code_name": "zhmr_promotions_battlepass_highreward_39"
+  },
+  {
+    "id": 166,
+    "code_name": "zhmr_promotions_battlepass_highreward_40"
+  },
+  {
+    "id": 167,
+    "code_name": "zhmr_pet_food_default_6"
+  },
+  {
+    "id": 168,
+    "code_name": "zhmr_pet_food_default_12"
+  },
+  {
+    "id": 169,
+    "code_name": "zhmr_pet_food_default_24"
+  },
+  {
+    "id": 170,
+    "code_name": "zhmr_pet_toy_default_6"
+  },
+  {
+    "id": 171,
+    "code_name": "zhmr_pet_toy_default_14"
+  },
+  {
+    "id": 172,
+    "code_name": "zhmr_pet_toy_default_30"
+  },
+  {
+    "id": 173,
+    "code_name": "zhmr_discount_2021christmas_heros"
+  },
+  {
+    "id": 174,
+    "code_name": "zhmr_discount_heros_0"
+  },
+  {
+    "id": 175,
+    "code_name": "zhmr_discount_hero_skin_bundle_akaisha_0"
+  },
+  {
+    "id": 176,
+    "code_name": "zhmr_discount_hero_skin_bundle_katherine_0"
+  },
+  {
+    "id": 177,
+    "code_name": "zhmr_discount_hero_skin_bundle_gangdan_0"
+  },
+  {
+    "id": 178,
+    "code_name": "zhmr_battle_pass_level_6"
+  },
+  {
+    "id": 179,
+    "code_name": "zhmr_battle_pass_level_14"
+  },
+  {
+    "id": 180,
+    "code_name": "zhmr_battle_pass_level_30"
+  },
+  {
+    "id": 181,
+    "code_name": "zhmr_esr_instant_identify_ticket_6"
+  },
+  {
+    "id": 182,
+    "code_name": "zhmr_esr_instant_identify_ticket_14"
+  },
+  {
+    "id": 183,
+    "code_name": "zhmr_esr_instant_identify_ticket_30"
+  }
+]

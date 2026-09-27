@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "code_name": "Novice"
+  },
+  {
+    "id": 1,
+    "code_name": "Skill"
+  },
+  {
+    "id": 2,
+    "code_name": "Weapon"
+  },
+  {
+    "id": 3,
+    "code_name": "Item"
+  },
+  {
+    "id": 4,
+    "code_name": "Dungeon"
+  },
+  {
+    "id": 5,
+    "code_name": "Wind"
+  },
+  {
+    "id": 6,
+    "code_name": "Daily"
+  },
+  {
+    "id": 7,
+    "code_name": "Other"
+  },
+  {
+    "id": 8,
+    "code_name": "Hidden"
+  }
+]

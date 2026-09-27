@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "code_name": "Null"
+  },
+  {
+    "id": 1,
+    "code_name": "ButtonBoom"
+  },
+  {
+    "id": 2,
+    "code_name": "FlameGlover"
+  },
+  {
+    "id": 3,
+    "code_name": "CommmandoArmband"
+  },
+  {
+    "id": 4,
+    "code_name": "CatThunder"
+  },
+  {
+    "id": 5,
+    "code_name": "Conduction"
+  },
+  {
+    "id": 6,
+    "code_name": "YangkyiComboDmg"
+  },
+  {
+    "id": 7,
+    "code_name": "YufengLastComboAttack"
+  },
+  {
+    "id": 8,
+    "code_name": "WufeiSpinningBlade"
+  },
+  {
+    "id": 9,
+    "code_name": "WufeiKick"
+  },
+  {
+    "id": 10,
+    "code_name": "WufeiArrows"
+  },
+  {
+    "id": 11,
+    "code_name": "FloorBurnArea"
+  },
+  {
+    "id": 12,
+    "code_name": "LinxiaoLightningArc"
+  },
+  {
+    "id": 13,
+    "code_name": "FeiyuComboRelease"
+  }
+]

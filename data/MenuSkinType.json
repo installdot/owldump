@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "code_name": "Default"
+  },
+  {
+    "id": 1,
+    "code_name": "TapTap"
+  },
+  {
+    "id": 2,
+    "code_name": "BiliBili"
+  },
+  {
+    "id": 3,
+    "code_name": "Appstore"
+  },
+  {
+    "id": 4,
+    "code_name": "VIVO"
+  },
+  {
+    "id": 5,
+    "code_name": "HuaWei"
+  },
+  {
+    "id": 6,
+    "code_name": "OPPO"
+  },
+  {
+    "id": 7,
+    "code_name": "t4399hezi"
+  },
+  {
+    "id": 8,
+    "code_name": "GamePop"
+  },
+  {
+    "id": 9,
+    "code_name": "Christmas2020"
+  },
+  {
+    "id": 10,
+    "code_name": "SpringFestival"
+  },
+  {
+    "id": 11,
+    "code_name": "FirstYear"
+  },
+  {
+    "id": 12,
+    "code_name": "GooglePlay"
+  },
+  {
+    "id": 13,
+    "code_name": "SecondYear"
+  },
+  {
+    "id": 14,
+    "code_name": "ThirdYear"
+  },
+  {
+    "id": 15,
+    "code_name": "FourthYear"
+  }
+]

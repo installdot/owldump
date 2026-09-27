@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "code_name": "Hero"
+  },
+  {
+    "id": 1,
+    "code_name": "Summon"
+  },
+  {
+    "id": 2,
+    "code_name": "Boss"
+  },
+  {
+    "id": 3,
+    "code_name": "Elite"
+  },
+  {
+    "id": 4,
+    "code_name": "HiddenBoss"
+  },
+  {
+    "id": 5,
+    "code_name": "NormalMonster"
+  },
+  {
+    "id": 6,
+    "code_name": "HvB"
+  },
+  {
+    "id": 7,
+    "code_name": "HvE"
+  },
+  {
+    "id": 8,
+    "code_name": "HvHB"
+  },
+  {
+    "id": 9,
+    "code_name": "EvB"
+  },
+  {
+    "id": 10,
+    "code_name": "EvHB"
+  },
+  {
+    "id": 11,
+    "code_name": "SvHB"
+  }
+]

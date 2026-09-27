@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "code_name": "Idle"
+  },
+  {
+    "id": 1,
+    "code_name": "FadeIn"
+  },
+  {
+    "id": 2,
+    "code_name": "BattleStarted"
+  },
+  {
+    "id": 3,
+    "code_name": "BattleEnded"
+  },
+  {
+    "id": 4,
+    "code_name": "WaitBackGroundOffsetReset"
+  },
+  {
+    "id": 5,
+    "code_name": "SlowingDown"
+  },
+  {
+    "id": 6,
+    "code_name": "DoorOpened"
+  }
+]

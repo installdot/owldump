@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "code_name": "Guest"
+  },
+  {
+    "id": 1,
+    "code_name": "NonAdult_0_8_0_0"
+  },
+  {
+    "id": 2,
+    "code_name": "NonAdult_8_16_50_200_30d"
+  },
+  {
+    "id": 3,
+    "code_name": "NonAdult_16_18_100_400_30d"
+  },
+  {
+    "id": 4,
+    "code_name": "NoLimit"
+  }
+]

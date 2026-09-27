@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "code_name": "AnchorPos"
+  },
+  {
+    "id": 1,
+    "code_name": "GraphicColor"
+  },
+  {
+    "id": 2,
+    "code_name": "ImageSpriteSwap"
+  }
+]

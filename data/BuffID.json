@@ -1,0 +1,438 @@
+[
+  {
+    "id": 41,
+    "code_name": "Empty"
+  },
+  {
+    "id": 0,
+    "code_name": "halfHealthRageBuff"
+  },
+  {
+    "id": 1,
+    "code_name": "halfHealthRageBuffWithTyrant"
+  },
+  {
+    "id": 2,
+    "code_name": "quanhuyingHuanyingzhenBuff"
+  },
+  {
+    "id": 3,
+    "code_name": "totemBuff"
+  },
+  {
+    "id": 4,
+    "code_name": "DefaultPoisonDebuff"
+  },
+  {
+    "id": 5,
+    "code_name": "DefaultBurnDebuff"
+  },
+  {
+    "id": 6,
+    "code_name": "DefaultFrozenDebuff"
+  },
+  {
+    "id": 7,
+    "code_name": "defaultHeroBlindingDebuff"
+  },
+  {
+    "id": 8,
+    "code_name": "SpeedDown05Debuff"
+  },
+  {
+    "id": 9,
+    "code_name": "DamageUp05Buff"
+  },
+  {
+    "id": 10,
+    "code_name": "DefaultBrittleDebuff"
+  },
+  {
+    "id": 11,
+    "code_name": "StoneEyeDebuff"
+  },
+  {
+    "id": 12,
+    "code_name": "AirKissDebuff"
+  },
+  {
+    "id": 13,
+    "code_name": "BrokenBoneDebuff"
+  },
+  {
+    "id": 14,
+    "code_name": "defaultBleedDebuff"
+  },
+  {
+    "id": 15,
+    "code_name": "baseDamageUpDebuff"
+  },
+  {
+    "id": 16,
+    "code_name": "venomDebuff"
+  },
+  {
+    "id": 17,
+    "code_name": "germanBuff"
+  },
+  {
+    "id": 18,
+    "code_name": "hilldingFoodHealBuff"
+  },
+  {
+    "id": 19,
+    "code_name": "hilldingFoodPowerBuff"
+  },
+  {
+    "id": 20,
+    "code_name": "hilldingFoodShadowBuff"
+  },
+  {
+    "id": 21,
+    "code_name": "lionDebuff"
+  },
+  {
+    "id": 22,
+    "code_name": "fishingNetDebuff"
+  },
+  {
+    "id": 23,
+    "code_name": "flowerSwordDebuff"
+  },
+  {
+    "id": 24,
+    "code_name": "severeWoundDebuff"
+  },
+  {
+    "id": 25,
+    "code_name": "whipBuff"
+  },
+  {
+    "id": 26,
+    "code_name": "nordicFerretBuff"
+  },
+  {
+    "id": 27,
+    "code_name": "DamageDown05Debuff"
+  },
+  {
+    "id": 28,
+    "code_name": "dryadBuff"
+  },
+  {
+    "id": 29,
+    "code_name": "penhaligonDeBuffMelee"
+  },
+  {
+    "id": 30,
+    "code_name": "penhaligonDeBuffRemotely"
+  },
+  {
+    "id": 31,
+    "code_name": "rootedDebuff"
+  },
+  {
+    "id": 32,
+    "code_name": "vulnerableDebuff"
+  },
+  {
+    "id": 33,
+    "code_name": "hpBottleRegenerateBuff"
+  },
+  {
+    "id": 34,
+    "code_name": "hayfaMarkedDebuff"
+  },
+  {
+    "id": 35,
+    "code_name": "AkaishaTrapEnhancedDebuff"
+  },
+  {
+    "id": 36,
+    "code_name": "AkaishaTrapEnhancedBuff"
+  },
+  {
+    "id": 37,
+    "code_name": "AkaishaTrapElementalDebuff"
+  },
+  {
+    "id": 38,
+    "code_name": "plumBlossomDeBuff"
+  },
+  {
+    "id": 39,
+    "code_name": "armorPenetrationDeBuff"
+  },
+  {
+    "id": 40,
+    "code_name": "needleDebuff"
+  },
+  {
+    "id": 42,
+    "code_name": "ulianaChillDebuff"
+  },
+  {
+    "id": 43,
+    "code_name": "ulianaVeryChillDebuff"
+  },
+  {
+    "id": 44,
+    "code_name": "ulianaChillSlashDebuff"
+  },
+  {
+    "id": 45,
+    "code_name": "quanhuyingPoMoQuanBuff"
+  },
+  {
+    "id": 46,
+    "code_name": "ulianaChillEasyDamageDebuff"
+  },
+  {
+    "id": 47,
+    "code_name": "ulianaSawBuff"
+  },
+  {
+    "id": 48,
+    "code_name": "jackBuff"
+  },
+  {
+    "id": 49,
+    "code_name": "halloweenSkeletonBuff"
+  },
+  {
+    "id": 50,
+    "code_name": "GangdanBlessingBuff"
+  },
+  {
+    "id": 51,
+    "code_name": "defaultShadowBuff"
+  },
+  {
+    "id": 52,
+    "code_name": "gunmenDebuff"
+  },
+  {
+    "id": 53,
+    "code_name": "magicBossDemonChainedDebuffGreen"
+  },
+  {
+    "id": 54,
+    "code_name": "magicBossDemonChainedDebuffRed"
+  },
+  {
+    "id": 55,
+    "code_name": "magicBossDemonChainedDebuffBlue"
+  },
+  {
+    "id": 56,
+    "code_name": "magicBossDemonFlameArmorBuff"
+  },
+  {
+    "id": 57,
+    "code_name": "MagicBossWitchFormHyperFreezeDebuff"
+  },
+  {
+    "id": 58,
+    "code_name": "AdiraSunMarkDebuff"
+  },
+  {
+    "id": 59,
+    "code_name": "AdiraAlwaysPowerAttackBuff"
+  },
+  {
+    "id": 60,
+    "code_name": "StoneEyeMoonArrayBuff"
+  },
+  {
+    "id": 61,
+    "code_name": "defaultStopDebuff"
+  },
+  {
+    "id": 62,
+    "code_name": "StrongWindBuff"
+  },
+  {
+    "id": 63,
+    "code_name": "ButterflyBossFlowerLavaBuff"
+  },
+  {
+    "id": 64,
+    "code_name": "breakGaroIceBuff"
+  },
+  {
+    "id": 65,
+    "code_name": "yangkyiDamageMark"
+  },
+  {
+    "id": 66,
+    "code_name": "hurtTogetherDebuff"
+  },
+  {
+    "id": 67,
+    "code_name": "AttackSpeedDown05Debuff"
+  },
+  {
+    "id": 68,
+    "code_name": "DamageReduceBuff"
+  },
+  {
+    "id": 69,
+    "code_name": "wufeiArrowDebuff"
+  },
+  {
+    "id": 70,
+    "code_name": "wufeiMark"
+  },
+  {
+    "id": 71,
+    "code_name": "chessElfBuff"
+  },
+  {
+    "id": 72,
+    "code_name": "anncieScytheModeMark"
+  },
+  {
+    "id": 73,
+    "code_name": "bufficon"
+  },
+  {
+    "id": 74,
+    "code_name": "hideFromAutoLock"
+  },
+  {
+    "id": 75,
+    "code_name": "sakuraSpeedDown"
+  },
+  {
+    "id": 76,
+    "code_name": "accumulateConfused"
+  },
+  {
+    "id": 77,
+    "code_name": "confusedDebuff"
+  },
+  {
+    "id": 78,
+    "code_name": "SakuraDamageAmplifyDebuff"
+  },
+  {
+    "id": 79,
+    "code_name": "DefaultChillDebuff"
+  },
+  {
+    "id": 80,
+    "code_name": "DefaultLightningDebuff"
+  },
+  {
+    "id": 81,
+    "code_name": "linxiaoComboGroundSpearBuff"
+  },
+  {
+    "id": 82,
+    "code_name": "feiyuStoneBlockBuff"
+  },
+  {
+    "id": 83,
+    "code_name": "feiyuWaterRegenShieldBuff"
+  },
+  {
+    "id": 84,
+    "code_name": "feiyuWoodThornArmorBuff"
+  },
+  {
+    "id": 85,
+    "code_name": "moveSpeedUpBuff"
+  },
+  {
+    "id": 86,
+    "code_name": "attackSpeedUpBuff"
+  },
+  {
+    "id": 87,
+    "code_name": "feiyuWaterComboAttackBuff"
+  },
+  {
+    "id": 88,
+    "code_name": "feiyuGroundComboAttackBuff"
+  },
+  {
+    "id": 89,
+    "code_name": "feiyuWoodComboAttackBuff"
+  },
+  {
+    "id": 90,
+    "code_name": "feiyuFireComboAttackBuff"
+  },
+  {
+    "id": 91,
+    "code_name": "feiyuIceComboAttackBuff"
+  },
+  {
+    "id": 92,
+    "code_name": "feiyuThunderComboAttackBuff"
+  },
+  {
+    "id": 93,
+    "code_name": "feiyuIceGroundDriftBuff"
+  },
+  {
+    "id": 94,
+    "code_name": "feiyuFireExplodeOnDeathBuff"
+  },
+  {
+    "id": 95,
+    "code_name": "feiyuTianJieThunderBuff"
+  },
+  {
+    "id": 96,
+    "code_name": "tyrantBuff"
+  },
+  {
+    "id": 97,
+    "code_name": "feiyuTianJieEnhanceBuff"
+  },
+  {
+    "id": 98,
+    "code_name": "holyShieldBuff"
+  },
+  {
+    "id": 99,
+    "code_name": "breakableRootDeBuff"
+  },
+  {
+    "id": 100,
+    "code_name": "DefaultEnrageBuff"
+  },
+  {
+    "id": 101,
+    "code_name": "DefaultBlessingBuff"
+  },
+  {
+    "id": 102,
+    "code_name": "AsuraYudaoDoubleSlow"
+  },
+  {
+    "id": 103,
+    "code_name": "RuptureBuff"
+  },
+  {
+    "id": 104,
+    "code_name": "AsuraYudaoLavaFloorDotDamageDebuff"
+  },
+  {
+    "id": 105,
+    "code_name": "AsuraXiuluodaoBattleGhostBuff"
+  },
+  {
+    "id": 106,
+    "code_name": "ErdeneEagleLockOnDebuff"
+  },
+  {
+    "id": 107,
+    "code_name": "ErdeneWindSlashDebuff"
+  },
+  {
+    "id": 108,
+    "code_name": "CoolDownReduceBuff"
+  }
+]

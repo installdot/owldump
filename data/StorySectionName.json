@@ -1,0 +1,70 @@
+[
+  {
+    "id": 0,
+    "code_name": "empty"
+  },
+  {
+    "id": 1,
+    "code_name": "weakEnemy"
+  },
+  {
+    "id": 2,
+    "code_name": "rageHeart"
+  },
+  {
+    "id": 3,
+    "code_name": "twistedSoul"
+  },
+  {
+    "id": 4,
+    "code_name": "theLastLight"
+  },
+  {
+    "id": 5,
+    "code_name": "lonelyPaladin"
+  },
+  {
+    "id": 6,
+    "code_name": "kongJu"
+  },
+  {
+    "id": 7,
+    "code_name": "guiZhiWu"
+  },
+  {
+    "id": 8,
+    "code_name": "wuXiangZhiRen"
+  },
+  {
+    "id": 9,
+    "code_name": "forest_1_1_riguang"
+  },
+  {
+    "id": 10,
+    "code_name": "forest_1_2_xiyang"
+  },
+  {
+    "id": 11,
+    "code_name": "forest_1_3_yueguang"
+  },
+  {
+    "id": 12,
+    "code_name": "forest_1_4_liming"
+  },
+  {
+    "id": 13,
+    "code_name": "catGod_1_1"
+  },
+  {
+    "id": 14,
+    "code_name": "catGod_1_2"
+  },
+  {
+    "id": 15,
+    "code_name": "catGod_1_3"
+  },
+  {
+    "id": 16,
+    "code_name": "catGod_1_4"
+  }
+]

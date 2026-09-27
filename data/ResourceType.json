@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "code_name": "Currency"
+  },
+  {
+    "id": 1,
+    "code_name": "Pet"
+  },
+  {
+    "id": 2,
+    "code_name": "HeroSkin"
+  },
+  {
+    "id": 3,
+    "code_name": "GiftPack"
+  },
+  {
+    "id": 4,
+    "code_name": "NpcSkin"
+  },
+  {
+    "id": 5,
+    "code_name": "Hero"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "BoxingChallenge"
+  },
+  {
+    "id": 2,
+    "code_name": "TrainingRoom"
+  },
+  {
+    "id": 3,
+    "code_name": "MenuReborn"
+  },
+  {
+    "id": 4,
+    "code_name": "NoviceReborn"
+  },
+  {
+    "id": 5,
+    "code_name": "XiuLuoDaoBattleGhostReborn"
+  },
+  {
+    "id": 6,
+    "code_name": "GreenMushroom"
+  },
+  {
+    "id": 7,
+    "code_name": "ChallengeFactorExtraRevive"
+  },
+  {
+    "id": 8,
+    "code_name": "TianRenReborn"
+  },
+  {
+    "id": 9,
+    "code_name": "RendaoGoldReborn"
+  },
+  {
+    "id": 10,
+    "code_name": "DefaultReviveOptions"
+  },
+  {
+    "id": 11,
+    "code_name": "NetworkFriendRevive"
+  },
+  {
+    "id": 12,
+    "code_name": "OpenPortRevive"
+  }
+]

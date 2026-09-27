@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "Wait"
+  },
+  {
+    "id": 2,
+    "code_name": "BiteLeft"
+  },
+  {
+    "id": 3,
+    "code_name": "BiteRight"
+  }
+]

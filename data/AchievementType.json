@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "code_name": "at_general"
+  },
+  {
+    "id": 1,
+    "code_name": "at_combat"
+  },
+  {
+    "id": 2,
+    "code_name": "at_explore"
+  },
+  {
+    "id": 3,
+    "code_name": "CountAndEmpty"
+  }
+]

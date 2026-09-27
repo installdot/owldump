@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "code_name": "Top"
+  },
+  {
+    "id": 0,
+    "code_name": "Empty"
+  },
+  {
+    "id": 2,
+    "code_name": "Bottom"
+  },
+  {
+    "id": 3,
+    "code_name": "FloorBottom"
+  },
+  {
+    "id": 4,
+    "code_name": "Left"
+  },
+  {
+    "id": 5,
+    "code_name": "Right"
+  },
+  {
+    "id": 6,
+    "code_name": "LeftBottom"
+  },
+  {
+    "id": 7,
+    "code_name": "RightBottom"
+  },
+  {
+    "id": 8,
+    "code_name": "CornerTopRight"
+  },
+  {
+    "id": 9,
+    "code_name": "CornerTopLeft"
+  },
+  {
+    "id": 10,
+    "code_name": "CornerBottomRight"
+  },
+  {
+    "id": 11,
+    "code_name": "CornerBottonLeft"
+  },
+  {
+    "id": 12,
+    "code_name": "AntiCornerTopRight"
+  },
+  {
+    "id": 13,
+    "code_name": "AntiCornerTopLeft"
+  },
+  {
+    "id": 14,
+    "code_name": "AntiCornerBottomRight"
+  },
+  {
+    "id": 15,
+    "code_name": "AntiCornerBottomLeft"
+  },
+  {
+    "id": 16,
+    "code_name": "EavesTop"
+  },
+  {
+    "id": 17,
+    "code_name": "EavesBottom"
+  },
+  {
+    "id": 18,
+    "code_name": "EavesLeft"
+  },
+  {
+    "id": 19,
+    "code_name": "EavesRight"
+  },
+  {
+    "id": 20,
+    "code_name": "EavesTopLeft"
+  },
+  {
+    "id": 21,
+    "code_name": "EavesTopRight"
+  },
+  {
+    "id": 22,
+    "code_name": "EavesBottomLeft"
+  },
+  {
+    "id": 23,
+    "code_name": "EavesBottomRight"
+  },
+  {
+    "id": 24,
+    "code_name": "AntiEavesTopLeft"
+  },
+  {
+    "id": 25,
+    "code_name": "AntiEavesTopRight"
+  },
+  {
+    "id": 26,
+    "code_name": "AntiEavesBottomLeft"
+  },
+  {
+    "id": 27,
+    "code_name": "AntiEavesBottomRight"
+  },
+  {
+    "id": 28,
+    "code_name": "EavesOnlyTopLeft"
+  },
+  {
+    "id": 29,
+    "code_name": "EavesOnlyTopRight"
+  },
+  {
+    "id": 30,
+    "code_name": "EavesOnlyBottomLeft"
+  },
+  {
+    "id": 31,
+    "code_name": "EavesOnlyBottomRight"
+  },
+  {
+    "id": 32,
+    "code_name": "AntiEavesOnlyTopLeft"
+  },
+  {
+    "id": 33,
+    "code_name": "AntiEavesOnlyTopRight"
+  },
+  {
+    "id": 34,
+    "code_name": "AntiEavesOnlyBottomLeft"
+  },
+  {
+    "id": 35,
+    "code_name": "AntiEavesOnlyBottomRight"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "code_name": "None"
+  },
+  {
+    "id": 1,
+    "code_name": "DropLevel1"
+  },
+  {
+    "id": 2,
+    "code_name": "DropLevel2"
+  },
+  {
+    "id": 3,
+    "code_name": "DropLevel3"
+  },
+  {
+    "id": 4,
+    "code_name": "DropLevel4"
+  },
+  {
+    "id": 5,
+    "code_name": "DropLevel5"
+  },
+  {
+    "id": 6,
+    "code_name": "DropLevel6"
+  },
+  {
+    "id": 7,
+    "code_name": "MergeLevel0"
+  },
+  {
+    "id": 8,
+    "code_name": "MergeLevel1"
+  },
+  {
+    "id": 9,
+    "code_name": "MergeLevel2"
+  },
+  {
+    "id": 10,
+    "code_name": "MergeLevel3"
+  }
+]

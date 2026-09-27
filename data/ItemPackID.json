@@ -1,0 +1,150 @@
+[
+  {
+    "id": 0,
+    "code_name": "completeCount"
+  },
+  {
+    "id": 1,
+    "code_name": "defultPack"
+  },
+  {
+    "id": 2,
+    "code_name": "story_eu"
+  },
+  {
+    "id": 3,
+    "code_name": "story_jpn"
+  },
+  {
+    "id": 4,
+    "code_name": "story_arab"
+  },
+  {
+    "id": 5,
+    "code_name": "story_cn"
+  },
+  {
+    "id": 6,
+    "code_name": "story_west"
+  },
+  {
+    "id": 7,
+    "code_name": "story_forest"
+  },
+  {
+    "id": 8,
+    "code_name": "story_ger"
+  },
+  {
+    "id": 9,
+    "code_name": "story_nordic"
+  },
+  {
+    "id": 22,
+    "code_name": "story_nw"
+  },
+  {
+    "id": 10,
+    "code_name": "defeatFinalAsura0"
+  },
+  {
+    "id": 11,
+    "code_name": "defeatFinalAsura1"
+  },
+  {
+    "id": 12,
+    "code_name": "defeatFinalAsura2"
+  },
+  {
+    "id": 13,
+    "code_name": "defeatFinalAsura3"
+  },
+  {
+    "id": 14,
+    "code_name": "complete10"
+  },
+  {
+    "id": 15,
+    "code_name": "complete20"
+  },
+  {
+    "id": 16,
+    "code_name": "complete30"
+  },
+  {
+    "id": 17,
+    "code_name": "complete40"
+  },
+  {
+    "id": 18,
+    "code_name": "complete50"
+  },
+  {
+    "id": 19,
+    "code_name": "complete60"
+  },
+  {
+    "id": 20,
+    "code_name": "complete70"
+  },
+  {
+    "id": 21,
+    "code_name": "complete80"
+  },
+  {
+    "id": 23,
+    "code_name": "complete90"
+  },
+  {
+    "id": 24,
+    "code_name": "complete_awardBan_1"
+  },
+  {
+    "id": 25,
+    "code_name": "complete_awardBan_2"
+  },
+  {
+    "id": 26,
+    "code_name": "complete_awardBan_3"
+  },
+  {
+    "id": 27,
+    "code_name": "complete_awardBan_4"
+  },
+  {
+    "id": 28,
+    "code_name": "complete50_half"
+  },
+  {
+    "id": 29,
+    "code_name": "story_catGod"
+  },
+  {
+    "id": 30,
+    "code_name": "complete100"
+  },
+  {
+    "id": 31,
+    "code_name": "complete145"
+  },
+  {
+    "id": 32,
+    "code_name": "complete146"
+  },
+  {
+    "id": 33,
+    "code_name": "complete147"
+  },
+  {
+    "id": 34,
+    "code_name": "complete148"
+  },
+  {
+    "id": 35,
+    "code_name": "complete149"
+  },
+  {
+    "id": 36,
+    "code_name": "complete150"
+  }
+]

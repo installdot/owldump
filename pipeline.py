@@ -127,7 +127,7 @@ def setup_il2cpp_dumper(tools_dir):
             cfg = json.load(f)
         cfg["RequireAnyKey"] = False
         cfg["GenerateDummyDll"] = False
-        cfg["GenerateStruct"] = False
+        cfg["GenerateStruct"] = True
         with open(cfg_path, "w", encoding="utf-8") as f:
             json.dump(cfg, f, indent=2)
             
